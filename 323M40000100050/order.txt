@@ -27,6 +27,7 @@ art-001-10-2-2.md
 art-001-10-3.md
 art-001-10-4.md
 art-001-10-5.md
+art-001-10-6.md
 art-001-11.md
 art-001-12.md
 art-001-13.md
