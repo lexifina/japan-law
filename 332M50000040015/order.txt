@@ -135,6 +135,7 @@ art-018-15-10.md
 art-018-15-11.md
 art-018-16.md
 art-018-17.md
+art-018-17-2.md
 art-018-18.md
 art-018-19.md
 art-018-19-2.md
@@ -838,8 +839,8 @@ appdx/style-25.md
 appdx/style-26.md
 appdx/style-27.md
 appdx/style-28.md
-appdx/table-10.md
 appdx/style-29.md
+appdx/table-10.md
 appdx/style-30.md
 appdx/style-31.md
 appdx/style-32.md
@@ -854,3 +855,4 @@ appdx/style-40.md
 appdx/style-41.md
 appdx/style-42.md
 appdx/style-43.md
+appdx/style-44.md
