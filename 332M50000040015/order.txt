@@ -360,7 +360,6 @@ art-036-2.md
 art-037.md
 art-037-2.md
 art-037-3.md
-art-037-3-2.md
 art-037-4.md
 art-037-4-2.md
 art-037-4-3.md
