@@ -42,6 +42,7 @@ art-001-13-10.md
 art-001-14.md
 art-002.md
 art-002-2.md
+art-002-3.md
 art-003.md
 art-003-2.md
 art-003-3.md
@@ -209,10 +210,11 @@ art-030-25.md
 art-030-26.md
 art-030-27.md
 art-030-27-2.md
+art-030-27-3.md
+art-030-27-4.md
+art-030-27-5.md
 art-030-28.md
-art-030-28-2.md
-art-030-28-3.md
-art-030-28-4.md
+art-030-28-2-to-030-28-4.md
 art-030-28-5.md
 art-030-28-6.md
 art-030-28-7.md
@@ -240,6 +242,7 @@ art-030-33-6.md
 art-030-33-7.md
 art-030-33-8.md
 art-030-33-8-2.md
+art-030-33-8-3.md
 art-030-33-9.md
 art-030-33-10.md
 art-030-33-11.md
