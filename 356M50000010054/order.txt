@@ -358,9 +358,11 @@ suppl/r7-0415-m30.md
 suppl/r7-0529-m34.md
 suppl/r7-0529-m36.md
 suppl/r7-0905-m42.md
+suppl/r7-0908-m43.md
 suppl/r7-0930-m45.md
 suppl/r7-0930-m47.md
 suppl/r7-1010-m51.md
+suppl/r7-1016-m52.md
 suppl/r8-0317-m11.md
 suppl/r8-0323-m13.md
 suppl/r8-0327-m20.md
