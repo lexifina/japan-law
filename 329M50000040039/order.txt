@@ -222,6 +222,7 @@ suppl/r3-0331-m36.md
 suppl/r4-0331-m21.md
 suppl/r5-0331-m17.md
 suppl/r5-0619-m43.md
+suppl/r8-0331-m20.md
 suppl/r8-0910-m59.md
 appdx/format-1.md
 appdx/format-2.md
