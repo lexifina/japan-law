@@ -1096,6 +1096,7 @@ suppl/r7-35.md
 suppl/r7-37.md
 suppl/r7-46.md
 suppl/r7-47.md
+suppl/r7-87.md
 suppl/r7-89.md
 suppl/r8-3.md
 suppl/r8-8.md
