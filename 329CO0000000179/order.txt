@@ -833,6 +833,7 @@ suppl/r7-0627-co236.md
 suppl/r7-0718-co258.md
 suppl/r7-0808-co288.md
 suppl/r7-0814-co298.md
+suppl/r7-1001-co341.md
 suppl/r7-1003-co344.md
 suppl/r7-1008-co349.md
 suppl/r7-1203-co400.md
