@@ -81,6 +81,7 @@ art-025-11.md
 art-025-12.md
 art-025-13.md
 art-025-14.md
+art-025-15.md
 art-026.md
 art-027.md
 art-028.md
