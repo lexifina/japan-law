@@ -327,6 +327,7 @@ suppl/r7-0331-m4.md
 suppl/r7-0331-m5.md
 suppl/r7-1128-m12.md
 suppl/r7-1128-m13.md
+suppl/r8-0331-m2.md
 suppl/r8-0331-m3.md
 suppl/r8-0519-m4.md
 suppl/r8-0520-m6.md
