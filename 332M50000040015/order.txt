@@ -160,6 +160,7 @@ art-018-26.md
 art-019.md
 art-019-2.md
 art-019-3.md
+art-019-3-2.md
 art-019-4.md
 art-019-5.md
 art-019-6.md
