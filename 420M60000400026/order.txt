@@ -16,10 +16,6 @@ art-012.md
 art-013.md
 suppl/original.md
 suppl/h22-1101-m55.md
-suppl/r1-0701-m17.md
-suppl/r2-1228-m92.md
-suppl/r3-0727-m62.md
-suppl/r7-0131-m6.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
