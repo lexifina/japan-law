@@ -26,7 +26,6 @@ suppl/h19-0328-m20.md
 suppl/h20-0930-m80.md
 suppl/h21-0401-m30.md
 suppl/h27-0428-m38.md
-suppl/h31-0329-m15.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/tablex-1.md
