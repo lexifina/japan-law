@@ -138,12 +138,6 @@ suppl/h20-1128-m96.md
 suppl/h27-0331-m19.md
 suppl/h28-0331-m24.md
 suppl/h28-0331-m25.md
-suppl/r1-0628-m20.md
-suppl/r1-1216-m47.md
-suppl/r2-1223-m98.md
-suppl/r6-0329-m26.md
-suppl/r6-0430-m56.md
-suppl/r7-0602-m62.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
@@ -156,3 +150,4 @@ appdx/format-4.md
 appdx/format-5.md
 appdx/format-6.md
 appdx/format-7.md
+appdx/format-8.md
