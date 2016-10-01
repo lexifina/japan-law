@@ -1,6 +1,6 @@
-# 別表第一　外来生物の種（第一条関係）
+# 別表第一（第一条関係）
 
-| 項 | 種名 |
+| 項 | 種　　　　　　　　　名 |
 
 | 第一　動物界 |
 
@@ -10,79 +10,79 @@
 
 | （１）　クスクス科 |
 
-| １ | Trichosurus vulpecula（フクロギツネ） |
+| 1 | Trichosurus vulpecula（フクロギツネ） |
 
 | ロ　食虫目 |
 
 | （１）　はりねずみ科 |
 
-| １ | Erinaceus属（ハリネズミ属）全種 |
+| 1 | Erinaceus属（ハリネズミ属）全種 |
 
 | ハ　霊長目 |
 
 | （１）　おながざる科 |
 
-| １ | Macaca cyclopis（タイワンザル） |
+| 1 | Macaca cyclopis（タイワンザル） |
 
-| ２ | Macaca fascicularis（カニクイザル） |
+| 2 | Macaca fascicularis（カニクイザル） |
 
-| ３ | Macaca mulatta（アカゲザル） |
+| 3 | Macaca mulatta（アカゲザル） |
 
 | ニ　齧歯目 |
 
 | （１）　ヌートリア科 |
 
-| １ | Myocastor coypus（ヌートリア） |
+| 1 | Myocastor coypus（ヌートリア） |
 
 | （２）　りす科 |
 
-| １ | Callosciurus erythraeus（クリハラリス） |
+| 1 | Callosciurus erythraeus（クリハラリス） |
 
-| ２ | Callosciurus finlaysonii（フィンレイソンリス） |
+| 2 | Callosciurus finlaysonii（フィンレイソンリス） |
 
-| ３ | Pteromys volans（タイリクモモンガ）のうちPteromys volans orii（エゾモモンガ）以外のもの |
+| 3 | Pteromys volans（タイリクモモンガ）のうち　Pteromys vola nsorii（エゾモモンガ）以外のもの |
 
-| ４ | Sciurus carolinensis（トウブハイイロリス） |
+| 4 | Sciurus carolinensis（トウブハイイロリス） |
 
-| ５ | Sciurus vulgaris（キタリス）のうちSciurus vulgaris orientis（エゾリス）以外のもの |
+| 5 | Sciurus vulgaris（キタリス）のうち　Sciurus vulgaris orientis（エゾリス）以外のもの |
 
 | （３）　ねずみ科 |
 
-| １ | Ondatra zibethicus（マスクラット） |
+| 1 | Ondatra zibethicus（マスクラット） |
 
 | ホ　食肉目 |
 
 | （１）　あらいぐま科 |
 
-| １ | Procyon cancrivorus（カニクイアライグマ） |
+| 1 | Procyon cancrivorus（カニクイアライグマ） |
 
-| ２ | Procyon lotor（アライグマ） |
+| 2 | Procyon lotor（アライグマ） |
 
 | （２）　いたち科 |
 
-| １ | Mustela vison（アメリカミンク） |
+| 1 | Mustela vison（アメリカミンク） |
 
 | （３）　マングース科 |
 
-| １ | Herpestes auropunctatus（フイリマングース） |
+| 1 | Herpestes auropunctatus（フイリマングース） |
 
-| ２ | Herpestes javanicus（ジャワマングース） |
+| 2 | Herpestes javanicus（ジャワマングース） |
 
-| ３ | Mungos mungo（シママングース） |
+| 3 | Mungos mungo（シママングース） |
 
 | ヘ　偶蹄目 |
 
 | （１）　しか科 |
 
-| １ | Axis属（アキシスジカ属）全種 |
+| 1 | Axis属（アキシスジカ属）全種 |
 
-| ２ | Cervus属（シカ属）に属する種のうちCervus nippon centralis（ホンシュウジカ）、Cervus nippon keramae（ケラマジカ）、Cervus nippon mageshimae（マゲシカ）、Cervus nippon nippon（キュウシュウジカ）、Cervus nippon pulchellus（ツシマジカ）、Cervus nippon yakushimae（ヤクシカ）及びCervus nippon yesoensis（エゾシカ）以外のもの |
+| 2 | Cervus属（シカ属）に属する種のうち　Cervus nippon centralis（ホンシュウジカ）、Cervus nippon keramae（ケラマジカ）、Cervus nippon mageshimae（マゲシカ）、Cervus nippon Nippon（キュウシュウジカ）、Cervus nippon pulchellus（ツシマジカ）、Cervus nippon yakushimae（ヤクシカ）及び　Cervus nippon yesoensis（エゾシカ）以外のもの |
 
-| ３ | Dama属（ダマシカ属）全種 |
+| 3 | Dama属（ダマシカ属）全種 |
 
-| ４ | Elaphurus davidianus（シフゾウ） |
+| 4 | Elaphurus davidianus（シフゾウ） |
 
-| ５ | Muntiacus reevesi（キョン） |
+| 5 | Muntiacus reevesi（キョン） |
 
 | 二　鳥綱 |
 
@@ -90,25 +90,19 @@
 
 | （１）　かも科 |
 
-| １ | Branta canadensis（カナダガン） |
+| 1 | Branta canadensis（カナダガン） |
 
 | ロ　すずめ目 |
 
-| （１）　ひよどり科 |
+| （１）　ちめどり科 |
 
-| １ | Pycnonotus cafer（シリアカヒヨドリ） |
+| 1 | Garrulax canorus（ガビチョウ） |
 
-| （２）　ちめどり科 |
+| 2 | Garrulax perspicillatus（カオグロガビチョウ） |
 
-| １ | Garrulax canorus（ガビチョウ） |
+| 3 | Garrulax sannio（カオジロガビチョウ） |
 
-| ２ | Garrulax cineraceus（ヒゲガビチョウ） |
-
-| ３ | Garrulax perspicillatus（カオグロガビチョウ） |
-
-| ４ | Garrulax sannio（カオジロガビチョウ） |
-
-| ５ | Leiothrix lutea（ソウシチョウ） |
+| 4 | Leiothrix lutea（ソウシチョウ） |
 
 | 三　爬虫綱 |
 
@@ -116,59 +110,55 @@
 
 | （１）　かみつきがめ科 |
 
-| １ | Chelydra serpentina（カミツキガメ） |
+| 1 | Chelydra serpentina（カミツキガメ） |
 
-| （２）　ぬまがめ科 |
+| （２）　いしがめ科 |
 
-| １ | Trachemys scripta（アカミミガメ） |
-
-| （３）　いしがめ科 |
-
-| １ | Mauremys sinensis（ハナガメ） |
+| 1 | Mauremys sinensis（ハナガメ） |
 
 | ロ　とかげ亜目 |
 
 | （１）　アガマ科 |
 
-| １ | Japalura swinhonis（スウィンホーキノボリトカゲ） |
+| 1 | Japalura swinhonis（スウィンホーキノボリトカゲ） |
 
-| （２）　イグアナ科 |
+| （２）　たてがみとかげ科 |
 
-| １ | Anolis allogus（アノリス・アルログス） |
+| 1 | Anolis allogus（アノリス・アルログス） |
 
-| ２ | Anolis alutaceus（アノリス・アルタケウス） |
+| 2 | Anolis alutaceus（アノリス・アルタケウス） |
 
-| ３ | Anolis angusticeps（アノリス・アングスティケプス） |
+| 3 | Anolis angusticeps（アノリス・アングスティケプス） |
 
-| ４ | Anolis carolinensis（グリーンアノール） |
+| 4 | Anolis carolinensis（グリーンアノール） |
 
-| ５ | Anolis equestris（ナイトアノール） |
+| 5 | Anolis equestris（ナイトアノール） |
 
-| ６ | Anolis garmani（ガーマンアノール） |
+| 6 | Anolis garmani（ガーマンアノール） |
 
-| ７ | Anolis homolechis（アノリス・ホモレキス） |
+| 7 | Anolis homolechis（アノリス・ホモレキス） |
 
-| ８ | Anolis sagrei（ブラウンアノール） |
+| 8 | Anolis sagrei（ブラウンアノール） |
 
 | ハ　へび亜目 |
 
 | （１）　なみへび科 |
 
-| １ | Boiga cyanea（ミドリオオガシラ） |
+| 1 | Boiga cyanea（ミドリオオガシラ） |
 
-| ２ | Boiga cynodon（イヌバオオガシラ） |
+| 2 | Boiga cynodon（イヌバオオガシラ） |
 
-| ３ | Boiga dendrophila（マングローブヘビ） |
+| 3 | Boiga dendrophila（マングローブヘビ） |
 
-| ４ | Boiga irregularis（ミナミオオガシラ） |
+| 4 | Boiga irregularis（ミナミオオガシラ） |
 
-| ５ | Boiga nigriceps（ボウシオオガシラ） |
+| 5 | Boiga nigriceps（ボウシオオガシラ） |
 
-| ６ | Elaphe taeniura friesi（タイワンスジオ） |
+| 6 | Elaphe taeniura friesi（タイワンスジオ） |
 
 | （２）　くさりへび科 |
 
-| １ | Protobothrops mucrosquamatus（タイワンハブ） |
+| 1 | Protobothrops mucrosquamatus（タイワンハブ） |
 
 | 四　両生綱 |
 
@@ -176,251 +166,183 @@
 
 | （１）　ひきがえる科 |
 
-| １ | Bufo cognatus（プレーンズヒキガエル） |
+| 1 | Bufo cognatus（プレーンズヒキガエル） |
 
-| ２ | Bufo guttatus（キンイロヒキガエル） |
+| 2 | Bufo guttatus（キンイロヒキガエル） |
 
-| ３ | Bufo marinus（オオヒキガエル） |
+| 3 | Bufo marinus（オオヒキガエル） |
 
-| ４ | Bufo melanostictus（ヘリグロヒキガエル） |
+| 4 | Bufo melanostictus（ヘリグロヒキガエル） |
 
-| ５ | Bufo punctatus（アカボシヒキガエル） |
+| 5 | Bufo punctatus（アカボシヒキガエル） |
 
-| ６ | Bufo quercicus（オークヒキガエル） |
+| 6 | Bufo quercicus（オークヒキガエル） |
 
-| ７ | Bufo regularis（アフリカヒキガエル） |
+| 7 | Bufo speciosus（テキサスヒキガエル） |
 
-| ８ | Bufo speciosus（テキサスヒキガエル） |
-
-| ９ | Bufo typhonius（コノハヒキガエル） |
+| 8 | Bufo typhonius（コノハヒキガエル） |
 
 | （２）　あまがえる科 |
 
-| １ | Osteopilus septentrionalis（キューバズツキガエル） |
+| 1 | Osteopilus septentrionalis（キューバズツキガエル） |
 
 | （３）　ゆびなががえる科 |
 
-| １ | Eleutherodactylus coqui（コキーコヤスガエル） |
+| 1 | Eleutherodactylus coqui（コキーコヤスガエル） |
 
-| ２ | Eleutherodactylus johnstonei（ジョンストンコヤスガエル） |
+| 2 | Eleutherodactylus johnstonei（ジョンストンコヤスガエル） |
 
-| ３ | Eleutherodactylus planirostris（オンシツガエル） |
+| 3 | Eleutherodactylus planirostris（オンシツガエル） |
 
 | （４）　じむぐりがえる科 |
 
-| １ | Kaloula pulchra（アジアジムグリガエル） |
+| 1 | Kaloula pulchra（アジアジムグリガエル） |
 
 | （５）　あかがえる科 |
 
-| １ | Rana catesbeiana（ウシガエル） |
+| 1 | Rana catesbeiana（ウシガエル） |
 
 | （６）　あおがえる科 |
 
-| １ | Polypedates leucomystax（シロアゴガエル） |
-
-| ロ　有尾目 |
-
-| （１）　おおさんしょううお科 |
-
-| １ | Andrias属（オオサンショウウオ属）に属する種のうちAndrias japonicus（オオサンショウウオ）以外のもの |
+| 1 | Polypedates leucomystax（シロアゴガエル） |
 
 | 五　条鰭亜綱 |
 
-| イ　ガー目 |
-
-| （１）　ガー科 |
-
-| １ | ガー科全種 |
-
-| ロ　こい目 |
+| イ　こい目 |
 
 | （１）　こい科 |
 
-| １ | Acheilognathus macropterus（オオタナゴ） |
+| 1 | Acheilognathus macropterus（オオタナゴ） |
 
-| ハ　なまず目 |
+| ロ　なまず目 |
 
 | （１）　ぎぎ科 |
 
-| １ | Tachysurus fulvidraco（コウライギギ） |
+| 1 | Tachysurus fulvidraco（コウライギギ） |
 
-| （２）　アメリカなまず科 |
+| （２）　イクタルルス科 |
 
-| １ | Ameiurus nebulosus（ブラウンブルヘッド） |
+| 1 | Ameiurus nebulosus（ブラウンブルヘッド） |
 
-| ２ | Ictalurus punctatus（チャネルキャットフィッシュ） |
+| 2 | Ictalurus punctatus（チャネルキャットフィッシュ） |
 
-| ３ | Pylodictis olivaris（フラットヘッドキャットフィッシュ） |
+| 3 | Pylodictis olivaris（フラットヘッドキャットフィッシュ） |
 
 | （３）　なまず科 |
 
-| １ | Silurus glanis（ヨーロッパナマズ） |
+| 1 | Silurus glanis（ヨーロッパナマズ） |
 
-| ニ　かわかます目 |
+| ハ　かわかます目 |
 
 | （１）　かわかます科 |
 
-| １ | かわかます科全種 |
+| 1 | かわかます科全種 |
 
-| ホ　かだやし目 |
+|  |
+
+| ニ　かだやし目 |
 
 | （１）　かだやし科 |
 
-| １ | Gambusia affinis（カダヤシ） |
+| 1 | Gambusia affinis（カダヤシ） |
 
-| ２ | Gambusia holbrooki（ガンブスィア・ホルブロオキ） |
+| 2 | Gambusia holbrooki（ガンブスィア・ホルブロオキ） |
 
-| ヘ　すずき目 |
+| ホ　すずき目 |
 
 | （１）　サンフィッシュ科 |
 
-| １ | Lepomis属（ブルーギル属）全種 |
+| 1 | Lepomis macrochirus（ブルーギル） |
 
-| ２ | Micropterus dolomieu（コクチバス） |
+| 2 | Micropterus dolomieu（コクチバス） |
 
-| ３ | Micropterus salmoides（オオクチバス） |
+| 3 | Micropterus salmoides（オオクチバス） |
 
 | （２）　はぜ科 |
 
-| １ | Neogobius melanostomus（ラウンドゴビー） |
+| 1 | Neogobius melanostomus（ラウンドゴビー） |
 
 | （３）　あかめ科 |
 
-| １ | Lates niloticus（ナイルパーチ） |
+| 1 | Lates niloticus（ナイルパーチ） |
 
 | （４）　モロネ科 |
 
-| １ | Morone americana（ホワイトパーチ） |
+| 1 | Morone americana（ホワイトパーチ） |
 
-| ２ | Morone chrysops（ホワイトバス） |
+| 2 | Morone chrysops（ホワイトバス） |
 
-| ３ | Morone saxatilis（ストライプトバス） |
+| 3 | Morone saxatilis（ストライプトバス） |
 
-| （５）　ペルキクティス科 |
+| （５）　パーチ科 |
 
-| １ | Maccullochella peelii（マーレーコッド） |
+| 1 | Gymnocephalus cernua（ラッフ） |
 
-| ２ | Macquaria ambigua（ゴールデンパーチ） |
+| 2 | Perca fluviatilis（ヨーロピアンパーチ） |
 
-| （６）　パーチ科 |
+| 3 | Sander lucioperca（パイクパーチ） |
 
-| １ | Gymnocephalus cernua（ラッフ） |
+| （６）　けつぎょ科 |
 
-| ２ | Perca fluviatilis（ヨーロピアンパーチ） |
+| 1 | Siniperca chuatsi（ケツギョ） |
 
-| ３ | Sander lucioperca（パイクパーチ） |
-
-| （７）　けつぎょ科 |
-
-| １ | Coreoperca属（オヤニラミ属）に属する種のうちCoreoperca kawamebari（オヤニラミ）以外のもの |
-
-| ２ | Siniperca chuatsi（ケツギョ） |
-
-| ３ | Siniperca scherzeri（コウライケツギョ） |
+| 2 | Siniperca scherzeri（コウライケツギョ） |
 
 | 六　昆虫綱 |
 
-| イ　ちょう目 |
+| イ　甲虫目 |
 
-| （１）　たてはちょう科 |
+| （１）　こがねむし科 |
 
-| １ | Hestina assimilis（アカボシゴマダラ）のうちHestina assimilis shirakii（アカボシゴマダラ奄美亜種）以外のもの |
+| 1 | Cheirotonus属（テナガコガネ属）に属する種のうち　Cheirotonus |
 
-| ロ　甲虫目 |
+|  | jambar（ヤンバルテナガコガネ）以外のもの |
 
-| （１）　かみきりむし科 |
+| 2 | Euchirus属（クモテナガコガネ属）全種 |
 
-| １ | Anoplophora glabripennis（ツヤハダゴマダラカミキリ） |
+| 3 | Propomacrus属（ヒメテナガコガネ属）全種 |
 
-| ２ | Apriona swainsoni（サビイロクワカミキリ） |
-
-| ３ | Aromia bungii（クビアカツヤカミキリ） |
-
-| （２）　くわがたむし科 |
-
-| １ | Neolucanus angulatus（アングラートゥスマルバネクワガタ） |
-
-| ２ | Neolucanus baladeva（バラデバマルバネクワガタ） |
-
-| ３ | Neolucanus giganteus（ギガンテウスマルバネクワガタ） |
-
-| ４ | Neolucanus katsuraorum（カツラマルバネクワガタ） |
-
-| ５ | Neolucanus maedai（マエダマルバネクワガタ） |
-
-| ６ | Neolucanus maximus（マキシムスマルバネクワガタ） |
-
-| ７ | Neolucanus perarmatus（ペラルマトゥスマルバネクワガタ） |
-
-| ８ | Neolucanus saundersii（サンダースマルバネクワガタ） |
-
-| ９ | Neolucanus tanakai（タナカマルバネクワガタ） |
-
-| １０ | Neolucanus waterhousei（ウォーターハウスマルバネクワガタ） |
-
-| （３）　こがねむし科 |
-
-| １ | Cheirotonus属（テナガコガネ属）に属する種のうちCheirotonus jambar（ヤンバルテナガコガネ）以外のもの |
-
-| ２ | Euchirus属（クモテナガコガネ属）全種 |
-
-| ３ | Propomacrus属（ヒメテナガコガネ属）全種 |
-
-| ハ　はち目 |
+| ロ　はち目 |
 
 | （１）　みつばち科 |
 
-| １ | Bombus terrestris（セイヨウオオマルハナバチ） |
+| 1 | Bombus terrestris（セイヨウオオマルハナバチ） |
 
 | （２）　あり科 |
 
-| １ | Lepisiota frauenfeldi（ハヤトゲフシアリ） |
+| 1 | Linepithema humile（アルゼンチンアリ） |
 
-| ２ | Linepithema humile（アルゼンチンアリ） |
+| 2 | Solenopsis geminata（アカカミアリ） |
 
-| ３ | Solenopsis geminata種群（ソレノプスィス・ゲミナタ種群）全種 |
+| 3 | Solenopsis invicta（ヒアリ） |
 
-| ４ | Solenopsis saevissima種群（ソレノプスィス・サエヴィスィマ種群）全種 |
-
-| ５ | Solenopsis tridens種群（ソレノプスィス・トゥリデンス種群）全種 |
-
-| ６ | Solenopsis virulens種群（ソレノプスィス・ヴィルレンス種群）全種 |
-
-| ７ | Wasmannia auropunctata（コカミアリ） |
+| 4 | Wasmannia auropunctata（コカミアリ） |
 
 | （３）　すずめばち科 |
 
-| １ | Vespa velutina（ツマアカスズメバチ） |
+| 1 | Vespa velutina（ツマアカスズメバチ） |
 
 | 七　甲殻綱 |
 
-| イ　よこえび目 |
-
-| （１）　よこえび科 |
-
-| １ | Dikerogammarus villosus（ディケロガンマルス・ヴィルロスス） |
-
-| ロ　えび目 |
+| イ　えび目 |
 
 | （１）　ざりがに科 |
 
-| １ | ざりがに科全種 |
+| 1 | Astacus属（アスタクス属）全種 |
+
+| 2 | Pacifastacus leniusculus（ウチダザリガニ） |
 
 | （２）　アメリカざりがに科 |
 
-| １ | アメリカざりがに科全種 |
+| 1 | Orconectes rusticus（ラスティークレイフィッシュ） |
 
-| （３）　アジアざりがに科 |
+| （３）　みなみざりがに科 |
 
-| １ | アジアざりがに科に属する種のうちCambaroides japonicus（ニホンザリガニ）以外のもの |
+| 1 | Cherax属（ケラクス属）全種 |
 
-| （４）　みなみざりがに科 |
+| （４）　もくずがに科 |
 
-| １ | みなみざりがに科全種 |
-
-| （５）　もくずがに科 |
-
-| １ | Eriocheir属（モクズガニ属）に属する種のうちEriocheir japonica（モクズガニ）及びEriocheir ogasawaraensis（オガサワラモクズガニ）以外のもの |
+| 1 | Eriocheir属（モクズガニ属）に属する種のうち　Eriocheir japonica（モクズガニ）以外のもの |
 
 | 八　くも綱 |
 
@@ -428,27 +350,27 @@
 
 | （１）　きょくとうさそり科 |
 
-| １ | きょくとうさそり科全種 |
+| 1 | きょくとうさそり科全種 |
 
 | ロ　くも目 |
 
 | （１）　じょうごぐも科 |
 
-| １ | Atrax属（アトラクス属）全種 |
+| 1 | Atrax属（アトラクス属）全種 |
 
-| ２ | Hadronyche属（ハドロニュケ属）全種 |
+| 2 | Hadronyche属（ハドロニュケ属）全種 |
 
 | （２）　いとぐも科 |
 
-| １ | Loxosceles gaucho（ロクソスケレス・ガウコ） |
+| 1 | Loxosceles gaucho（ロクソスケレス・ガウコ） |
 
-| ２ | Loxosceles laeta（ロクソスケレス・ラエタ） |
+| 2 | Loxosceles laeta（ロクソスケレス・ラエタ） |
 
-| ３ | Loxosceles reclusa（ロクソスケレス・レクルサ） |
+| 3 | Loxosceles reclusa（ロクソスケレス・レクルサ） |
 
 | （３）　ひめぐも科 |
 
-| １ | Latrodectus属（ゴケグモ属）に属する種のうちLatrodectus elegans（アカオビゴケグモ）以外のもの |
+| 1 | Latrodectus属（ゴケグモ属）に属する種のうち　Latrodectus elegans（アカオビゴケグモ）以外のもの |
 
 | 九　二枚貝綱 |
 
@@ -456,15 +378,15 @@
 
 | （１）　いがい科 |
 
-| １ | Limnoperna属（カワヒバリガイ属）全種 |
+| 1 | Limnoperna属（カワヒバリガイ属）全種 |
 
 | ロ　まるすだれがい目 |
 
 | （１）　かわほととぎすがい科 |
 
-| １ | Dreissena bugensis（クワッガガイ） |
+| 1 | Dreissena bugensis（クワッガガイ） |
 
-| ２ | Dreissena polymorpha（カワホトトギスガイ） |
+| 2 | Dreissena polymorpha（カワホトトギスガイ） |
 
 | 十　腹足綱 |
 
@@ -472,7 +394,7 @@
 
 | （１）　スピラクスィダエ科 |
 
-| １ | Euglandina rosea（ヤマヒタチオビ） |
+| 1 | Euglandina rosea（ヤマヒタチオビ） |
 
 | 十一　渦虫綱 |
 
@@ -480,70 +402,62 @@
 
 | （１）　やりがたりくうずむし科 |
 
-| １ | Platydemus manokwari（ニューギニアヤリガタリクウズムシ） |
+| 1 | Platydemus manokwari（ニューギニアヤリガタリクウズムシ） |
 
 | 第二　植物界 |
 
 | （１）　ひゆ科 |
 
-| １ | Alternanthera philoxeroides（ナガエツルノゲイトウ） |
+| 1 | Alternanthera philoxeroides（ナガエツルノゲイトウ） |
 
 | （２）　せり科 |
 
-| １ | Hydrocotyle ranunculoides（ブラジルチドメグサ） |
+| 1 | Hydrocotyle ranunculoides（ブラジルチドメグサ） |
 
 | （３）　さといも科 |
 
-| １ | Pistia stratiotes（ボタンウキクサ） |
+| 1 | Pistia stratiotes（ボタンウキクサ） |
 
 | （４）　あかうきくさ科 |
 
-| １ | Azolla cristata（アゾルラ・クリスタタ） |
+| 1 | Azolla cristata（アゾルラ・クリスタタ） |
 
 | （５）　きく科 |
 
-| １ | Coreopsis lanceolata（オオキンケイギク） |
+| 1 | Coreopsis lanceolata（オオキンケイギク） |
 
-| ２ | Gymnocoronis spilanthoides（ミズヒマワリ） |
+| 2 | Gymnocoronis spilanthoides（ミズヒマワリ） |
 
-| ３ | Mikania micrantha（ツルヒヨドリ） |
+| 3 | Mikania micrantha（ツルヒヨドリ） |
 
-| ４ | Rudbeckia laciniata（オオハンゴンソウ） |
+| 4 | Rudbeckia laciniata（オオハンゴンソウ） |
 
-| ５ | Senecio madagascariensis（ナルトサワギク） |
+| 5 | Senecio madagascariensis（ナルトサワギク） |
 
 | （６）　うり科 |
 
-| １ | Sicyos angulatus（アレチウリ） |
+| 1 | Sicyos angulatus（アレチウリ） |
 
 | （７）　もうせんごけ科 |
 
-| １ | Drosera intermedia（ナガエモウセンゴケ） |
+| 1 | Drosera intermedia（ナガエモウセンゴケ） |
 
 | （８）　ありのとうぐさ科 |
 
-| １ | Myriophyllum aquaticum（オオフサモ） |
+| 1 | Myriophyllum aquaticum（オオフサモ） |
 
-| （９）　たぬきも科 |
+| （９）　あかばな科 |
 
-| １ | Utricularia cf. platensis（エフクレタヌキモ） |
+| 1 | Ludwigia grandiflora（ルドウィギア・グランディフロラ） |
 
-| ２ | Utricularia inflata（ウトゥリクラリア・インフラタ） |
+| （10）　いね科 |
 
-| ３ | Utricularia platensis（ウトゥリクラリア・プラテンスィス） |
+| 1 | Ammophila arenaria（ビーチグラス） |
 
-| （１０）　あかばな科 |
+| 2 | Spartina属（スパルティナ属）全種 |
 
-| １ | Ludwigia grandiflora（ルドウィギア・グランディフロラ） |
+| （11）　ごまのはぐさ科 |
 
-| （１１）　いね科 |
-
-| １ | Ammophila arenaria（ビーチグラス） |
-
-| ２ | Spartina属（スパルティナ属）全種 |
-
-| （１２）　ごまのはぐさ科 |
-
-| １ | Veronica anagallis-aquatica（オオカワヂシャ） |
+| 1 | Veronica anagallis-aquatica（オオカワヂシャ） |
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名その他の名称である。 |

@@ -1,6 +1,6 @@
-# 別表第二　交雑することにより生じた生物（第一条関係）
+# 別表第二（第一条関係）
 
-| 項 | 種名 |
+| 項 | 種　　　　　　　　　名 |
 
 | 第一　動物界 |
 
@@ -10,9 +10,9 @@
 
 | （１）　おながざる科 |
 
-| １ | Macaca cyclopis（タイワンザル） | Macaca fuscata（ニホンザル） |
+| 1 | Macaca cyclopis（タイワンザル） | Macaca fuscata（ニホンザル） |
 
-| ２ | Macaca mulatta（アカゲザル） | Macaca fuscata（ニホンザル） |
+| 2 | Macaca mulatta（アカゲザル） | Macaca fuscata（ニホンザル） |
 
 | 二　爬虫綱 |
 
@@ -20,50 +20,24 @@
 
 | （１）　いしがめ科 |
 
-| １ | Mauremys sinensis（ハナガメ） | Mauremys japonica（ニホンイシガメ） |
+| 1 | Mauremys sinensis（ハナガメ） | Mauremys japonica（ニホンイシガメ） |
 
-| ２ | Mauremys sinensis（ハナガメ） | Mauremys mutica（ミナミイシガメ） |
+| 2 | Mauremys sinensis（ハナガメ） | Mauremys mutica（ミナミイシガメ） |
 
-| ３ | Mauremys sinensis（ハナガメ） | Mauremys reevesii（クサガメ） |
+| 3 | Mauremys sinensis（ハナガメ） | Mauremys reevesii（クサガメ） |
 
-| 三　両生綱 |
+| 三　条鰭亜綱 |
 
-| イ　有尾目 |
-
-| （１）　おおさんしょううお科 |
-
-| １ | Andrias属（オオサンショウウオ属）に属する種 | Andrias属（オオサンショウウオ属）に属する他の種 |
-
-| 四　条鰭亜綱 |
-
-| イ　ガー目 |
-
-| （１）　ガー科 |
-
-| １ | ガー科に属する種 | ガー科に属する他の種 |
-
-| ロ　かわかます目 |
+| イ　かわかます目 |
 
 | （１）　かわかます科 |
 
-| １ | かわかます科に属する種 | かわかます科に属する他の種 |
+| 1 | かわかます科に属する種 | かわかます科に属する他の種 |
 
-| ハ　すずき目 |
+| ロ　すずき目 |
 
-| （１）　サンフィッシュ科 |
+| （１）　モロネ科 |
 
-| １ | Lepomis属（ブルーギル属）に属する種 | Lepomis属（ブルーギル属）に属する他の種 |
+| 1 | Morone chrysops（ホワイトバス） | Morone saxatilis（ストライプトバス） |
 
-| （２）　モロネ科 |
-
-| １ | Morone chrysops（ホワイトバス） | Morone saxatilis（ストライプトバス） |
-
-| 五　昆虫綱 |
-
-| イ　はち目 |
-
-| （１）　あり科 |
-
-| １ | Solenopsis geminata種群（ソレノプスィス・ゲミナタ種群）、Solenopsis saevissima種群（ソレノプスィス・サエヴィスィマ種群）、Solenopsis tridens種群（ソレノプスィス・トゥリデンス種群）及びSolenopsis virulens種群（ソレノプスィス・ヴィルレンス種群）に属する種 | 左欄に規定する種群に属する他の種 |
-
-| 備考　括弧内に記載する呼称は、学名に相当する和名その他の名称である。 |
+| 備考　括弧内に記載する呼称は、学名に相当する和名である。 |

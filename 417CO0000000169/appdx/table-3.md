@@ -1,41 +1,35 @@
-# 別表第三　外来生物の器官（第三条関係）
+# 別表第三（第三条関係）
 
-| 項 | 種名 | 器官 |
+| 項 | 種　　　　　名 | 器　官 |
 
-| １ | Alternanthera philoxeroides（ナガエツルノゲイトウ） | 茎、根 |
+| 1 | Alternanthera philoxeroides（ナガエツルノゲイトウ） | 茎、根 |
 
-| ２ | Hydrocotyle ranunculoides（ブラジルチドメグサ） | 茎、根 |
+| 2 | Hydrocotyle ranunculoides（ブラジルチドメグサ） | 茎、根 |
 
-| ３ | Pistia stratiotes（ボタンウキクサ） | 茎、根 |
+| 3 | Pistia stratiotes（ボタンウキクサ） | 茎、根 |
 
-| ４ | Azolla cristata（アゾルラ・クリスタタ） | 茎 |
+| 4 | Azolla cristata（アゾルラ・クリスタタ） | 茎 |
 
-| ５ | Coreopsis lanceolata（オオキンケイギク） | 根 |
+| 5 | Coreopsis lanceolata（オオキンケイギク） | 根 |
 
-| ６ | Gymnocoronis spilanthoides（ミズヒマワリ） | 茎、根 |
+| 6 | Gymnocoronis spilanthoides（ミズヒマワリ） | 茎、根 |
 
-| ７ | Mikania micrantha（ツルヒヨドリ） | 根 |
+| 7 | Mikania micrantha（ツルヒヨドリ） | 根 |
 
-| ８ | Rudbeckia laciniata（オオハンゴンソウ） | 根 |
+| 8 | Rudbeckia laciniata（オオハンゴンソウ） | 根 |
 
-| ９ | Senecio madagascariensis（ナルトサワギク） | 茎、根 |
+| 9 | Senecio madagascariensis（ナルトサワギク） | 茎、根 |
 
-| １０ | Drosera intermedia（ナガエモウセンゴケ） | 茎、根 |
+| 10 | Drosera intermedia（ナガエモウセンゴケ） | 茎、根 |
 
-| １１ | Myriophyllum aquaticum（オオフサモ） | 茎、根 |
+| 11 | Myriophyllum aquaticum（オオフサモ） | 茎、根 |
 
-| １２ | Utricularia cf. platensis（エフクレタヌキモ） | 茎 |
+| 12 | Ludwigia grandiflora（ルドウィギア・グランディフロラ） | 茎、根 |
 
-| １３ | Utricularia inflata（ウトゥリクラリア・インフラタ） | 茎 |
+| 13 | Ammophila arenaria（ビーチグラス） | 根 |
 
-| １４ | Utricularia platensis（ウトゥリクラリア・プラテンスィス） | 茎 |
+| 14 | Spartina属（スパルティナ属）全種 | 茎、根 |
 
-| １５ | Ludwigia grandiflora（ルドウィギア・グランディフロラ） | 茎、根 |
-
-| １６ | Ammophila arenaria（ビーチグラス） | 根 |
-
-| １７ | Spartina属（スパルティナ属）全種 | 茎、根 |
-
-| １８ | Veronica anagallis-aquatica（オオカワヂシャ） | 根 |
+| 15 | Veronica anagallis-aquatica（オオカワヂシャ） | 根 |
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名その他の名称である。 |
