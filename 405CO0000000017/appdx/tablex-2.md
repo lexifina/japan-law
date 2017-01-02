@@ -1,6 +1,6 @@
-# 別表第二　国際希少野生動植物種（第一条、第二条、第八条関係）
+# 別表第二　国際希少野生動植物種（第一条、第二条、第四条関係）
 
-- 表一
+表一
 
 | 項 | 種名 |
 
@@ -572,7 +572,7 @@
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名その他の名称である。 |
 
-- 表二
+表二
 
 | 項 | 種名 | 適用日 |
 
@@ -634,13 +634,13 @@
 
 | ２３ | Oryx leucoryx（アラビアオリックス） | 昭和５５年１１月４日 |
 
-| ２４ | Ovis gmelini（オヴィス・グメリニ） | キプロスの個体群に属する個体等については昭和５５年１１月４日、その他の個体等については令和３年１月４日 |
+| ２４ | Ovis ammon hodgsonii（チベットアルガリ） | 昭和５５年１１月４日 |
 
-| ２５ | Ovis hodgsoni（チベットアルガリ） | 昭和５５年１１月４日 |
+| ２５ | Ovis ammon nigrimontana（カラタウアルガリ） | 平成９年９月１８日 |
 
-| ２６ | Ovis nigrimontana（カラタウアルガリ） | 平成９年９月１８日 |
+| ２６ | Ovis orientalis ophion（キプロスムフロン） | 昭和５５年１１月４日 |
 
-| ２７ | Ovis vignei（ラダックウリアル） | 昭和５５年１１月４日 |
+| ２７ | Ovis vignei vignei（ラダックウリアル） | 昭和５５年１１月４日 |
 
 | ２８ | Pantholops hodgsonii（チールー） | 昭和５５年１１月４日 |
 
@@ -678,15 +678,11 @@
 
 | １３ | Rucervus eldii（エルドシカ） | 昭和５５年１１月４日 |
 
-| （５）　きりん科 |
-
-| １ | Okapia johnstoni（オカピ） | 令和８年３月５日 |
-
-| （６）　じゃこうじか科 |
+| （５）　じゃこうじか科 |
 
 | １ | Moschus属（ジャコウジカ属）全種 | 平成元年４月１日 |
 
-| （７）　いのしし科 |
+| （６）　いのしし科 |
 
 | １ | Babyrousa babyrussa（バビルサ） | 昭和５５年１１月４日 |
 
@@ -698,7 +694,7 @@
 
 | ５ | Sus salvanius（コビトイノシシ） | 昭和５５年１１月４日 |
 
-| （８）　ペッカリー科 |
+| （７）　ペッカリー科 |
 
 | １ | Catagonus wagneri（チャコペッカリー） | 昭和６２年１０月２２日 |
 
@@ -706,9 +702,7 @@
 
 | （１）　レッサーパンダ科 |
 
-| １ | Ailurus fulgens（ニシレッサーパンダ） | 平成７年２月１６日 |
-
-| ２ | Ailurus styani（ヒガシレッサーパンダ） | 平成７年２月１６日 |
+| １ | Ailurus fulgens（レッサーパンダ） | 平成７年２月１６日 |
 
 | （２）　いぬ科 |
 
@@ -726,77 +720,71 @@
 
 | ４ | Felis nigripes（クロアシネコ） | 昭和５５年１１月４日 |
 
-| ５ | Herpailurus yagouaroundi（ジャガランディ） | 昭和５５年１１月４日 |
+| ５ | Leopardus geoffroyi（ジョフロワネコ） | 平成４年６月１１日 |
 
-| ６ | Leopardus geoffroyi（ジョフロワネコ） | 平成４年６月１１日 |
+| ６ | Leopardus jacobitus（アンデスネコ） | 昭和５５年１１月４日 |
 
-| ７ | Leopardus guttulus（サザンタイガーキャット） | 平成２年１月１８日 |
+| ７ | Leopardus pardalis（オセロット） | Leopardus pardalis mearnsi（コスタリカオセロット）及びLeopardus pardalis mitis（ミティスオセロット）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
 
-| ８ | Leopardus jacobita（アンデスネコ） | 昭和５５年１１月４日 |
+| ８ | Leopardus tigrinus（ジャガーネコ） | Leopardus tigrinus oncilla（コスタリカジャガーネコ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
 
-| ９ | Leopardus pardalis（オセロット） | Leopardus pardalis mearnsi（コスタリカオセロット）及びLeopardus pardalis mitis（ミティスオセロット）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
+| ９ | Leopardus wiedii（マーゲイ） | Leopardus wiedii nicaraguae（ニカラグァマーゲイ）及びLeopardus wiedii salvinia（グァテマラマーゲイ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
 
-| １０ | Leopardus tigrinus（ジャガーネコ） | Leopardus tigrinus oncilla（コスタリカジャガーネコ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
+| １０ | Lynx pardinus（スペインオオヤマネコ） | 平成２年１月１８日 |
 
-| １１ | Leopardus wiedii（マーゲイ） | Leopardus wiedii nicaraguae（ニカラグァマーゲイ）及びLeopardus wiedii salvinia（グァテマラマーゲイ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
+| １１ | Neofelis nebulosa（ウンピョウ） | 昭和５５年１１月４日 |
 
-| １２ | Lynx pardinus（スペインオオヤマネコ） | 平成２年１月１８日 |
+| １２ | Panthera leo persica（インドライオン） | 昭和５５年１１月４日 |
 
-| １３ | Neofelis diardi（スンダウンピョウ） | 昭和５５年１１月４日 |
+| １３ | Panthera onca（ジャガー） | 昭和５５年１１月４日 |
 
-| １４ | Neofelis nebulosa（ウンピョウ） | 昭和５５年１１月４日 |
+| １４ | Panthera pardus（ヒョウ） | 昭和５５年１１月４日 |
 
-| １５ | Panthera leo（ライオン） | インドの個体群に属する個体等については昭和５５年１１月４日、その他の個体等については令和３年１月４日 |
+| １５ | Panthera tigris（トラ） | Panthera tigris altaica（シベリアトラ）の個体等については昭和６２年１０月２２日、その他の種の個体等については昭和５５年１１月４日 |
 
-| １６ | Panthera onca（ジャガー） | 昭和５５年１１月４日 |
+| １６ | Pardofelis marmorata（マーブルキャット） | 昭和５５年１１月４日 |
 
-| １７ | Panthera pardus（ヒョウ） | 昭和５５年１１月４日 |
+| １７ | Prionailurus bengalensis bengalensis（ベンガルヤマネコ） | 昭和５５年１１月４日 |
 
-| １８ | Panthera tigris（トラ） | Panthera tigris altaica（シベリアトラ）の個体等については昭和６２年１０月２２日、その他の種の個体等については昭和５５年１１月４日 |
+| １８ | Prionailurus planiceps（マレーヤマネコ） | 昭和５５年１１月４日 |
 
-| １９ | Panthera uncia（ユキヒョウ） | 昭和５５年１１月４日 |
+| １９ | Prionailurus rubiginosus（サビイロネコ） | 昭和５５年１１月４日 |
 
-| ２０ | Pardofelis marmorata（マーブルキャット） | 昭和５５年１１月４日 |
+| ２０ | Puma concolor costaricensis（コスタリカピューマ） | 昭和５５年１１月４日 |
 
-| ２１ | Prionailurus bengalensis bengalensis（ベンガルヤマネコ） | 昭和５５年１１月４日 |
+| ２１ | Puma yagouaroundi（ジャガランディ） | 昭和５５年１１月４日 |
 
-| ２２ | Prionailurus planiceps（マレーヤマネコ） | 昭和５５年１１月４日 |
-
-| ２３ | Prionailurus rubiginosus（サビイロネコ） | 昭和５５年１１月４日 |
-
-| ２４ | Puma concolor（ピューマ） | コスタリカ及びパナマの個体群に属する個体等については昭和５５年１１月４日、その他の個体等については令和３年１月４日 |
+| ２２ | Uncia uncia（ユキヒョウ） | 昭和５５年１１月４日 |
 
 | （４）　いたち科 |
 
 | １ | Aonyx capensis microdon（カメルーンツメナシカワウソ） | 昭和５５年１１月４日 |
 
-| ２ | Aonyx cinereus（コツメカワウソ） | 令和元年１１月２６日 |
+| ２ | Enhydra lutris nereis（カリフォルニアラッコ） | 昭和５５年１１月４日 |
 
-| ３ | Enhydra lutris nereis（カリフォルニアラッコ） | 昭和５５年１１月４日 |
+| ３ | Lontra felina（ミナミウミカワウソ） | 昭和５５年１１月４日 |
 
-| ４ | Lontra felina（ミナミウミカワウソ） | 昭和５５年１１月４日 |
+| ４ | Lontra longicaudis（オナガカワウソ） | 昭和５５年１１月４日 |
 
-| ５ | Lontra longicaudis（オナガカワウソ） | 昭和５５年１１月４日 |
+| ５ | Lontra provocax（チリカワウソ） | 昭和５５年１１月４日 |
 
-| ６ | Lontra provocax（チリカワウソ） | 昭和５５年１１月４日 |
+| ６ | Lutra lutra（カワウソ） | 昭和５５年１１月４日 |
 
-| ７ | Lutra lutra（カワウソ） | 昭和５５年１１月４日 |
+| ７ | Lutra nippon（ニホンカワウソ） | 昭和５５年１１月４日 |
 
-| ８ | Lutra nippon（ニホンカワウソ） | 昭和５５年１１月４日 |
+| ８ | Mustela nigripes（クロアシイタチ） | 昭和５５年１１月４日 |
 
-| ９ | Lutrogale perspicillata（ビロードカワウソ） | 令和元年１１月２６日 |
+| ９ | Pteronura brasiliensis（オオカワウソ） | 昭和５５年１１月４日 |
 
-| １０ | Mustela nigripes（クロアシイタチ） | 昭和５５年１１月４日 |
+| （５）　あしか科 |
 
-| １１ | Pteronura brasiliensis（オオカワウソ） | 昭和５５年１１月４日 |
+| １ | Arctocephalus townsendi（グァダルーペオットセイ） | 昭和５５年１１月４日 |
 
-| （５）　あざらし科 |
+| （６）　あざらし科 |
 
-| １ | 全てのMonachus属（モンクアザラシ属）に属する種のうちMonachus tropicalis（カリブモンクアザラシ）以外のもの | 昭和５５年１１月４日 |
+| １ | Monachus属（モンクアザラシ属）全種 | 昭和５５年１１月４日 |
 
-| ２ | Neomonachus属（ハワイモンクアザラシ属）全種 | 昭和５５年１１月４日 |
-
-| （６）　くま科 |
+| （７）　くま科 |
 
 | １ | Ailuropoda melanoleuca（ジャイアントパンダ） | 昭和６０年８月１日 |
 
@@ -812,7 +800,7 @@
 
 | ７ | Ursus thibetanus（アジアクロクマ） | 昭和５５年１１月４日 |
 
-| （７）　じゃこうねこ科 |
+| （８）　じゃこうねこ科 |
 
 | １ | Prionodon pardicolor（ブチリンサン） | 昭和５５年１１月４日 |
 
@@ -828,9 +816,7 @@
 
 | １ | Balaenoptera musculus（シロナガスクジラ） | 昭和５５年１１月４日 |
 
-| ２ | Balaenoptera ricei（ライスクジラ） | 令和８年３月５日 |
-
-| ３ | Megaptera novaeangliae（ザトウクジラ） | 昭和５５年１１月４日 |
+| ２ | Megaptera novaeangliae（ザトウクジラ） | 昭和５５年１１月４日 |
 
 | （３）　まいるか科 |
 
@@ -956,9 +942,7 @@
 
 | ４ | Equus hemionus khur（ペルシャノロバ） | 昭和５５年１１月４日 |
 
-| ５ | Equus hemionus luteus（ゴビノロバ） | 昭和５５年１１月４日 |
-
-| ６ | Equus przewalskii（モウコノウマ） | 昭和５５年１１月４日 |
+| ５ | Equus przewalskii（モウコノウマ） | 昭和５５年１１月４日 |
 
 | （２）　さい科 |
 
@@ -972,7 +956,7 @@
 
 | ３ | Tapirus pinchaque（ヤマバク） | 昭和５５年１１月４日 |
 
-| ル　有鱗目 |
+| ル　有鱗（りん）目 |
 
 | （１）　せんざんこう科 |
 
@@ -996,19 +980,21 @@
 
 | （１）　アテリダエ科 |
 
-| １ | Alouatta palliata（マントホエザル） | 昭和５５年１１月４日 |
+| １ | Alouatta coibensis（コイバホエザル） | 昭和５５年１１月４日 |
 
-| ２ | Alouatta pigra（メキシコクロホエザル） | 昭和５５年１１月４日 |
+| ２ | Alouatta palliata（マントホエザル） | 昭和５５年１１月４日 |
 
-| ３ | Ateles geoffroyi frontatus（クロチャクモザル） | 昭和５５年１１月４日 |
+| ３ | Alouatta pigra（メキシコクロホエザル） | 昭和５５年１１月４日 |
 
-| ４ | Ateles geoffroyi ornatus（アカクモザル） | 昭和５５年１１月４日 |
+| ４ | Ateles geoffroyi frontatus（クロチャクモザル） | 昭和５５年１１月４日 |
 
-| ５ | Brachyteles arachnoides（ウーリークモザル） | 昭和５５年１１月４日 |
+| ５ | Ateles geoffroyi ornatus（アカクモザル） | 昭和５５年１１月４日 |
 
-| ６ | Brachyteles hypoxanthus（ブラキュテレス・ヒュポクサントゥス） | 昭和５５年１１月４日 |
+| ６ | Brachyteles arachnoides（ウーリークモザル） | 昭和５５年１１月４日 |
 
-| ７ | Oreonax flavicauda（ヘンディーウーリーモンキー） | 昭和５８年７月２９日 |
+| ７ | Brachyteles hypoxanthus（ブラキュテレス・ヒュポクサントゥス） | 昭和５５年１１月４日 |
+
+| ８ | Oreonax flavicauda（ヘンディーウーリーモンキー） | 昭和５８年７月２９日 |
 
 | （２）　おまきざる科 |
 
@@ -1034,55 +1020,53 @@
 
 | （３）　おながざる科 |
 
-| １ | Cercocebus chrysogaster（ゴールデンマンガベイ） | 令和８年３月５日 |
+| １ | Cercocebus galeritus（ボウシマンガベイ） | 昭和５５年１１月４日 |
 
-| ２ | Cercocebus galeritus（ボウシマンガベイ） | 昭和５５年１１月４日 |
+| ２ | Cercopithecus diana（ダイアナモンキー） | 昭和５６年６月６日 |
 
-| ３ | Cercopithecus diana（ダイアナモンキー） | 昭和５６年６月６日 |
+| ３ | Cercopithecus roloway（ケルコピテクス・ロロワイ） | 昭和５６年６月６日 |
 
-| ４ | Cercopithecus roloway（ケルコピテクス・ロロワイ） | 昭和５６年６月６日 |
+| ４ | Macaca silenus（シシオザル） | 昭和５５年１１月４日 |
 
-| ５ | Macaca silenus（シシオザル） | 昭和５５年１１月４日 |
+| ５ | Macaca sylvanus（バーバリーマカク） | 平成２９年１月２日 |
 
-| ６ | Macaca sylvanus（バーバリーマカク） | 平成２９年１月２日 |
+| ６ | Mandrillus leucophaeus（ドリル） | 昭和５６年６月６日 |
 
-| ７ | Mandrillus leucophaeus（ドリル） | 昭和５６年６月６日 |
+| ７ | Mandrillus sphinx（マンドリル） | 昭和５６年６月６日 |
 
-| ８ | Mandrillus sphinx（マンドリル） | 昭和５６年６月６日 |
+| ８ | Nasalis larvatus（テングザル） | 昭和５５年１１月４日 |
 
-| ９ | Nasalis larvatus（テングザル） | 昭和５５年１１月４日 |
+| ９ | Piliocolobus kirkii（ザンビアアカコロブス） | 昭和５５年１１月４日 |
 
-| １０ | Piliocolobus kirkii（ザンビアアカコロブス） | 昭和５５年１１月４日 |
+| １０ | Piliocolobus rufomitratus（アカコロブス） | 昭和５５年１１月４日 |
 
-| １１ | Piliocolobus rufomitratus（アカコロブス） | 昭和５５年１１月４日 |
+| １１ | Presbytis potenziani（オナガラングール） | 昭和５５年１１月４日 |
 
-| １２ | Presbytis potenziani（オナガラングール） | 昭和５５年１１月４日 |
+| １２ | Pygathrix属（ドゥクモンキー属）全種 | Pygathrix nemaeus（アカアシドゥクモンキー）の個体等については昭和５５年１１月４日、その他の種の個体等については昭和６０年８月１日 |
 
-| １３ | Pygathrix属（ドゥクモンキー属）全種 | Pygathrix nemaeus（アカアシドゥクモンキー）の個体等については昭和５５年１１月４日、その他の種の個体等については昭和６０年８月１日 |
+| １３ | Rhinopithecus属（リノピテクス属）全種 | 昭和６０年８月１日 |
 
-| １４ | Rhinopithecus属（リノピテクス属）全種 | 昭和６０年８月１日 |
+| １４ | Semnopithecus ajax（セムノピテクス・アヤクス） | 昭和５５年１１月４日 |
 
-| １５ | Semnopithecus ajax（セムノピテクス・アヤクス） | 昭和５５年１１月４日 |
+| １５ | Semnopithecus dussumieri（セムノピテクス・ドゥスミエリ） | 昭和５５年１１月４日 |
 
-| １６ | Semnopithecus dussumieri（セムノピテクス・ドゥスミエリ） | 昭和５５年１１月４日 |
+| １６ | Semnopithecus entellus（ハヌマンラングール） | 昭和５５年１１月４日 |
 
-| １７ | Semnopithecus entellus（ハヌマンラングール） | 昭和５５年１１月４日 |
+| １７ | Semnopithecus hector（セムノピテクス・ヘクトル） | 昭和５５年１１月４日 |
 
-| １８ | Semnopithecus hector（セムノピテクス・ヘクトル） | 昭和５５年１１月４日 |
+| １８ | Semnopithecus hypoleucos（マラバーラングール） | 昭和５５年１１月４日 |
 
-| １９ | Semnopithecus hypoleucos（マラバーラングール） | 昭和５５年１１月４日 |
+| １９ | Semnopithecus priam（セムノピテクス・プリアム） | 昭和５５年１１月４日 |
 
-| ２０ | Semnopithecus priam（セムノピテクス・プリアム） | 昭和５５年１１月４日 |
+| ２０ | Semnopithecus schistaceus（セムノピテクス・スキスタケウス） | 昭和５５年１１月４日 |
 
-| ２１ | Semnopithecus schistaceus（セムノピテクス・スキスタケウス） | 昭和５５年１１月４日 |
+| ２１ | Simias concolor（メンタウェーコバナテングザル） | 昭和５５年１１月４日 |
 
-| ２２ | Simias concolor（メンタウェーコバナテングザル） | 昭和５５年１１月４日 |
+| ２２ | Trachypithecus geei（ゴールデンラングール） | 昭和５５年１１月４日 |
 
-| ２３ | Trachypithecus geei（ゴールデンラングール） | 昭和５５年１１月４日 |
+| ２３ | Trachypithecus pileatus（ボウシラングール） | 昭和５５年１１月４日 |
 
-| ２４ | Trachypithecus pileatus（ボウシラングール） | 昭和５５年１１月４日 |
-
-| ２５ | Trachypithecus shortridgei（トラキュピテクス・ソルトリドゲイ） | 昭和５５年１１月４日 |
+| ２４ | Trachypithecus shortridgei（トラキュピテクス・ソルトリドゲイ） | 昭和５５年１１月４日 |
 
 | （４）　こびときつねざる科 |
 
@@ -1103,8 +1087,6 @@
 | ４ | Pongo abelii（スマトラオランウータン） | 昭和５５年１１月４日 |
 
 | ５ | Pongo pygmaeus（オランウータン） | 昭和５５年１１月４日 |
-
-| ６ | Pongo tapanuliensis（タパヌリオランウータン） | 昭和５５年１１月４日 |
 
 | （７）　てながざる科 |
 
@@ -1138,13 +1120,27 @@
 
 | １ | Elephas maximus（アジアゾウ） | 昭和５５年１１月４日 |
 
-| ２ | Loxodonta属（アフリカゾウ属）全種 | 平成２年１月１８日 |
+| ２ | Loxodonta africana（アフリカゾウ） | 平成２年１月１８日 |
 
 | カ　齧歯目 |
 
 | （１）　チンチラ科 |
 
 | １ | Chinchilla属（チンチラ属）全種 | 昭和５５年１１月４日 |
+
+| （２）　ねずみ科 |
+
+| １ | Leporillus conditor（コヤカケネズミ） | 昭和５５年１１月４日 |
+
+| ２ | Pseudomys fieldi praeconis（シャークベイネズミ） | 昭和５５年１１月４日 |
+
+| ３ | Xeromys myoides（クマネズミモドキ） | 昭和５５年１１月４日 |
+
+| ４ | Zyzomys pedunculatus（マクドネルイワネズミ） | 昭和５５年１１月４日 |
+
+| （３）　りす科 |
+
+| １ | Cynomys mexicanus（メキシコプレーリードッグ） | 昭和５５年１１月４日 |
 
 | ヨ　海牛目 |
 
@@ -1222,17 +1218,13 @@
 
 | ２ | Aquila heliaca（カタジロワシ） | 昭和５５年１１月４日 |
 
-| ３ | Chondrohierax wilsonii（キューバカギハシトビ） | 昭和５５年１１月４日 |
+| ３ | Chondrohierax uncinatus wilsonii（キューバカギハシトビ） | 昭和５５年１１月４日 |
 
-| ４ | Gyps africanus（コシジロハゲワシ） | 令和８年３月５日 |
+| ４ | Haliaeetus albicilla groenlandicus（オジロワシ） | 昭和５５年１１月４日 |
 
-| ５ | Gyps rueppelli（マダラハゲワシ） | 令和８年３月５日 |
+| ５ | Harpia harpyja（オウギワシ） | 昭和５５年１１月４日 |
 
-| ６ | Haliaeetus albicilla groenlandicus（オジロワシ） | 昭和５５年１１月４日 |
-
-| ７ | Harpia harpyja（オウギワシ） | 昭和５５年１１月４日 |
-
-| ８ | Pithecophaga jefferyi（サルクイワシ） | 昭和５５年１１月４日 |
+| ６ | Pithecophaga jefferyi（サルクイワシ） | 昭和５５年１１月４日 |
 
 | （２）　コンドル科 |
 
@@ -1246,11 +1238,13 @@
 
 | ３ | Falco newtoni（マダガスカルチョウゲンボウ） | 昭和５５年１１月４日 |
 
-| ４ | Falco peregrinus（ハヤブサ）のうちFalco peregrinus anatum（アメリカハヤブサ）、Falco peregrinus babylonicus（アカガシラハヤブサ）、Falco peregrinus japonensis（ハヤブサ）及びFalco peregrinus tundrius（ホッキョクハヤブサ）以外のもの | 昭和５５年１１月４日 |
+| ４ | Falco pelegrinoides（アカエリハヤブサ） | 昭和５５年１１月４日 |
 
-| ５ | Falco punctatus（モーリシャスチョウゲンボウ） | 昭和５５年１１月４日 |
+| ５ | Falco peregrinus（ハヤブサ）のうちFalco peregrinus anatum（アメリカハヤブサ）、Falco peregrinus babylonicus（アカガシラハヤブサ）、Falco peregrinus furuitii（シマハヤブサ）、Falco peregrinus japonensis（ハヤブサ）及びFalco peregrinus tundrius（ホッキョクハヤブサ）以外のもの | 昭和５５年１１月４日 |
 
-| ６ | Falco rusticolus（シロハヤブサ）のうちFalco rusticolus intermedius（シベリアシロハヤブサ）以外のもの | 昭和５５年１１月４日 |
+| ６ | Falco punctatus（モーリシャスチョウゲンボウ） | 昭和５５年１１月４日 |
+
+| ７ | Falco rusticolus（シロハヤブサ）のうちFalco rusticolus intermedius（シベリアシロハヤブサ）以外のもの | 昭和５５年１１月４日 |
 
 | ト　きじ目 |
 
@@ -1314,11 +1308,9 @@
 
 | （１）　つる科 |
 
-| １ | Antigone canadensis nesiotes（キューバカナダヅル） | 昭和５５年１１月４日 |
+| １ | Grus canadensis nesiotes（キューバカナダヅル） | 昭和５５年１１月４日 |
 
-| ２ | Balearica pavonina（カンムリヅル） | 令和元年１１月２６日 |
-
-| ３ | Grus nigricollis（オグロヅル） | 昭和５５年１１月４日 |
+| ２ | Grus nigricollis（オグロヅル） | 昭和５５年１１月４日 |
 
 | （２）　のがん科 |
 
@@ -1340,45 +1332,33 @@
 
 | ２ | Xipholena atropurpurea（ハジロカザリドリ） | 昭和５５年１１月４日 |
 
-| （２）　ほおじろ科 |
-
-| １ | Sporophila maximiliani（オオハシコメワリ） | 令和８年３月５日 |
-
-| （３）　あとり科 |
+| （２）　あとり科 |
 
 | １ | Carduelis cucullata（ショウジョウヒワ） | 昭和５５年１１月４日 |
 
-| （４）　つばめ科 |
+| （３）　つばめ科 |
 
 | １ | Pseudochelidon sirintarae（アジアカワツバメ） | 平成２年１月１８日 |
 
-| （５）　むくどりもどき科 |
+| （４）　むくどりもどき科 |
 
 | １ | Xanthopsar flavus（キバラムクドリモドキ） | 平成７年２月１６日 |
 
-| （６）　ひたき科 |
+| （５）　ひたき科 |
 
 | １ | Picathartes gymnocephalus（ハゲチメドリ） | 昭和５５年１１月４日 |
 
 | ２ | Picathartes oreas（ズアカハゲチメドリ） | 昭和５５年１１月４日 |
 
-| （７）　やいろちょう科 |
+| （６）　やいろちょう科 |
 
 | １ | Pitta gurneyi（クロハラシマヤイロチョウ） | 平成２年１月１８日 |
 
 | ２ | Pitta kochi（コンコンヤイロチョウ） | 昭和５５年１１月４日 |
 
-| （８）　ひよどり科 |
-
-| １ | Pycnonotus zeylanicus（キガシラヒヨドリ） | 令和５年１１月２５日 |
-
-| （９）　むくどり科 |
+| （７）　むくどり科 |
 
 | １ | Leucopsar rothschildi（カンムリシロムク） | 昭和５５年１１月４日 |
-
-| （１０）　めじろ科 |
-
-| １ | Zosterops albogularis（ノーフォークメジロ） | 令和３年１月４日 |
 
 | ヌ　ペリカン目 |
 
@@ -1411,6 +1391,8 @@
 | ４ | Cacatua sulphurea（コバタン） | 平成１７年１月１２日 |
 
 | ５ | Probosciger aterrimus（ヤシオウム）のうちProbosciger aterrimus macgillivrayi（プロボスキゲル・アテルリムス・マクギルリヴライイ）以外のもの | 昭和６２年１０月２２日 |
+
+| ６ | Psittacus erithacus（ヨウム） | 平成２９年１月２日 |
 
 | （２）　ロリイダエ科 |
 
@@ -1476,7 +1458,7 @@
 
 | ２８ | Ognorhynchus icterotis（キミミインコ） | 昭和５８年７月２９日 |
 
-| ２９ | Pezoporus wallicus（キジインコ） | 昭和５５年１１月４日 |
+| ２９ | Pezoporus wallicus（キジインコ）のうちPezoporus wallicus flaviventris（キバラキジインコ）以外のもの | 昭和５５年１１月４日 |
 
 | ３０ | Pionopsitta pileata（ヒガシラインコ） | 昭和５５年１１月４日 |
 
@@ -1484,19 +1466,15 @@
 
 | ３２ | Primolius maracana（アカビタイヒメコンゴウインコ） | 平成２年１月１８日 |
 
-| ３３ | Psephotellus dissimilis（ヒスイインコ） | 昭和５５年１１月４日 |
+| ３３ | Psephotus dissimilis（ヒスイインコ） | 昭和５５年１１月４日 |
 
-| ３４ | Psephotellus pulcherrimus（ゴクラクインコ） | 令和３年１月４日 |
+| ３４ | Psittacula echo（シマホンセイインコ） | 昭和５５年１１月４日 |
 
-| ３５ | Psittacula echo（シマホンセイインコ） | 昭和５５年１１月４日 |
+| ３５ | Pyrrhura cruentata（アオマエカケインコ） | 昭和５５年１１月４日 |
 
-| ３６ | Psittacus erithacus（ヨウム） | 平成２９年１月２日 |
+| ３６ | Rhynchopsitta terrisi（エビチャガシラハシブトインコ） | 昭和５６年６月６日 |
 
-| ３７ | Pyrrhura cruentata（アオマエカケインコ） | 昭和５５年１１月４日 |
-
-| ３８ | Rhynchopsitta terrisi（エビチャガシラハシブトインコ） | 昭和５６年６月６日 |
-
-| ３９ | Strigops habroptilus（フクロウオウム） | 昭和５５年１１月４日 |
+| ３７ | Strigops habroptilus（フクロウオウム） | 昭和５５年１１月４日 |
 
 | カ　レア目 |
 
@@ -1592,19 +1570,7 @@
 
 | ハ　とかげ亜目 |
 
-| （１）　きのぼりとかげ科 |
-
-| １ | Ceratophora erdeleni（ケラトフォラ・エルデレニ） | 令和元年１１月２６日 |
-
-| ２ | Ceratophora karu（ケラトフォラ・カル） | 令和元年１１月２６日 |
-
-| ３ | Ceratophora tennentii（ケラトフォラ・テンネンティイ） | 令和元年１１月２６日 |
-
-| ４ | Cophotis ceylanica（セイロンオマキキノボリアガマ） | 令和元年１１月２６日 |
-
-| ５ | Cophotis dumbara（コフォティス・ドゥムバラ） | 令和元年１１月２６日 |
-
-| （２）　あしなしとかげ科 |
+| （１）　あしなしとかげ科 |
 
 | １ | Abronia anzuetoi（アンズエトキノボリアリゲータートカゲ） | 平成２９年１月２日 |
 
@@ -1616,45 +1582,33 @@
 
 | ５ | Abronia meledona（メレドナキノボリアリゲータートカゲ） | 平成２９年１月２日 |
 
-| ６ | Caribicus warreni（ワレンギャリワスプ） | 令和８年３月５日 |
-
-| （３）　カメレオン科 |
+| （２）　カメレオン科 |
 
 | １ | Brookesia perarmata（ロゼッタヒメカメレオン） | 平成１５年２月１３日 |
 
-| （４）　やもり科 |
+| （３）　やもり科 |
 
 | １ | Cnemaspis psychedelica（ゲンカクマルメスベユビヤモリ） | 平成２９年１月２日 |
 
-| ２ | Gonatodes daudini（ダウディンイロワケヤモリ） | 令和元年１１月２６日 |
+| ２ | Lygodactylus williamsi（アオマルメヤモリ） | 平成２９年１月２日 |
 
-| ３ | Lygodactylus williamsi（アオマルメヤモリ） | 平成２９年１月２日 |
-
-| （５）　どくとかげ科 |
+| （４）　どくとかげ科 |
 
 | １ | Heloderma horridum charlesbogerti（リオモタグアドクトカゲ） | 平成１９年９月１３日 |
 
-| （６）　たてがみとかげ科 |
+| （５）　たてがみとかげ科 |
 
-| １ | Amblyrhynchus cristatus（ウミイグアナ） | 令和８年３月５日 |
+| １ | Brachylophus属（フィジーイグアナ属）全種 | 昭和５６年６月６日 |
 
-| ２ | Brachylophus属（フィジーイグアナ属）全種 | 昭和５６年６月６日 |
+| ２ | Cyclura属（サイイグアナ属）全種 | 昭和５６年６月６日 |
 
-| ３ | Conolophus属（オカイグアナ属）全種 | 令和８年３月５日 |
+| ３ | Sauromalus varius（エステバンチャクワラ） | 昭和５６年６月６日 |
 
-| ４ | Cyclura属（サイイグアナ属）全種 | 昭和５６年６月６日 |
-
-| ５ | Sauromalus varius（エステバンチャクワラ） | 昭和５６年６月６日 |
-
-| （７）　かなへび科 |
+| （６）　かなへび科 |
 
 | １ | Gallotia simonyi（イエロオオカナヘビ） | 昭和６２年１０月２２日 |
 
-| （８）　とかげ科 |
-
-| １ | Tiliqua adelaidensis（アデレードアオジタトカゲ） | 令和５年２月２３日 |
-
-| （９）　おおとかげ科 |
+| （７）　おおとかげ科 |
 
 | １ | Varanus bengalensis（インドオオトカゲ） | 平成４年１月３１日 |
 
@@ -1666,7 +1620,7 @@
 
 | ５ | Varanus nebulosus（ヴァラヌス・ネブロスス） | 平成４年１月３１日 |
 
-| （１０）　わにとかげ科 |
+| （８）　わにとかげ科 |
 
 | １ | Shinisaurus crocodilurus（ワニトカゲ） | 平成２９年１月２日 |
 
@@ -1678,11 +1632,13 @@
 
 | ２ | Boa constrictor occidentalis（ボアコンストリクター） | 昭和６２年１０月２２日 |
 
-| ３ | Chilabothrus monensis（モナボア） | 昭和５８年７月２９日 |
+| ３ | Epicrates inornatus（バヴァチボア） | 昭和５５年１１月４日 |
 
-| ４ | Chilabothrus subflavus（ジャマイカボア） | 昭和５５年１１月４日 |
+| ４ | Epicrates monensis（モナボア） | 昭和５８年７月２９日 |
 
-| ５ | Sanzinia madagascariensis（サンジニアボア） | 昭和５５年１１月４日 |
+| ５ | Epicrates subflavus（ジャマイカボア） | 昭和５５年１１月４日 |
+
+| ６ | Sanzinia madagascariensis（サンジニアボア） | 昭和５５年１１月４日 |
 
 | （２）　つめなしボア科 |
 
@@ -1692,15 +1648,11 @@
 
 | （３）　にしきへび科 |
 
-| １ | Python molurus（インドニシキヘビ） | 昭和５５年１１月４日 |
+| １ | Python molurus molurus（インドニシキヘビ） | 昭和５５年１１月４日 |
 
 | （４）　くさりへび科 |
 
-| １ | Bitis harenna（ベールマウンテンアダー） | 令和８年３月５日 |
-
-| ２ | Bitis parviocula（エチオピアアダー） | 令和８年３月５日 |
-
-| ３ | Vipera ursinii（ノハラクサリヘビ） | 昭和６２年１０月２２日 |
+| １ | Vipera ursinii（ノハラクサリヘビ） | 昭和６２年１０月２２日 |
 
 | ホ　かめ目 |
 
@@ -1728,35 +1680,19 @@
 
 | ２ | Batagur baska（ヨツユビガメ） | 昭和５５年１１月４日 |
 
-| ３ | Batagur kachuga（ニシキセタカガメ） | 令和５年２月２３日 |
+| ３ | Geoclemys hamiltonii（ハミルトンクサガメ） | 昭和５５年１１月４日 |
 
-| ４ | Cuora bourreti（ラオスモエギハコガメ） | 令和元年１１月２６日 |
+| ４ | Melanochelys tricarinata（ミスジヤマガメ） | 昭和５５年１１月４日 |
 
-| ５ | Cuora galbinifrons（モエギハコガメ） | 令和５年２月２３日 |
+| ５ | Morenia ocellata（モレニア） | 昭和５５年１１月４日 |
 
-| ６ | Cuora picturata（カンボジアモエギハコガメ） | 令和元年１１月２６日 |
+| ６ | Pangshura tecta（カチューガ） | 昭和５５年１１月４日 |
 
-| ７ | Geoclemys hamiltonii（ハミルトンクサガメ） | 昭和５５年１１月４日 |
-
-| ８ | Mauremys annamensis（アンナンガメ） | 令和元年１１月２６日 |
-
-| ９ | Melanochelys tricarinata（ミスジヤマガメ） | 昭和５５年１１月４日 |
-
-| １０ | Morenia ocellata（モレニア） | 昭和５５年１１月４日 |
-
-| １１ | Pangshura tecta（カチューガ） | 昭和５５年１１月４日 |
-
-| （６）　どろがめ科 |
-
-| １ | Kinosternon cora（キノステルノン・コラ） | 令和５年２月２３日 |
-
-| ２ | Kinosternon vogti（キノステルノン・ヴォグティ） | 令和５年２月２３日 |
-
-| （７）　おおあたまがめ科 |
+| （６）　おおあたまがめ科 |
 
 | １ | おおあたまがめ科全種 | 平成２５年６月１２日 |
 
-| （８）　りくがめ科 |
+| （７）　りくがめ科 |
 
 | １ | Astrochelys radiata（マダガスカルホシガメ） | 昭和５５年１１月４日 |
 
@@ -1764,25 +1700,19 @@
 
 | ３ | Chelonoidis niger（ガラパゴスゾウガメ） | 昭和５５年１１月４日 |
 
-| ４ | Geochelone elegans（インドホシガメ） | 令和元年１１月２６日 |
+| ４ | Geochelone platynota（ビルマホシガメ） | 平成２５年６月１２日 |
 
-| ５ | Geochelone platynota（ビルマホシガメ） | 平成２５年６月１２日 |
+| ５ | Gopherus flavomarginatus（メキシコゴファーガメ） | 昭和５５年１１月４日 |
 
-| ６ | Gopherus flavomarginatus（メキシコゴファーガメ） | 昭和５５年１１月４日 |
+| ６ | Psammobates geometricus（チズガメ） | 昭和５５年１１月４日 |
 
-| ７ | Kinixys homeana（ホームセオレガメ） | 令和８年３月５日 |
+| ７ | Pyxis arachnoides（クモノスガメ） | 平成１７年１月１２日 |
 
-| ８ | Malacochersus tornieri（パンケーキガメ） | 令和元年１１月２６日 |
+| ８ | Pyxis planicauda（ヒラオリクガメ） | 平成１５年２月１３日 |
 
-| ９ | Psammobates geometricus（チズガメ） | 昭和５５年１１月４日 |
+| ９ | Testudo kleinmanni（エジプトリクガメ） | 平成７年２月１６日 |
 
-| １０ | Pyxis arachnoides（クモノスガメ） | 平成１７年１月１２日 |
-
-| １１ | Pyxis planicauda（ヒラオリクガメ） | 平成１５年２月１３日 |
-
-| １２ | Testudo kleinmanni（エジプトリクガメ） | 平成７年２月１６日 |
-
-| （９）　すっぽん科 |
+| （８）　すっぽん科 |
 
 | １ | Apalone spinifera atra（クロスッポン） | 昭和５５年１１月４日 |
 
@@ -1794,9 +1724,7 @@
 
 | ５ | Nilssonia hurum（フルムスッポン） | 昭和５５年１１月４日 |
 
-| ６ | Nilssonia leithii（リーススッポン） | 令和５年２月２３日 |
-
-| ７ | Nilssonia nigricans（ウスグロスッポン） | 昭和５５年１１月４日 |
+| ６ | Nilssonia nigricans（ウスグロスッポン） | 昭和５５年１１月４日 |
 
 | 四　両生綱 |
 
@@ -1806,17 +1734,17 @@
 
 | １ | Altiphrynoides属（コウチヒキガエル属）全種 | 昭和５５年１１月４日 |
 
-| ２ | Atelopus zeteki（ツエテクマガイドクガエル） | 昭和５８年７月２９日 |
+| ２ | Amietophrynus channingi（アミエトフリュヌス・カンニンギ） | 昭和５５年１１月４日 |
 
-| ３ | Incilius periglenes（オレンジヒキガエル） | 平成７年２月１６日 |
+| ３ | Amietophrynus superciliaris（カメルーンヒキガエル） | 昭和５５年１１月４日 |
 
-| ４ | Nectophrynoides属（コモチガエル属）全種 | 昭和５５年１１月４日 |
+| ４ | Atelopus zeteki（ツエテクマガイドクガエル） | 昭和５８年７月２９日 |
 
-| ５ | Nimbaphrynoides属（ニシコモチヒキガエル属）全種 | 昭和５５年１１月４日 |
+| ５ | Incilius periglenes（オレンジヒキガエル） | 平成７年２月１６日 |
 
-| ６ | Sclerophrys channingi（スクレロフリュス・カンニンギ） | 昭和５５年１１月４日 |
+| ６ | Nectophrynoides属（コモチガエル属）全種 | 昭和５５年１１月４日 |
 
-| ７ | Sclerophrys superciliaris（カメルーンヒキガエル） | 昭和５５年１１月４日 |
+| ７ | Nimbaphrynoides属（ニシコモチヒキガエル属）全種 | 昭和５５年１１月４日 |
 
 | （２）　みなみがえる科 |
 
@@ -1866,8 +1794,6 @@
 
 | １ | Scleropages formosus（アジアアロワナ） | 昭和５５年１１月４日 |
 
-| ２ | Scleropages inscriptus（スクレロパゲス・インスクリプトゥス） | 昭和５５年１１月４日 |
-
 | ニ　すずき目 |
 
 | （１）　にべ科 |
@@ -1894,15 +1820,11 @@
 
 | （１）　あげはちょう科 |
 
-| １ | Achillides chikae chikae（ルソンカラスアゲハ） | 昭和６２年１０月２２日 |
+| １ | Ornithoptera alexandrae（アレクサンドラトリバネアゲハ） | 昭和６２年１０月２２日 |
 
-| ２ | Achillides chikae hermeli（アキルリデス・キカエ・ヘルメリ） | 令和元年１１月２６日 |
+| ２ | Papilio chikae（ルソンカラスアゲハ） | 昭和６２年１０月２２日 |
 
-| ３ | Ornithoptera alexandrae（アレクサンドラトリバネアゲハ） | 昭和６２年１０月２２日 |
-
-| ４ | Papilio homerus（ホメルスアゲハ） | 昭和６２年１０月２２日 |
-
-| ５ | Parides burchellanus（パリデス・ブルケルラヌス） | 令和元年１１月２６日 |
+| ３ | Papilio homerus（ホメルスアゲハ） | 昭和６２年１０月２２日 |
 
 | 九　二枚貝綱 |
 
@@ -1988,8 +1910,6 @@
 
 | ３ | Pachypodium decaryi（パキュポディウム・デカリュイ） | 平成２年１月１８日 |
 
-| ４ | Pachypodium windsorii（パキュポディウム・ウィンドソリイ） | 令和６年２月１３日 |
-
 | （３）　なんようすぎ科 |
 
 | １ | Araucaria araucana（チリーマツ） | 昭和５５年１１月４日 |
@@ -2006,7 +1926,7 @@
 
 | ５ | Discocactus属（ディスコカクトゥス属）全種 | 平成４年６月１１日 |
 
-| ６ | Echinocereus ferreiranus ssp. lindsayorum（エキノケレウス・フェルレイラヌス・リンドサヨルム） | 昭和５６年６月６日 |
+| ６ | Echinocereus ferreirianus ssp. lindsayi（エキノケレウス・フェルレイリアヌス・リンドサイイ） | 昭和５６年６月６日 |
 
 | ７ | Echinocereus schmollii（エキノケレウス・スクモルリイ） | 昭和５８年７月２９日 |
 
@@ -2054,7 +1974,7 @@
 
 | ２９ | Sclerocactus mariposensis（スクレロカクトゥス・マリポセンスィス） | 昭和５８年７月２９日 |
 
-| ３０ | Sclerocactus mesae-verdae（スクレロカクトゥス・メサエ―ヴェルダエ） | 昭和５８年７月２９日 |
+| ３０ | Sclerocactus mesae‐verdae（スクレロカクトゥス・メサエ―ヴェルダエ） | 昭和５８年７月２９日 |
 
 | ３１ | Sclerocactus nyensis（スクレロカクトゥス・ニュエンスィス） | 平成１５年２月１３日 |
 
@@ -2070,7 +1990,7 @@
 
 | ３７ | Strombocactus属（ストロンボカクトゥス属）全種 | 昭和５８年７月２９日 |
 
-| ３８ | Turbinicarpus属（トゥルビニカルプス属）全種 | Turbinicarpus laui（トゥルビニカルプス・ラウイ）、Turbinicarpus lophophoroides（トゥルビニカルプス・ロフォフォロイデス）、Turbinicarpus pseudomacrochele（長城丸）、Turbinicarpus pseudopectinatus　（トゥルビニカルプス・プセウドペクティナトゥス）、Turbinicarpus schmiedickeanus（昇龍丸）及びTurbinicarpus valdezianus（トゥルビニカルプス・ヴァルデジアヌス）の個体等については昭和５８年７月２９日、その他の種の個体等については平成４年６月１１日 |
+| ３８ | Turbinicarpus属（トゥルビニカルプス属）全種 | Turbinicarpus laui（トゥルビニカルプス・ラウイ）、Turbinicarpus lophophoroides（トゥルビニカルプス・ロフォフォロイデス）、Turbinicarpus pseudomacrochele（長城丸）、Turbinicarpus pseudopectinatus （トゥルビニカルプス・プセウドペクティナトゥス）、Turbinicarpus schmiedickeanus（昇龍丸）及びTurbinicarpus valdezianus（トゥルビニカルプス・ヴァルデジアヌス）の個体等については昭和５８年７月２９日、その他の種の個体等については平成４年６月１１日 |
 
 | ３９ | Uebelmannia属（ウエベルマンニア属）全種 | 平成４年６月１１日 |
 
@@ -2092,25 +2012,23 @@
 
 | １ | Euphorbia ambovombensis（エウフォルビア・アンボヴォンベンスィス） | 平成２年１月１８日 |
 
-| ２ | Euphorbia bupleurifolia（鉄甲丸） | 令和８年３月５日 |
+| ２ | Euphorbia capsaintemariensis（エウフォルビア・カプサインテマリエンスィス） | 平成２年１月１８日 |
 
-| ３ | Euphorbia capsaintemariensis（エウフォルビア・カプサインテマリエンスィス） | 平成２年１月１８日 |
+| ３ | Euphorbia cremersii（エウフォルビア・クレメルスィイ）（Euphorbia cremersii forma viridifolia（エウフォルビア・クレメルスィイ品種ヴィリディフォリア）及びEuphorbia cremersii var. rakotozafyi（エウフォルビア・クレメルスィイ変種ラコトザフュイ）を含む。） | 平成７年２月１６日 |
 
-| ４ | Euphorbia cremersii（エウフォルビア・クレメルスィイ）（Euphorbia cremersii forma viridifolia（エウフォルビア・クレメルスィイ品種ヴィリディフォリア）及びEuphorbia cremersii var. rakotozafyi（エウフォルビア・クレメルスィイ変種ラコトザフュイ）を含む。） | 平成７年２月１６日 |
+| ４ | Euphorbia cylindrifolia（エウフォルビア・キュリンドリフォリア）（Euphorbia cylindrifolia ssp. tuberifera（エウフォルビア・キュリンドリフォリア・トゥベリフェラ）を含む。） | 平成２年１月１８日 |
 
-| ５ | Euphorbia cylindrifolia（エウフォルビア・キュリンドリフォリア）（Euphorbia cylindrifolia ssp. tuberifera（エウフォルビア・キュリンドリフォリア・トゥベリフェラ）を含む。） | 平成２年１月１８日 |
+| ５ | Euphorbia decaryi（エウフォルビア・デカリュイ）（Euphorbia decaryi var. ampanihyensis（エウフォルビア・デカリュイ変種アンパニヒュエンスィス）、Euphorbia decaryi var. robinsonii（エウフォルビア・デカリュイ変種ロビンソニイ）及びEuphorbia decaryi var. spirosticha（エウフォルビア・デカリュイ変種スピロスティカ）を含む。） | 平成２年１月１８日 |
 
-| ６ | Euphorbia decaryi（エウフォルビア・デカリュイ）（Euphorbia decaryi var. ampanihyensis（エウフォルビア・デカリュイ変種アンパニヒュエンスィス）、Euphorbia decaryi var. robinsonii（エウフォルビア・デカリュイ変種ロビンソニイ）及びEuphorbia decaryi var. spirosticha（エウフォルビア・デカリュイ変種スピロスティカ）を含む。） | 平成２年１月１８日 |
+| ６ | Euphorbia francoisii（エウフォルビア・フランコイスィイ） | 平成２年１月１８日 |
 
-| ７ | Euphorbia francoisii（エウフォルビア・フランコイスィイ） | 平成２年１月１８日 |
+| ７ | Euphorbia moratii（エウフォルビア・モラティイ）（Euphorbia moratii var. antsingiensis（エウフォルビア・モラティイ変種アントスィンギエンスィス）、Euphorbia moratii var. bemarahensis（エウフォルビア・モラティイ変種ベマラヘンスィス）及びEuphorbia moratii var. multiflora（エウフォルビア・モラティイ変種ムルティフロラ）を含む。） | 平成２年１月１８日 |
 
-| ８ | Euphorbia moratii（エウフォルビア・モラティイ）（Euphorbia moratii var. antsingiensis（エウフォルビア・モラティイ変種アントスィンギエンスィス）、Euphorbia moratii var. bemarahensis（エウフォルビア・モラティイ変種ベマラヘンスィス）及びEuphorbia moratii var. multiflora（エウフォルビア・モラティイ変種ムルティフロラ）を含む。） | 平成２年１月１８日 |
+| ８ | Euphorbia parvicyathophora（エウフォルビア・パルヴィキュアトフォラ） | 平成２年１月１８日 |
 
-| ９ | Euphorbia parvicyathophora（エウフォルビア・パルヴィキュアトフォラ） | 平成２年１月１８日 |
+| ９ | Euphorbia quartziticola（エウフォルビア・クアルトズィティコラ） | 平成２年１月１８日 |
 
-| １０ | Euphorbia quartziticola（エウフォルビア・クアルトズィティコラ） | 平成２年１月１８日 |
-
-| １１ | Euphorbia tulearensis（エウフォルビア・トゥレアレンスィス） | 平成２年１月１８日 |
+| １０ | Euphorbia tulearensis（エウフォルビア・トゥレアレンスィス） | 平成２年１月１８日 |
 
 | （９）　フォウキエリア科 |
 
@@ -2136,7 +2054,7 @@
 
 | ６ | Aloe calcairophila（アロエ・カルカイロフィラ） | 平成７年２月１６日 |
 
-| ７ | Aloe compressa（アロエ・コンプレサ）（Aloe compressa var. paucituberculata（アロエ・コンプレサ変種パウキトゥベルクラタ）及びAloe compressa var. schistophila（アロエ・コンプレサ変種スキストフィラ）を含む。） | 平成７年２月１６日 |
+| ７ | Aloe compressa（アロエ・コンプレサ）（Aloe compressa var. paucituberculata（アロエ・コンプレサ変種パウキトゥベルクラタ）、Aloe compressa var. rugosquamosa（アロエ・コンプレサ変種ルゴスクアモサ）及びAloe compressa var. schistophila（アロエ・コンプレサ変種スキストフィラ）を含む。） | 平成７年２月１６日 |
 
 | ８ | Aloe delphinensis（アロエ・デルフィネンスィス） | 平成７年２月１６日 |
 
@@ -2154,19 +2072,17 @@
 
 | １５ | Aloe parvula（アロエ・パルヴラ） | 平成７年２月１６日 |
 
-| １６ | Aloe polyphylla（アロエ・ポリュフュルラ） | 昭和５５年１１月４日 |
+| １６ | Aloe pillansii（アロエ・ピルランスィイ） | 昭和５５年１１月４日 |
 
-| １７ | Aloe rauhii（アロエ・ラウヒイ） | 平成７年２月１６日 |
+| １７ | Aloe polyphylla（アロエ・ポリュフュルラ） | 昭和５５年１１月４日 |
 
-| １８ | Aloe rugosquamosa（アロエ・ルゴスクアモサ） | 平成７年２月１６日 |
+| １８ | Aloe rauhii（アロエ・ラウヒイ） | 平成７年２月１６日 |
 
-| １９ | Aloe versicolor（アロエ・ヴェルスィコロル） | 平成７年２月１６日 |
+| １９ | Aloe suzannae（アロエ・スザンナエ） | 平成７年２月１６日 |
 
-| ２０ | Aloe vossii（アロエ・ヴォスィイ） | 昭和５５年１１月４日 |
+| ２０ | Aloe versicolor（アロエ・ヴェルスィコロル） | 平成７年２月１６日 |
 
-| ２１ | Aloestrela suzannae（アロエストゥレラ・スザンナエ） | 平成７年２月１６日 |
-
-| ２２ | Aloidendron pillansii（アロイデンドゥロン・ピルランスィイ） | 平成７年２月１６日 |
+| ２１ | Aloe vossii（アロエ・ヴォスィイ） | 昭和５５年１１月４日 |
 
 | （１２）　うつぼかずら科 |
 
@@ -2178,35 +2094,31 @@
 
 | １ | Aerangis ellisii（アエランギス・エルリスィイ） | 平成１５年２月１３日 |
 
-| ２ | Cattleya jongheana（カトレヤ・ヨンゲアナ） | 昭和５５年１１月４日 |
+| ２ | Dendrobium cruentum（デンドロビウム・クルエントゥム） | 平成７年２月１６日 |
 
-| ３ | Cattleya lobata（カトレヤ・ロバタ） | 昭和５５年１１月４日 |
+| ３ | Laelia jongheana（ラエリア・ヨンゲアナ） | 昭和５５年１１月４日 |
 
-| ４ | Dendrobium cruentum（デンドロビウム・クルエントゥム） | 平成７年２月１６日 |
+| ４ | Laelia lobata（ラエリア・ロバタ） | 昭和５５年１１月４日 |
 
-| ５ | Mexipedium xerophyticum（メクスィペディウム・クセロフュティクム） | 平成２年１月１８日 |
+| ５ | Paphiopedilum属（パフィオペディルム属）全種 | Paphiopedilum druryi（パフィオペディルム・ドルリュイ）の個体等については昭和６２年１０月２２日、その他の種の個体等については平成２年１月１８日 |
 
-| ６ | Paphiopedilum属（パフィオペディルム属）全種 | Paphiopedilum druryi（パフィオペディルム・ドルリュイ）の個体等については昭和６２年１０月２２日、その他の種の個体等については平成２年１月１８日 |
+| ６ | Peristeria elata（ペリステリア・エラタ） | 昭和５５年１１月４日 |
 
-| ７ | Peristeria elata（ペリステリア・エラタ） | 昭和５５年１１月４日 |
+| ７ | Phragmipedium属（フラグミペディウム属）全種 | 平成２年１月１８日 |
 
-| ８ | Phragmipedium属（フラグミペディウム属）全種 | 平成２年１月１８日 |
-
-| ９ | Renanthera imschootiana（レナンテラ・インスコオティアナ） | 昭和５５年１１月４日 |
+| ８ | Renanthera imschootiana（レナンテラ・インスコオティアナ） | 昭和５５年１１月４日 |
 
 | （１４）　やし科 |
 
 | １ | Dypsis decipiens（デュプスィス・デキピエンス） | 平成１７年１月１２日 |
 
-| ２ | Jubaea chilensis（チリヤシ） | 令和８年３月５日 |
-
 | （１５）　まつ科 |
 
 | １ | Abies guatemalensis（グァテマラモミ） | 昭和５５年１１月４日 |
 
-| （１６）　すべりひゆ科 |
+| （１６）　まき科 |
 
-| １ | Avonia quinaria（アヴォニア・クイナリア） | 令和８年３月５日 |
+| １ | Podocarpus parlatorei（アンデスイヌマキ） | 昭和５５年１１月４日 |
 
 | （１７）　あかね科 |
 
