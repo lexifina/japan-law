@@ -73,5 +73,3 @@ suppl/h24-42.md
 suppl/h25-76.md
 suppl/h26-21.md
 suppl/h27-59.md
-suppl/r3-61.md
-suppl/r6-20.md
