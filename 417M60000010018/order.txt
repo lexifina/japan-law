@@ -35,6 +35,7 @@ art-027-2.md
 art-027-3.md
 art-027-4.md
 art-027-5.md
+art-027-6.md
 art-028.md
 art-028-2.md
 art-029.md
@@ -47,6 +48,7 @@ art-035.md
 art-036.md
 art-037.md
 art-037-2.md
+art-037-3.md
 art-038.md
 art-039.md
 art-040.md
@@ -260,6 +262,8 @@ art-243.md
 art-244.md
 art-245.md
 art-246.md
+art-247.md
+art-248.md
 suppl/original.md
 suppl/h17-0815-m82.md
 suppl/h17-1111-m106.md
@@ -285,6 +289,7 @@ suppl/h27-0701-m37.md
 suppl/h27-0928-m43.md
 suppl/h27-1204-m51.md
 suppl/h28-0324-m12.md
+suppl/h29-0417-m20.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
