@@ -28,6 +28,7 @@ suppl/h26-0110-m1.md
 suppl/h26-0203-m4.md
 suppl/h26-1007-m33.md
 suppl/h27-0210-m2.md
+suppl/h29-0531-m28.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
