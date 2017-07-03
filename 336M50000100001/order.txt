@@ -975,17 +975,12 @@ suppl/h23-0422-m51.md
 suppl/h23-0527-m65.md
 suppl/h23-0621-m72.md
 suppl/h23-0701-m84.md
-suppl/h23-0701-m85.md
 suppl/h23-0704-m87.md
 suppl/h23-0909-m114.md
 suppl/h23-0926-m117.md
-suppl/h23-0926-m118.md
 suppl/h23-1221-m150.md
-suppl/h23-1226-m153.md
 suppl/h24-0118-m4.md
-suppl/h24-0118-m5.md
 suppl/h24-0330-m50.md
-suppl/h24-0330-m51.md
 suppl/h24-0518-m83.md
 suppl/h24-0530-m85.md
 suppl/h24-0531-m87.md
@@ -1039,6 +1034,7 @@ suppl/h28-0815-m139.md
 suppl/h28-0928-m151.md
 suppl/h28-1219-m176.md
 suppl/h29-0330-m32.md
+suppl/h29-0703-m70.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
@@ -1082,8 +1078,6 @@ appdx/style-40.md
 appdx/style-41.md
 appdx/style-42.md
 appdx/style-43.md
-appdx/note-1.md
-appdx/note-2.md
 appdx/style-44.md
 appdx/style-45.md
 appdx/style-46.md
@@ -1191,7 +1185,6 @@ appdx/style-147.md
 appdx/style-148.md
 appdx/style-149.md
 appdx/style-150.md
-appdx/note-3.md
 appdx/style-151.md
 appdx/style-152.md
 appdx/style-153.md
@@ -1240,7 +1233,6 @@ appdx/style-195.md
 appdx/style-196.md
 appdx/style-197.md
 appdx/style-198.md
-appdx/note-4.md
 appdx/style-199.md
 appdx/style-200.md
 appdx/style-201.md
@@ -1265,6 +1257,10 @@ appdx/style-219.md
 appdx/style-220.md
 appdx/style-221.md
 appdx/style-222.md
+appdx/style-223.md
+appdx/style-224.md
+appdx/style-225.md
+appdx/style-226.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-1-3.md
