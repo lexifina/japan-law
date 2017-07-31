@@ -163,6 +163,7 @@ art-114-19.md
 art-114-20.md
 art-114-21.md
 art-114-22.md
+art-114-22-2.md
 art-114-23.md
 art-114-24.md
 art-114-25.md
@@ -195,6 +196,7 @@ art-114-51.md
 art-114-52.md
 art-114-53.md
 art-114-54.md
+art-114-54-2.md
 art-114-55.md
 art-114-56.md
 art-114-57.md
@@ -1035,6 +1037,8 @@ suppl/h28-0928-m151.md
 suppl/h28-1219-m176.md
 suppl/h29-0330-m32.md
 suppl/h29-0703-m70.md
+suppl/h29-0731-m79.md
+suppl/h29-0731-m82.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
