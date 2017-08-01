@@ -73,6 +73,11 @@ art-027-11.md
 art-027-12.md
 art-027-12-2.md
 art-027-13.md
+art-027-13-2.md
+art-027-13-3.md
+art-027-13-4.md
+art-027-13-5.md
+art-027-13-6.md
 art-027-14.md
 art-027-14-2.md
 art-027-14-3.md
@@ -80,6 +85,8 @@ art-027-14-4.md
 art-027-15.md
 art-027-16.md
 art-027-17.md
+art-027-17-2.md
+art-027-17-3.md
 art-027-18.md
 art-027-19.md
 art-027-20.md
@@ -264,6 +271,7 @@ suppl/h28-0331-m55.md
 suppl/h28-1228-m187.md
 suppl/h29-0331-m52.md
 suppl/h29-0331-m53.md
+suppl/h29-0731-m86.md
 appdx/style-2.md
 appdx/style-3.md
 appdx/style-4.md
