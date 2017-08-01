@@ -119,6 +119,7 @@ art-091-3.md
 art-091-4.md
 art-091-5.md
 art-091-6.md
+art-091-7.md
 art-092.md
 art-093.md
 art-094.md
@@ -247,6 +248,7 @@ appdx/style-4.md
 appdx/style-5.md
 appdx/style-6.md
 appdx/style-7.md
+appdx/style-8.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-2.md
