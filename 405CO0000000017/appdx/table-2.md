@@ -1,6 +1,6 @@
 # 別表第二　国際希少野生動植物種（第一条、第二条、第四条関係）
 
-表一
+- 表一
 
 | 項 | 種名 |
 
@@ -572,7 +572,7 @@
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名その他の名称である。 |
 
-表二
+- 表二
 
 | 項 | 種名 | 適用日 |
 
@@ -956,7 +956,7 @@
 
 | ３ | Tapirus pinchaque（ヤマバク） | 昭和５５年１１月４日 |
 
-| ル　有鱗（りん）目 |
+| ル　有鱗目 |
 
 | （１）　せんざんこう科 |
 
@@ -1974,7 +1974,7 @@
 
 | ２９ | Sclerocactus mariposensis（スクレロカクトゥス・マリポセンスィス） | 昭和５８年７月２９日 |
 
-| ３０ | Sclerocactus mesae‐verdae（スクレロカクトゥス・メサエ―ヴェルダエ） | 昭和５８年７月２９日 |
+| ３０ | Sclerocactus mesae-verdae（スクレロカクトゥス・メサエ―ヴェルダエ） | 昭和５８年７月２９日 |
 
 | ３１ | Sclerocactus nyensis（スクレロカクトゥス・ニュエンスィス） | 平成１５年２月１３日 |
 
@@ -1990,7 +1990,7 @@
 
 | ３７ | Strombocactus属（ストロンボカクトゥス属）全種 | 昭和５８年７月２９日 |
 
-| ３８ | Turbinicarpus属（トゥルビニカルプス属）全種 | Turbinicarpus laui（トゥルビニカルプス・ラウイ）、Turbinicarpus lophophoroides（トゥルビニカルプス・ロフォフォロイデス）、Turbinicarpus pseudomacrochele（長城丸）、Turbinicarpus pseudopectinatus （トゥルビニカルプス・プセウドペクティナトゥス）、Turbinicarpus schmiedickeanus（昇龍丸）及びTurbinicarpus valdezianus（トゥルビニカルプス・ヴァルデジアヌス）の個体等については昭和５８年７月２９日、その他の種の個体等については平成４年６月１１日 |
+| ３８ | Turbinicarpus属（トゥルビニカルプス属）全種 | Turbinicarpus laui（トゥルビニカルプス・ラウイ）、Turbinicarpus lophophoroides（トゥルビニカルプス・ロフォフォロイデス）、Turbinicarpus pseudomacrochele（長城丸）、Turbinicarpus pseudopectinatus　（トゥルビニカルプス・プセウドペクティナトゥス）、Turbinicarpus schmiedickeanus（昇龍丸）及びTurbinicarpus valdezianus（トゥルビニカルプス・ヴァルデジアヌス）の個体等については昭和５８年７月２９日、その他の種の個体等については平成４年６月１１日 |
 
 | ３９ | Uebelmannia属（ウエベルマンニア属）全種 | 平成４年６月１１日 |
 

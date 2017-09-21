@@ -1,6 +1,6 @@
 # 別表第一　国内希少野生動植物種（第一条、第二条、第三条関係）
 
-表一
+- 表一
 
 | 項 | 種名 |
 
@@ -52,19 +52,17 @@
 
 | （１）　たか科 |
 
-| １ | Accipiter gentilis fujiyamae（オオタカ） |
+| １ | Aquila chrysaetos japonica（イヌワシ） |
 
-| ２ | Aquila chrysaetos japonica（イヌワシ） |
+| ２ | Buteo buteo toyoshimai（オガサワラノスリ） |
 
-| ３ | Buteo buteo toyoshimai（オガサワラノスリ） |
+| ３ | Haliaeetus albicilla albicilla（オジロワシ） |
 
-| ４ | Haliaeetus albicilla albicilla（オジロワシ） |
+| ４ | Haliaeetus pelagicus pelagicus（オオワシ） |
 
-| ５ | Haliaeetus pelagicus pelagicus（オオワシ） |
+| ５ | Spilornis cheela perplexus（カンムリワシ） |
 
-| ６ | Spilornis cheela perplexus（カンムリワシ） |
-
-| ７ | Spizaetus nipalensis orientalis（クマタカ） |
+| ６ | Spizaetus nipalensis orientalis（クマタカ） |
 
 | （２）　はやぶさ科 |
 
@@ -144,7 +142,7 @@
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名である。 |
 
-表二
+- 表二
 
 | 項 | 種名 |
 
@@ -188,7 +186,25 @@
 
 | 二　鳥綱 |
 
-| イ　ふくろう目 |
+| イ　ちどり目 |
+
+| （１）　しぎ科 |
+
+| １ | Eurynorhynchus pygmeus（ヘラシギ） |
+
+| ロ　たか目 |
+
+| （１）　たか科 |
+
+| １ | Circus spilonotus spilonotus（チュウヒ） |
+
+| ハ　すずめ目 |
+
+| （１）　ほおじろ科 |
+
+| １ | Emberiza aureola ornata（シマアオジ） |
+
+| ニ　ふくろう目 |
 
 | （１）　ふくろう科 |
 
