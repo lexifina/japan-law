@@ -597,6 +597,7 @@ suppl/h29-0721-m50.md
 suppl/h29-0829-m57.md
 suppl/h29-0901-m59.md
 suppl/h29-0905-m61.md
+suppl/h29-0925-m65.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/tablex-1.md
