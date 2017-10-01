@@ -340,6 +340,7 @@ art-023-12-2.md
 art-023-12-3.md
 art-023-12-4.md
 art-023-12-5.md
+art-023-12-6.md
 art-023-13.md
 art-023-14.md
 art-023-15.md
@@ -394,6 +395,12 @@ art-037-2.md
 art-037-3.md
 art-037-3-2.md
 art-037-4.md
+art-037-4-2.md
+art-037-4-3.md
+art-037-4-4.md
+art-037-4-5.md
+art-037-4-6.md
+art-037-4-7.md
 art-037-5.md
 art-037-5-2.md
 art-037-6.md
