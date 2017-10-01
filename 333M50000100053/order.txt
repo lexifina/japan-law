@@ -271,6 +271,7 @@ suppl/h28-0331-m55.md
 suppl/h28-1228-m187.md
 suppl/h29-0331-m52.md
 suppl/h29-0331-m53.md
+suppl/h29-0630-m69.md
 suppl/h29-0731-m86.md
 appdx/style-2.md
 appdx/style-3.md
