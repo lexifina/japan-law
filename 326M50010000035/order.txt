@@ -315,6 +315,7 @@ suppl/h26-1118-m58.md
 suppl/h27-0217-m6.md
 suppl/h27-1210-m83.md
 suppl/h28-1024-m68.md
+suppl/h28-1031-m70.md
 suppl/h29-0130-m8.md
 suppl/h29-0228-m11.md
 suppl/h29-0612-m35.md
