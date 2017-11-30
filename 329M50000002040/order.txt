@@ -360,6 +360,7 @@ suppl/h29-0113-m1.md
 suppl/h29-0328-m3.md
 suppl/h29-0331-m5.md
 suppl/h29-0828-m10.md
+suppl/h29-1110-m12.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/table-1-2.md
