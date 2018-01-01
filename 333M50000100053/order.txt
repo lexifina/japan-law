@@ -109,6 +109,7 @@ art-032-4.md
 art-032-5.md
 art-032-6.md
 art-032-7.md
+art-032-7-2.md
 art-032-8.md
 art-032-9.md
 art-032-9-2.md
@@ -269,6 +270,7 @@ suppl/h28-0204-m13.md
 suppl/h28-0331-m53.md
 suppl/h28-0331-m55.md
 suppl/h28-1228-m187.md
+suppl/h29-0331-m41.md
 suppl/h29-0331-m52.md
 suppl/h29-0331-m53.md
 suppl/h29-0630-m69.md
