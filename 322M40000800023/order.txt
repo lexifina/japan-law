@@ -343,6 +343,7 @@ suppl/h28-0526-m48.md
 suppl/h29-0131-m4.md
 suppl/h29-0901-m50.md
 suppl/h29-0929-m55.md
+suppl/h29-1025-m64.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
