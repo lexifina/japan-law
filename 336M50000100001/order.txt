@@ -632,6 +632,7 @@ art-285.md
 art-286.md
 art-287.md
 art-288.md
+art-289.md
 suppl/original.md
 suppl/s36-0424-m19.md
 suppl/s36-1024-m44.md
@@ -1042,6 +1043,8 @@ suppl/h29-0731-m79.md
 suppl/h29-0731-m82.md
 suppl/h29-0926-m96.md
 suppl/h29-0927-m99.md
+suppl/h29-1005-m106.md
+suppl/h29-1005-m107.md
 suppl/h29-1124-m124.md
 suppl/h30-0119-m6.md
 appdx/style-1.md
