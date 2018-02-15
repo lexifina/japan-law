@@ -638,9 +638,9 @@
 
 | ２５ | Ovis ammon nigrimontana（カラタウアルガリ） | 平成９年９月１８日 |
 
-| ２６ | Ovis orientalis ophion（キプロスムフロン） | 昭和５５年１１月４日 |
+| ２６ | Ovis aries ophion（キプロスムフロン） | 昭和５５年１１月４日 |
 
-| ２７ | Ovis vignei vignei（ラダックウリアル） | 昭和５５年１１月４日 |
+| ２７ | Ovis aries vignei（ラダックウリアル） | 昭和５５年１１月４日 |
 
 | ２８ | Pantholops hodgsonii（チールー） | 昭和５５年１１月４日 |
 
@@ -1793,6 +1793,8 @@
 | （１）　オステオグロッサム科 |
 
 | １ | Scleropages formosus（アジアアロワナ） | 昭和５５年１１月４日 |
+
+| ２ | Scleropages inscriptus（スクレロパゲス・インスクリプトゥス） | 昭和５５年１１月４日 |
 
 | ニ　すずき目 |
 

@@ -6,27 +6,63 @@
 
 | （１）　さといも科 |
 
-| １ | Arisaema heterocephalum ssp. okinawense（オキナワテンナンショウ） |
+| １ | Arisaema aprile（オドリコテンナンショウ） |
+
+| ２ | Arisaema cucullatum（ホロテンナンショウ） |
+
+| ３ | Arisaema heterocephalum ssp. okinawense（オキナワテンナンショウ） |
+
+| ４ | Arisaema inaense（イナヒロハテンナンショウ） |
+
+| ５ | Arisaema ishizuchiense ssp. ishizuchiense（イシヅチテンナンショウ） |
+
+| ６ | Arisaema kuratae（アマギテンナンショウ） |
+
+| ７ | Arisaema nagiense（ナギヒロハテンナンショウ） |
+
+| ８ | Arisaema ogatae（オガタテンナンショウ） |
+
+| ９ | Arisaema seppikoense（セッピコテンナンショウ） |
 
 | （２）　うまのすずくさ科 |
 
 | １ | Asarum caudigerum（オナガサイシン） |
 
-| ２ | Asarum okinawense（ヒナカンアオイ） |
+| ２ | Asarum hexalobum var. controversum（シシキカンアオイ） |
 
-| （３）　おしだ科 |
+| ３ | Asarum kinoshitae（ジュロウカンアオイ） |
+
+| ４ | Asarum monodoriflorum（モノドラカンアオイ） |
+
+| ５ | Asarum okinawense（ヒナカンアオイ） |
+
+| ６ | Asarum sakawanum var. stellatum（ホシザキカンアオイ） |
+
+| ７ | Asarum satsumense（サツマアオイ） |
+
+| ８ | Asarum yaeyamense（ヤエヤマカンアオイ） |
+
+| （３）　きく科 |
+
+| １ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
+
+| （４）　あぶらな科 |
+
+| １ | Draba igarashii（シリベシナズナ） |
+
+| （５）　おしだ科 |
 
 | １ | Polystichum obae（アマミデンダ） |
 
-| （４）　りんどう科 |
+| （６）　りんどう科 |
 
 | １ | Gentiana yakushimensis（ヤクシマリンドウ） |
 
-| （５）　ゆり科 |
+| （７）　ゆり科 |
 
 | １ | Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ） |
 
-| （６）　らん科 |
+| （８）　らん科 |
 
 | １ | Anoectochilus formosanus（キバナシュスラン） |
 
@@ -40,17 +76,25 @@
 
 | ６ | Macodes petola（ナンバンカモメラン） |
 
-| ７ | Odontochilus tashiroi（オオギミラン） |
+| ７ | Odontochilus hatusimanus（ハツシマラン） |
 
-| （７）　はなしのぶ科 |
+| ８ | Odontochilus tashiroi（オオギミラン） |
+
+| （９）　はなしのぶ科 |
 
 | １ | Polemonium kiushianum（ハナシノブ） |
 
-| （８）　きんぽうげ科 |
+| （１０）　うらぼし科 |
+
+| １ | Drynaria roosii（ハカマウラボシ） |
+
+| （１１）　きんぽうげ科 |
 
 | １ | Callianthemum hondoense（キタダケソウ） |
 
-| （９）　ななばけしだ科 |
+| ２ | Callianthemum kirigishiense（キリギシソウ） |
+
+| （１２）　ななばけしだ科 |
 
 | １ | Tectaria fauriei（コモチナナバケシダ） |
 
