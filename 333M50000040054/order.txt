@@ -282,6 +282,7 @@ art-119-4.md
 art-119-5.md
 art-119-6.md
 art-119-7.md
+art-119-7-2.md
 art-119-8.md
 art-119-9.md
 art-119-10.md
@@ -489,6 +490,7 @@ suppl/h29-0519-m40.md
 suppl/h29-0529-m43.md
 suppl/h29-0731-m52.md
 suppl/h29-1109-m59.md
+suppl/h30-0302-m3.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
