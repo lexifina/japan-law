@@ -9,6 +9,9 @@ art-003.md
 art-004.md
 art-005.md
 art-006.md
+art-006-2.md
+art-006-3.md
+art-006-4.md
 art-007.md
 art-008.md
 art-009.md
@@ -18,9 +21,6 @@ art-012.md
 art-012-2.md
 art-012-3.md
 art-012-4.md
-art-012-5.md
-art-012-6.md
-art-012-7.md
 art-013.md
 art-014.md
 art-015.md
@@ -735,6 +735,7 @@ suppl/h29-0623-co166.md
 suppl/h29-0814-co224.md
 suppl/h29-1110-co275.md
 suppl/h29-1222-co320.md
+suppl/h30-0209-co33.md
 appdx/style-1.md
 appdx/table-2.md
 appdx/table-3.md
