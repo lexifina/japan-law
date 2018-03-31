@@ -949,4 +949,5 @@ suppl/h29-31.md
 suppl/h29-45.md
 suppl/h29-46.md
 suppl/h29-54.md
+suppl/h29-60.md
 suppl/h29-74.md
