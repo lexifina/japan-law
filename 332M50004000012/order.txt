@@ -99,8 +99,12 @@ art-015-8.md
 art-015-9.md
 art-015-10.md
 art-015-11.md
+art-015-12.md
+art-015-13.md
 art-016.md
 art-016-2.md
+art-016-2-2.md
+art-016-2-3.md
 art-016-3.md
 art-016-4.md
 art-016-4-2.md
