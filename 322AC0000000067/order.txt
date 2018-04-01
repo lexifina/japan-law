@@ -184,6 +184,7 @@ art-199.md
 art-199-2.md
 art-199-3.md
 art-200.md
+art-200-2.md
 art-201.md
 art-202.md
 art-202-2.md
@@ -942,6 +943,7 @@ suppl/h28-39.md
 suppl/h28-73.md
 suppl/h28-94.md
 suppl/h28-101.md
+suppl/h28-108.md
 suppl/h29-4.md
 suppl/h29-25.md
 suppl/h29-29.md
@@ -950,4 +952,6 @@ suppl/h29-45.md
 suppl/h29-46.md
 suppl/h29-54.md
 suppl/h29-60.md
+suppl/h29-61.md
 suppl/h29-74.md
+suppl/h30-7.md
