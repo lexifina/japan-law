@@ -170,6 +170,7 @@ suppl/h28-0831-m63.md
 suppl/h28-1115-m78.md
 suppl/h29-0113-m1.md
 suppl/h29-0718-m44.md
+suppl/h29-1228-m73.md
 suppl/h30-0330-m19.md
 appdx/style-1.md
 appdx/style-2.md
