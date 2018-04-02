@@ -858,6 +858,7 @@ suppl/h29-1025-co263.md
 suppl/h29-1027-co271.md
 suppl/h29-1127-co290.md
 suppl/h29-1213-co303.md
+suppl/h29-1220-co313.md
 suppl/h29-1227-co322.md
 suppl/h30-0131-co23.md
 suppl/h30-0316-co49.md
