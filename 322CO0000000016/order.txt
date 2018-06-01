@@ -868,3 +868,5 @@ suppl/h30-0326-co61.md
 suppl/h30-0328-co65.md
 suppl/h30-0330-co92.md
 suppl/h30-0331-co125.md
+suppl/h30-0530-co173.md
+suppl/h30-0530-co175.md
