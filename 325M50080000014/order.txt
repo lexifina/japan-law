@@ -131,6 +131,7 @@ art-041-6.md
 art-042.md
 art-042-2.md
 art-042-3.md
+art-042-4.md
 art-043.md
 art-043-2.md
 art-043-3.md
@@ -605,6 +606,7 @@ suppl/h29-0927-m67.md
 suppl/h30-0125-m3.md
 suppl/h30-0201-m4.md
 suppl/h30-0202-m5.md
+suppl/h30-0629-m39.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/tablex-1.md
