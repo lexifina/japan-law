@@ -184,6 +184,16 @@ art-077-6-26.md
 art-077-7.md
 art-077-8.md
 art-077-9.md
+art-077-10.md
+art-077-11.md
+art-077-11-2.md
+art-077-11-3.md
+art-077-11-4.md
+art-077-11-5.md
+art-077-11-6.md
+art-077-12.md
+art-077-13.md
+art-077-14.md
 art-078.md
 art-078-2.md
 art-078-2-2.md
@@ -344,6 +354,7 @@ suppl/h29-0131-m4.md
 suppl/h29-0901-m50.md
 suppl/h29-0929-m55.md
 suppl/h29-1025-m64.md
+suppl/h30-0615-m49.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
@@ -356,6 +367,8 @@ appdx/tablex-9.md
 appdx/tablex-10.md
 appdx/tablex-11.md
 appdx/tablex-12.md
+appdx/tablex-13.md
+appdx/tablex-14.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
@@ -393,3 +406,6 @@ appdx/format-34.md
 appdx/format-35.md
 appdx/format-36.md
 appdx/format-37.md
+appdx/format-38.md
+appdx/format-39.md
+appdx/format-40.md
