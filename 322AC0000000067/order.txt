@@ -957,3 +957,5 @@ suppl/h29-74.md
 suppl/h30-7.md
 suppl/h30-44.md
 suppl/h30-59.md
+suppl/h30-68.md
+suppl/h30-70.md
