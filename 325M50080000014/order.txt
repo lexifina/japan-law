@@ -612,6 +612,7 @@ suppl/h30-0202-m5.md
 suppl/h30-0629-m39.md
 suppl/h30-0725-m50.md
 suppl/h30-0725-m51.md
+suppl/h30-0925-m56.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/tablex-1.md
