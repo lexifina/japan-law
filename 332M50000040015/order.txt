@@ -391,6 +391,7 @@ art-031-5-2.md
 art-031-5-3.md
 art-031-6.md
 art-031-7.md
+art-031-7-2.md
 art-031-8.md
 art-031-9.md
 art-031-10.md
