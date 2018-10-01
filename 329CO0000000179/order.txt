@@ -257,6 +257,11 @@ art-094.md
 art-095.md
 art-096.md
 art-097.md
+art-097-2.md
+art-097-3.md
+art-097-4.md
+art-097-5.md
+art-097-6.md
 art-098.md
 art-099.md
 art-100.md
@@ -274,6 +279,7 @@ art-102-10.md
 art-102-11.md
 art-102-12.md
 art-102-13.md
+art-102-14.md
 art-103.md
 art-104.md
 art-104-2.md
@@ -739,6 +745,7 @@ suppl/h30-0209-co33.md
 suppl/h30-0627-co188.md
 suppl/h30-0831-co250.md
 suppl/h30-0921-co265.md
+suppl/h30-0927-co276.md
 appdx/style-1.md
 appdx/table-2.md
 appdx/table-3.md
