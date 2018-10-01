@@ -279,6 +279,7 @@ suppl/h30-0322-m30.md
 suppl/h30-0322-m31.md
 suppl/h30-0627-m78.md
 suppl/h30-0629-m80.md
+suppl/h30-0726-m92.md
 suppl/h30-0809-m107.md
 appdx/tablex-1.md
 appdx/tablex-2.md
