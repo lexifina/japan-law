@@ -129,6 +129,8 @@ art-086.md
 art-086-2.md
 art-086-3.md
 art-086-4.md
+art-086-4-2.md
+art-086-4-3.md
 art-086-5.md
 art-086-6.md
 art-086-7.md
@@ -363,6 +365,7 @@ suppl/h29-0828-m10.md
 suppl/h29-1110-m12.md
 suppl/h29-1222-m16.md
 suppl/h30-0326-m2.md
+suppl/h30-0927-m6.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/table-1-2.md
@@ -427,3 +430,4 @@ appdx/style-52.md
 appdx/style-53.md
 appdx/style-54.md
 appdx/style-55.md
+appdx/style-56.md
