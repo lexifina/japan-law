@@ -956,6 +956,7 @@ suppl/h29-61.md
 suppl/h29-74.md
 suppl/h30-6.md
 suppl/h30-7.md
+suppl/h30-23.md
 suppl/h30-44.md
 suppl/h30-59.md
 suppl/h30-68.md
