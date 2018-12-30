@@ -843,6 +843,7 @@ suppl/h28-0527-co227.md
 suppl/h28-0527-co228.md
 suppl/h28-0603-co234.md
 suppl/h28-0818-co284.md
+suppl/h29-0125-co7.md
 suppl/h29-0217-co24.md
 suppl/h29-0323-co40.md
 suppl/h29-0329-co63.md
@@ -873,6 +874,7 @@ suppl/h30-0530-co173.md
 suppl/h30-0530-co175.md
 suppl/h30-0608-co185.md
 suppl/h30-0627-co189.md
+suppl/h30-0711-co206.md
 suppl/h30-0725-co216.md
 suppl/h30-0801-co234.md
 suppl/h30-0928-co280.md
