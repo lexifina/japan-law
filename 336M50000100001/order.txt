@@ -1052,6 +1052,7 @@ suppl/h29-0926-m96.md
 suppl/h29-0927-m99.md
 suppl/h29-1005-m106.md
 suppl/h29-1005-m107.md
+suppl/h29-1006-m109.md
 suppl/h29-1124-m124.md
 suppl/h30-0119-m6.md
 suppl/h30-0323-m34.md
