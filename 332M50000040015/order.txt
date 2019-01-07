@@ -442,6 +442,7 @@ art-040-4.md
 art-040-5.md
 art-040-6.md
 art-040-7.md
+art-040-8.md
 art-041.md
 art-042.md
 art-043.md
@@ -789,6 +790,7 @@ suppl/h29-0728-m51.md
 suppl/h29-1228-m61.md
 suppl/h30-0331-m26.md
 suppl/h30-0413-m35.md
+suppl/h30-0418-m39.md
 suppl/h30-0601-m42.md
 suppl/h30-0606-m44.md
 suppl/h30-0706-m48.md
