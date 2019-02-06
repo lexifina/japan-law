@@ -4,7 +4,11 @@
 
 | 第一　植物界 |
 
-| （１）　さといも科 |
+| （１）　おもだか科 |
+
+| １ | Sagittaria natans（カラフトグワイ） |
+
+| （２）　さといも科 |
 
 | １ | Arisaema aprile（オドリコテンナンショウ） |
 
@@ -16,15 +20,17 @@
 
 | ５ | Arisaema ishizuchiense ssp. ishizuchiense（イシヅチテンナンショウ） |
 
-| ６ | Arisaema kuratae（アマギテンナンショウ） |
+| ６ | Arisaema kawashimae（トクノシマテンナンショウ） |
 
-| ７ | Arisaema nagiense（ナギヒロハテンナンショウ） |
+| ７ | Arisaema kuratae（アマギテンナンショウ） |
 
-| ８ | Arisaema ogatae（オガタテンナンショウ） |
+| ８ | Arisaema nagiense（ナギヒロハテンナンショウ） |
 
-| ９ | Arisaema seppikoense（セッピコテンナンショウ） |
+| ９ | Arisaema ogatae（オガタテンナンショウ） |
 
-| （２）　うまのすずくさ科 |
+| １０ | Arisaema seppikoense（セッピコテンナンショウ） |
+
+| （３）　うまのすずくさ科 |
 
 | １ | Asarum caudigerum（オナガサイシン） |
 
@@ -42,27 +48,39 @@
 
 | ８ | Asarum yaeyamense（ヤエヤマカンアオイ） |
 
-| （３）　きく科 |
+| （４）　きく科 |
 
-| １ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
+| １ | Aster asagrayi var. walkeri（ヨナクニイソノギク） |
 
-| （４）　あぶらな科 |
+| ２ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
+
+| （５）　あぶらな科 |
 
 | １ | Draba igarashii（シリベシナズナ） |
 
-| （５）　おしだ科 |
+| （６）　おしだ科 |
 
 | １ | Polystichum obae（アマミデンダ） |
 
-| （６）　りんどう科 |
+| （７）　ほしくさ科 |
+
+| １ | Eriocaulon seticuspe（ヒュウガホシクサ） |
+
+| （８）　りんどう科 |
 
 | １ | Gentiana yakushimensis（ヤクシマリンドウ） |
 
-| （７）　ゆり科 |
+| （９）　ふうろそう科 |
+
+| １ | Geranium shikokianum var. yoshiianum（ヤクシマフウロ） |
+
+| （１０）　ゆり科 |
 
 | １ | Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ） |
 
-| （８）　らん科 |
+| ２ | Fritillaria kaiensis（カイコバイモ） |
+
+| （１１）　らん科 |
 
 | １ | Anoectochilus formosanus（キバナシュスラン） |
 
@@ -80,21 +98,23 @@
 
 | ８ | Odontochilus tashiroi（オオギミラン） |
 
-| （９）　はなしのぶ科 |
+| （１２）　はなしのぶ科 |
 
 | １ | Polemonium kiushianum（ハナシノブ） |
 
-| （１０）　うらぼし科 |
+| （１３）　うらぼし科 |
 
 | １ | Drynaria roosii（ハカマウラボシ） |
 
-| （１１）　きんぽうげ科 |
+| （１４）　きんぽうげ科 |
 
 | １ | Callianthemum hondoense（キタダケソウ） |
 
 | ２ | Callianthemum kirigishiense（キリギシソウ） |
 
-| （１２）　ななばけしだ科 |
+| ３ | Thalictrum uchiyamae（ムラサキカラマツ） |
+
+| （１５）　ななばけしだ科 |
 
 | １ | Tectaria fauriei（コモチナナバケシダ） |
 

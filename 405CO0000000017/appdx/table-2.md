@@ -1240,7 +1240,7 @@
 
 | ４ | Falco pelegrinoides（アカエリハヤブサ） | 昭和５５年１１月４日 |
 
-| ５ | Falco peregrinus（ハヤブサ）のうちFalco peregrinus anatum（アメリカハヤブサ）、Falco peregrinus babylonicus（アカガシラハヤブサ）、Falco peregrinus furuitii（シマハヤブサ）、Falco peregrinus japonensis（ハヤブサ）及びFalco peregrinus tundrius（ホッキョクハヤブサ）以外のもの | 昭和５５年１１月４日 |
+| ５ | Falco peregrinus（ハヤブサ）のうちFalco peregrinus anatum（アメリカハヤブサ）、Falco peregrinus babylonicus（アカガシラハヤブサ）、Falco peregrinus japonensis（ハヤブサ）及びFalco peregrinus tundrius（ホッキョクハヤブサ）以外のもの | 昭和５５年１１月４日 |
 
 | ６ | Falco punctatus（モーリシャスチョウゲンボウ） | 昭和５５年１１月４日 |
 
