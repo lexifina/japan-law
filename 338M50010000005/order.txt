@@ -90,8 +90,6 @@ art-066.md
 art-067.md
 art-068.md
 art-069.md
-art-069-2.md
-art-069-3.md
 art-070.md
 art-071.md
 art-072.md
@@ -244,6 +242,7 @@ suppl/h29-0612-m34.md
 suppl/h29-0912-m53.md
 suppl/h29-1222-m66.md
 suppl/h30-0629-m41.md
+suppl/h31-0312-m13.md
 appdx/note-1.md
 appdx/style-1.md
 appdx/style-2.md
