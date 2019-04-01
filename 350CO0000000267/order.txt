@@ -7,6 +7,7 @@ art-004.md
 art-005.md
 art-006.md
 art-007.md
+art-008.md
 suppl/original.md
 suppl/s52-1125-co310.md
 suppl/s53-0627-co260.md
@@ -67,4 +68,5 @@ suppl/h28-0122-co13.md
 suppl/h28-0325-co78.md
 suppl/h28-1226-co396.md
 suppl/h29-0614-co156.md
+suppl/h31-0130-co18.md
 suppl/h31-0330-co129.md
