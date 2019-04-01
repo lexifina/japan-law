@@ -106,6 +106,7 @@ suppl/h27-0130-m3.md
 suppl/h27-0306-m12.md
 suppl/h27-0331-m35.md
 suppl/h28-0329-m30.md
+suppl/h29-1025-m72.md
 suppl/h30-0724-m49.md
 suppl/h31-0301-m12.md
 appdx/style-1.md
