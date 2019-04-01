@@ -958,8 +958,11 @@ suppl/h30-6.md
 suppl/h30-7.md
 suppl/h30-23.md
 suppl/h30-44.md
+suppl/h30-52.md
 suppl/h30-53.md
 suppl/h30-59.md
 suppl/h30-66.md
 suppl/h30-68.md
 suppl/h30-70.md
+suppl/h30-102.md
+suppl/h31-6.md
