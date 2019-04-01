@@ -26,7 +26,6 @@ suppl/h6-0314-m9.md
 suppl/h6-1214-m77.md
 suppl/h10-0930-m81.md
 suppl/h11-0330-m35.md
-suppl/h12-0330-m57.md
 suppl/h12-0627-m103.md
 suppl/h12-1020-m127.md
 suppl/h13-0713-m170.md
@@ -37,5 +36,7 @@ suppl/h19-1225-m152.md
 suppl/h21-0318-m40.md
 suppl/h24-0629-m97.md
 suppl/h27-0331-m55.md
+suppl/h30-0216-m15.md
+suppl/h31-0123-m5.md
 appdx/style-1.md
 appdx/table.md
