@@ -679,11 +679,14 @@ suppl/h27-1106-m77.md
 suppl/h27-1117-m79.md
 suppl/h28-1028-m77.md
 suppl/h29-0329-m14.md
+suppl/h29-0929-m56.md
 suppl/h29-1003-m59.md
 suppl/h30-0330-m20.md
 suppl/h30-0810-m61.md
 suppl/h30-0920-m71.md
 suppl/h30-1109-m82.md
+suppl/h31-0329-m14.md
+suppl/h31-0401-m31.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
@@ -759,3 +762,4 @@ appdx/style-67.md
 appdx/note-1.md
 appdx/note-2.md
 appdx/note-3.md
+appdx/note-4.md
