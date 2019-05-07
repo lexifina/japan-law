@@ -70,6 +70,7 @@ suppl/h21-1218-m71.md
 suppl/h22-0331-m26.md
 suppl/h27-0306-m6.md
 suppl/h29-0308-m5.md
+suppl/r1-0507-m1.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
@@ -81,4 +82,5 @@ appdx/format-8.md
 appdx/format-9.md
 appdx/format-10.md
 appdx/format-11.md
-appdx/note-1.md
+appdx/format-12.md
+appdx/style-1.md
