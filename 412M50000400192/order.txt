@@ -74,6 +74,7 @@ suppl/h20-1201-m82.md
 suppl/h21-0130-m4.md
 suppl/h24-0515-m38.md
 suppl/h28-1101-m104.md
+suppl/r1-0701-m17.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
@@ -91,4 +92,4 @@ appdx/style-9.md
 appdx/style-10.md
 appdx/style-11.md
 appdx/style-12.md
-appdx/tablex-6.md
+appdx/style-13.md
