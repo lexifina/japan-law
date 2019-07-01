@@ -165,6 +165,7 @@ suppl/h26-1210-r7.md
 suppl/h27-1005-r7.md
 suppl/h30-0105-r1.md
 suppl/h30-0608-r6.md
+suppl/r1-0701-r3.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
@@ -226,7 +227,6 @@ appdx/style-58.md
 appdx/style-59.md
 appdx/style-60.md
 appdx/style-61.md
-appdx/style-62.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
