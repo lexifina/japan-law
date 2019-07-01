@@ -48,6 +48,7 @@ suppl/h22-0401-m15.md
 suppl/h25-0401-m28.md
 suppl/h27-0529-m42.md
 suppl/h27-0601-m43.md
+suppl/r1-0628-m20.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
