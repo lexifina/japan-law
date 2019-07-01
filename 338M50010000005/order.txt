@@ -55,8 +55,7 @@ art-035.md
 art-036.md
 art-037.md
 art-038.md
-art-039.md
-art-040.md
+art-039-to-040.md
 art-041.md
 art-042.md
 art-043.md
@@ -64,14 +63,10 @@ art-044.md
 art-045.md
 art-046.md
 art-047.md
-art-048.md
-art-049.md
+art-048-to-049.md
 art-050.md
 art-051.md
-art-052.md
-art-053.md
-art-054.md
-art-055.md
+art-052-to-055.md
 art-056.md
 art-056-2.md
 art-057.md
