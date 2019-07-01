@@ -329,6 +329,7 @@ art-131.md
 art-132.md
 art-133.md
 art-134.md
+art-135.md
 suppl/original.md
 suppl/s34-0302-m12.md
 suppl/s34-0514-m37.md
@@ -497,6 +498,7 @@ suppl/h30-1228-m71.md
 suppl/h31-0329-m3.md
 suppl/r1-0507-m1.md
 suppl/r1-0515-m2.md
+suppl/r1-0624-m7.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
