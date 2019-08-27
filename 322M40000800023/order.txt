@@ -95,6 +95,7 @@ art-047.md
 art-048.md
 art-048-2.md
 art-048-3.md
+art-048-3-2.md
 art-048-4.md
 art-049.md
 art-049-2.md
@@ -357,6 +358,7 @@ suppl/h29-0929-m56.md
 suppl/h29-1025-m64.md
 suppl/h30-0615-m49.md
 suppl/r1-0628-m20.md
+suppl/r1-0827-m31.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
