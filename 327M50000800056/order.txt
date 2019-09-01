@@ -685,6 +685,7 @@ suppl/h30-0330-m20.md
 suppl/h30-0810-m61.md
 suppl/h30-0920-m71.md
 suppl/h30-1109-m82.md
+suppl/h30-1226-m90.md
 suppl/h31-0329-m14.md
 suppl/h31-0401-m31.md
 suppl/r1-0507-m1.md
