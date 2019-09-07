@@ -971,4 +971,5 @@ suppl/h31-14.md
 suppl/r1-1.md
 suppl/r1-7.md
 suppl/r1-17.md
+suppl/r1-26.md
 suppl/r1-37.md
