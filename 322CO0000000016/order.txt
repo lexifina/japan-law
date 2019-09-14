@@ -891,3 +891,6 @@ suppl/h31-0329-co88.md
 suppl/h31-0329-co102.md
 suppl/h31-0330-co131.md
 suppl/r1-0531-co15.md
+suppl/r1-0621-co32.md
+suppl/r1-0628-co44.md
+suppl/r1-0911-co92.md
