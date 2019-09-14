@@ -6,6 +6,7 @@ art-002.md
 art-003.md
 art-004.md
 art-005.md
+art-005-2.md
 art-006.md
 art-007.md
 art-008.md
@@ -31,6 +32,7 @@ art-027.md
 art-028.md
 art-029.md
 art-030.md
+art-030-2.md
 art-031.md
 art-032.md
 art-033.md
@@ -201,6 +203,7 @@ suppl/h30-0706-m42.md
 suppl/h30-1114-m62.md
 suppl/h30-1119-m65.md
 suppl/r1-0701-m17.md
+suppl/r1-0911-m36.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
