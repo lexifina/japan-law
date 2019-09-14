@@ -36,6 +36,7 @@ art-016-6.md
 art-016-7.md
 art-016-8.md
 art-016-9.md
+art-016-9-2.md
 art-016-10.md
 art-016-11.md
 art-016-12.md
@@ -690,6 +691,7 @@ suppl/h31-0329-m14.md
 suppl/h31-0401-m31.md
 suppl/r1-0507-m1.md
 suppl/r1-0628-m20.md
+suppl/r1-0913-m34.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
