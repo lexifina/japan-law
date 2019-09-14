@@ -109,6 +109,7 @@ art-100.md
 art-101.md
 art-102.md
 art-103.md
+art-103-2.md
 art-104.md
 art-105.md
 art-106.md
@@ -212,6 +213,7 @@ suppl/h28-0802-m88.md
 suppl/h29-1201-m2.md
 suppl/h30-1130-m68.md
 suppl/r1-0701-m17.md
+suppl/r1-0911-m36.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
