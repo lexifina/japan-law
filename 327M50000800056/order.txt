@@ -408,8 +408,6 @@ art-207.md
 art-208.md
 art-209.md
 art-209-2.md
-art-209-3.md
-art-209-4.md
 art-210.md
 art-210-2.md
 art-210-3.md
@@ -470,12 +468,17 @@ art-236-5.md
 art-236-6.md
 art-236-7.md
 art-236-8.md
+art-236-9.md
+art-236-10.md
 art-237.md
 art-238.md
 art-238-2.md
 art-239.md
 art-239-2.md
 art-239-3.md
+art-239-4.md
+art-239-5.md
+art-239-6.md
 art-240.md
 art-240-2.md
 art-241.md
@@ -691,6 +694,7 @@ suppl/h31-0329-m14.md
 suppl/h31-0401-m31.md
 suppl/r1-0507-m1.md
 suppl/r1-0628-m20.md
+suppl/r1-0823-m29.md
 suppl/r1-0913-m34.md
 appdx/table-1.md
 appdx/table-2.md
