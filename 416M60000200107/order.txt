@@ -354,6 +354,15 @@ art-150-17.md
 art-151.md
 art-152.md
 art-152-2.md
+art-152-3.md
+art-152-4.md
+art-152-5.md
+art-152-6.md
+art-152-7.md
+art-152-8.md
+art-152-9.md
+art-152-10.md
+art-152-11.md
 art-153.md
 art-154.md
 art-155.md
@@ -584,6 +593,7 @@ main-appdx/style-99.md
 main-appdx/style-100.md
 main-appdx/style-101.md
 main-appdx/style-102.md
+main-appdx/style-103.md
 main-appdx/table-1.md
 main-appdx/table-2.md
 main-appdx/table-3.md
@@ -653,3 +663,4 @@ suppl/h31-0326-m21.md
 suppl/h31-0329-m28.md
 suppl/r1-0524-m3.md
 suppl/r1-0627-m10.md
+suppl/r1-0919-m32.md
