@@ -760,21 +760,25 @@
 
 | １ | Aonyx capensis microdon（カメルーンツメナシカワウソ） | 昭和５５年１１月４日 |
 
-| ２ | Enhydra lutris nereis（カリフォルニアラッコ） | 昭和５５年１１月４日 |
+| ２ | Aonyx cinerea（コツメカワウソ） | 令和元年１１月２６日 |
 
-| ３ | Lontra felina（ミナミウミカワウソ） | 昭和５５年１１月４日 |
+| ３ | Enhydra lutris nereis（カリフォルニアラッコ） | 昭和５５年１１月４日 |
 
-| ４ | Lontra longicaudis（オナガカワウソ） | 昭和５５年１１月４日 |
+| ４ | Lontra felina（ミナミウミカワウソ） | 昭和５５年１１月４日 |
 
-| ５ | Lontra provocax（チリカワウソ） | 昭和５５年１１月４日 |
+| ５ | Lontra longicaudis（オナガカワウソ） | 昭和５５年１１月４日 |
 
-| ６ | Lutra lutra（カワウソ） | 昭和５５年１１月４日 |
+| ６ | Lontra provocax（チリカワウソ） | 昭和５５年１１月４日 |
 
-| ７ | Lutra nippon（ニホンカワウソ） | 昭和５５年１１月４日 |
+| ７ | Lutra lutra（カワウソ） | 昭和５５年１１月４日 |
 
-| ８ | Mustela nigripes（クロアシイタチ） | 昭和５５年１１月４日 |
+| ８ | Lutra nippon（ニホンカワウソ） | 昭和５５年１１月４日 |
 
-| ９ | Pteronura brasiliensis（オオカワウソ） | 昭和５５年１１月４日 |
+| ９ | Lutrogale perspicillata（ビロードカワウソ） | 令和元年１１月２６日 |
+
+| １０ | Mustela nigripes（クロアシイタチ） | 昭和５５年１１月４日 |
+
+| １１ | Pteronura brasiliensis（オオカワウソ） | 昭和５５年１１月４日 |
 
 | （５）　あしか科 |
 
@@ -1128,17 +1132,7 @@
 
 | １ | Chinchilla属（チンチラ属）全種 | 昭和５５年１１月４日 |
 
-| （２）　ねずみ科 |
-
-| １ | Leporillus conditor（コヤカケネズミ） | 昭和５５年１１月４日 |
-
-| ２ | Pseudomys fieldi praeconis（シャークベイネズミ） | 昭和５５年１１月４日 |
-
-| ３ | Xeromys myoides（クマネズミモドキ） | 昭和５５年１１月４日 |
-
-| ４ | Zyzomys pedunculatus（マクドネルイワネズミ） | 昭和５５年１１月４日 |
-
-| （３）　りす科 |
+| （２）　りす科 |
 
 | １ | Cynomys mexicanus（メキシコプレーリードッグ） | 昭和５５年１１月４日 |
 
@@ -1308,9 +1302,11 @@
 
 | （１）　つる科 |
 
-| １ | Grus canadensis nesiotes（キューバカナダヅル） | 昭和５５年１１月４日 |
+| １ | Balearica pavonina（カンムリヅル） | 令和元年１１月２６日 |
 
-| ２ | Grus nigricollis（オグロヅル） | 昭和５５年１１月４日 |
+| ２ | Grus canadensis nesiotes（キューバカナダヅル） | 昭和５５年１１月４日 |
+
+| ３ | Grus nigricollis（オグロヅル） | 昭和５５年１１月４日 |
 
 | （２）　のがん科 |
 
@@ -1570,7 +1566,19 @@
 
 | ハ　とかげ亜目 |
 
-| （１）　あしなしとかげ科 |
+| （１）　きのぼりとかげ科 |
+
+| １ | Ceratophora erdeleni（ケラトフォラ・エルデレニ） | 令和元年１１月２６日 |
+
+| ２ | Ceratophora karu（ケラトフォラ・カル） | 令和元年１１月２６日 |
+
+| ３ | Ceratophora tennentii（ケラトフォラ・テンネンティイ） | 令和元年１１月２６日 |
+
+| ４ | Cophotis ceylanica（セイロンオマキキノボリアガマ） | 令和元年１１月２６日 |
+
+| ５ | Cophotis dumbara（コフォティス・ドゥムバラ） | 令和元年１１月２６日 |
+
+| （２）　あしなしとかげ科 |
 
 | １ | Abronia anzuetoi（アンズエトキノボリアリゲータートカゲ） | 平成２９年１月２日 |
 
@@ -1582,21 +1590,23 @@
 
 | ５ | Abronia meledona（メレドナキノボリアリゲータートカゲ） | 平成２９年１月２日 |
 
-| （２）　カメレオン科 |
+| （３）　カメレオン科 |
 
 | １ | Brookesia perarmata（ロゼッタヒメカメレオン） | 平成１５年２月１３日 |
 
-| （３）　やもり科 |
+| （４）　やもり科 |
 
 | １ | Cnemaspis psychedelica（ゲンカクマルメスベユビヤモリ） | 平成２９年１月２日 |
 
-| ２ | Lygodactylus williamsi（アオマルメヤモリ） | 平成２９年１月２日 |
+| ２ | Gonatodes daudini（ダウディンイロワケヤモリ） | 令和元年１１月２６日 |
 
-| （４）　どくとかげ科 |
+| ３ | Lygodactylus williamsi（アオマルメヤモリ） | 平成２９年１月２日 |
+
+| （５）　どくとかげ科 |
 
 | １ | Heloderma horridum charlesbogerti（リオモタグアドクトカゲ） | 平成１９年９月１３日 |
 
-| （５）　たてがみとかげ科 |
+| （６）　たてがみとかげ科 |
 
 | １ | Brachylophus属（フィジーイグアナ属）全種 | 昭和５６年６月６日 |
 
@@ -1604,11 +1614,11 @@
 
 | ３ | Sauromalus varius（エステバンチャクワラ） | 昭和５６年６月６日 |
 
-| （６）　かなへび科 |
+| （７）　かなへび科 |
 
 | １ | Gallotia simonyi（イエロオオカナヘビ） | 昭和６２年１０月２２日 |
 
-| （７）　おおとかげ科 |
+| （８）　おおとかげ科 |
 
 | １ | Varanus bengalensis（インドオオトカゲ） | 平成４年１月３１日 |
 
@@ -1620,7 +1630,7 @@
 
 | ５ | Varanus nebulosus（ヴァラヌス・ネブロスス） | 平成４年１月３１日 |
 
-| （８）　わにとかげ科 |
+| （９）　わにとかげ科 |
 
 | １ | Shinisaurus crocodilurus（ワニトカゲ） | 平成２９年１月２日 |
 
@@ -1680,13 +1690,19 @@
 
 | ２ | Batagur baska（ヨツユビガメ） | 昭和５５年１１月４日 |
 
-| ３ | Geoclemys hamiltonii（ハミルトンクサガメ） | 昭和５５年１１月４日 |
+| ３ | Cuora bourreti（ラオスモエギハコガメ） | 令和元年１１月２６日 |
 
-| ４ | Melanochelys tricarinata（ミスジヤマガメ） | 昭和５５年１１月４日 |
+| ４ | Cuora picturata（カンボジアモエギハコガメ） | 令和元年１１月２６日 |
 
-| ５ | Morenia ocellata（モレニア） | 昭和５５年１１月４日 |
+| ５ | Geoclemys hamiltonii（ハミルトンクサガメ） | 昭和５５年１１月４日 |
 
-| ６ | Pangshura tecta（カチューガ） | 昭和５５年１１月４日 |
+| ６ | Mauremys annamensis（アンナンガメ） | 令和元年１１月２６日 |
+
+| ７ | Melanochelys tricarinata（ミスジヤマガメ） | 昭和５５年１１月４日 |
+
+| ８ | Morenia ocellata（モレニア） | 昭和５５年１１月４日 |
+
+| ９ | Pangshura tecta（カチューガ） | 昭和５５年１１月４日 |
 
 | （６）　おおあたまがめ科 |
 
@@ -1700,17 +1716,21 @@
 
 | ３ | Chelonoidis niger（ガラパゴスゾウガメ） | 昭和５５年１１月４日 |
 
-| ４ | Geochelone platynota（ビルマホシガメ） | 平成２５年６月１２日 |
+| ４ | Geochelone elegans（インドホシガメ） | 令和元年１１月２６日 |
 
-| ５ | Gopherus flavomarginatus（メキシコゴファーガメ） | 昭和５５年１１月４日 |
+| ５ | Geochelone platynota（ビルマホシガメ） | 平成２５年６月１２日 |
 
-| ６ | Psammobates geometricus（チズガメ） | 昭和５５年１１月４日 |
+| ６ | Gopherus flavomarginatus（メキシコゴファーガメ） | 昭和５５年１１月４日 |
 
-| ７ | Pyxis arachnoides（クモノスガメ） | 平成１７年１月１２日 |
+| ７ | Malacochersus tornieri（パンケーキガメ） | 令和元年１１月２６日 |
 
-| ８ | Pyxis planicauda（ヒラオリクガメ） | 平成１５年２月１３日 |
+| ８ | Psammobates geometricus（チズガメ） | 昭和５５年１１月４日 |
 
-| ９ | Testudo kleinmanni（エジプトリクガメ） | 平成７年２月１６日 |
+| ９ | Pyxis arachnoides（クモノスガメ） | 平成１７年１月１２日 |
+
+| １０ | Pyxis planicauda（ヒラオリクガメ） | 平成１５年２月１３日 |
+
+| １１ | Testudo kleinmanni（エジプトリクガメ） | 平成７年２月１６日 |
 
 | （８）　すっぽん科 |
 
@@ -1822,11 +1842,15 @@
 
 | （１）　あげはちょう科 |
 
-| １ | Ornithoptera alexandrae（アレクサンドラトリバネアゲハ） | 昭和６２年１０月２２日 |
+| １ | Achillides chikae chikae（ルソンカラスアゲハ） | 昭和６２年１０月２２日 |
 
-| ２ | Papilio chikae（ルソンカラスアゲハ） | 昭和６２年１０月２２日 |
+| ２ | Achillides chikae hermeli（アキルリデス・キカエ・ヘルメリ） | 令和元年１１月２６日 |
 
-| ３ | Papilio homerus（ホメルスアゲハ） | 昭和６２年１０月２２日 |
+| ３ | Ornithoptera alexandrae（アレクサンドラトリバネアゲハ） | 昭和６２年１０月２２日 |
+
+| ４ | Papilio homerus（ホメルスアゲハ） | 昭和６２年１０月２２日 |
+
+| ５ | Parides burchellanus（パリデス・ブルケルラヌス） | 令和元年１１月２６日 |
 
 | 九　二枚貝綱 |
 
