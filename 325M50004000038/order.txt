@@ -3,11 +3,14 @@ enact.md
 toc.md
 art-001.md
 art-001-2.md
+art-001-3.md
+art-001-4.md
 art-002.md
 art-003.md
 art-004.md
 art-004-2.md
 art-005.md
+art-005-2.md
 art-006.md
 art-006-2.md
 art-006-3.md
@@ -63,6 +66,7 @@ art-018.md
 art-019.md
 art-020.md
 art-020-2.md
+art-020-2-2.md
 art-020-3.md
 art-020-4.md
 art-021.md
@@ -115,6 +119,8 @@ suppl/h27-0129-m5.md
 suppl/h27-0210-m8.md
 suppl/h30-1004-m78.md
 suppl/r1-0507-m1.md
+suppl/r1-0913-m34.md
+suppl/r1-1101-m42.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
