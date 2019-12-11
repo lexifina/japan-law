@@ -52,3 +52,4 @@ suppl/s54-5.md
 suppl/h11-160.md
 suppl/h16-76.md
 suppl/h17-87.md
+suppl/r1-71.md
