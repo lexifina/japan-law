@@ -120,6 +120,7 @@ suppl/h28-0914-m147.md
 suppl/h29-0726-m76.md
 suppl/r1-0628-m20.md
 suppl/r1-0628-m23.md
+suppl/r1-1118-m70.md
 appdx/note-1.md
 appdx/note-2.md
 appdx/note-3.md
