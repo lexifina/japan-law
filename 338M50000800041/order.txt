@@ -101,10 +101,7 @@ art-049.md
 art-050.md
 art-050-2.md
 art-051.md
-art-052.md
-art-053.md
-art-054.md
-art-055.md
+art-052-to-055.md
 art-055-2.md
 art-055-3.md
 art-056.md
@@ -288,6 +285,7 @@ suppl/h27-1222-m85.md
 suppl/h28-0624-m52.md
 suppl/h28-0701-m58.md
 suppl/h28-1226-m84.md
+suppl/r1-1216-m47.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-2.md
