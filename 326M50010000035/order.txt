@@ -78,7 +78,6 @@ art-047-5.md
 art-048.md
 art-049.md
 art-050.md
-art-050-2.md
 art-051.md
 art-051-2.md
 art-052.md
@@ -338,6 +337,7 @@ suppl/r1-0729-m21.md
 suppl/r1-0826-m27.md
 suppl/r1-0913-m29.md
 suppl/r1-1015-m39.md
+suppl/r1-1216-m47.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
