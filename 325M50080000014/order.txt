@@ -182,8 +182,7 @@ art-051-6.md
 art-051-7.md
 art-051-8.md
 art-051-9.md
-art-051-9-2.md
-art-051-9-3.md
+art-051-9-2-to-051-9-3.md
 art-051-9-4.md
 art-051-9-5.md
 art-051-9-6.md
@@ -626,6 +625,7 @@ suppl/r1-0628-m19.md
 suppl/r1-0711-m27.md
 suppl/r1-1001-m50.md
 suppl/r1-1120-m58.md
+suppl/r1-1213-m64.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/tablex-1.md
