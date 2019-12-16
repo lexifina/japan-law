@@ -179,6 +179,7 @@ suppl/h28-0322-m9.md
 suppl/h29-0925-m32.md
 suppl/r1-0620-m4.md
 suppl/r1-0701-m20.md
+suppl/r1-1216-m52.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
