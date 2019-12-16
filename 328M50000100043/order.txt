@@ -9,7 +9,6 @@ art-006.md
 art-007.md
 art-008.md
 art-009.md
-art-010.md
 suppl/original.md
 suppl/s35-1029-m32.md
 suppl/h12-1020-m127.md
@@ -17,5 +16,6 @@ suppl/h21-1228-m167.md
 suppl/h27-0326-m43.md
 suppl/h28-0225-m25.md
 suppl/r1-0507-m1.md
+suppl/r1-1213-m80.md
 appdx/style-1.md
 appdx/note-1.md
