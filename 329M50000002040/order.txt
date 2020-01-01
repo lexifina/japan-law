@@ -373,6 +373,7 @@ suppl/h31-0401-m6.md
 suppl/h31-0426-m8.md
 suppl/r1-0626-m4.md
 suppl/r1-1129-m7.md
+suppl/r1-1226-m10.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/table-1-2.md
