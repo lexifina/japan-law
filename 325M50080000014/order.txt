@@ -627,6 +627,7 @@ suppl/r1-1001-m50.md
 suppl/r1-1120-m58.md
 suppl/r1-1213-m64.md
 suppl/r1-1224-m68.md
+suppl/r2-0130-m4.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/tablex-1.md
