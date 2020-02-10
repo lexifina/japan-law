@@ -24,11 +24,13 @@
 
 | ７ | Arisaema kuratae（アマギテンナンショウ） |
 
-| ８ | Arisaema nagiense（ナギヒロハテンナンショウ） |
+| ８ | Arisaema minamitanii（ヒュウガヒロハテンナンショウ） |
 
-| ９ | Arisaema ogatae（オガタテンナンショウ） |
+| ９ | Arisaema nagiense（ナギヒロハテンナンショウ） |
 
-| １０ | Arisaema seppikoense（セッピコテンナンショウ） |
+| １０ | Arisaema ogatae（オガタテンナンショウ） |
+
+| １１ | Arisaema seppikoense（セッピコテンナンショウ） |
 
 | （３）　うまのすずくさ科 |
 
@@ -38,84 +40,118 @@
 
 | ３ | Asarum kinoshitae（ジュロウカンアオイ） |
 
-| ４ | Asarum monodoriflorum（モノドラカンアオイ） |
+| ４ | Asarum misandrum（アソサイシン） |
 
-| ５ | Asarum okinawense（ヒナカンアオイ） |
+| ５ | Asarum mitoanum（フクエジマカンアオイ） |
 
-| ６ | Asarum sakawanum var. stellatum（ホシザキカンアオイ） |
+| ６ | Asarum monodoriflorum（モノドラカンアオイ） |
 
-| ７ | Asarum satsumense（サツマアオイ） |
+| ７ | Asarum okinawense（ヒナカンアオイ） |
 
-| ８ | Asarum yaeyamense（ヤエヤマカンアオイ） |
+| ８ | Asarum sakawanum var. stellatum（ホシザキカンアオイ） |
 
-| （４）　きく科 |
+| ９ | Asarum satsumense（サツマアオイ） |
+
+| １０ | Asarum yaeyamense（ヤエヤマカンアオイ） |
+
+| （４）　すいかずら科 |
+
+| １ | Lonicera fragrantissima（ツシマヒョウタンボク） |
+
+| （５）　きく科 |
 
 | １ | Aster asagrayi var. walkeri（ヨナクニイソノギク） |
 
 | ２ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
 
-| （５）　あぶらな科 |
+| （６）　あぶらな科 |
 
-| １ | Draba igarashii（シリベシナズナ） |
+| １ | Berteroella maximowiczii（ハナナズナ） |
 
-| （６）　おしだ科 |
+| ２ | Draba igarashii（シリベシナズナ） |
+
+| （７）　おしだ科 |
 
 | １ | Polystichum obae（アマミデンダ） |
 
-| （７）　ほしくさ科 |
+| （８）　ほしくさ科 |
 
 | １ | Eriocaulon seticuspe（ヒュウガホシクサ） |
 
-| （８）　りんどう科 |
+| （９）　りんどう科 |
 
 | １ | Gentiana yakushimensis（ヤクシマリンドウ） |
 
-| （９）　ふうろそう科 |
+| （１０）　ふうろそう科 |
 
 | １ | Geranium shikokianum var. yoshiianum（ヤクシマフウロ） |
 
-| （１０）　ゆり科 |
+| （１１）　ゆり科 |
 
-| １ | Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ） |
+| １ | Asparagus oligoclonos（タマボウキ） |
 
-| ２ | Fritillaria kaiensis（カイコバイモ） |
+| ２ | Chionographis koidzumiana var. kurokamiana（クロカミシライトソウ） |
 
-| （１１）　らん科 |
+| ３ | Fritillaria kaiensis（カイコバイモ） |
 
-| １ | Anoectochilus formosanus（キバナシュスラン） |
+| ４ | Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス） |
 
-| ２ | Cypripedium macranthos var. macranthos（ホテイアツモリ） |
+| ５ | Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス） |
 
-| ３ | Cypripedium macranthos var. rebunense（レブンアツモリソウ） |
+| ６ | Tricyrtis perfoliata（キバナノツキヌキホトトギス） |
 
-| ４ | Cypripedium macranthos var. speciosum（アツモリソウ） |
+| （１２）　らん科 |
 
-| ５ | Dendrobium okinawense（オキナワセッコク） |
+| １ | Acanthephippium pictum（エンレイショウキラン） |
 
-| ６ | Macodes petola（ナンバンカモメラン） |
+| ２ | Anoectochilus formosanus（キバナシュスラン） |
 
-| ７ | Odontochilus hatusimanus（ハツシマラン） |
+| ３ | Crepidium kandae（カンダヒメラン） |
 
-| ８ | Odontochilus tashiroi（オオギミラン） |
+| ４ | Cypripedium macranthos var. macranthos（ホテイアツモリ） |
 
-| （１２）　はなしのぶ科 |
+| ５ | Cypripedium macranthos var. rebunense（レブンアツモリソウ） |
+
+| ６ | Cypripedium macranthos var. speciosum（アツモリソウ） |
+
+| ７ | Dendrobium okinawense（オキナワセッコク） |
+
+| ８ | Macodes petola（ナンバンカモメラン） |
+
+| ９ | Odontochilus hatusimanus（ハツシマラン） |
+
+| １０ | Odontochilus tashiroi（オオギミラン） |
+
+| （１３）　はなしのぶ科 |
 
 | １ | Polemonium kiushianum（ハナシノブ） |
 
-| （１３）　うらぼし科 |
+| （１４）　うらぼし科 |
 
 | １ | Drynaria roosii（ハカマウラボシ） |
 
-| （１４）　きんぽうげ科 |
+| （１５）　きんぽうげ科 |
 
-| １ | Callianthemum hondoense（キタダケソウ） |
+| １ | Aconitum ciliare（ハナカズラ） |
 
-| ２ | Callianthemum kirigishiense（キリギシソウ） |
+| ２ | Callianthemum hondoense（キタダケソウ） |
 
-| ３ | Thalictrum uchiyamae（ムラサキカラマツ） |
+| ３ | Callianthemum kirigishiense（キリギシソウ） |
 
-| （１５）　ななばけしだ科 |
+| ４ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
+
+| ５ | Thalictrum uchiyamae（ムラサキカラマツ） |
+
+| （１６）　ななばけしだ科 |
 
 | １ | Tectaria fauriei（コモチナナバケシダ） |
+
+| （１７）　すみれ科 |
+
+| １ | Viola tashiroi var. tairae（イシガキスミレ） |
+
+| ２ | Viola thibaudieri（タデスミレ） |
+
+| ３ | Viola utchinensis（オキナワスミレ） |
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名である。 |
