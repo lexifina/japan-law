@@ -5,6 +5,7 @@ art-001.md
 art-001-2.md
 art-001-3.md
 art-001-4.md
+art-001-5.md
 art-002.md
 art-003.md
 art-004.md
@@ -134,6 +135,7 @@ appdx/format-10.md
 appdx/format-11.md
 appdx/format-12.md
 appdx/format-13.md
-appdx/style-1.md
 appdx/format-14.md
+appdx/style-1.md
 appdx/format-15.md
+appdx/format-16.md
