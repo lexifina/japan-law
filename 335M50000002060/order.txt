@@ -52,6 +52,7 @@ art-008-5.md
 art-009.md
 art-009-2.md
 art-009-2-2.md
+art-009-2-3.md
 art-009-3.md
 art-009-4.md
 art-009-4-2.md
@@ -296,6 +297,7 @@ suppl/h30-1228-m58.md
 suppl/r1-0524-m5.md
 suppl/r1-0621-m12.md
 suppl/r1-0919-m31.md
+suppl/r2-0331-m29.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
