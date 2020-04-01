@@ -99,6 +99,7 @@ suppl/h26-1128-m90.md
 suppl/h27-0129-m5.md
 suppl/h28-0331-m23.md
 suppl/h30-0330-m17.md
+suppl/r2-0331-m27.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
