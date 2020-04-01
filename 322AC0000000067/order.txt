@@ -118,7 +118,8 @@ art-146.md
 art-147.md
 art-148.md
 art-149.md
-art-150-to-151.md
+art-150.md
+art-151.md
 art-152.md
 art-153.md
 art-154.md
@@ -180,6 +181,7 @@ art-197-2.md
 art-198.md
 art-198-2.md
 art-198-3.md
+art-198-4.md
 art-199.md
 art-199-2.md
 art-199-3.md
@@ -261,6 +263,7 @@ art-242-2.md
 art-242-3.md
 art-243.md
 art-243-2.md
+art-243-2-2.md
 art-243-3.md
 art-243-4.md
 art-243-5.md
@@ -946,6 +949,7 @@ suppl/h28-86.md
 suppl/h28-94.md
 suppl/h28-101.md
 suppl/h28-108.md
+suppl/h29-2.md
 suppl/h29-4.md
 suppl/h29-25.md
 suppl/h29-29.md
@@ -967,6 +971,7 @@ suppl/h30-59.md
 suppl/h30-66.md
 suppl/h30-68.md
 suppl/h30-70.md
+suppl/h30-78.md
 suppl/h30-102.md
 suppl/h31-2.md
 suppl/h31-4.md
@@ -974,10 +979,15 @@ suppl/h31-6.md
 suppl/h31-14.md
 suppl/r1-1.md
 suppl/r1-7.md
+suppl/r1-11.md
 suppl/r1-12.md
 suppl/r1-16.md
 suppl/r1-17.md
 suppl/r1-26.md
 suppl/r1-37.md
+suppl/r1-57.md
 suppl/r1-63.md
 suppl/r2-2.md
+suppl/r2-5.md
+suppl/r2-8.md
+suppl/r2-11.md
