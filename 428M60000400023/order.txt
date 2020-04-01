@@ -41,6 +41,7 @@ art-037.md
 art-038.md
 art-039.md
 art-040.md
+art-040-2.md
 art-041.md
 art-042.md
 art-043.md
@@ -49,9 +50,11 @@ suppl/original.md
 suppl/h28-0930-m94.md
 suppl/h29-0314-m13.md
 suppl/h29-0331-m32.md
+suppl/h29-0928-m77.md
 suppl/h30-0330-m15.md
 suppl/h30-0501-m26.md
 suppl/r1-0507-m1.md
+suppl/r2-0331-m29.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
