@@ -65,10 +65,6 @@ art-021.md
 art-022.md
 art-023.md
 art-024.md
-art-025.md
-art-026.md
-art-027.md
-art-028.md
 suppl/original.md
 suppl/s26-0420-m15.md
 suppl/s28-1001-m47.md
@@ -170,6 +166,7 @@ suppl/h26-0730-m87.md
 suppl/h27-0619-m113.md
 suppl/h28-0316-m32.md
 suppl/h30-0629-m79.md
+suppl/h30-1017-m128.md
 suppl/h30-1219-m144.md
 suppl/r1-0628-m20.md
 appdx/note-1.md
