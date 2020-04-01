@@ -881,6 +881,7 @@ suppl/h30-0725-co216.md
 suppl/h30-0801-co234.md
 suppl/h30-0928-co280.md
 suppl/h30-0928-co284.md
+suppl/h30-1017-co291.md
 suppl/h30-1024-co299.md
 suppl/h30-1109-co311.md
 suppl/h30-1228-co359.md
@@ -888,6 +889,7 @@ suppl/h30-1228-co364.md
 suppl/h31-0130-co18.md
 suppl/h31-0315-co38.md
 suppl/h31-0325-co56.md
+suppl/h31-0329-co87.md
 suppl/h31-0329-co88.md
 suppl/h31-0329-co102.md
 suppl/h31-0330-co131.md
@@ -895,9 +897,16 @@ suppl/r1-0531-co15.md
 suppl/r1-0621-co32.md
 suppl/r1-0628-co44.md
 suppl/r1-0911-co92.md
+suppl/r1-0911-co97.md
+suppl/r1-1108-co156.md
+suppl/r1-1115-co159.md
 suppl/r1-1213-co183.md
 suppl/r2-0128-co11.md
 suppl/r2-0131-co22.md
 suppl/r2-0213-co28.md
 suppl/r2-0311-co42.md
 suppl/r2-0326-co60.md
+suppl/r2-0327-co61.md
+suppl/r2-0327-co62.md
+suppl/r2-0331-co109.md
+suppl/r2-0331-co121.md
