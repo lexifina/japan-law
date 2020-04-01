@@ -132,6 +132,7 @@ art-098.md
 art-099.md
 art-100.md
 art-101.md
+art-101-2.md
 art-102.md
 art-103.md
 art-104.md
@@ -420,7 +421,9 @@ suppl/r1-0624-m3.md
 suppl/r1-0712-m6.md
 suppl/r1-0913-m7.md
 suppl/r1-1121-m8.md
+suppl/r1-1121-m9.md
 suppl/r1-1212-m10.md
+suppl/r2-0206-m2.md
 suppl/r2-0330-m4.md
 appdx/table-1.md
 appdx/table-2.md
