@@ -215,6 +215,7 @@ suppl/h26-0328-m16.md
 suppl/h28-0322-m11.md
 suppl/r1-0507-m1.md
 suppl/r1-0621-m5.md
+suppl/r2-0625-m52.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
@@ -258,8 +259,8 @@ appdx/format-40.md
 appdx/format-41.md
 appdx/format-42.md
 appdx/format-43.md
-appdx/style-1.md
 appdx/format-44.md
+appdx/style-1.md
 appdx/format-45.md
 appdx/format-46.md
 appdx/format-47.md
@@ -268,3 +269,4 @@ appdx/format-49.md
 appdx/format-50.md
 appdx/format-51.md
 appdx/format-52.md
+appdx/format-53.md
