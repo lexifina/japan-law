@@ -136,6 +136,8 @@ art-047-6.md
 art-047-7.md
 art-047-8.md
 art-047-9.md
+art-047-10.md
+art-047-11.md
 art-048.md
 art-048-2.md
 art-049.md
@@ -564,6 +566,8 @@ appdx/style-158.md
 appdx/style-159.md
 appdx/style-160.md
 appdx/style-161.md
+appdx/style-162.md
+appdx/style-163.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-2.md
