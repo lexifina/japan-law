@@ -94,6 +94,7 @@ art-017-2.md
 art-018.md
 art-018-2.md
 art-018-3.md
+art-018-3-2.md
 art-018-4.md
 art-018-5.md
 art-018-6.md
