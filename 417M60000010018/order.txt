@@ -295,6 +295,7 @@ suppl/r1-1122-m41.md
 suppl/r1-1213-m44.md
 suppl/r2-0319-m6.md
 suppl/r2-0330-m8.md
+suppl/r2-0915-m48.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
