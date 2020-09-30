@@ -716,6 +716,7 @@ suppl/r1-1216-m47.md
 suppl/r2-0117-m1.md
 suppl/r2-0319-m17.md
 suppl/r2-0807-m68.md
+suppl/r2-0930-m82.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
