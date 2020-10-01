@@ -204,6 +204,7 @@ art-113.md
 art-113-2.md
 art-113-3.md
 art-113-3-2.md
+art-113-3-3.md
 art-113-4.md
 art-113-5.md
 art-114.md
@@ -303,6 +304,7 @@ art-123.md
 art-124.md
 art-125.md
 art-125-2.md
+art-125-2-2.md
 art-125-3.md
 art-126.md
 art-126-2.md
@@ -505,6 +507,7 @@ suppl/r1-0906-m25.md
 suppl/r1-1101-m30.md
 suppl/r1-1213-m38.md
 suppl/r2-0612-m48.md
+suppl/r2-0930-m66.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
