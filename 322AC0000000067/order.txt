@@ -972,6 +972,7 @@ suppl/h30-66.md
 suppl/h30-68.md
 suppl/h30-70.md
 suppl/h30-78.md
+suppl/h30-95.md
 suppl/h30-102.md
 suppl/h31-2.md
 suppl/h31-4.md
@@ -986,6 +987,7 @@ suppl/r1-17.md
 suppl/r1-26.md
 suppl/r1-37.md
 suppl/r1-57.md
+suppl/r1-62.md
 suppl/r1-63.md
 suppl/r2-2.md
 suppl/r2-5.md
