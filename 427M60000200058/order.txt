@@ -40,6 +40,7 @@ art-031.md
 suppl/original.md
 suppl/h28-1222-m79.md
 suppl/h31-0130-m5.md
+suppl/r2-1221-m83.md
 appdx/table.md
 appdx/tablex-1.md
 appdx/tablex-2.md
@@ -79,5 +80,4 @@ appdx/note-15.md
 appdx/style-15.md
 appdx/note-16.md
 appdx/style-16.md
-appdx/note-17.md
 appdx/style-17.md
