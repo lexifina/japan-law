@@ -217,6 +217,7 @@ suppl/r1-0911-m36.md
 suppl/r1-1213-m49.md
 suppl/r2-0331-m2.md
 suppl/r2-1001-m81.md
+suppl/r2-1228-m92.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
