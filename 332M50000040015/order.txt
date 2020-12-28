@@ -820,6 +820,7 @@ suppl/r2-0511-m46.md
 suppl/r2-0708-m59.md
 suppl/r2-0828-m63.md
 suppl/r2-0930-m65.md
+suppl/r2-1224-m88.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
