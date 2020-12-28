@@ -80,6 +80,7 @@ suppl/h9-1219-m120.md
 suppl/h10-1224-m89.md
 suppl/h12-1013-m235.md
 suppl/h12-1219-m396.md
+suppl/r2-1228-m92.md
 appdx/tablex-1.md
 appdx/table-2.md
 appdx/table-3.md
