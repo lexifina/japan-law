@@ -31,6 +31,7 @@ suppl/h14-0628-m79.md
 suppl/h18-0428-m58.md
 suppl/h22-1118-m54.md
 suppl/r1-0628-m20.md
+suppl/r2-1223-m98.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
