@@ -174,7 +174,6 @@ art-011-2-2.md
 art-011-2-3.md
 art-011-3.md
 art-011-4.md
-art-011-5.md
 art-012.md
 suppl/original.md
 suppl/s27-0401-m10.md
@@ -292,6 +291,7 @@ suppl/r1-1001-m37.md
 suppl/r1-1216-m47.md
 suppl/r2-0306-m13.md
 suppl/r2-0904-m74.md
+suppl/r2-1223-m98.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
