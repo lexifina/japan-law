@@ -28,6 +28,7 @@ suppl/h12-0929-m75.md
 suppl/h19-0820-m44.md
 suppl/h20-1226-m90.md
 suppl/r1-0621-m5.md
+suppl/r2-1204-m73.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
