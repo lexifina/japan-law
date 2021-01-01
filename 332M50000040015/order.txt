@@ -144,6 +144,7 @@ art-018-23.md
 art-018-23-2.md
 art-018-23-3.md
 art-018-24.md
+art-018-24-2.md
 art-018-25.md
 art-018-26.md
 art-019.md
