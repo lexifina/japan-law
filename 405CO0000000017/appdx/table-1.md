@@ -228,7 +228,11 @@
 
 | １ | Emberiza aureola ornata（シマアオジ） |
 
-| （２）　ひたき科 |
+| （２）　もず科 |
+
+| １ | Lanius cristatus superciliosus（アカモズ） |
+
+| （３）　ひたき科 |
 
 | １ | Turdus celaenops（アカコッコ） |
 
@@ -462,6 +466,10 @@
 
 | １ | Platypleura albivannata（イシガキニイニイ） |
 
+| （３）　たいこうち科 |
+
+| １ | Laccotrephes grossus（タイワンタイコウチ） |
+
 | ハ　はち目 |
 
 | （１）　あり科 |
@@ -497,6 +505,8 @@
 | １ | Melitaea protomedia（ウスイロヒョウモンモドキ） |
 
 | ２ | Melitaea scotosia（ヒョウモンモドキ） |
+
+| ３ | Oeneis norna sugitanii（タカネヒカゲ八ヶ岳亜種） |
 
 | ホ　とんぼ目 |
 
@@ -584,15 +594,55 @@
 
 | １９ | Satsuma kumejimaensis（クメジママイマイ） |
 
+| ２０ | Satsuma sadamii（サダミマイマイ） |
+
 | （３）　きせるがい科 |
 
-| １ | Megalophaedusa ishikawai（イシカワギセル） |
+| １ | Megalophaedusa fukudainadai（ナルトギセル） |
 
-| ２ | Megalophaedusa spelaeonis（カザアナギセル） |
+| ２ | Megalophaedusa ishikawai（イシカワギセル） |
 
-| ３ | Stereophaedusa caudata（トクネニヤダマシギセル） |
+| ３ | Megalophaedusa masatokandai masatokandai（オオイタシロギセル） |
 
-| ４ | Stereophaedusa striatella（ミヤコオキナワギセル） |
+| ４ | Megalophaedusa spelaeonis（カザアナギセル） |
+
+| ５ | Reinia elegans（ニシキコギセル） |
+
+| ６ | Reinia euholostoma（ハナコギセル） |
+
+| ７ | Reinia holotrema（マルクチコギセル） |
+
+| ８ | Reinia hungerfordiana（カスガコギセル） |
+
+| ９ | Reinia masaoi（アズママルクチコギセル） |
+
+| １０ | Stereophaedusa caudata（トクネニヤダマシギセル） |
+
+| １１ | Stereophaedusa elongata（タケノコギセル） |
+
+| １２ | Stereophaedusa inclyta（リュウキュウギセル） |
+
+| １３ | Stereophaedusa striatella（ミヤコオキナワギセル） |
+
+| １４ | Zaptyx longiplicata（イトヒキツムガタノミギセル） |
+
+| （４）　きせるもどき科 |
+
+| １ | Boninena callistoderma（ハハジマキセルモドキ） |
+
+| ２ | Boninena hiraseana chichijimana（チチジマキセルモドキ） |
+
+| ３ | Boninena hiraseana hiraseana（ヒラセキセルモドキ） |
+
+| ４ | Boninena ogasawarae（オガサワラキセルモドキ） |
+
+| ５ | Luchuena eucharistus（ニシキキセルモドキ） |
+
+| （５）　おかものあらがい科 |
+
+| １ | Boninosuccinea ogasawarae（オガサワラオカモノアラガイ） |
+
+| ２ | Boninosuccinea punctulispira（テンスジオカモノアラガイ） |
 
 | 八　軟甲綱 |
 
@@ -710,15 +760,17 @@
 
 | （７）　すいかずら科 |
 
-| １ | Lonicera fragrantissima（ツシマヒョウタンボク） |
+| １ | Lonicera demissa var. borealis（キタカミヒョウタンボク） |
 
-| ２ | Lonicera kurobushiensis（クロブシヒョウタンボク） |
+| ２ | Lonicera fragrantissima（ツシマヒョウタンボク） |
 
-| ３ | Lonicera linderifolia var. linderifolia（ヤブヒョウタンボク） |
+| ３ | Lonicera kurobushiensis（クロブシヒョウタンボク） |
 
-| ４ | Lonicera uzenensis（ウゼンベニバナヒョウタンボク） |
+| ４ | Lonicera linderifolia var. linderifolia（ヤブヒョウタンボク） |
 
-| ５ | Triosteum pinnatifidum（ホザキツキヌキソウ） |
+| ５ | Lonicera uzenensis（ウゼンベニバナヒョウタンボク） |
+
+| ６ | Triosteum pinnatifidum（ホザキツキヌキソウ） |
 
 | （８）　きく科 |
 
@@ -736,6 +788,8 @@
 
 | ７ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
 
+| ８ | Senecio argunensis（コウリンギク） |
+
 | （９）　あぶらな科 |
 
 | １ | Berteroella maximowiczii（ハナナズナ） |
@@ -745,6 +799,8 @@
 | （１０）　かやつりぐさ科 |
 
 | １ | Isolepis crassiuscula（ビャッコイ） |
+
+| ２ | Schoenus calostachyus（イヘヤヒゲクサ） |
 
 | （１１）　こばのいしかぐま科 |
 
@@ -762,17 +818,23 @@
 
 | ５ | Polystichum lonchitis（ヒイラギデンダ） |
 
-| ６ | Polystichum obae（アマミデンダ） |
+| ６ | Polystichum neolobatum（ヤシャイノデ） |
 
-| ７ | Polystichum piceopaleaceum（サクラジマイノデ） |
+| ７ | Polystichum obae（アマミデンダ） |
+
+| ８ | Polystichum piceopaleaceum（サクラジマイノデ） |
+
+| ９ | Polystichum shimurae（シムライノデ） |
 
 | （１３）　つつじ科 |
 
-| １ | Rhododendron boninense（ムニンツツジ） |
+| １ | Rhododendron amakusaense（アマクサミツバツツジ） |
 
-| ２ | Rhododendron keiskei var. hypoglaucum（ウラジロヒカゲツツジ） |
+| ２ | Rhododendron boninense（ムニンツツジ） |
 
-| ３ | Vaccinium amamianum（ヤドリコケモモ） |
+| ３ | Rhododendron keiskei var. hypoglaucum（ウラジロヒカゲツツジ） |
+
+| ４ | Vaccinium amamianum（ヤドリコケモモ） |
 
 | （１４）　ほしくさ科 |
 
@@ -783,6 +845,8 @@
 | １ | Chamaesyce sparrmannii（ボロジノニシキソウ） |
 
 | ２ | Claoxylon centinarium（セキモンノキ） |
+
+| ３ | Euphorbia watanabei subsp. minamitanii（ヒュウガタイゲキ） |
 
 | （１６）　りんどう科 |
 
@@ -826,11 +890,15 @@
 
 | ３ | Fritillaria kaiensis（カイコバイモ） |
 
-| ４ | Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス） |
+| ４ | Ophiopogon reversus（ヨナグニノシラン） |
 
-| ５ | Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス） |
+| ５ | Polygonatum cryptanthum（ウスギワニグチソウ） |
 
-| ６ | Tricyrtis perfoliata（キバナノツキヌキホトトギス） |
+| ６ | Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス） |
+
+| ７ | Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス） |
+
+| ８ | Tricyrtis perfoliata（キバナノツキヌキホトトギス） |
 
 | （２３）　ひかげのかずら科 |
 
@@ -862,77 +930,79 @@
 
 | １ | Acanthephippium pictum（エンレイショウキラン） |
 
-| ２ | Anoectochilus formosanus（キバナシュスラン） |
+| ２ | Androcorys pusillus（ミスズラン） |
 
-| ３ | Anoectochilus koshunensis（コウシュンシュスラン） |
+| ３ | Anoectochilus formosanus（キバナシュスラン） |
 
-| ４ | Calanthe formosana（タイワンエビネ） |
+| ４ | Anoectochilus koshunensis（コウシュンシュスラン） |
 
-| ５ | Calanthe hattorii（アサヒエビネ） |
+| ５ | Calanthe formosana（タイワンエビネ） |
 
-| ６ | Calanthe hoshii（ホシツルラン） |
+| ６ | Calanthe hattorii（アサヒエビネ） |
 
-| ７ | Crepidium kandae（カンダヒメラン） |
+| ７ | Calanthe hoshii（ホシツルラン） |
 
-| ８ | Cryptostylis arachnites（オオスズムシラン） |
+| ８ | Crepidium kandae（カンダヒメラン） |
 
-| ９ | Cryptostylis taiwaniana（タカオオオスズムシラン） |
+| ９ | Cryptostylis arachnites（オオスズムシラン） |
 
-| １０ | Cypripedium guttatum（チョウセンキバナアツモリソウ） |
+| １０ | Cryptostylis taiwaniana（タカオオオスズムシラン） |
 
-| １１ | Cypripedium macranthos var. macranthos（ホテイアツモリ） |
+| １１ | Cypripedium guttatum（チョウセンキバナアツモリソウ） |
 
-| １２ | Cypripedium macranthos var. rebunense（レブンアツモリソウ） |
+| １２ | Cypripedium macranthos var. macranthos（ホテイアツモリ） |
 
-| １３ | Cypripedium macranthos var. speciosum（アツモリソウ） |
+| １３ | Cypripedium macranthos var. rebunense（レブンアツモリソウ） |
 
-| １４ | Dendrobium okinawense（オキナワセッコク） |
+| １４ | Cypripedium macranthos var. speciosum（アツモリソウ） |
 
-| １５ | Eulophia taiwanensis（タカサゴヤガラ） |
+| １５ | Dendrobium okinawense（オキナワセッコク） |
 
-| １６ | Gastrodia albida（ヤクシマヤツシロラン） |
+| １６ | Eulophia taiwanensis（タカサゴヤガラ） |
 
-| １７ | Gastrodia uraiensis（タブガワヤツシロラン） |
+| １７ | Gastrodia albida（ヤクシマヤツシロラン） |
 
-| １８ | Goodyera fumata（ヤブミョウガラン） |
+| １８ | Gastrodia uraiensis（タブガワヤツシロラン） |
 
-| １９ | Habenaria stenopetala（テツオサギソウ） |
+| １９ | Goodyera fumata（ヤブミョウガラン） |
 
-| ２０ | Hancockia uniflora（ヒメクリソラン） |
+| ２０ | Habenaria stenopetala（テツオサギソウ） |
 
-| ２１ | Hetaeria oblongifolia（オオカゲロウラン） |
+| ２１ | Hancockia uniflora（ヒメクリソラン） |
 
-| ２２ | Liparis nikkoensis（ヒメスズムシソウ） |
+| ２２ | Hetaeria oblongifolia（オオカゲロウラン） |
 
-| ２３ | Liparis viridiflora（コゴメキノエラン） |
+| ２３ | Liparis nikkoensis（ヒメスズムシソウ） |
 
-| ２４ | Macodes petola（ナンバンカモメラン） |
+| ２４ | Liparis viridiflora（コゴメキノエラン） |
 
-| ２５ | Malaxis boninensis（シマホザキラン） |
+| ２５ | Macodes petola（ナンバンカモメラン） |
 
-| ２６ | Odontochilus hatusimanus（ハツシマラン） |
+| ２６ | Malaxis boninensis（シマホザキラン） |
 
-| ２７ | Odontochilus nanlingensis（ヒメシラヒゲラン） |
+| ２７ | Odontochilus hatusimanus（ハツシマラン） |
 
-| ２８ | Odontochilus tashiroi（オオギミラン） |
+| ２８ | Odontochilus nanlingensis（ヒメシラヒゲラン） |
 
-| ２９ | Oreorchis itoana（コハクラン） |
+| ２９ | Odontochilus tashiroi（オオギミラン） |
 
-| ３０ | Peristylus lacertifer（タコガタサギソウ） |
+| ３０ | Oreorchis itoana（コハクラン） |
 
-| ３１ | Phaius mishmensis（ヒメカクラン） |
+| ３１ | Peristylus lacertifer（タコガタサギソウ） |
 
-| ３２ | Platanthera boninensis（シマツレサギソウ） |
+| ３２ | Phaius mishmensis（ヒメカクラン） |
 
-| ３３ | Platanthera okuboi（ハチジョウツレサギ） |
+| ３３ | Platanthera boninensis（シマツレサギソウ） |
 
-| ３４ | Platanthera sonoharae（クニガミトンボソウ） |
+| ３４ | Platanthera okuboi（ハチジョウツレサギ） |
 
-| ３５ | Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ） |
+| ３５ | Platanthera sonoharae（クニガミトンボソウ） |
 
-| ３６ | Thrixspermum fantasticum（ハガクレナガミラン） |
+| ３６ | Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ） |
 
-| ３７ | Vrydagzynea nuda（ミソボシラン） |
+| ３７ | Thrixspermum fantasticum（ハガクレナガミラン） |
+
+| ３８ | Vrydagzynea nuda（ミソボシラン） |
 
 | （３０）　きじのおしだ科 |
 
@@ -968,9 +1038,11 @@
 
 | １ | Drynaria roosii（ハカマウラボシ） |
 
-| ２ | Leptochilus decurrens（オキノクリハラン） |
+| ２ | Lepisorus oligolepidus（ウロコノキシノブ） |
 
-| ３ | Tomophyllum sakaguchianum（キレハオオクボシダ） |
+| ３ | Leptochilus decurrens（オキノクリハラン） |
+
+| ４ | Tomophyllum sakaguchianum（キレハオオクボシダ） |
 
 | （３８）　ひるむしろ科 |
 
@@ -978,7 +1050,9 @@
 
 | （３９）　さくらそう科 |
 
-| １ | Primula kisoana var. kisoana（カッコソウ） |
+| １ | Lysimachia tashiroi（オニコナスビ） |
+
+| ２ | Primula kisoana var. kisoana（カッコソウ） |
 
 | （４０）　いのもとそう科 |
 
@@ -994,17 +1068,23 @@
 
 | ２ | Aconitum iidemontanum（イイデトリカブト） |
 
-| ３ | Aconitum metajaponicum（オンタケブシ） |
+| ３ | Aconitum jaluense subsp. jaluense（コウライブシ） |
 
-| ４ | Callianthemum hondoense（キタダケソウ） |
+| ４ | Aconitum metajaponicum（オンタケブシ） |
 
-| ５ | Callianthemum kirigishiense（キリギシソウ） |
+| ５ | Callianthemum hondoense（キタダケソウ） |
 
-| ６ | Ranunculus pygmaeus（クモマキンポウゲ） |
+| ６ | Callianthemum kirigishiense（キリギシソウ） |
 
-| ７ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
+| ７ | Ranunculus altaicus subsp. shinanoalpinus（タカネキンポウゲ） |
 
-| ８ | Thalictrum uchiyamae（ムラサキカラマツ） |
+| ８ | Ranunculus kitadakeanus（キタダケキンポウゲ） |
+
+| ９ | Ranunculus pygmaeus（クモマキンポウゲ） |
+
+| １０ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
+
+| １１ | Thalictrum uchiyamae（ムラサキカラマツ） |
 
 | （４２）　くろうめもどき科 |
 
@@ -1029,6 +1109,8 @@
 | （４６）　なす科 |
 
 | １ | Lycianthes boninensis（ムニンホオズキ） |
+
+| ２ | Solanum miyakojimense（イラブナスビ） |
 
 | （４７）　きぶし科 |
 
@@ -1058,23 +1140,29 @@
 
 | （５２）　ほんごうそう科 |
 
-| １ | Sciaphila yakushimensis（ヤクシマソウ） |
+| １ | Sciaphila yakushimensis var. yakushimensis（ヤクシマソウ） |
 
-| （５３）　いらくさ科 |
+| （５３）　せり科 |
+
+| １ | Tilingia tsusimensis（ツシマノダケ） |
+
+| （５４）　いらくさ科 |
 
 | １ | Elatostema yonakuniense（ヨナクニトキホコリ） |
 
 | ２ | Procris boninensis（セキモンウライソウ） |
 
-| （５４）　おみなえし科 |
+| （５５）　おみなえし科 |
 
 | １ | Patrinia triloba var. kozushimensis（シマキンレイカ） |
 
-| （５５）　くまつづら科 |
+| （５６）　くまつづら科 |
 
-| １ | Callicarpa parvifolia（ウラジロコムラサキ） |
+| １ | Callicarpa longissima（タカクマムラサキ） |
 
-| （５６）　すみれ科 |
+| ２ | Callicarpa parvifolia（ウラジロコムラサキ） |
+
+| （５７）　すみれ科 |
 
 | １ | Viola tashiroi var. tairae（イシガキスミレ） |
 

@@ -634,13 +634,13 @@
 
 | ２３ | Oryx leucoryx（アラビアオリックス） | 昭和５５年１１月４日 |
 
-| ２４ | Ovis ammon hodgsonii（チベットアルガリ） | 昭和５５年１１月４日 |
+| ２４ | Ovis gmelini（オヴィス・グメリニ） | キプロスの個体群に属する個体等については昭和５５年１１月４日、その他の個体等については令和３年１月４日 |
 
-| ２５ | Ovis ammon nigrimontana（カラタウアルガリ） | 平成９年９月１８日 |
+| ２５ | Ovis hodgsoni（チベットアルガリ） | 昭和５５年１１月４日 |
 
-| ２６ | Ovis aries ophion（キプロスムフロン） | 昭和５５年１１月４日 |
+| ２６ | Ovis nigrimontana（カラタウアルガリ） | 平成９年９月１８日 |
 
-| ２７ | Ovis aries vignei（ラダックウリアル） | 昭和５５年１１月４日 |
+| ２７ | Ovis vignei（ラダックウリアル） | 昭和５５年１１月４日 |
 
 | ２８ | Pantholops hodgsonii（チールー） | 昭和５５年１１月４日 |
 
@@ -720,41 +720,45 @@
 
 | ４ | Felis nigripes（クロアシネコ） | 昭和５５年１１月４日 |
 
-| ５ | Leopardus geoffroyi（ジョフロワネコ） | 平成４年６月１１日 |
+| ５ | Herpailurus yagouaroundi（ジャガランディ） | 昭和５５年１１月４日 |
 
-| ６ | Leopardus jacobitus（アンデスネコ） | 昭和５５年１１月４日 |
+| ６ | Leopardus geoffroyi（ジョフロワネコ） | 平成４年６月１１日 |
 
-| ７ | Leopardus pardalis（オセロット） | Leopardus pardalis mearnsi（コスタリカオセロット）及びLeopardus pardalis mitis（ミティスオセロット）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
+| ７ | Leopardus guttulus（サザンタイガーキャット） | 平成２年１月１８日 |
 
-| ８ | Leopardus tigrinus（ジャガーネコ） | Leopardus tigrinus oncilla（コスタリカジャガーネコ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
+| ８ | Leopardus jacobita（アンデスネコ） | 昭和５５年１１月４日 |
 
-| ９ | Leopardus wiedii（マーゲイ） | Leopardus wiedii nicaraguae（ニカラグァマーゲイ）及びLeopardus wiedii salvinia（グァテマラマーゲイ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
+| ９ | Leopardus pardalis（オセロット） | Leopardus pardalis mearnsi（コスタリカオセロット）及びLeopardus pardalis mitis（ミティスオセロット）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
 
-| １０ | Lynx pardinus（スペインオオヤマネコ） | 平成２年１月１８日 |
+| １０ | Leopardus tigrinus（ジャガーネコ） | Leopardus tigrinus oncilla（コスタリカジャガーネコ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
 
-| １１ | Neofelis nebulosa（ウンピョウ） | 昭和５５年１１月４日 |
+| １１ | Leopardus wiedii（マーゲイ） | Leopardus wiedii nicaraguae（ニカラグァマーゲイ）及びLeopardus wiedii salvinia（グァテマラマーゲイ）の個体等については昭和５５年１１月４日、その他の種の個体等については平成２年１月１８日 |
 
-| １２ | Panthera leo persica（インドライオン） | 昭和５５年１１月４日 |
+| １２ | Lynx pardinus（スペインオオヤマネコ） | 平成２年１月１８日 |
 
-| １３ | Panthera onca（ジャガー） | 昭和５５年１１月４日 |
+| １３ | Neofelis diardi（スンダウンピョウ） | 昭和５５年１１月４日 |
 
-| １４ | Panthera pardus（ヒョウ） | 昭和５５年１１月４日 |
+| １４ | Neofelis nebulosa（ウンピョウ） | 昭和５５年１１月４日 |
 
-| １５ | Panthera tigris（トラ） | Panthera tigris altaica（シベリアトラ）の個体等については昭和６２年１０月２２日、その他の種の個体等については昭和５５年１１月４日 |
+| １５ | Panthera leo（ライオン） | インドの個体群に属する個体等については昭和５５年１１月４日、その他の個体等については令和３年１月４日 |
 
-| １６ | Pardofelis marmorata（マーブルキャット） | 昭和５５年１１月４日 |
+| １６ | Panthera onca（ジャガー） | 昭和５５年１１月４日 |
 
-| １７ | Prionailurus bengalensis bengalensis（ベンガルヤマネコ） | 昭和５５年１１月４日 |
+| １７ | Panthera pardus（ヒョウ） | 昭和５５年１１月４日 |
 
-| １８ | Prionailurus planiceps（マレーヤマネコ） | 昭和５５年１１月４日 |
+| １８ | Panthera tigris（トラ） | Panthera tigris altaica（シベリアトラ）の個体等については昭和６２年１０月２２日、その他の種の個体等については昭和５５年１１月４日 |
 
-| １９ | Prionailurus rubiginosus（サビイロネコ） | 昭和５５年１１月４日 |
+| １９ | Panthera uncia（ユキヒョウ） | 昭和５５年１１月４日 |
 
-| ２０ | Puma concolor costaricensis（コスタリカピューマ） | 昭和５５年１１月４日 |
+| ２０ | Pardofelis marmorata（マーブルキャット） | 昭和５５年１１月４日 |
 
-| ２１ | Puma yagouaroundi（ジャガランディ） | 昭和５５年１１月４日 |
+| ２１ | Prionailurus bengalensis bengalensis（ベンガルヤマネコ） | 昭和５５年１１月４日 |
 
-| ２２ | Uncia uncia（ユキヒョウ） | 昭和５５年１１月４日 |
+| ２２ | Prionailurus planiceps（マレーヤマネコ） | 昭和５５年１１月４日 |
+
+| ２３ | Prionailurus rubiginosus（サビイロネコ） | 昭和５５年１１月４日 |
+
+| ２４ | Puma concolor（ピューマ） | コスタリカ及びパナマの個体群に属する個体等については昭和５５年１１月４日、その他の個体等については令和３年１月４日 |
 
 | （４）　いたち科 |
 
@@ -1356,6 +1360,10 @@
 
 | １ | Leucopsar rothschildi（カンムリシロムク） | 昭和５５年１１月４日 |
 
+| （８）　めじろ科 |
+
+| １ | Zosterops albogularis（ノーフォークメジロ） | 令和３年１月４日 |
+
 | ヌ　ペリカン目 |
 
 | （１）　ペリカン科 |
@@ -1387,8 +1395,6 @@
 | ４ | Cacatua sulphurea（コバタン） | 平成１７年１月１２日 |
 
 | ５ | Probosciger aterrimus（ヤシオウム）のうちProbosciger aterrimus macgillivrayi（プロボスキゲル・アテルリムス・マクギルリヴライイ）以外のもの | 昭和６２年１０月２２日 |
-
-| ６ | Psittacus erithacus（ヨウム） | 平成２９年１月２日 |
 
 | （２）　ロリイダエ科 |
 
@@ -1454,7 +1460,7 @@
 
 | ２８ | Ognorhynchus icterotis（キミミインコ） | 昭和５８年７月２９日 |
 
-| ２９ | Pezoporus wallicus（キジインコ）のうちPezoporus wallicus flaviventris（キバラキジインコ）以外のもの | 昭和５５年１１月４日 |
+| ２９ | Pezoporus wallicus（キジインコ） | 昭和５５年１１月４日 |
 
 | ３０ | Pionopsitta pileata（ヒガシラインコ） | 昭和５５年１１月４日 |
 
@@ -1464,13 +1470,17 @@
 
 | ３３ | Psephotus dissimilis（ヒスイインコ） | 昭和５５年１１月４日 |
 
-| ３４ | Psittacula echo（シマホンセイインコ） | 昭和５５年１１月４日 |
+| ３４ | Psephotus pulcherrimus（ゴクラクインコ） | 令和３年１月４日 |
 
-| ３５ | Pyrrhura cruentata（アオマエカケインコ） | 昭和５５年１１月４日 |
+| ３５ | Psittacula echo（シマホンセイインコ） | 昭和５５年１１月４日 |
 
-| ３６ | Rhynchopsitta terrisi（エビチャガシラハシブトインコ） | 昭和５６年６月６日 |
+| ３６ | Psittacus erithacus（ヨウム） | 平成２９年１月２日 |
 
-| ３７ | Strigops habroptilus（フクロウオウム） | 昭和５５年１１月４日 |
+| ３７ | Pyrrhura cruentata（アオマエカケインコ） | 昭和５５年１１月４日 |
+
+| ３８ | Rhynchopsitta terrisi（エビチャガシラハシブトインコ） | 昭和５６年６月６日 |
+
+| ３９ | Strigops habroptilus（フクロウオウム） | 昭和５５年１１月４日 |
 
 | カ　レア目 |
 
@@ -1952,7 +1962,7 @@
 
 | ５ | Discocactus属（ディスコカクトゥス属）全種 | 平成４年６月１１日 |
 
-| ６ | Echinocereus ferreirianus ssp. lindsayi（エキノケレウス・フェルレイリアヌス・リンドサイイ） | 昭和５６年６月６日 |
+| ６ | Echinocereus ferreiranus ssp. lindsayorum（エキノケレウス・フェルレイラヌス・リンドサヨルム） | 昭和５６年６月６日 |
 
 | ７ | Echinocereus schmollii（エキノケレウス・スクモルリイ） | 昭和５８年７月２９日 |
 
@@ -2120,19 +2130,21 @@
 
 | １ | Aerangis ellisii（アエランギス・エルリスィイ） | 平成１５年２月１３日 |
 
-| ２ | Dendrobium cruentum（デンドロビウム・クルエントゥム） | 平成７年２月１６日 |
+| ２ | Cattleya jongheana（カトレヤ・ヨンゲアナ） | 昭和５５年１１月４日 |
 
-| ３ | Laelia jongheana（ラエリア・ヨンゲアナ） | 昭和５５年１１月４日 |
+| ３ | Cattleya lobata（カトレヤ・ロバタ） | 昭和５５年１１月４日 |
 
-| ４ | Laelia lobata（ラエリア・ロバタ） | 昭和５５年１１月４日 |
+| ４ | Dendrobium cruentum（デンドロビウム・クルエントゥム） | 平成７年２月１６日 |
 
-| ５ | Paphiopedilum属（パフィオペディルム属）全種 | Paphiopedilum druryi（パフィオペディルム・ドルリュイ）の個体等については昭和６２年１０月２２日、その他の種の個体等については平成２年１月１８日 |
+| ５ | Mexipedium xerophyticum（メクスィペディウム・クセロフュティクム） | 平成２年１月１８日 |
 
-| ６ | Peristeria elata（ペリステリア・エラタ） | 昭和５５年１１月４日 |
+| ６ | Paphiopedilum属（パフィオペディルム属）全種 | Paphiopedilum druryi（パフィオペディルム・ドルリュイ）の個体等については昭和６２年１０月２２日、その他の種の個体等については平成２年１月１８日 |
 
-| ７ | Phragmipedium属（フラグミペディウム属）全種 | 平成２年１月１８日 |
+| ７ | Peristeria elata（ペリステリア・エラタ） | 昭和５５年１１月４日 |
 
-| ８ | Renanthera imschootiana（レナンテラ・インスコオティアナ） | 昭和５５年１１月４日 |
+| ８ | Phragmipedium属（フラグミペディウム属）全種 | 平成２年１月１８日 |
+
+| ９ | Renanthera imschootiana（レナンテラ・インスコオティアナ） | 昭和５５年１１月４日 |
 
 | （１４）　やし科 |
 

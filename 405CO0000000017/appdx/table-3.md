@@ -72,7 +72,9 @@
 
 | （７）　おしだ科 |
 
-| １ | Polystichum obae（アマミデンダ） |
+| １ | Polystichum neolobatum（ヤシャイノデ） |
+
+| ２ | Polystichum obae（アマミデンダ） |
 
 | （８）　ほしくさ科 |
 
@@ -94,11 +96,13 @@
 
 | ３ | Fritillaria kaiensis（カイコバイモ） |
 
-| ４ | Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス） |
+| ４ | Polygonatum cryptanthum（ウスギワニグチソウ） |
 
-| ５ | Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス） |
+| ５ | Tricyrtis ishiiana var. ishiiana（サガミジョウロウホトトギス） |
 
-| ６ | Tricyrtis perfoliata（キバナノツキヌキホトトギス） |
+| ６ | Tricyrtis ishiiana var. surugensis（スルガジョウロウホトトギス） |
+
+| ７ | Tricyrtis perfoliata（キバナノツキヌキホトトギス） |
 
 | （１２）　らん科 |
 
@@ -130,7 +134,13 @@
 
 | １ | Drynaria roosii（ハカマウラボシ） |
 
-| （１５）　きんぽうげ科 |
+| ２ | Lepisorus oligolepidus（ウロコノキシノブ） |
+
+| （１５）　さくらそう科 |
+
+| １ | Lysimachia tashiroi（オニコナスビ） |
+
+| （１６）　きんぽうげ科 |
 
 | １ | Aconitum ciliare（ハナカズラ） |
 
@@ -138,15 +148,17 @@
 
 | ３ | Callianthemum kirigishiense（キリギシソウ） |
 
-| ４ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
+| ４ | Ranunculus kitadakeanus（キタダケキンポウゲ） |
 
-| ５ | Thalictrum uchiyamae（ムラサキカラマツ） |
+| ５ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
 
-| （１６）　ななばけしだ科 |
+| ６ | Thalictrum uchiyamae（ムラサキカラマツ） |
+
+| （１７）　ななばけしだ科 |
 
 | １ | Tectaria fauriei（コモチナナバケシダ） |
 
-| （１７）　すみれ科 |
+| （１８）　すみれ科 |
 
 | １ | Viola tashiroi var. tairae（イシガキスミレ） |
 
