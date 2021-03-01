@@ -133,6 +133,7 @@ art-123.md
 art-124.md
 art-125.md
 art-126.md
+art-126-2.md
 art-127.md
 art-128.md
 art-129.md
@@ -218,6 +219,7 @@ suppl/r1-1213-m49.md
 suppl/r2-0331-m2.md
 suppl/r2-1001-m81.md
 suppl/r2-1228-m92.md
+suppl/r3-0301-m10.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
