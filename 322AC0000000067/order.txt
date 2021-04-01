@@ -995,7 +995,10 @@ suppl/r2-8.md
 suppl/r2-11.md
 suppl/r2-12.md
 suppl/r2-16.md
+suppl/r2-26.md
 suppl/r2-31.md
 suppl/r2-41.md
 suppl/r2-75.md
 suppl/r3-5.md
+suppl/r3-7.md
+suppl/r3-9.md
