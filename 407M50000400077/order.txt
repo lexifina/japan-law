@@ -279,7 +279,10 @@ art-132-8.md
 art-132-9.md
 art-132-10.md
 art-132-11.md
+art-132-12.md
+art-132-13.md
 art-133.md
+art-133-2.md
 art-134.md
 art-135.md
 art-136.md
@@ -409,6 +412,9 @@ suppl/r2-0612-m56.md
 suppl/r2-0729-m65.md
 suppl/r2-0930-m79.md
 suppl/r2-1228-m92.md
+suppl/r3-0309-m11.md
+suppl/r3-0310-m12.md
+suppl/r3-0331-m27.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
@@ -572,6 +578,7 @@ appdx/style-160.md
 appdx/style-161.md
 appdx/style-162.md
 appdx/style-163.md
+appdx/style-164.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-2.md
