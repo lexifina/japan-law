@@ -104,6 +104,14 @@ art-042.md
 art-043.md
 art-044.md
 art-045.md
+art-045-2.md
+art-045-3.md
+art-045-4.md
+art-045-5.md
+art-045-6.md
+art-045-7.md
+art-045-8.md
+art-045-9.md
 art-046.md
 art-047.md
 art-048.md
@@ -149,6 +157,7 @@ suppl/h27-0306-m12.md
 suppl/h27-1127-m97.md
 suppl/h30-1113-m63.md
 suppl/r1-0514-m5.md
+suppl/r3-0319-m23.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
