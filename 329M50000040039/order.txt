@@ -217,6 +217,7 @@ suppl/r1-0507-m1.md
 suppl/r1-0621-m5.md
 suppl/r2-0625-m52.md
 suppl/r2-1211-m75.md
+suppl/r3-0331-m36.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
