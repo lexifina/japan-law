@@ -122,6 +122,7 @@ suppl/h30-1004-m78.md
 suppl/r1-0507-m1.md
 suppl/r1-0913-m34.md
 suppl/r1-1101-m42.md
+suppl/r2-0904-m75.md
 suppl/r2-1223-m98.md
 appdx/format-1.md
 appdx/format-2.md
