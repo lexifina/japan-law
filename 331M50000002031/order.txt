@@ -3,6 +3,8 @@ enact.md
 art-001.md
 art-001-2.md
 art-001-2-2.md
+art-001-2-3.md
+art-001-2-4.md
 art-001-3.md
 art-001-4.md
 art-002.md
@@ -60,6 +62,7 @@ suppl/h20-0618-m74.md
 suppl/h21-0331-m36.md
 suppl/r1-0507-m2.md
 suppl/r1-0628-m19.md
+suppl/r3-0331-m34.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
