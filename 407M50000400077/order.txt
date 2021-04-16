@@ -415,6 +415,7 @@ suppl/r2-1228-m92.md
 suppl/r3-0309-m11.md
 suppl/r3-0310-m12.md
 suppl/r3-0331-m27.md
+suppl/r3-0416-m41.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
