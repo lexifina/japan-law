@@ -1002,3 +1002,6 @@ suppl/r2-75.md
 suppl/r3-5.md
 suppl/r3-7.md
 suppl/r3-9.md
+suppl/r3-11.md
+suppl/r3-36.md
+suppl/r3-37.md
