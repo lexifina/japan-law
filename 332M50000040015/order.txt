@@ -390,6 +390,7 @@ art-029-2.md
 art-030.md
 art-030-2.md
 art-030-3.md
+art-030-4.md
 art-031.md
 art-031-2.md
 art-031-3.md
