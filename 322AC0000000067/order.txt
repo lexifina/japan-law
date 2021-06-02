@@ -1008,3 +1008,4 @@ suppl/r3-30.md
 suppl/r3-36.md
 suppl/r3-37.md
 suppl/r3-44.md
+suppl/r3-54.md
