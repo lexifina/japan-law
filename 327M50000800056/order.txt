@@ -450,6 +450,8 @@ art-221-3.md
 art-221-4.md
 art-221-5.md
 art-221-6.md
+art-221-7.md
+art-221-8.md
 art-222.md
 art-223.md
 art-224.md
@@ -723,6 +725,7 @@ suppl/r2-1223-m98.md
 suppl/r3-0331-m13.md
 suppl/r3-0510-m35.md
 suppl/r3-0519-m37.md
+suppl/r3-0611-m41.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
