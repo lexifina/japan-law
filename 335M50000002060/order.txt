@@ -194,6 +194,7 @@ art-041.md
 art-042.md
 art-043.md
 art-044.md
+art-045.md
 suppl/original.md
 suppl/s37-0901-m44.md
 suppl/s38-0329-m11.md
@@ -302,6 +303,7 @@ suppl/r2-0331-m29.md
 suppl/r2-0612-m45.md
 suppl/r2-1113-m70.md
 suppl/r2-1228-m85.md
+suppl/r3-0618-m41.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
