@@ -41,6 +41,7 @@ suppl/original.md
 suppl/h28-1222-m79.md
 suppl/h31-0130-m5.md
 suppl/r2-1221-m83.md
+suppl/r3-0628-m40.md
 appdx/table.md
 appdx/tablex-1.md
 appdx/tablex-2.md
