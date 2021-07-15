@@ -1005,6 +1005,7 @@ suppl/r3-7.md
 suppl/r3-9.md
 suppl/r3-11.md
 suppl/r3-30.md
+suppl/r3-31.md
 suppl/r3-36.md
 suppl/r3-37.md
 suppl/r3-44.md
