@@ -21,6 +21,8 @@ art-016.md
 art-017.md
 art-018.md
 art-018-2.md
+art-018-3.md
+art-018-4.md
 art-019.md
 art-020.md
 art-021.md
@@ -101,6 +103,7 @@ suppl/h28-0331-m23.md
 suppl/h30-0330-m17.md
 suppl/r2-0331-m27.md
 suppl/r2-1223-m98.md
+suppl/r3-0831-m53.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
