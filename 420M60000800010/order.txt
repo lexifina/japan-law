@@ -57,6 +57,7 @@ suppl/h21-0826-m51.md
 suppl/h23-0323-m15.md
 suppl/r2-0401-m38.md
 suppl/r2-1223-m98.md
+suppl/r3-0831-m53.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
