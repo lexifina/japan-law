@@ -1237,6 +1237,7 @@ suppl/r3-0630-m114.md
 suppl/r3-0701-m116.md
 suppl/r3-0730-m132.md
 suppl/r3-0831-m144.md
+suppl/r3-0927-m161.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
