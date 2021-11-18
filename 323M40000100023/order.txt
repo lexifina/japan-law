@@ -318,6 +318,7 @@ suppl/r2-0714-m140.md
 suppl/r2-1204-m195.md
 suppl/r2-1225-m208.md
 suppl/r3-0115-m3.md
+suppl/r3-1118-m179.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
