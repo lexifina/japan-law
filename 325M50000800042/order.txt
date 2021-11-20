@@ -16,6 +16,7 @@ art-013.md
 art-014.md
 art-015.md
 art-016.md
+art-017.md
 suppl/original.md
 suppl/s27-0721-m51.md
 suppl/s28-0207-m2.md
@@ -41,6 +42,7 @@ suppl/h22-1118-m54.md
 suppl/r1-0628-m20.md
 suppl/r2-1223-m98.md
 suppl/r3-0820-m51.md
+suppl/r3-1119-m71.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
