@@ -2,6 +2,8 @@ title.md
 enact.md
 art-001.md
 art-002.md
+art-002-2.md
+art-002-3.md
 art-003.md
 art-004.md
 art-004-2.md
@@ -39,8 +41,13 @@ art-034.md
 art-034-2.md
 art-035.md
 art-036.md
+art-036-2.md
 art-037.md
 art-038.md
+art-038-2.md
+art-038-3.md
+art-038-4.md
+art-038-5.md
 art-039.md
 art-040.md
 art-041.md
@@ -54,6 +61,7 @@ art-046.md
 art-047.md
 art-047-2.md
 art-047-3.md
+art-047-4.md
 art-048.md
 art-049.md
 art-050.md
@@ -441,6 +449,7 @@ suppl/r3-0326-m3.md
 suppl/r3-0602-m5.md
 suppl/r3-0630-m6.md
 suppl/r3-0802-m8.md
+suppl/r3-1110-m10.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
