@@ -499,6 +499,12 @@ art-239-3.md
 art-239-4.md
 art-239-5.md
 art-239-6.md
+art-239-7.md
+art-239-8.md
+art-239-9.md
+art-239-10.md
+art-239-11.md
+art-239-12.md
 art-240.md
 art-240-2.md
 art-241.md
