@@ -466,6 +466,7 @@ suppl/r2-40.md
 suppl/r2-52.md
 suppl/r3-44.md
 suppl/r3-49.md
+suppl/r3-66.md
 appdx/table.md
 suppl/h29-45-2.md
 suppl/h29-52-2.md
