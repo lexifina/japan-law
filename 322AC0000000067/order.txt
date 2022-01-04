@@ -229,7 +229,14 @@ art-229.md
 art-230.md
 art-231.md
 art-231-2.md
+art-231-2-2.md
+art-231-2-3.md
+art-231-2-4.md
+art-231-2-5.md
+art-231-2-6.md
+art-231-2-7.md
 art-231-3.md
+art-231-4.md
 art-232.md
 art-232-2.md
 art-232-3.md
