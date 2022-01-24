@@ -10,7 +10,53 @@
 
 | （１）　さんしょううお科 |
 
-| １ | Hynobius tokyoensis（トウキョウサンショウウオ） |
+| １ | Hynobius abuensis（アブサンショウウオ） |
+
+| ２ | Hynobius akiensis（アキサンショウウオ） |
+
+| ３ | Hynobius bakan（ヤマグチサンショウウオ） |
+
+| ４ | Hynobius boulengeri（オオダイガハラサンショウウオ） |
+
+| ５ | Hynobius dunni（オオイタサンショウウオ） |
+
+| ６ | Hynobius fossigenus（ヒガシヒダサンショウウオ） |
+
+| ７ | Hynobius guttatus（マホロバサンショウウオ） |
+
+| ８ | Hynobius ikioi（ベッコウサンショウウオ） |
+
+| ９ | Hynobius iwami（イワミサンショウウオ） |
+
+| １０ | Hynobius kuishiensis（イヨシマサンショウウオ） |
+
+| １１ | Hynobius kunibiki（イズモサンショウウオ） |
+
+| １２ | Hynobius naevius（ブチサンショウウオ） |
+
+| １３ | Hynobius nebulosus（カスミサンショウウオ） |
+
+| １４ | Hynobius okiensis（オキサンショウウオ） |
+
+| １５ | Hynobius oyamai（チクシブチサンショウウオ） |
+
+| １６ | Hynobius sematonotos（チュウゴクブチサンショウウオ） |
+
+| １７ | Hynobius setoi（サンインサンショウウオ） |
+
+| １８ | Hynobius setouchi（セトウチサンショウウオ） |
+
+| １９ | Hynobius stejnegeri（コガタブチサンショウウオ） |
+
+| ２０ | Hynobius tokyoensis（トウキョウサンショウウオ） |
+
+| ２１ | Hynobius utsunomiyaorum（ヒバサンショウウオ） |
+
+| ２２ | Hynobius vandenburghi（ヤマトサンショウウオ） |
+
+| ２３ | Onychodactylus kinneburi（シコクハコネサンショウウオ） |
+
+| ２４ | Salamandrella keyserlingii（キタサンショウウオ） |
 
 | 二　条鰭亜綱 |
 
@@ -27,5 +73,15 @@
 | （１）　こおいむし科 |
 
 | １ | Kirkaldyia deyrolli（タガメ） |
+
+| 四　二枚貝綱 |
+
+| イ　いしがい目 |
+
+| （１）　かわしんじゅがい科 |
+
+| １ | Margaritifera laevis（カワシンジュガイ） |
+
+| ２ | Margaritifera togakushiensis（コガタカワシンジュガイ） |
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名である。 |

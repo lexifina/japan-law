@@ -322,17 +322,69 @@
 
 | １ | Hynobius abei（アベサンショウウオ） |
 
-| ２ | Hynobius amakusaensis（アマクササンショウウオ） |
+| ２ | Hynobius abuensis（アブサンショウウオ） |
 
-| ３ | Hynobius osumiensis（オオスミサンショウウオ） |
+| ３ | Hynobius akiensis（アキサンショウウオ） |
 
-| ４ | Hynobius shinichisatoi（ソボサンショウウオ） |
+| ４ | Hynobius amakusaensis（アマクササンショウウオ） |
 
-| ５ | Hynobius tokyoensis（トウキョウサンショウウオ） |
+| ５ | Hynobius bakan（ヤマグチサンショウウオ） |
 
-| ６ | Hynobius tosashimizuensis（トサシミズサンショウウオ） |
+| ６ | Hynobius boulengeri（オオダイガハラサンショウウオ） |
 
-| ７ | Onychodactylus tsukubaensis（ツクバハコネサンショウウオ） |
+| ７ | Hynobius dunni（オオイタサンショウウオ） |
+
+| ８ | Hynobius fossigenus（ヒガシヒダサンショウウオ） |
+
+| ９ | Hynobius guttatus（マホロバサンショウウオ） |
+
+| １０ | Hynobius hidamontanus（ハクバサンショウウオ） |
+
+| １１ | Hynobius ikioi（ベッコウサンショウウオ） |
+
+| １２ | Hynobius iwami（イワミサンショウウオ） |
+
+| １３ | Hynobius katoi（アカイシサンショウウオ） |
+
+| １４ | Hynobius kuishiensis（イヨシマサンショウウオ） |
+
+| １５ | Hynobius kunibiki（イズモサンショウウオ） |
+
+| １６ | Hynobius naevius（ブチサンショウウオ） |
+
+| １７ | Hynobius nebulosus（カスミサンショウウオ） |
+
+| １８ | Hynobius okiensis（オキサンショウウオ） |
+
+| １９ | Hynobius osumiensis（オオスミサンショウウオ） |
+
+| ２０ | Hynobius oyamai（チクシブチサンショウウオ） |
+
+| ２１ | Hynobius sematonotos（チュウゴクブチサンショウウオ） |
+
+| ２２ | Hynobius setoi（サンインサンショウウオ） |
+
+| ２３ | Hynobius setouchi（セトウチサンショウウオ） |
+
+| ２４ | Hynobius shinichisatoi（ソボサンショウウオ） |
+
+| ２５ | Hynobius stejnegeri（コガタブチサンショウウオ） |
+
+| ２６ | Hynobius tokyoensis（トウキョウサンショウウオ） |
+
+| ２７ | Hynobius tosashimizuensis（トサシミズサンショウウオ） |
+
+| ２８ | Hynobius tsurugiensis（ツルギサンショウウオ） |
+
+| ２９ | Hynobius utsunomiyaorum（ヒバサンショウウオ） |
+
+| ３０ | Hynobius vandenburghi（ヤマトサンショウウオ） |
+
+| ３１ | Onychodactylus kinneburi（シコクハコネサンショウウオ） |
+
+| ３２ | Onychodactylus tsukubaensis（ツクバハコネサンショウウオ） |
+
+| ３３ | Salamandrella keyserlingii（キタサンショウウオ） |
 
 | （２）　いもり科 |
 
@@ -534,7 +586,17 @@
 
 | １ | Celes akitanus（アカハネバッタ） |
 
-| 七　腹足綱 |
+| 七　二枚貝綱 |
+
+| イ　いしがい目 |
+
+| （１）　かわしんじゅがい科 |
+
+| １ | Margaritifera laevis（カワシンジュガイ） |
+
+| ２ | Margaritifera togakushiensis（コガタカワシンジュガイ） |
+
+| 八　腹足綱 |
 
 | イ　柄眼目 |
 
@@ -644,7 +706,7 @@
 
 | ２ | Boninosuccinea punctulispira（テンスジオカモノアラガイ） |
 
-| 八　軟甲綱 |
+| 九　軟甲綱 |
 
 | イ　十脚目 |
 
@@ -782,13 +844,15 @@
 
 | ４ | Crepidiastrum lanceolatum var. daitoense（ダイトウワダン） |
 
-| ５ | Saussurea japonica（ヒナヒゴタイ） |
+| ５ | Saussurea insularis（シマトウヒレン） |
 
-| ６ | Saussurea mikurasimensis（ミクラジマトウヒレン） |
+| ６ | Saussurea japonica（ヒナヒゴタイ） |
 
-| ７ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
+| ７ | Saussurea mikurasimensis（ミクラジマトウヒレン） |
 
-| ８ | Senecio argunensis（コウリンギク） |
+| ８ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
+
+| ９ | Senecio argunensis（コウリンギク） |
 
 | （９）　あぶらな科 |
 
@@ -798,9 +862,13 @@
 
 | （１０）　かやつりぐさ科 |
 
-| １ | Isolepis crassiuscula（ビャッコイ） |
+| １ | Carex lehmannii（センジョウスゲ） |
 
-| ２ | Schoenus calostachyus（イヘヤヒゲクサ） |
+| ２ | Eleocharis tetraquetra var. tsurumachii（カドハリイ） |
+
+| ３ | Isolepis crassiuscula（ビャッコイ） |
+
+| ４ | Schoenus calostachyus（イヘヤヒゲクサ） |
 
 | （１１）　こばのいしかぐま科 |
 
@@ -1019,6 +1087,8 @@
 | （３３）　いね科 |
 
 | １ | Piptatherum kuoi（イネガヤ） |
+
+| ２ | Stipa alpina（ヒゲナガコメススキ） |
 
 | （３４）　はなしのぶ科 |
 
