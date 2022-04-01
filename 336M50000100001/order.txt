@@ -49,6 +49,7 @@ art-015-9.md
 art-015-10.md
 art-015-11.md
 art-015-11-2.md
+art-015-11-3.md
 art-015-12.md
 art-015-13.md
 art-015-14.md
@@ -475,6 +476,7 @@ art-147-9.md
 art-147-10.md
 art-147-11.md
 art-147-11-2.md
+art-147-11-3.md
 art-147-12.md
 art-147-13.md
 art-148.md
@@ -494,6 +496,7 @@ art-149-12.md
 art-149-13.md
 art-149-14.md
 art-149-15.md
+art-149-16.md
 art-150.md
 art-151.md
 art-152.md
@@ -1236,6 +1239,7 @@ suppl/r3-0629-m113.md
 suppl/r3-0630-m114.md
 suppl/r3-0701-m116.md
 suppl/r3-0730-m132.md
+suppl/r3-0730-m133.md
 suppl/r3-0831-m144.md
 suppl/r3-0927-m161.md
 suppl/r3-1224-m200.md
