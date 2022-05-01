@@ -770,6 +770,7 @@ suppl/r3-1110-m75.md
 suppl/r3-1227-m82.md
 suppl/r4-0228-m3.md
 suppl/r4-0331-m23.md
+suppl/r4-0331-m34.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
