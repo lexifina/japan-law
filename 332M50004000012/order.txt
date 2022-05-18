@@ -122,7 +122,6 @@ art-016-8.md
 art-016-9.md
 art-016-10.md
 art-016-11.md
-art-016-12.md
 art-017.md
 art-017-2.md
 art-018.md
@@ -283,6 +282,7 @@ suppl/r2-0717-m2.md
 suppl/r2-1223-m98.md
 suppl/r3-0831-m53.md
 suppl/r3-1022-m68.md
+suppl/r4-0427-m3.md
 appdx/note-1.md
 appdx/style-1.md
 appdx/style-2.md
