@@ -74,8 +74,7 @@ art-106.md
 art-107.md
 art-108.md
 art-109.md
-art-110.md
-art-111.md
+art-110-to-111.md
 art-112.md
 art-113.md
 art-114.md
@@ -1026,3 +1025,4 @@ suppl/r4-1.md
 suppl/r4-4.md
 suppl/r4-16.md
 suppl/r4-34.md
+suppl/r4-44.md
