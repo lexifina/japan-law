@@ -95,6 +95,7 @@ art-037-3.md
 art-038.md
 art-039.md
 art-040.md
+art-040-2.md
 art-041.md
 art-042.md
 art-043.md
@@ -121,6 +122,7 @@ art-053-5.md
 art-053-6.md
 art-053-7.md
 art-053-8.md
+art-053-9.md
 art-054.md
 art-055.md
 art-056.md
@@ -222,6 +224,7 @@ art-114-16.md
 art-114-17.md
 art-114-18.md
 art-114-19.md
+art-114-19-2.md
 art-114-20.md
 art-114-21.md
 art-114-22.md
@@ -245,6 +248,7 @@ art-114-33.md
 art-114-34.md
 art-114-35.md
 art-114-36.md
+art-114-36-2.md
 art-114-37.md
 art-114-38.md
 art-114-39.md
@@ -373,6 +377,7 @@ art-137-20.md
 art-137-21.md
 art-137-22.md
 art-137-23.md
+art-137-23-2.md
 art-137-24.md
 art-137-25.md
 art-137-26.md
@@ -1249,6 +1254,7 @@ suppl/r4-0314-m36.md
 suppl/r4-0328-m43.md
 suppl/r4-0328-m44.md
 suppl/r4-0331-m65.md
+suppl/r4-0520-m84.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
