@@ -1026,3 +1026,5 @@ suppl/r4-4.md
 suppl/r4-16.md
 suppl/r4-34.md
 suppl/r4-44.md
+suppl/r4-48.md
+suppl/r4-52.md
