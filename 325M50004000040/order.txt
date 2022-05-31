@@ -156,6 +156,7 @@ art-010-15-4.md
 art-010-15-5.md
 art-010-15-6.md
 art-010-15-7.md
+art-010-15-8.md
 art-010-16.md
 art-010-17.md
 art-010-18.md
@@ -299,6 +300,7 @@ suppl/r3-0831-m53.md
 suppl/r3-1022-m68.md
 suppl/r3-1029-m69.md
 suppl/r4-0118-m4.md
+suppl/r4-0527-m48.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
