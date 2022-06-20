@@ -284,8 +284,7 @@ art-151.md
 art-152.md
 art-153.md
 art-154.md
-art-155.md
-art-156.md
+art-155-to-156.md
 art-157.md
 art-157-2.md
 art-157-3.md
@@ -471,8 +470,7 @@ art-233-3.md
 art-234.md
 art-234-2.md
 art-235.md
-art-235-2.md
-art-235-3.md
+art-235-2-to-235-3.md
 art-235-4.md
 art-235-4-2.md
 art-235-4-3.md
@@ -504,6 +502,17 @@ art-236-9.md
 art-236-10.md
 art-236-11.md
 art-236-12.md
+art-236-13.md
+art-236-14.md
+art-236-15.md
+art-236-16.md
+art-236-17.md
+art-236-18.md
+art-236-19.md
+art-236-20.md
+art-236-21.md
+art-236-22.md
+art-236-23.md
 art-237.md
 art-238.md
 art-238-2.md
@@ -762,6 +771,7 @@ suppl/r3-0924-m57.md
 suppl/r3-1005-m65.md
 suppl/r3-1125-m72.md
 suppl/r3-1208-m76.md
+suppl/r4-0617-m51.md
 appdx/tablex-1.md
 appdx/table-2.md
 appdx/table-3.md
@@ -834,7 +844,6 @@ appdx/style-71.md
 appdx/style-72.md
 appdx/style-73.md
 appdx/style-74.md
-appdx/style-75.md
 appdx/note-1.md
 appdx/note-2.md
 appdx/note-3.md
