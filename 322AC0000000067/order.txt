@@ -417,6 +417,7 @@ art-260-16.md
 art-260-17.md
 art-260-18.md
 art-260-19.md
+art-260-19-2.md
 art-260-20.md
 art-260-21.md
 art-260-22.md
