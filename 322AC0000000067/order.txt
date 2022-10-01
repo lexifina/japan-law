@@ -1030,6 +1030,8 @@ suppl/r4-34.md
 suppl/r4-37.md
 suppl/r4-44.md
 suppl/r4-48.md
+suppl/r4-49.md
 suppl/r4-52.md
+suppl/r4-53.md
 suppl/r4-56.md
 suppl/r4-68.md
