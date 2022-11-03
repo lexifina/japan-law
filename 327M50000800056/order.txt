@@ -772,6 +772,7 @@ suppl/r3-1005-m65.md
 suppl/r3-1125-m72.md
 suppl/r3-1208-m76.md
 suppl/r4-0617-m51.md
+suppl/r4-1102-m77.md
 appdx/tablex-1.md
 appdx/table-2.md
 appdx/table-3.md
@@ -844,6 +845,7 @@ appdx/style-71.md
 appdx/style-72.md
 appdx/style-73.md
 appdx/style-74.md
+appdx/style-75.md
 appdx/note-1.md
 appdx/note-2.md
 appdx/note-3.md
