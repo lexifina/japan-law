@@ -204,6 +204,7 @@ suppl/r1-52.md
 suppl/r2-66.md
 suppl/r3-36.md
 suppl/r4-18.md
+suppl/r4-82.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
