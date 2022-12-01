@@ -490,6 +490,9 @@ art-235-4-16.md
 art-235-4-17.md
 art-235-4-18.md
 art-235-4-19.md
+art-235-4-20.md
+art-235-4-21.md
+art-235-4-22.md
 art-236.md
 art-236-2.md
 art-236-3.md
@@ -766,6 +769,7 @@ suppl/r3-1208-m76.md
 suppl/r4-0617-m51.md
 suppl/r4-1102-m77.md
 suppl/r4-1122-m81.md
+suppl/r4-1201-m86.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
@@ -839,6 +843,8 @@ appdx/style-65.md
 appdx/style-66.md
 appdx/style-67.md
 appdx/style-68.md
+appdx/style-69.md
+appdx/style-70.md
 appdx/note-1.md
 appdx/note-2.md
 appdx/note-3.md
