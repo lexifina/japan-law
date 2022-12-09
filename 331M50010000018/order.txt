@@ -81,5 +81,6 @@ suppl/r3-0203-m3.md
 suppl/r3-0331-m19.md
 suppl/r3-1224-m70.md
 suppl/r4-0331-m32.md
+suppl/r4-1209-m73.md
 appdx/style-1.md
 appdx/table.md
