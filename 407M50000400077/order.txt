@@ -484,6 +484,7 @@ suppl/r4-1101-m82.md
 suppl/r4-1111-m86.md
 suppl/r4-1122-m87.md
 suppl/r4-1130-m88.md
+suppl/r4-1214-m94.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
