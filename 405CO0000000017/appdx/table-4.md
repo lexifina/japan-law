@@ -56,7 +56,9 @@
 
 | ２３ | Onychodactylus kinneburi（シコクハコネサンショウウオ） |
 
-| ２４ | Salamandrella keyserlingii（キタサンショウウオ） |
+| ２４ | Onychodactylus pyrrhonotus（ホムラハコネサンショウウオ） |
+
+| ２５ | Salamandrella keyserlingii（キタサンショウウオ） |
 
 | 二　条鰭亜綱 |
 
@@ -68,11 +70,31 @@
 
 | 三　昆虫綱 |
 
-| イ　かめむし目 |
+| イ　甲虫目 |
+
+| （１）　げんごろう科 |
+
+| １ | Cybister chinensis（ゲンゴロウ） |
+
+| ２ | Cybister rugosus（ヒメフチトリゲンゴロウ） |
+
+| ３ | Dytiscus marginalis czerskii（エゾゲンゴロウモドキ） |
+
+| ４ | Graphoderus adamsii（マルガタゲンゴロウ） |
+
+| ５ | Hydaticus pacificus conspersus（オオイチモンジシマゲンゴロウ） |
+
+| ６ | Prodaticus vittatus（オキナワスジゲンゴロウ） |
+
+| ロ　かめむし目 |
 
 | （１）　こおいむし科 |
 
 | １ | Kirkaldyia deyrolli（タガメ） |
+
+| （２）　こばんむし科 |
+
+| １ | Ilyocoris cimicoides exclamationis（コバンムシ） |
 
 | 四　二枚貝綱 |
 
@@ -83,5 +105,13 @@
 | １ | Margaritifera laevis（カワシンジュガイ） |
 
 | ２ | Margaritifera togakushiensis（コガタカワシンジュガイ） |
+
+| 五　軟甲綱 |
+
+| イ　十脚目 |
+
+| （１）　あじあざりがに科 |
+
+| １ | Cambaroides japonicus（ニホンザリガニ） |
 
 | 備考　括弧内に記載する呼称は、学名に相当する和名である。 |

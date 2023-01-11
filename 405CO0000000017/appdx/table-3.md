@@ -58,37 +58,41 @@
 
 | １ | Lonicera fragrantissima（ツシマヒョウタンボク） |
 
-| （５）　きく科 |
+| （５）　なでしこ科 |
+
+| １ | Silene uralensis（タカネマンテマ） |
+
+| （６）　きく科 |
 
 | １ | Aster asagrayi var. walkeri（ヨナクニイソノギク） |
 
 | ２ | Saussurea yakusimensis（ヤクシマヒゴタイ） |
 
-| （６）　あぶらな科 |
+| （７）　あぶらな科 |
 
 | １ | Berteroella maximowiczii（ハナナズナ） |
 
 | ２ | Draba igarashii（シリベシナズナ） |
 
-| （７）　おしだ科 |
+| （８）　おしだ科 |
 
 | １ | Polystichum neolobatum（ヤシャイノデ） |
 
 | ２ | Polystichum obae（アマミデンダ） |
 
-| （８）　ほしくさ科 |
+| （９）　ほしくさ科 |
 
 | １ | Eriocaulon seticuspe（ヒュウガホシクサ） |
 
-| （９）　りんどう科 |
+| （１０）　りんどう科 |
 
 | １ | Gentiana yakushimensis（ヤクシマリンドウ） |
 
-| （１０）　ふうろそう科 |
+| （１１）　ふうろそう科 |
 
 | １ | Geranium shikokianum var. yoshiianum（ヤクシマフウロ） |
 
-| （１１）　ゆり科 |
+| （１２）　ゆり科 |
 
 | １ | Asparagus oligoclonos（タマボウキ） |
 
@@ -104,7 +108,7 @@
 
 | ７ | Tricyrtis perfoliata（キバナノツキヌキホトトギス） |
 
-| （１２）　らん科 |
+| （１３）　らん科 |
 
 | １ | Acanthephippium pictum（エンレイショウキラン） |
 
@@ -126,21 +130,21 @@
 
 | １０ | Odontochilus tashiroi（オオギミラン） |
 
-| （１３）　はなしのぶ科 |
+| （１４）　はなしのぶ科 |
 
 | １ | Polemonium kiushianum（ハナシノブ） |
 
-| （１４）　うらぼし科 |
+| （１５）　うらぼし科 |
 
 | １ | Drynaria roosii（ハカマウラボシ） |
 
 | ２ | Lepisorus oligolepidus（ウロコノキシノブ） |
 
-| （１５）　さくらそう科 |
+| （１６）　さくらそう科 |
 
 | １ | Lysimachia tashiroi（オニコナスビ） |
 
-| （１６）　きんぽうげ科 |
+| （１７）　きんぽうげ科 |
 
 | １ | Aconitum ciliare（ハナカズラ） |
 
@@ -154,11 +158,11 @@
 
 | ６ | Thalictrum uchiyamae（ムラサキカラマツ） |
 
-| （１７）　ななばけしだ科 |
+| （１８）　ななばけしだ科 |
 
 | １ | Tectaria fauriei（コモチナナバケシダ） |
 
-| （１８）　すみれ科 |
+| （１９）　すみれ科 |
 
 | １ | Viola tashiroi var. tairae（イシガキスミレ） |
 
