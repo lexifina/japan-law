@@ -160,6 +160,7 @@ suppl/r3-0331-r0.md
 suppl/r3-0901-r0.md
 suppl/r3-0915-r0.md
 suppl/r4-0331-r0.md
+suppl/r5-0118-r0.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-2-2.md
