@@ -764,7 +764,7 @@
 
 | １ | Aonyx capensis microdon（カメルーンツメナシカワウソ） | 昭和５５年１１月４日 |
 
-| ２ | Aonyx cinerea（コツメカワウソ） | 令和元年１１月２６日 |
+| ２ | Aonyx cinereus（コツメカワウソ） | 令和元年１１月２６日 |
 
 | ３ | Enhydra lutris nereis（カリフォルニアラッコ） | 昭和５５年１１月４日 |
 
@@ -950,7 +950,9 @@
 
 | ４ | Equus hemionus khur（ペルシャノロバ） | 昭和５５年１１月４日 |
 
-| ５ | Equus przewalskii（モウコノウマ） | 昭和５５年１１月４日 |
+| ５ | Equus hemionus luteus（ゴビノロバ） | 昭和５５年１１月４日 |
+
+| ６ | Equus przewalskii（モウコノウマ） | 昭和５５年１１月４日 |
 
 | （２）　さい科 |
 
@@ -988,21 +990,19 @@
 
 | （１）　アテリダエ科 |
 
-| １ | Alouatta coibensis（コイバホエザル） | 昭和５５年１１月４日 |
+| １ | Alouatta palliata（マントホエザル） | 昭和５５年１１月４日 |
 
-| ２ | Alouatta palliata（マントホエザル） | 昭和５５年１１月４日 |
+| ２ | Alouatta pigra（メキシコクロホエザル） | 昭和５５年１１月４日 |
 
-| ３ | Alouatta pigra（メキシコクロホエザル） | 昭和５５年１１月４日 |
+| ３ | Ateles geoffroyi frontatus（クロチャクモザル） | 昭和５５年１１月４日 |
 
-| ４ | Ateles geoffroyi frontatus（クロチャクモザル） | 昭和５５年１１月４日 |
+| ４ | Ateles geoffroyi ornatus（アカクモザル） | 昭和５５年１１月４日 |
 
-| ５ | Ateles geoffroyi ornatus（アカクモザル） | 昭和５５年１１月４日 |
+| ５ | Brachyteles arachnoides（ウーリークモザル） | 昭和５５年１１月４日 |
 
-| ６ | Brachyteles arachnoides（ウーリークモザル） | 昭和５５年１１月４日 |
+| ６ | Brachyteles hypoxanthus（ブラキュテレス・ヒュポクサントゥス） | 昭和５５年１１月４日 |
 
-| ７ | Brachyteles hypoxanthus（ブラキュテレス・ヒュポクサントゥス） | 昭和５５年１１月４日 |
-
-| ８ | Oreonax flavicauda（ヘンディーウーリーモンキー） | 昭和５８年７月２９日 |
+| ７ | Oreonax flavicauda（ヘンディーウーリーモンキー） | 昭和５８年７月２９日 |
 
 | （２）　おまきざる科 |
 
@@ -1096,6 +1096,8 @@
 
 | ５ | Pongo pygmaeus（オランウータン） | 昭和５５年１１月４日 |
 
+| ６ | Pongo tapanuliensis（タパヌリオランウータン） | 昭和５５年１１月４日 |
+
 | （７）　てながざる科 |
 
 | １ | てながざる科全種 | 昭和５５年１１月４日 |
@@ -1135,10 +1137,6 @@
 | （１）　チンチラ科 |
 
 | １ | Chinchilla属（チンチラ属）全種 | 昭和５５年１１月４日 |
-
-| （２）　りす科 |
-
-| １ | Cynomys mexicanus（メキシコプレーリードッグ） | 昭和５５年１１月４日 |
 
 | ヨ　海牛目 |
 
@@ -1216,7 +1214,7 @@
 
 | ２ | Aquila heliaca（カタジロワシ） | 昭和５５年１１月４日 |
 
-| ３ | Chondrohierax uncinatus wilsonii（キューバカギハシトビ） | 昭和５５年１１月４日 |
+| ３ | Chondrohierax wilsonii（キューバカギハシトビ） | 昭和５５年１１月４日 |
 
 | ４ | Haliaeetus albicilla groenlandicus（オジロワシ） | 昭和５５年１１月４日 |
 
@@ -1236,13 +1234,11 @@
 
 | ３ | Falco newtoni（マダガスカルチョウゲンボウ） | 昭和５５年１１月４日 |
 
-| ４ | Falco pelegrinoides（アカエリハヤブサ） | 昭和５５年１１月４日 |
+| ４ | Falco peregrinus（ハヤブサ）のうちFalco peregrinus anatum（アメリカハヤブサ）、Falco peregrinus babylonicus（アカガシラハヤブサ）、Falco peregrinus japonensis（ハヤブサ）及びFalco peregrinus tundrius（ホッキョクハヤブサ）以外のもの | 昭和５５年１１月４日 |
 
-| ５ | Falco peregrinus（ハヤブサ）のうちFalco peregrinus anatum（アメリカハヤブサ）、Falco peregrinus babylonicus（アカガシラハヤブサ）、Falco peregrinus japonensis（ハヤブサ）及びFalco peregrinus tundrius（ホッキョクハヤブサ）以外のもの | 昭和５５年１１月４日 |
+| ５ | Falco punctatus（モーリシャスチョウゲンボウ） | 昭和５５年１１月４日 |
 
-| ６ | Falco punctatus（モーリシャスチョウゲンボウ） | 昭和５５年１１月４日 |
-
-| ７ | Falco rusticolus（シロハヤブサ）のうちFalco rusticolus intermedius（シベリアシロハヤブサ）以外のもの | 昭和５５年１１月４日 |
+| ６ | Falco rusticolus（シロハヤブサ）のうちFalco rusticolus intermedius（シベリアシロハヤブサ）以外のもの | 昭和５５年１１月４日 |
 
 | ト　きじ目 |
 
@@ -1306,9 +1302,9 @@
 
 | （１）　つる科 |
 
-| １ | Balearica pavonina（カンムリヅル） | 令和元年１１月２６日 |
+| １ | Antigone canadensis nesiotes（キューバカナダヅル） | 昭和５５年１１月４日 |
 
-| ２ | Grus canadensis nesiotes（キューバカナダヅル） | 昭和５５年１１月４日 |
+| ２ | Balearica pavonina（カンムリヅル） | 令和元年１１月２６日 |
 
 | ３ | Grus nigricollis（オグロヅル） | 昭和５５年１１月４日 |
 
@@ -1356,11 +1352,15 @@
 
 | ２ | Pitta kochi（コンコンヤイロチョウ） | 昭和５５年１１月４日 |
 
-| （７）　むくどり科 |
+| （７）　ひよどり科 |
+
+| １ | Pycnonotus zeylanicus（キガシラヒヨドリ） | 令和５年１１月２５日 |
+
+| （８）　むくどり科 |
 
 | １ | Leucopsar rothschildi（カンムリシロムク） | 昭和５５年１１月４日 |
 
-| （８）　めじろ科 |
+| （９）　めじろ科 |
 
 | １ | Zosterops albogularis（ノーフォークメジロ） | 令和３年１月４日 |
 
@@ -1468,9 +1468,9 @@
 
 | ３２ | Primolius maracana（アカビタイヒメコンゴウインコ） | 平成２年１月１８日 |
 
-| ３３ | Psephotus dissimilis（ヒスイインコ） | 昭和５５年１１月４日 |
+| ３３ | Psephotellus dissimilis（ヒスイインコ） | 昭和５５年１１月４日 |
 
-| ３４ | Psephotus pulcherrimus（ゴクラクインコ） | 令和３年１月４日 |
+| ３４ | Psephotellus pulcherrimus（ゴクラクインコ） | 令和３年１月４日 |
 
 | ３５ | Psittacula echo（シマホンセイインコ） | 昭和５５年１１月４日 |
 
@@ -1628,7 +1628,11 @@
 
 | １ | Gallotia simonyi（イエロオオカナヘビ） | 昭和６２年１０月２２日 |
 
-| （８）　おおとかげ科 |
+| （８）　とかげ科 |
+
+| １ | Tiliqua adelaidensis（アデレードアオジタトカゲ） | 令和５年２月２３日 |
+
+| （９）　おおとかげ科 |
 
 | １ | Varanus bengalensis（インドオオトカゲ） | 平成４年１月３１日 |
 
@@ -1640,7 +1644,7 @@
 
 | ５ | Varanus nebulosus（ヴァラヌス・ネブロスス） | 平成４年１月３１日 |
 
-| （９）　わにとかげ科 |
+| （１０）　わにとかげ科 |
 
 | １ | Shinisaurus crocodilurus（ワニトカゲ） | 平成２９年１月２日 |
 
@@ -1652,13 +1656,11 @@
 
 | ２ | Boa constrictor occidentalis（ボアコンストリクター） | 昭和６２年１０月２２日 |
 
-| ３ | Epicrates inornatus（バヴァチボア） | 昭和５５年１１月４日 |
+| ３ | Chilabothrus monensis（モナボア） | 昭和５８年７月２９日 |
 
-| ４ | Epicrates monensis（モナボア） | 昭和５８年７月２９日 |
+| ４ | Chilabothrus subflavus（ジャマイカボア） | 昭和５５年１１月４日 |
 
-| ５ | Epicrates subflavus（ジャマイカボア） | 昭和５５年１１月４日 |
-
-| ６ | Sanzinia madagascariensis（サンジニアボア） | 昭和５５年１１月４日 |
+| ５ | Sanzinia madagascariensis（サンジニアボア） | 昭和５５年１１月４日 |
 
 | （２）　つめなしボア科 |
 
@@ -1668,7 +1670,7 @@
 
 | （３）　にしきへび科 |
 
-| １ | Python molurus molurus（インドニシキヘビ） | 昭和５５年１１月４日 |
+| １ | Python molurus（インドニシキヘビ） | 昭和５５年１１月４日 |
 
 | （４）　くさりへび科 |
 
@@ -1700,25 +1702,35 @@
 
 | ２ | Batagur baska（ヨツユビガメ） | 昭和５５年１１月４日 |
 
-| ３ | Cuora bourreti（ラオスモエギハコガメ） | 令和元年１１月２６日 |
+| ３ | Batagur kachuga（ニシキセタカガメ） | 令和５年２月２３日 |
 
-| ４ | Cuora picturata（カンボジアモエギハコガメ） | 令和元年１１月２６日 |
+| ４ | Cuora bourreti（ラオスモエギハコガメ） | 令和元年１１月２６日 |
 
-| ５ | Geoclemys hamiltonii（ハミルトンクサガメ） | 昭和５５年１１月４日 |
+| ５ | Cuora galbinifrons（モエギハコガメ） | 令和５年２月２３日 |
 
-| ６ | Mauremys annamensis（アンナンガメ） | 令和元年１１月２６日 |
+| ６ | Cuora picturata（カンボジアモエギハコガメ） | 令和元年１１月２６日 |
 
-| ７ | Melanochelys tricarinata（ミスジヤマガメ） | 昭和５５年１１月４日 |
+| ７ | Geoclemys hamiltonii（ハミルトンクサガメ） | 昭和５５年１１月４日 |
 
-| ８ | Morenia ocellata（モレニア） | 昭和５５年１１月４日 |
+| ８ | Mauremys annamensis（アンナンガメ） | 令和元年１１月２６日 |
 
-| ９ | Pangshura tecta（カチューガ） | 昭和５５年１１月４日 |
+| ９ | Melanochelys tricarinata（ミスジヤマガメ） | 昭和５５年１１月４日 |
 
-| （６）　おおあたまがめ科 |
+| １０ | Morenia ocellata（モレニア） | 昭和５５年１１月４日 |
+
+| １１ | Pangshura tecta（カチューガ） | 昭和５５年１１月４日 |
+
+| （６）　どろがめ科 |
+
+| １ | Kinosternon cora（キノステルノン・コラ） | 令和５年２月２３日 |
+
+| ２ | Kinosternon vogti（キノステルノン・ヴォグティ） | 令和５年２月２３日 |
+
+| （７）　おおあたまがめ科 |
 
 | １ | おおあたまがめ科全種 | 平成２５年６月１２日 |
 
-| （７）　りくがめ科 |
+| （８）　りくがめ科 |
 
 | １ | Astrochelys radiata（マダガスカルホシガメ） | 昭和５５年１１月４日 |
 
@@ -1742,7 +1754,7 @@
 
 | １１ | Testudo kleinmanni（エジプトリクガメ） | 平成７年２月１６日 |
 
-| （８）　すっぽん科 |
+| （９）　すっぽん科 |
 
 | １ | Apalone spinifera atra（クロスッポン） | 昭和５５年１１月４日 |
 
@@ -1754,7 +1766,9 @@
 
 | ５ | Nilssonia hurum（フルムスッポン） | 昭和５５年１１月４日 |
 
-| ６ | Nilssonia nigricans（ウスグロスッポン） | 昭和５５年１１月４日 |
+| ６ | Nilssonia leithii（リーススッポン） | 令和５年２月２３日 |
+
+| ７ | Nilssonia nigricans（ウスグロスッポン） | 昭和５５年１１月４日 |
 
 | 四　両生綱 |
 
@@ -1764,17 +1778,17 @@
 
 | １ | Altiphrynoides属（コウチヒキガエル属）全種 | 昭和５５年１１月４日 |
 
-| ２ | Amietophrynus channingi（アミエトフリュヌス・カンニンギ） | 昭和５５年１１月４日 |
+| ２ | Atelopus zeteki（ツエテクマガイドクガエル） | 昭和５８年７月２９日 |
 
-| ３ | Amietophrynus superciliaris（カメルーンヒキガエル） | 昭和５５年１１月４日 |
+| ３ | Incilius periglenes（オレンジヒキガエル） | 平成７年２月１６日 |
 
-| ４ | Atelopus zeteki（ツエテクマガイドクガエル） | 昭和５８年７月２９日 |
+| ４ | Nectophrynoides属（コモチガエル属）全種 | 昭和５５年１１月４日 |
 
-| ５ | Incilius periglenes（オレンジヒキガエル） | 平成７年２月１６日 |
+| ５ | Nimbaphrynoides属（ニシコモチヒキガエル属）全種 | 昭和５５年１１月４日 |
 
-| ６ | Nectophrynoides属（コモチガエル属）全種 | 昭和５５年１１月４日 |
+| ６ | Sclerophrys channingi（スクレロフリュス・カンニンギ） | 昭和５５年１１月４日 |
 
-| ７ | Nimbaphrynoides属（ニシコモチヒキガエル属）全種 | 昭和５５年１１月４日 |
+| ７ | Sclerophrys superciliaris（カメルーンヒキガエル） | 昭和５５年１１月４日 |
 
 | （２）　みなみがえる科 |
 
