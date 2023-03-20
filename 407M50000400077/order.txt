@@ -202,7 +202,9 @@ art-055.md
 art-056.md
 art-056-2.md
 art-056-3.md
-art-057-to-061.md
+art-057.md
+art-058.md
+art-059-to-061.md
 art-061-2.md
 art-061-3.md
 art-061-4.md
@@ -218,6 +220,8 @@ art-064.md
 art-065.md
 art-066.md
 art-067.md
+art-067-2.md
+art-067-3.md
 art-068.md
 art-069.md
 art-070.md
@@ -292,12 +296,12 @@ art-107.md
 art-108.md
 art-109.md
 art-110.md
-art-111-to-112.md
+art-111.md
+art-112.md
 art-113.md
 art-114.md
 art-115.md
 art-116.md
-art-116-2.md
 art-117.md
 art-118.md
 art-118-2.md
@@ -485,6 +489,7 @@ suppl/r4-1111-m86.md
 suppl/r4-1122-m87.md
 suppl/r4-1130-m88.md
 suppl/r4-1214-m94.md
+suppl/r4-1214-m96.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
@@ -673,6 +678,11 @@ appdx/style-185.md
 appdx/style-186.md
 appdx/style-187.md
 appdx/style-188.md
+appdx/style-189.md
+appdx/style-190.md
+appdx/style-191.md
+appdx/style-192.md
+appdx/style-193.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-2.md
