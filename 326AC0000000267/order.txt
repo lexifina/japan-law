@@ -23,6 +23,7 @@ art-019.md
 art-019-2.md
 art-019-3.md
 art-020.md
+art-020-2.md
 art-021.md
 art-021-2.md
 art-021-3.md
@@ -56,4 +57,5 @@ suppl/h25-69.md
 suppl/h30-59.md
 suppl/r1-16.md
 suppl/r3-36.md
+suppl/r4-33.md
 suppl/r4-68.md
