@@ -439,6 +439,14 @@ art-260-37.md
 art-260-38.md
 art-260-39.md
 art-260-40.md
+art-260-41.md
+art-260-42.md
+art-260-43.md
+art-260-44.md
+art-260-45.md
+art-260-46.md
+art-260-47.md
+art-260-48.md
 art-261.md
 art-262.md
 art-263.md
@@ -1023,6 +1031,7 @@ suppl/r3-44.md
 suppl/r3-47.md
 suppl/r3-50.md
 suppl/r3-54.md
+suppl/r3-63.md
 suppl/r3-82.md
 suppl/r4-1.md
 suppl/r4-4.md
