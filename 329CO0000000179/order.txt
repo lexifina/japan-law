@@ -156,6 +156,9 @@ art-053-4.md
 art-053-5.md
 art-053-6.md
 art-054.md
+art-054-2.md
+art-054-3.md
+art-054-4.md
 art-055.md
 art-056.md
 art-057.md
@@ -173,6 +176,14 @@ art-059-10.md
 art-059-11.md
 art-059-12.md
 art-059-13.md
+art-059-14.md
+art-059-15.md
+art-059-16.md
+art-059-17.md
+art-059-18.md
+art-059-19.md
+art-059-20.md
+art-059-21.md
 art-060.md
 art-060-2.md
 art-061.md
@@ -776,6 +787,7 @@ suppl/r4-0616-co218.md
 suppl/r4-0624-co238.md
 suppl/r4-0831-co291.md
 suppl/r4-1130-co366.md
+suppl/r5-0201-co25.md
 suppl/r5-0310-co48.md
 appdx/style-1.md
 appdx/table-2.md
