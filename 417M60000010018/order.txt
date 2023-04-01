@@ -165,6 +165,7 @@ art-149.md
 art-150.md
 art-151.md
 art-152.md
+art-152-2.md
 art-153.md
 art-154.md
 art-155.md
@@ -299,6 +300,7 @@ suppl/r2-0915-m48.md
 suppl/r3-0129-m2.md
 suppl/r3-0329-m14.md
 suppl/r4-0324-m12.md
+suppl/r5-0320-m6.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
