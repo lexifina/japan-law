@@ -113,6 +113,12 @@ art-010-4-6.md
 art-010-4-7.md
 art-010-4-8.md
 art-010-4-9.md
+art-010-4-10.md
+art-010-4-11.md
+art-010-4-12.md
+art-010-4-13.md
+art-010-4-14.md
+art-010-4-15.md
 art-010-5.md
 art-010-5-2.md
 art-010-5-3.md
@@ -303,6 +309,8 @@ suppl/r4-0118-m4.md
 suppl/r4-0228-m7.md
 suppl/r4-0527-m48.md
 suppl/r4-1216-m90.md
+suppl/r4-1223-m92.md
+suppl/r5-0228-m5.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
