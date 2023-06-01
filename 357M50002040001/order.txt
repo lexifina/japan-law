@@ -136,6 +136,7 @@ art-093.md
 art-094.md
 art-094-2.md
 art-094-3.md
+art-094-4.md
 art-095.md
 art-095-2.md
 art-095-3.md
@@ -461,6 +462,7 @@ suppl/r4-0318-m3.md
 suppl/r4-0324-m4.md
 suppl/r4-0803-m8.md
 suppl/r4-1031-m10.md
+suppl/r5-0526-m5.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
