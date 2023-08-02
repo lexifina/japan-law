@@ -24,7 +24,7 @@
 
 | １１ | Myriophyllum aquaticum（オオフサモ） | 茎、根 |
 
-| １２ | Utricularia cf.　platensis（エフクレタヌキモ） | 茎 |
+| １２ | Utricularia cf. platensis（エフクレタヌキモ） | 茎 |
 
 | １３ | Utricularia inflata（ウトゥリクラリア・インフラタ） | 茎 |
 

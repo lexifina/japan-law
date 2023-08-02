@@ -506,7 +506,7 @@
 
 | （９）　たぬきも科 |
 
-| １ | Utricularia cf.　platensis（エフクレタヌキモ） |
+| １ | Utricularia cf. platensis（エフクレタヌキモ） |
 
 | ２ | Utricularia inflata（ウトゥリクラリア・インフラタ） |
 
