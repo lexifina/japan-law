@@ -314,7 +314,11 @@
 
 | （１）　かみきりむし科 |
 
-| １ | Aromia bungii（クビアカツヤカミキリ） |
+| １ | Anoplophora glabripennis（ツヤハダゴマダラカミキリ） |
+
+| ２ | Apriona swainsoni（サビイロクワカミキリ） |
+
+| ３ | Aromia bungii（クビアカツヤカミキリ） |
 
 | （２）　くわがたむし科 |
 
