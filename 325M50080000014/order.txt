@@ -32,6 +32,7 @@ art-009-2.md
 art-009-3.md
 art-010.md
 art-010-2.md
+art-010-2-2.md
 art-010-3.md
 art-010-4.md
 art-011.md
