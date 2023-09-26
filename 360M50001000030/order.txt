@@ -11,6 +11,7 @@ art-006.md
 art-007.md
 art-008.md
 art-008-2.md
+art-008-2-2.md
 art-008-3.md
 art-009.md
 art-010.md
@@ -166,6 +167,7 @@ suppl/r1-0514-m5.md
 suppl/r3-0319-m23.md
 suppl/r5-0222-m9.md
 suppl/r5-0602-m51.md
+suppl/r5-0926-m71.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
