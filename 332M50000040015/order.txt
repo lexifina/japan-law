@@ -35,6 +35,7 @@ art-004.md
 art-004-2.md
 art-004-3.md
 art-004-4.md
+art-004-4-2.md
 art-004-5.md
 art-004-6.md
 art-005.md
