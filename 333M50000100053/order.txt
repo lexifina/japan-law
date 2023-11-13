@@ -49,6 +49,7 @@ art-024.md
 art-024-2.md
 art-024-3.md
 art-024-4.md
+art-024-5.md
 art-025.md
 art-026.md
 art-026-2.md
@@ -314,6 +315,7 @@ suppl/r4-1209-m165.md
 suppl/r5-0120-m9.md
 suppl/r5-0331-m48.md
 suppl/r5-0531-m81.md
+suppl/r5-1113-m139.md
 appdx/style-2.md
 appdx/style-3.md
 appdx/style-4.md
