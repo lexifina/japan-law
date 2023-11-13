@@ -56,6 +56,7 @@ suppl/r3-0331-m22.md
 suppl/r4-0331-m24.md
 suppl/r4-1101-m82.md
 suppl/r5-0328-m11.md
+suppl/r5-1106-m48.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
@@ -85,5 +86,6 @@ appdx/style-26.md
 appdx/style-27.md
 appdx/style-28.md
 appdx/style-29.md
+appdx/style-30.md
 appdx/table-1.md
 appdx/table-2.md
