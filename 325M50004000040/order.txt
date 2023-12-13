@@ -312,6 +312,7 @@ suppl/r4-1216-m90.md
 suppl/r4-1223-m92.md
 suppl/r5-0228-m5.md
 suppl/r5-0331-m30.md
+suppl/r5-1212-m93.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
