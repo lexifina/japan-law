@@ -113,6 +113,7 @@ suppl/r1-0628-m19.md
 suppl/r2-1119-m105.md
 suppl/r3-0302-m15.md
 suppl/r4-0915-m63.md
+suppl/r5-1222-m94.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
