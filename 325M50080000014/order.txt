@@ -41,6 +41,7 @@ art-011-2-2.md
 art-011-2-3.md
 art-011-2-4.md
 art-011-2-5.md
+art-011-2-5-2.md
 art-011-2-6.md
 art-011-2-7.md
 art-011-2-8.md
@@ -671,6 +672,7 @@ suppl/r5-0831-m68.md
 suppl/r5-1110-m78.md
 suppl/r5-1204-m81.md
 suppl/r5-1207-m84.md
+suppl/r5-1208-m86.md
 suppl/r5-1222-m94.md
 suppl/r5-1222-m95.md
 appdx/style-1.md
