@@ -124,8 +124,6 @@ art-032-2.md
 art-032-3.md
 art-033.md
 art-034.md
-art-035.md
-art-036.md
 suppl/original.md
 suppl/h12-1020-m127.md
 suppl/h13-0330-m80.md
@@ -186,6 +184,7 @@ suppl/r5-0331-m48.md
 suppl/r5-0428-m74.md
 suppl/r5-0526-m79.md
 suppl/r5-0925-m118.md
+suppl/r5-1226-m161.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
