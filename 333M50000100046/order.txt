@@ -44,8 +44,6 @@ art-025-2.md
 art-026.md
 art-027.md
 art-028.md
-art-029.md
-art-030.md
 suppl/original.md
 suppl/s37-0427-m18.md
 suppl/s44-0701-m17.md
@@ -90,6 +88,7 @@ suppl/r1-1227-m87.md
 suppl/r2-1225-m208.md
 suppl/r4-0408-m81.md
 suppl/r5-0306-m17.md
+suppl/r5-1226-m161.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
