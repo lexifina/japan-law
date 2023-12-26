@@ -57,6 +57,7 @@ suppl/r1-0628-m20.md
 suppl/r2-0213-m15.md
 suppl/r2-1225-m208.md
 suppl/r3-1022-m175.md
+suppl/r5-1226-m161.md
 appdx/note-1.md
 appdx/note-2.md
 appdx/note-3.md
