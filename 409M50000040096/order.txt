@@ -16,6 +16,11 @@ art-011-2.md
 art-011-3.md
 art-011-4.md
 art-011-5.md
+art-011-6.md
+art-011-7.md
+art-011-8.md
+art-011-9.md
+art-011-10.md
 art-012.md
 art-013.md
 art-013-2.md
