@@ -314,6 +314,7 @@ suppl/r5-0228-m5.md
 suppl/r5-0331-m30.md
 suppl/r5-1212-m93.md
 suppl/r5-1228-m98.md
+suppl/r6-0129-m5.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
