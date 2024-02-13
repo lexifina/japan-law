@@ -484,7 +484,7 @@
 
 | ４ | Pachyptila turtur subantarctica（パキュプティラ・トゥルトゥル・スバンタルクティカ） |
 
-| ５ | Pterodroma arminjoniana s. str．（狭義のムナフシロハラミズナギドリ） |
+| ５ | Pterodroma arminjoniana s. str.（狭義のムナフシロハラミズナギドリ） |
 
 | ６ | Pterodroma heraldica（プテロドロマ・ヘラルディカ） |
 
@@ -1960,6 +1960,8 @@
 
 | ３ | Pachypodium decaryi（パキュポディウム・デカリュイ） | 平成２年１月１８日 |
 
+| ４ | Pachypodium windsorii（パキュポディウム・ウィンドソリイ） | 令和６年２月１３日 |
+
 | （３）　なんようすぎ科 |
 
 | １ | Araucaria araucana（チリーマツ） | 昭和５５年１１月４日 |
@@ -2024,7 +2026,7 @@
 
 | ２９ | Sclerocactus mariposensis（スクレロカクトゥス・マリポセンスィス） | 昭和５８年７月２９日 |
 
-| ３０ | Sclerocactus mesae‐verdae（スクレロカクトゥス・メサエ―ヴェルダエ） | 昭和５８年７月２９日 |
+| ３０ | Sclerocactus mesae-verdae（スクレロカクトゥス・メサエ―ヴェルダエ） | 昭和５８年７月２９日 |
 
 | ３１ | Sclerocactus nyensis（スクレロカクトゥス・ニュエンスィス） | 平成１５年２月１３日 |
 
@@ -2040,7 +2042,7 @@
 
 | ３７ | Strombocactus属（ストロンボカクトゥス属）全種 | 昭和５８年７月２９日 |
 
-| ３８ | Turbinicarpus属（トゥルビニカルプス属）全種 | Turbinicarpus laui（トゥルビニカルプス・ラウイ）、Turbinicarpus lophophoroides（トゥルビニカルプス・ロフォフォロイデス）、Turbinicarpus pseudomacrochele（長城丸）、Turbinicarpus pseudopectinatus （トゥルビニカルプス・プセウドペクティナトゥス）、Turbinicarpus schmiedickeanus（昇龍丸）及びTurbinicarpus valdezianus（トゥルビニカルプス・ヴァルデジアヌス）の個体等については昭和５８年７月２９日、その他の種の個体等については平成４年６月１１日 |
+| ３８ | Turbinicarpus属（トゥルビニカルプス属）全種 | Turbinicarpus laui（トゥルビニカルプス・ラウイ）、Turbinicarpus lophophoroides（トゥルビニカルプス・ロフォフォロイデス）、Turbinicarpus pseudomacrochele（長城丸）、Turbinicarpus pseudopectinatus　（トゥルビニカルプス・プセウドペクティナトゥス）、Turbinicarpus schmiedickeanus（昇龍丸）及びTurbinicarpus valdezianus（トゥルビニカルプス・ヴァルデジアヌス）の個体等については昭和５８年７月２９日、その他の種の個体等については平成４年６月１１日 |
 
 | ３９ | Uebelmannia属（ウエベルマンニア属）全種 | 平成４年６月１１日 |
 

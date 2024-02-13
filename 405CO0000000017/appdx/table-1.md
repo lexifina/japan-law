@@ -430,7 +430,15 @@
 
 | 六　昆虫綱 |
 
-| イ　甲虫目 |
+| イ　ごきぶり目 |
+
+| （１）　むかしごきぶり科 |
+
+| １ | Eucorydia donanensis（ウスオビルリゴキブリ） |
+
+| ２ | Eucorydia miyakoensis（ベニエリルリゴキブリ） |
+
+| ロ　甲虫目 |
 
 | （１）　たまむし科 |
 
@@ -522,7 +530,7 @@
 
 | ２ | Oryctes hisamatsui（ヒサマツサイカブト） |
 
-| ロ　かめむし目 |
+| ハ　かめむし目 |
 
 | （１）　こおいむし科 |
 
@@ -540,13 +548,13 @@
 
 | １ | Laccotrephes grossus（タイワンタイコウチ） |
 
-| ハ　はち目 |
+| ニ　はち目 |
 
 | （１）　あり科 |
 
 | １ | Aphaenogaster gamagumayaa（ガマアシナガアリ） |
 
-| ニ　ちょう目 |
+| ホ　ちょう目 |
 
 | （１）　せせりちょう科 |
 
@@ -580,7 +588,7 @@
 
 | ４ | Oeneis norna sugitanii（タカネヒカゲ八ヶ岳亜種） |
 
-| ホ　とんぼ目 |
+| ヘ　とんぼ目 |
 
 | （１）　えぞとんぼ科 |
 
@@ -600,13 +608,21 @@
 
 | ２ | Rhyothemis severini（ハネナガチョウトンボ） |
 
-| ヘ　ばった目 |
+| ト　ばった目 |
 
 | （１）　ばった科 |
 
 | １ | Celes akitanus（アカハネバッタ） |
 
-| 七　二枚貝綱 |
+| 七　唇脚綱 |
+
+| イ　おおむかで目 |
+
+| （１）　おおむかで科 |
+
+| １ | Scolopendra alcyona（リュウジンオオムカデ） |
+
+| 八　二枚貝綱 |
 
 | イ　いしがい目 |
 
@@ -616,7 +632,7 @@
 
 | ２ | Margaritifera togakushiensis（コガタカワシンジュガイ） |
 
-| 八　腹足綱 |
+| 九　腹足綱 |
 
 | イ　柄眼目 |
 
@@ -726,7 +742,7 @@
 
 | ２ | Boninosuccinea punctulispira（テンスジオカモノアラガイ） |
 
-| 九　軟甲綱 |
+| 十　軟甲綱 |
 
 | イ　十脚目 |
 
@@ -840,7 +856,7 @@
 
 | ４ | Diplazium kawakamii（アオイガワラビ） |
 
-| ５ | Diplazium pin‐faense（フクレギシダ） |
+| ５ | Diplazium pin-faense（フクレギシダ） |
 
 | ６ | Diplazium subtripinnatum（ムニンミドリシダ） |
 
@@ -970,7 +986,7 @@
 
 | １ | Ajuga boninsimae（シマカコソウ） |
 
-| ２ | Scutellaria kikai‐insularis（ヒメタツナミソウ） |
+| ２ | Scutellaria kikai-insularis（ヒメタツナミソウ） |
 
 | （２２）　まめ科 |
 
@@ -978,9 +994,11 @@
 
 | ２ | Intsia bijuga（タシロマメ） |
 
-| ３ | Uraria picta（ホソバフジボグサ） |
+| ３ | Sophora franchetiana（ツクシムレスズメ） |
 
-| ４ | Vigna vexillata var. vexillata（サクヤアカササゲ） |
+| ４ | Uraria picta（ホソバフジボグサ） |
+
+| ５ | Vigna vexillata var. vexillata（サクヤアカササゲ） |
 
 | （２３）　ゆり科 |
 
@@ -1058,51 +1076,53 @@
 
 | １５ | Dendrobium okinawense（オキナワセッコク） |
 
-| １６ | Eulophia taiwanensis（タカサゴヤガラ） |
+| １６ | Disperis neilgherrensis（ジョウロウラン） |
 
-| １７ | Gastrodia albida（ヤクシマヤツシロラン） |
+| １７ | Eulophia taiwanensis（タカサゴヤガラ） |
 
-| １８ | Gastrodia uraiensis（タブガワヤツシロラン） |
+| １８ | Gastrodia albida（ヤクシマヤツシロラン） |
 
-| １９ | Goodyera fumata（ヤブミョウガラン） |
+| １９ | Gastrodia uraiensis（タブガワヤツシロラン） |
 
-| ２０ | Habenaria stenopetala（テツオサギソウ） |
+| ２０ | Goodyera fumata（ヤブミョウガラン） |
 
-| ２１ | Hancockia uniflora（ヒメクリソラン） |
+| ２１ | Habenaria stenopetala（テツオサギソウ） |
 
-| ２２ | Hetaeria oblongifolia（オオカゲロウラン） |
+| ２２ | Hancockia uniflora（ヒメクリソラン） |
 
-| ２３ | Liparis nikkoensis（ヒメスズムシソウ） |
+| ２３ | Hetaeria oblongifolia（オオカゲロウラン） |
 
-| ２４ | Liparis viridiflora（コゴメキノエラン） |
+| ２４ | Liparis nikkoensis（ヒメスズムシソウ） |
 
-| ２５ | Macodes petola（ナンバンカモメラン） |
+| ２５ | Liparis viridiflora（コゴメキノエラン） |
 
-| ２６ | Malaxis boninensis（シマホザキラン） |
+| ２６ | Macodes petola（ナンバンカモメラン） |
 
-| ２７ | Odontochilus hatusimanus（ハツシマラン） |
+| ２７ | Malaxis boninensis（シマホザキラン） |
 
-| ２８ | Odontochilus nanlingensis（ヒメシラヒゲラン） |
+| ２８ | Odontochilus hatusimanus（ハツシマラン） |
 
-| ２９ | Odontochilus tashiroi（オオギミラン） |
+| ２９ | Odontochilus nanlingensis（ヒメシラヒゲラン） |
 
-| ３０ | Oreorchis itoana（コハクラン） |
+| ３０ | Odontochilus tashiroi（オオギミラン） |
 
-| ３１ | Peristylus lacertifer（タコガタサギソウ） |
+| ３１ | Oreorchis itoana（コハクラン） |
 
-| ３２ | Phaius mishmensis（ヒメカクラン） |
+| ３２ | Peristylus lacertifer（タコガタサギソウ） |
 
-| ３３ | Platanthera boninensis（シマツレサギソウ） |
+| ３３ | Phaius mishmensis（ヒメカクラン） |
 
-| ３４ | Platanthera okuboi（ハチジョウツレサギ） |
+| ３４ | Platanthera boninensis（シマツレサギソウ） |
 
-| ３５ | Platanthera sonoharae（クニガミトンボソウ） |
+| ３５ | Platanthera okuboi（ハチジョウツレサギ） |
 
-| ３６ | Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ） |
+| ３６ | Platanthera sonoharae（クニガミトンボソウ） |
 
-| ３７ | Thrixspermum fantasticum（ハガクレナガミラン） |
+| ３７ | Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ） |
 
-| ３８ | Vrydagzynea nuda（ミソボシラン） |
+| ３８ | Thrixspermum fantasticum（ハガクレナガミラン） |
+
+| ３９ | Vrydagzynea nuda（ミソボシラン） |
 
 | （３１）　きじのおしだ科 |
 
@@ -1202,11 +1222,13 @@
 
 | １ | Astilbe tsushimensis（ツシマアカショウマ） |
 
-| ２ | Deutzia naseana var. amanoi（オキナワヒメウツギ） |
+| ２ | Deutzia hatusimae（コミノヒメウツギ） |
 
-| ３ | Deutzia yaeyamensis（ヤエヤマヒメウツギ） |
+| ３ | Deutzia naseana var. amanoi（オキナワヒメウツギ） |
 
-| ４ | Mitella amamiana（アマミチャルメルソウ） |
+| ４ | Deutzia yaeyamensis（ヤエヤマヒメウツギ） |
+
+| ５ | Mitella amamiana（アマミチャルメルソウ） |
 
 | （４６）　ごまのはぐさ科 |
 
