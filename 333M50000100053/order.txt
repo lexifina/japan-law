@@ -169,6 +169,7 @@ art-044-2.md
 art-044-2-2.md
 art-044-3.md
 art-044-4.md
+art-044-5.md
 art-045.md
 suppl/original.md
 suppl/s36-0331-m12.md
@@ -319,6 +320,7 @@ suppl/r5-0531-m81.md
 suppl/r5-0720-m95.md
 suppl/r5-1113-m139.md
 suppl/r5-1130-m148.md
+suppl/r6-0202-m24.md
 appdx/style-2.md
 appdx/style-3.md
 appdx/style-4.md
