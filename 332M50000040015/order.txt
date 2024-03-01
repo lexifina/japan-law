@@ -785,6 +785,7 @@ suppl/r5-0407-m32.md
 suppl/r5-0609-m42.md
 suppl/r5-0630-m46.md
 suppl/r5-0825-m51.md
+suppl/r5-1106-m55.md
 suppl/r5-1201-m56.md
 suppl/r6-0131-m3.md
 appdx/style-1.md
