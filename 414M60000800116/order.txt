@@ -137,6 +137,7 @@ suppl/r3-1215-m77.md
 suppl/r4-1223-m92.md
 suppl/r5-0228-m5.md
 suppl/r5-1228-m98.md
+suppl/r6-0131-m6.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
