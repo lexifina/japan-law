@@ -10,6 +10,8 @@ art-005-2.md
 art-006.md
 art-007.md
 art-008.md
+art-008-2.md
+art-008-3.md
 art-009.md
 art-010.md
 art-011.md
