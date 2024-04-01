@@ -98,9 +98,7 @@ art-154.md
 art-155.md
 art-156.md
 art-157.md
-art-157-2.md
 art-158.md
-art-158-2.md
 art-159.md
 art-160.md
 art-160-2.md
@@ -115,7 +113,6 @@ art-165-4.md
 art-165-5.md
 art-165-6.md
 art-165-7.md
-art-165-8.md
 art-166.md
 art-166-2.md
 art-167.md
@@ -168,6 +165,9 @@ art-172.md
 art-173.md
 art-173-2.md
 art-173-3.md
+art-173-4.md
+art-173-5.md
+art-173-6.md
 art-174.md
 art-174-2.md
 art-174-3.md
@@ -953,5 +953,15 @@ suppl/r5-0323-co71.md
 suppl/r5-0330-co126.md
 suppl/r5-0331-co145.md
 suppl/r5-0426-co175.md
+suppl/r5-0526-co192.md
 suppl/r5-0814-co261.md
+suppl/r5-0929-co293.md
 suppl/r5-1129-co340.md
+suppl/r6-0117-co8.md
+suppl/r6-0119-co12.md
+suppl/r6-0131-co20.md
+suppl/r6-0209-co27.md
+suppl/r6-0226-co41.md
+suppl/r6-0329-co116.md
+suppl/r6-0330-co135.md
+suppl/r6-0330-co161.md
