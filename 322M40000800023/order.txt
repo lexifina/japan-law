@@ -144,7 +144,6 @@ art-070-13.md
 art-070-14.md
 art-070-15.md
 art-070-16.md
-art-070-17.md
 art-071.md
 art-072.md
 art-073.md
@@ -200,6 +199,11 @@ art-077-14.md
 art-078.md
 art-078-2.md
 art-078-2-2.md
+art-078-2-2-2.md
+art-078-2-2-3.md
+art-078-2-2-4.md
+art-078-2-2-5.md
+art-078-2-2-6.md
 art-078-2-3.md
 art-078-2-4.md
 art-078-2-5.md
@@ -378,6 +382,8 @@ suppl/r4-0415-m42.md
 suppl/r5-0630-m52.md
 suppl/r5-0731-m60.md
 suppl/r5-1201-m91.md
+suppl/r6-0119-m3.md
+suppl/r6-0329-m26.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
@@ -431,4 +437,3 @@ appdx/format-36.md
 appdx/format-37.md
 appdx/format-38.md
 appdx/format-39.md
-appdx/format-40.md
