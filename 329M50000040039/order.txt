@@ -220,6 +220,7 @@ suppl/r2-1211-m75.md
 suppl/r3-0331-m19.md
 suppl/r3-0331-m36.md
 suppl/r4-0331-m21.md
+suppl/r5-0331-m17.md
 suppl/r5-0619-m43.md
 appdx/format-1.md
 appdx/format-2.md
