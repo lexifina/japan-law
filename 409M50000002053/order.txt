@@ -71,6 +71,7 @@ suppl/r2-1201-m29.md
 suppl/r3-0922-m14.md
 suppl/r4-1019-m25.md
 suppl/r5-1109-m15.md
+suppl/r6-0401-m17.md
 appdx/note-1.md
 appdx/table-1.md
 appdx/table-2.md
@@ -89,4 +90,3 @@ appdx/style-6.md
 appdx/style-7.md
 appdx/style-8.md
 appdx/style-9.md
-appdx/style-10.md
