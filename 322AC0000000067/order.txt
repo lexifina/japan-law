@@ -105,6 +105,7 @@ art-136.md
 art-137.md
 art-138.md
 art-138-2.md
+art-138-2-2.md
 art-138-3.md
 art-138-4.md
 art-139.md
@@ -271,6 +272,12 @@ art-242-3.md
 art-243.md
 art-243-2.md
 art-243-2-2.md
+art-243-2-3.md
+art-243-2-4.md
+art-243-2-5.md
+art-243-2-6.md
+art-243-2-7.md
+art-243-2-8.md
 art-243-3.md
 art-243-4.md
 art-243-5.md
@@ -1027,6 +1034,7 @@ suppl/r3-30.md
 suppl/r3-31.md
 suppl/r3-36.md
 suppl/r3-37.md
+suppl/r3-39.md
 suppl/r3-43.md
 suppl/r3-44.md
 suppl/r3-47.md
@@ -1052,5 +1060,10 @@ suppl/r4-101.md
 suppl/r4-104.md
 suppl/r5-14.md
 suppl/r5-19.md
+suppl/r5-31.md
+suppl/r5-34.md
+suppl/r5-58.md
+suppl/r5-63.md
+suppl/r5-73.md
 suppl/r5-84.md
 suppl/r5-89.md
