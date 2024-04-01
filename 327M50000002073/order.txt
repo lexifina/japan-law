@@ -56,6 +56,7 @@ art-050.md
 art-051.md
 art-052.md
 art-053.md
+art-053-2.md
 art-054.md
 art-055.md
 suppl/original.md
@@ -104,6 +105,7 @@ suppl/h31-0329-m32.md
 suppl/r2-0428-m46.md
 suppl/r4-0329-m21.md
 suppl/r5-0327-m21.md
+suppl/r6-0119-m2.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
