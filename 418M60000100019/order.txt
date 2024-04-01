@@ -22,8 +22,10 @@ art-006-4.md
 art-006-5.md
 art-006-6.md
 art-006-7.md
+art-006-7-2.md
 art-006-8.md
 art-006-9.md
+art-006-9-2.md
 art-006-10.md
 art-006-10-2.md
 art-006-10-3.md
@@ -31,6 +33,7 @@ art-006-10-4.md
 art-006-10-5.md
 art-006-10-6.md
 art-006-10-7.md
+art-006-10-8.md
 art-006-11.md
 art-006-11-2.md
 art-006-12.md
@@ -110,6 +113,8 @@ art-034-20-2.md
 art-034-20-3.md
 art-034-20-4.md
 art-034-21.md
+art-034-21-2.md
+art-034-21-3.md
 art-034-22.md
 art-034-23.md
 art-034-24.md
@@ -159,6 +164,8 @@ art-034-57.md
 art-034-58.md
 art-034-59.md
 art-034-60.md
+art-034-60-2.md
+art-034-60-3.md
 art-034-61.md
 art-034-62.md
 art-034-63.md
@@ -231,6 +238,7 @@ art-065-14.md
 art-065-14-2.md
 art-065-14-3.md
 art-065-14-4.md
+art-065-14-5.md
 art-065-15.md
 art-066.md
 art-067.md
@@ -294,6 +302,10 @@ suppl/r2-1228-m212.md
 suppl/r4-0329-m46.md
 suppl/r5-0331-m48.md
 suppl/r5-0401-m4.md
+suppl/r6-0124-m1.md
+suppl/r6-0125-m2.md
+suppl/r6-0125-m3.md
+suppl/r6-0329-m10.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
