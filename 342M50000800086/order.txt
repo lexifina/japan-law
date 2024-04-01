@@ -8,7 +8,6 @@ art-004.md
 art-005.md
 art-006.md
 art-007.md
-art-008.md
 suppl/original.md
 suppl/s45-0220-m10.md
 suppl/s45-0528-m40.md
@@ -44,9 +43,9 @@ suppl/h19-0601-m63.md
 suppl/h26-0930-m75.md
 suppl/h26-1017-m83.md
 suppl/r1-0628-m20.md
+suppl/r6-0329-m26.md
 appdx/style-1.md
 appdx/table-2.md
 appdx/table-3.md
 appdx/style-2.md
 appdx/style-3.md
-appdx/style-4.md
