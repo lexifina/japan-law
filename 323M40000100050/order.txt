@@ -202,6 +202,10 @@ art-030-32-3.md
 art-030-32-4.md
 art-030-33.md
 art-030-33-2.md
+art-030-33-2-2.md
+art-030-33-2-3.md
+art-030-33-2-4.md
+art-030-33-2-5.md
 art-030-33-3.md
 art-030-33-4.md
 art-030-33-5.md
@@ -340,6 +344,7 @@ art-039-19.md
 art-039-20.md
 art-039-21.md
 art-039-22.md
+art-039-22-2.md
 art-039-23.md
 art-039-24.md
 art-039-25.md
@@ -566,9 +571,14 @@ suppl/r5-0331-m54.md
 suppl/r5-0428-m73.md
 suppl/r5-0519-m77.md
 suppl/r5-0526-m79.md
+suppl/r5-0619-m85.md
 suppl/r5-0731-m100.md
+suppl/r5-1213-m154.md
 suppl/r5-1226-m161.md
 suppl/r5-1227-m165.md
+suppl/r6-0117-m4.md
+suppl/r6-0119-m12.md
+suppl/r6-0329-m59.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
