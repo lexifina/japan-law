@@ -88,6 +88,7 @@ art-066-2.md
 art-067.md
 art-068.md
 art-068-2.md
+art-068-3.md
 art-069.md
 art-070.md
 art-071.md
@@ -201,6 +202,7 @@ suppl/r3-0527-m30.md
 suppl/r3-0827-m40.md
 suppl/r4-0308-m7.md
 suppl/r6-0226-m5.md
+suppl/r6-0418-m30.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
