@@ -798,6 +798,7 @@ suppl/r6-0315-co53.md
 suppl/r6-0325-co62.md
 suppl/r6-0329-co95.md
 suppl/r6-0424-co174.md
+suppl/r6-0517-co187.md
 appdx/style-1.md
 appdx/table-2.md
 appdx/table-3.md
