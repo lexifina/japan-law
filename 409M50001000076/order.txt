@@ -71,6 +71,7 @@ suppl/h30-1004-m58.md
 suppl/r1-0628-m19.md
 suppl/r2-1119-m105.md
 suppl/r6-0315-m15.md
+suppl/r6-0524-m51.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
