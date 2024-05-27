@@ -325,6 +325,7 @@ suppl/r6-0202-m24.md
 suppl/r6-0327-m56.md
 suppl/r6-0328-m58.md
 suppl/r6-0329-m60.md
+suppl/r6-0524-m87.md
 appdx/style-2.md
 appdx/style-3.md
 appdx/style-4.md
