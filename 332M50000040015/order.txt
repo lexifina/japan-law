@@ -148,6 +148,11 @@ art-018-23.md
 art-018-23-2.md
 art-018-23-2-2.md
 art-018-23-3.md
+art-018-23-4.md
+art-018-23-5.md
+art-018-23-6.md
+art-018-23-7.md
+art-018-23-8.md
 art-018-24.md
 art-018-24-2.md
 art-018-25.md
