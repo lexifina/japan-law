@@ -122,6 +122,7 @@ art-079-7.md
 art-079-8.md
 art-079-9.md
 art-079-9-2.md
+art-079-9-3.md
 art-079-10.md
 art-079-11.md
 art-079-12.md
@@ -203,6 +204,7 @@ suppl/r3-0827-m40.md
 suppl/r4-0308-m7.md
 suppl/r6-0226-m5.md
 suppl/r6-0418-m30.md
+suppl/r6-0524-m35.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
