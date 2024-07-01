@@ -21,6 +21,7 @@ art-013-3.md
 art-013-4.md
 art-013-5.md
 art-013-6.md
+art-013-7.md
 art-014.md
 art-014-2.md
 art-015.md
@@ -292,6 +293,7 @@ suppl/r3-1119-m71.md
 suppl/r4-0401-m41.md
 suppl/r5-1002-m82.md
 suppl/r5-1228-m97.md
+suppl/r6-0628-m71.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-2.md
