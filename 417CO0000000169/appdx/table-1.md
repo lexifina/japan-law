@@ -188,9 +188,11 @@
 
 | ６ | Bufo quercicus（オークヒキガエル） |
 
-| ７ | Bufo speciosus（テキサスヒキガエル） |
+| ７ | Bufo regularis（アフリカヒキガエル） |
 
-| ８ | Bufo typhonius（コノハヒキガエル） |
+| ８ | Bufo speciosus（テキサスヒキガエル） |
+
+| ９ | Bufo typhonius（コノハヒキガエル） |
 
 | （２）　あまがえる科 |
 
@@ -215,6 +217,12 @@
 | （６）　あおがえる科 |
 
 | １ | Polypedates leucomystax（シロアゴガエル） |
+
+| ロ　有尾目 |
+
+| （１）　おおさんしょううお科 |
+
+| １ | Andrias属（オオサンショウウオ属）に属する種のうちAndrias japonicus（オオサンショウウオ）以外のもの |
 
 | 五　条鰭亜綱 |
 
