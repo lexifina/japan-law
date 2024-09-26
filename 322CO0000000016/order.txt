@@ -291,6 +291,7 @@ art-178-3.md
 art-178-4.md
 art-178-5.md
 art-179.md
+art-179-2.md
 art-180.md
 art-181.md
 art-182.md
@@ -965,3 +966,4 @@ suppl/r6-0226-co41.md
 suppl/r6-0329-co116.md
 suppl/r6-0330-co135.md
 suppl/r6-0330-co161.md
+suppl/r6-0926-co297.md
