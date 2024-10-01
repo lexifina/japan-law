@@ -171,6 +171,7 @@ suppl/r2-1225-m208.md
 suppl/r4-0128-m17.md
 suppl/r4-0603-m92.md
 suppl/r5-1226-m163.md
+suppl/r6-0529-m90.md
 suppl/r6-0529-m91.md
 appdx/note-1.md
 appdx/note-2.md
