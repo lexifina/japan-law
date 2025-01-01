@@ -680,6 +680,8 @@ suppl/r6-0930-m89.md
 suppl/r6-1129-m101.md
 suppl/r6-1217-m111.md
 suppl/r6-1220-m113.md
+suppl/r6-1226-m118.md
+suppl/r6-1227-m119.md
 suppl/r6-1227-m120.md
 suppl/r6-1227-m121.md
 appdx/style-1.md
