@@ -247,6 +247,7 @@ suppl/r5-1222-m95.md
 suppl/r6-0523-m47.md
 suppl/r6-0930-m89.md
 suppl/r6-1220-m113.md
+suppl/r6-1227-m119.md
 suppl/r6-1227-m120.md
 suppl/r6-1227-m121.md
 appdx/tablex-1.md
