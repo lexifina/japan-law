@@ -264,7 +264,11 @@
 
 | イ　とかげ亜目 |
 
-| （１）　とかげもどき科 |
+| （１）　きのぼりとかげ科 |
+
+| １ | Diploderma polygonatum donan（ヨナグニキノボリトカゲ） |
+
+| （２）　とかげもどき科 |
 
 | １ | Goniurosaurus kuroiwae kuroiwae（クロイワトカゲモドキ） |
 
@@ -278,7 +282,7 @@
 
 | ６ | Goniurosaurus splendens（オビトカゲモドキ） |
 
-| （２）　かなへび科 |
+| （３）　かなへび科 |
 
 | １ | Takydromus dorsalis（サキシマカナヘビ） |
 
@@ -410,11 +414,15 @@
 
 | ２ | Acheilognathus tabira nakamurae（セボシタビラ） |
 
-| ３ | Hemigrammocypris neglectus（カワバタモロコ） |
+| ３ | Acheilognathus typus（ゼニタナゴ） |
 
-| ４ | Rhodeus atremius suigensis（スイゲンゼニタナゴ） |
+| ４ | Hemigrammocypris neglectus（カワバタモロコ） |
 
-| ５ | Tanakia tanago（ミヤコタナゴ） |
+| ５ | Pseudorasbora pumila（シナイモツゴ） |
+
+| ６ | Rhodeus atremius suigensis（スイゲンゼニタナゴ） |
+
+| ７ | Tanakia tanago（ミヤコタナゴ） |
 
 | ロ　はぜ亜目 |
 
@@ -496,7 +504,9 @@
 
 | １０ | Hydaticus thermonectoides（マダラシマゲンゴロウ） |
 
-| １１ | Prodaticus vittatus（オキナワスジゲンゴロウ） |
+| １１ | Hydaticus yambaruensis（ヤンバルオオイチモンジシマゲンゴロウ） |
+
+| １２ | Prodaticus vittatus（オキナワスジゲンゴロウ） |
 
 | （５）　みずすまし科 |
 
@@ -608,6 +618,10 @@
 
 | ２ | Rhyothemis severini（ハネナガチョウトンボ） |
 
+| （５）　ものさしとんぼ科 |
+
+| １ | Platycnemis phyllopoda（チョウセングンバイトンボ） |
+
 | ト　ばった目 |
 
 | （１）　ばった科 |
@@ -631,6 +645,10 @@
 | １ | Margaritifera laevis（カワシンジュガイ） |
 
 | ２ | Margaritifera togakushiensis（コガタカワシンジュガイ） |
+
+| （２）　いしがい科 |
+
+| １ | Obovalis omiensis（カタハガイ） |
 
 | 九　腹足綱 |
 
@@ -1076,53 +1094,57 @@
 
 | １５ | Dendrobium okinawense（オキナワセッコク） |
 
-| １６ | Disperis neilgherrensis（ジョウロウラン） |
+| １６ | Dienia ophrydis（ホザキヒメラン） |
 
-| １７ | Eulophia taiwanensis（タカサゴヤガラ） |
+| １７ | Disperis neilgherrensis（ジョウロウラン） |
 
-| １８ | Gastrodia albida（ヤクシマヤツシロラン） |
+| １８ | Eulophia taiwanensis（タカサゴヤガラ） |
 
-| １９ | Gastrodia uraiensis（タブガワヤツシロラン） |
+| １９ | Gastrodia albida（ヤクシマヤツシロラン） |
 
-| ２０ | Goodyera fumata（ヤブミョウガラン） |
+| ２０ | Gastrodia uraiensis（タブガワヤツシロラン） |
 
-| ２１ | Habenaria stenopetala（テツオサギソウ） |
+| ２１ | Goodyera fumata（ヤブミョウガラン） |
 
-| ２２ | Hancockia uniflora（ヒメクリソラン） |
+| ２２ | Habenaria stenopetala（テツオサギソウ） |
 
-| ２３ | Hetaeria oblongifolia（オオカゲロウラン） |
+| ２３ | Hancockia uniflora（ヒメクリソラン） |
 
-| ２４ | Liparis nikkoensis（ヒメスズムシソウ） |
+| ２４ | Hetaeria oblongifolia（オオカゲロウラン） |
 
-| ２５ | Liparis viridiflora（コゴメキノエラン） |
+| ２５ | Liparis nikkoensis（ヒメスズムシソウ） |
 
-| ２６ | Macodes petola（ナンバンカモメラン） |
+| ２６ | Liparis viridiflora（コゴメキノエラン） |
 
-| ２７ | Malaxis boninensis（シマホザキラン） |
+| ２７ | Macodes petola（ナンバンカモメラン） |
 
-| ２８ | Odontochilus hatusimanus（ハツシマラン） |
+| ２８ | Malaxis boninensis（シマホザキラン） |
 
-| ２９ | Odontochilus nanlingensis（ヒメシラヒゲラン） |
+| ２９ | Odontochilus hatusimanus（ハツシマラン） |
 
-| ３０ | Odontochilus tashiroi（オオギミラン） |
+| ３０ | Odontochilus nanlingensis（ヒメシラヒゲラン） |
 
-| ３１ | Oreorchis itoana（コハクラン） |
+| ３１ | Odontochilus tashiroi（オオギミラン） |
 
-| ３２ | Peristylus lacertifer（タコガタサギソウ） |
+| ３２ | Oreorchis itoana（コハクラン） |
 
-| ３３ | Phaius mishmensis（ヒメカクラン） |
+| ３３ | Peristylus lacertifer（タコガタサギソウ） |
 
-| ３４ | Platanthera boninensis（シマツレサギソウ） |
+| ３４ | Phaius mishmensis（ヒメカクラン） |
 
-| ３５ | Platanthera okuboi（ハチジョウツレサギ） |
+| ３５ | Platanthera boninensis（シマツレサギソウ） |
 
-| ３６ | Platanthera sonoharae（クニガミトンボソウ） |
+| ３６ | Platanthera okuboi（ハチジョウツレサギ） |
 
-| ３７ | Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ） |
+| ３７ | Platanthera sonoharae（クニガミトンボソウ） |
 
-| ３８ | Thrixspermum fantasticum（ハガクレナガミラン） |
+| ３８ | Platanthera stenoglossa ssp. iriomotensis（イリオモテトンボソウ） |
 
-| ３９ | Vrydagzynea nuda（ミソボシラン） |
+| ３９ | Thrixspermum annamense var. devolianum（イリオモテカヤラン） |
+
+| ４０ | Thrixspermum fantasticum（ハガクレナガミラン） |
+
+| ４１ | Vrydagzynea nuda（ミソボシラン） |
 
 | （３１）　きじのおしだ科 |
 
@@ -1196,19 +1218,21 @@
 
 | ４ | Aconitum metajaponicum（オンタケブシ） |
 
-| ５ | Callianthemum hondoense（キタダケソウ） |
+| ５ | Anemone sikokiana（シコクイチゲ） |
 
-| ６ | Callianthemum kirigishiense（キリギシソウ） |
+| ６ | Callianthemum hondoense（キタダケソウ） |
 
-| ７ | Ranunculus altaicus subsp. shinanoalpinus（タカネキンポウゲ） |
+| ７ | Callianthemum kirigishiense（キリギシソウ） |
 
-| ８ | Ranunculus kitadakeanus（キタダケキンポウゲ） |
+| ８ | Ranunculus altaicus subsp. shinanoalpinus（タカネキンポウゲ） |
 
-| ９ | Ranunculus pygmaeus（クモマキンポウゲ） |
+| ９ | Ranunculus kitadakeanus（キタダケキンポウゲ） |
 
-| １０ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
+| １０ | Ranunculus pygmaeus（クモマキンポウゲ） |
 
-| １１ | Thalictrum uchiyamae（ムラサキカラマツ） |
+| １１ | Ranunculus yatsugatakensis（ヤツガタケキンポウゲ） |
+
+| １２ | Thalictrum uchiyamae（ムラサキカラマツ） |
 
 | （４３）　くろうめもどき科 |
 
@@ -1286,9 +1310,11 @@
 
 | （５７）　くまつづら科 |
 
-| １ | Callicarpa longissima（タカクマムラサキ） |
+| １ | Callicarpa formosana（ホウライムラサキ） |
 
-| ２ | Callicarpa parvifolia（ウラジロコムラサキ） |
+| ２ | Callicarpa longissima（タカクマムラサキ） |
+
+| ３ | Callicarpa parvifolia（ウラジロコムラサキ） |
 
 | （５８）　すみれ科 |
 

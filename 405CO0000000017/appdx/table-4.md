@@ -4,7 +4,15 @@
 
 | 第一　動物界 |
 
-| 一　両生綱 |
+| 一　爬虫綱 |
+
+| イ　とかげ亜目 |
+
+| （１）　きのぼりとかげ科 |
+
+| １ | Diploderma polygonatum donan（ヨナグニキノボリトカゲ） |
+
+| 二　両生綱 |
 
 | イ　有尾目 |
 
@@ -60,7 +68,7 @@
 
 | ２５ | Salamandrella keyserlingii（キタサンショウウオ） |
 
-| 二　条鰭亜綱 |
+| 三　条鰭亜綱 |
 
 | イ　こい目 |
 
@@ -68,7 +76,9 @@
 
 | １ | Hemigrammocypris neglectus（カワバタモロコ） |
 
-| 三　昆虫綱 |
+| ２ | Pseudorasbora pumila（シナイモツゴ） |
+
+| 四　昆虫綱 |
 
 | イ　甲虫目 |
 
@@ -96,7 +106,7 @@
 
 | １ | Ilyocoris cimicoides exclamationis（コバンムシ） |
 
-| 四　二枚貝綱 |
+| 五　二枚貝綱 |
 
 | イ　いしがい目 |
 
@@ -106,7 +116,11 @@
 
 | ２ | Margaritifera togakushiensis（コガタカワシンジュガイ） |
 
-| 五　軟甲綱 |
+| （２）　いしがい科 |
+
+| １ | Obovalis omiensis（カタハガイ） |
+
+| 六　軟甲綱 |
 
 | イ　十脚目 |
 

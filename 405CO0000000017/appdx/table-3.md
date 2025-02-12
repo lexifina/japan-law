@@ -2,7 +2,17 @@
 
 | 項 | 種名 |
 
-| 第一　植物界 |
+| 第一　動物界 |
+
+| 一　条鰭亜綱 |
+
+| イ　こい目 |
+
+| （１）　こい科 |
+
+| １ | Acheilognathus typus（ゼニタナゴ） |
+
+| 第二　植物界 |
 
 | （１）　おもだか科 |
 
@@ -124,11 +134,13 @@
 
 | ７ | Dendrobium okinawense（オキナワセッコク） |
 
-| ８ | Macodes petola（ナンバンカモメラン） |
+| ８ | Dienia ophrydis（ホザキヒメラン） |
 
-| ９ | Odontochilus hatusimanus（ハツシマラン） |
+| ９ | Macodes petola（ナンバンカモメラン） |
 
-| １０ | Odontochilus tashiroi（オオギミラン） |
+| １０ | Odontochilus hatusimanus（ハツシマラン） |
+
+| １１ | Odontochilus tashiroi（オオギミラン） |
 
 | （１４）　はなしのぶ科 |
 
@@ -162,7 +174,11 @@
 
 | １ | Tectaria fauriei（コモチナナバケシダ） |
 
-| （１９）　すみれ科 |
+| （１９）　くまつづら科 |
+
+| １ | Callicarpa formosana（ホウライムラサキ） |
+
+| （２０）　すみれ科 |
 
 | １ | Viola tashiroi var. tairae（イシガキスミレ） |
 
