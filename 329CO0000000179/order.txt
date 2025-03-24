@@ -56,6 +56,9 @@ art-018-13.md
 art-019.md
 art-020.md
 art-021.md
+art-021-2.md
+art-021-3.md
+art-021-4.md
 art-022.md
 art-022-2.md
 art-022-3.md
@@ -104,6 +107,10 @@ art-030-16.md
 art-030-17.md
 art-030-18.md
 art-030-19.md
+art-030-20.md
+art-030-21.md
+art-030-22.md
+art-030-23.md
 art-031.md
 art-032.md
 art-033.md
@@ -804,8 +811,11 @@ suppl/r6-0814-co264.md
 suppl/r6-0926-co293.md
 suppl/r6-0926-co304.md
 suppl/r6-0926-co305.md
+suppl/r6-1101-co335.md
+suppl/r7-0314-co50.md
 appdx/style-1.md
 appdx/table-2.md
+appdx/table-2-2.md
 appdx/table-3.md
 appdx/table-4.md
 appdx/tablex-1.md
