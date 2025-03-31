@@ -40,6 +40,7 @@ art-037.md
 art-038.md
 suppl/original.md
 suppl/r6-0329-m1.md
+suppl/r7-0331-m1.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/note-1.md
