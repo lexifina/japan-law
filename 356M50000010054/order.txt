@@ -52,6 +52,7 @@ art-019-21.md
 art-019-22.md
 art-019-23.md
 art-019-24.md
+art-019-24-2.md
 art-019-25.md
 art-020.md
 art-020-2.md
@@ -342,6 +343,9 @@ suppl/r6-0329-m13.md
 suppl/r6-0422-m31.md
 suppl/r6-0426-m34.md
 suppl/r6-0529-m37.md
+suppl/r7-0217-m4.md
+suppl/r7-0312-m7.md
+suppl/r7-0401-m17.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
@@ -350,6 +354,7 @@ appdx/table-3-3.md
 appdx/table-3-4.md
 appdx/table-3-5.md
 appdx/table-3-6.md
+appdx/table-3-7.md
 appdx/table-4.md
 appdx/table-5.md
 appdx/table-6.md
