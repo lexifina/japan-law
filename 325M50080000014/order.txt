@@ -685,6 +685,7 @@ suppl/r6-1227-m119.md
 suppl/r6-1227-m120.md
 suppl/r6-1227-m121.md
 suppl/r7-0121-m2.md
+suppl/r7-0225-m4.md
 suppl/r7-0227-m5.md
 suppl/r7-0228-m7.md
 appdx/style-1.md
