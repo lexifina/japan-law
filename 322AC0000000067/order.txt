@@ -1070,6 +1070,7 @@ suppl/r4-101.md
 suppl/r4-104.md
 suppl/r5-14.md
 suppl/r5-19.md
+suppl/r5-21.md
 suppl/r5-31.md
 suppl/r5-34.md
 suppl/r5-48.md
@@ -1079,7 +1080,10 @@ suppl/r5-73.md
 suppl/r5-84.md
 suppl/r5-89.md
 suppl/r6-47.md
+suppl/r6-56.md
 suppl/r6-59.md
 suppl/r6-65.md
 suppl/r6-70.md
+suppl/r6-72.md
 suppl/r7-2.md
+suppl/r7-14.md
