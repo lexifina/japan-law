@@ -69,6 +69,7 @@ art-042.md
 art-043.md
 art-044.md
 art-045.md
+art-046.md
 suppl/s60-0930-r0.md
 suppl/s61-0331-r0.md
 suppl/s61-0701-r0.md
@@ -164,6 +165,7 @@ suppl/r4-0331-r0.md
 suppl/r5-0118-r0.md
 suppl/r5-0331-r0.md
 suppl/r6-0329-r0.md
+suppl/r7-0331-r0.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-2-2.md
