@@ -36,6 +36,7 @@ art-032.md
 art-033.md
 suppl/original.md
 suppl/r6-1220-m114.md
+suppl/r7-0325-m17.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
