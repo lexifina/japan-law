@@ -15,7 +15,6 @@ art-005.md
 art-005-2.md
 art-005-3.md
 art-005-4.md
-art-005-5.md
 art-006.md
 art-007.md
 art-008.md
