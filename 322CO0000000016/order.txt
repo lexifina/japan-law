@@ -966,6 +966,11 @@ suppl/r6-0226-co41.md
 suppl/r6-0329-co116.md
 suppl/r6-0330-co135.md
 suppl/r6-0330-co161.md
+suppl/r6-0614-co209.md
 suppl/r6-0926-co297.md
 suppl/r6-1011-co312.md
+suppl/r6-1213-co375.md
 suppl/r7-0328-co94.md
+suppl/r7-0331-co118.md
+suppl/r7-0331-co143.md
+suppl/r7-0401-co153.md
