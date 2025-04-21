@@ -219,6 +219,10 @@ art-158-34.md
 art-158-35.md
 art-158-36.md
 art-158-37.md
+art-158-38.md
+art-158-39.md
+art-158-40.md
+art-158-41.md
 art-159.md
 art-160.md
 art-161.md
@@ -367,6 +371,7 @@ suppl/r5-0728-m33.md
 suppl/r6-0301-m7.md
 suppl/r6-0422-m32.md
 suppl/r6-1202-m47.md
+suppl/r7-0110-m1.md
 suppl/r7-0214-m2.md
 appdx/tablex-1.md
 appdx/tablex-2.md
@@ -385,3 +390,4 @@ appdx/note-11.md
 appdx/note-12.md
 appdx/note-13.md
 appdx/note-14.md
+appdx/note-15.md
