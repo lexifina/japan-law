@@ -73,6 +73,7 @@ suppl/r6-0201-r3.md
 suppl/r6-0628-r10.md
 suppl/r6-1030-r14.md
 suppl/r6-1030-r15.md
+suppl/r7-0425-r5.md
 appdx/fig-1.md
 appdx/style-1.md
 appdx/style-2.md
