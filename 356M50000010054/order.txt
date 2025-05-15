@@ -180,6 +180,7 @@ art-052.md
 art-052-2.md
 art-052-3.md
 art-053.md
+art-053-2.md
 art-054.md
 art-054-2.md
 art-055.md
@@ -203,6 +204,7 @@ art-058-9.md
 art-059.md
 art-059-2.md
 art-059-3.md
+art-059-4.md
 art-060.md
 art-061.md
 art-061-2.md
@@ -346,6 +348,7 @@ suppl/r6-0529-m37.md
 suppl/r7-0217-m4.md
 suppl/r7-0312-m7.md
 suppl/r7-0401-m17.md
+suppl/r7-0415-m30.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
@@ -561,3 +564,4 @@ appdx/note-197.md
 appdx/note-198.md
 appdx/note-199.md
 appdx/note-200.md
+appdx/note-201.md
