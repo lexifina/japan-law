@@ -339,6 +339,13 @@ art-120-15.md
 art-120-16.md
 art-120-17.md
 art-120-18.md
+art-120-19.md
+art-120-20.md
+art-120-21.md
+art-120-22.md
+art-120-23.md
+art-120-24.md
+art-120-25.md
 art-121.md
 art-122.md
 art-123.md
@@ -816,6 +823,7 @@ suppl/r6-1101-co335.md
 suppl/r7-0129-co19.md
 suppl/r7-0314-co50.md
 suppl/r7-0401-co169.md
+suppl/r7-0528-co196.md
 appdx/style-1.md
 appdx/table-2.md
 appdx/table-2-2.md
