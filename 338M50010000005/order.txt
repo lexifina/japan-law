@@ -252,6 +252,7 @@ suppl/r5-0705-m38.md
 suppl/r5-1228-m66.md
 suppl/r6-0425-m28.md
 suppl/r6-0611-m35.md
+suppl/r7-0422-m21.md
 appdx/note-1.md
 appdx/style-1.md
 appdx/style-2.md
