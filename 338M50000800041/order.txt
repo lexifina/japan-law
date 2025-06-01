@@ -296,6 +296,7 @@ suppl/r6-0628-m71.md
 suppl/r6-1030-m94.md
 suppl/r7-0228-m10.md
 suppl/r7-0331-m23.md
+suppl/r7-0530-m61.md
 appdx/table-1.md
 appdx/table-1-2.md
 appdx/table-1-3.md
