@@ -855,6 +855,7 @@ suppl/r6-1202-m102.md
 suppl/r6-1227-m112.md
 suppl/r7-0331-m39.md
 suppl/r7-0414-m55.md
+suppl/r7-0526-m60.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
