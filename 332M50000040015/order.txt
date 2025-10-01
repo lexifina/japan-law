@@ -803,6 +803,7 @@ suppl/r7-0325-m11.md
 suppl/r7-0331-m26.md
 suppl/r7-0801-m59.md
 suppl/r7-0815-m60.md
+suppl/r7-0930-m62.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
