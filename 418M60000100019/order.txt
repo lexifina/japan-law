@@ -23,6 +23,9 @@ art-006-5.md
 art-006-6.md
 art-006-7.md
 art-006-7-2.md
+art-006-7-3.md
+art-006-7-4.md
+art-006-7-5.md
 art-006-8.md
 art-006-9.md
 art-006-9-2.md
@@ -102,6 +105,7 @@ art-034-12.md
 art-034-13.md
 art-034-14.md
 art-034-15.md
+art-034-15-2.md
 art-034-16.md
 art-034-17.md
 art-034-18.md
