@@ -331,6 +331,7 @@ suppl/r6-0319-m46.md
 suppl/r6-0329-m65.md
 suppl/r6-0823-m115.md
 suppl/r6-1227-m164.md
+suppl/r7-1001-m96.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
@@ -354,7 +355,7 @@ appdx/table-14.md
 appdx/table-15.md
 appdx/table-16.md
 appdx/table-17.md
-appdx/tablex-2.md
+appdx/table-18.md
 appdx/table-19.md
 appdx/table-20.md
 appdx/table-21.md
