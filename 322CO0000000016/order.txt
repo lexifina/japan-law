@@ -976,5 +976,6 @@ suppl/r7-0331-co118.md
 suppl/r7-0331-co143.md
 suppl/r7-0401-co153.md
 suppl/r7-0613-co213.md
+suppl/r7-0704-co252.md
 suppl/r7-0925-co332.md
 suppl/r7-0925-co337.md
