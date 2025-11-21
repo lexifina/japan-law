@@ -194,8 +194,9 @@ art-020-9.md
 art-020-10.md
 art-020-10-2.md
 art-020-11.md
-art-020-12-to-020-14.md
-art-020-15.md
+art-020-12.md
+art-020-13.md
+art-020-14-to-020-15.md
 art-020-16.md
 art-020-17.md
 art-020-18-to-020-19.md
@@ -804,6 +805,7 @@ suppl/r7-0331-m26.md
 suppl/r7-0801-m59.md
 suppl/r7-0815-m60.md
 suppl/r7-0930-m62.md
+suppl/r7-1112-m66.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
