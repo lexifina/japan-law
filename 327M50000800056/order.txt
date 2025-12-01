@@ -311,6 +311,10 @@ art-162-15.md
 art-162-16.md
 art-162-17.md
 art-162-18.md
+art-162-19.md
+art-162-20.md
+art-162-21.md
+art-162-22.md
 art-163.md
 art-163-2.md
 art-164.md
@@ -860,6 +864,7 @@ suppl/r7-0611-m65.md
 suppl/r7-0718-m83.md
 suppl/r7-1112-m108.md
 suppl/r7-1127-m113.md
+suppl/r7-1127-m114.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
