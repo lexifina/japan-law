@@ -117,6 +117,7 @@ suppl/r2-0306-m3.md
 suppl/r4-0428-m28.md
 suppl/r5-0911-m36.md
 suppl/r6-0422-m32.md
+suppl/r7-1120-m55.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
