@@ -167,6 +167,7 @@ art-019-8.md
 art-019-9.md
 art-019-10.md
 art-019-10-2.md
+art-019-10-2-2.md
 art-019-10-3.md
 art-019-10-4.md
 art-019-10-5.md
