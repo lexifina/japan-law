@@ -251,6 +251,17 @@ art-068-2.md
 art-068-3.md
 art-068-3-2.md
 art-068-3-3.md
+art-068-3-4.md
+art-068-3-5.md
+art-068-3-6.md
+art-068-3-7.md
+art-068-3-8.md
+art-068-3-9.md
+art-068-3-10.md
+art-068-3-11.md
+art-068-3-12.md
+art-068-3-13.md
+art-068-3-14.md
 art-068-4.md
 art-069.md
 art-070.md
@@ -314,6 +325,7 @@ suppl/r6-1010-m16.md
 suppl/r7-0331-m3.md
 suppl/r7-0331-m4.md
 suppl/r7-0331-m5.md
+suppl/r7-1128-m12.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
