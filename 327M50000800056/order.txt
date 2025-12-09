@@ -539,6 +539,7 @@ art-236-37.md
 art-236-38.md
 art-236-39.md
 art-236-40.md
+art-236-40-2.md
 art-236-41.md
 art-236-42.md
 art-236-43.md
@@ -562,9 +563,7 @@ art-236-60.md
 art-236-61.md
 art-236-62.md
 art-236-63.md
-art-236-64.md
-art-236-65.md
-art-236-66.md
+art-236-64-to-236-66.md
 art-236-67.md
 art-236-68.md
 art-236-69.md
@@ -865,6 +864,7 @@ suppl/r7-0718-m83.md
 suppl/r7-1112-m108.md
 suppl/r7-1127-m113.md
 suppl/r7-1127-m114.md
+suppl/r7-1209-m118.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
