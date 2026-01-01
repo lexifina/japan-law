@@ -1082,6 +1082,7 @@ suppl/r5-89.md
 suppl/r6-47.md
 suppl/r6-56.md
 suppl/r6-59.md
+suppl/r6-64.md
 suppl/r6-65.md
 suppl/r6-70.md
 suppl/r6-72.md
