@@ -261,6 +261,9 @@ art-192.md
 art-193.md
 art-194.md
 art-195.md
+art-195-2.md
+art-195-3.md
+art-195-4.md
 art-196.md
 art-197.md
 art-197-2.md
@@ -375,6 +378,7 @@ suppl/r7-0110-m1.md
 suppl/r7-0214-m2.md
 suppl/r7-0815-m40.md
 suppl/r7-0930-m48.md
+suppl/r8-0202-m5.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
@@ -393,3 +397,5 @@ appdx/note-12.md
 appdx/note-13.md
 appdx/note-14.md
 appdx/note-15.md
+appdx/note-16.md
+appdx/note-17.md
