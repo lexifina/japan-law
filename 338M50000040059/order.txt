@@ -288,6 +288,7 @@ art-199.md
 art-200.md
 art-201.md
 art-202.md
+art-202-2.md
 art-203.md
 art-204.md
 art-205.md
@@ -392,6 +393,7 @@ art-303.md
 art-303-2.md
 art-304.md
 art-305.md
+art-305-2.md
 art-306.md
 art-307.md
 art-308.md
@@ -529,6 +531,7 @@ suppl/r7-0324-m20.md
 suppl/r7-0331-m31.md
 suppl/r7-0401-m36.md
 suppl/r7-0822-m75.md
+suppl/r8-0331-m28.md
 appdx/tablex-1.md
 appdx/style-1.md
 appdx/style-2.md
