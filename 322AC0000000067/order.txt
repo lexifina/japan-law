@@ -286,6 +286,7 @@ art-244-2.md
 art-244-3.md
 art-244-4.md
 art-244-5.md
+art-244-6.md
 art-245.md
 art-245-2.md
 art-245-3.md
@@ -1084,6 +1085,7 @@ suppl/r6-56.md
 suppl/r6-59.md
 suppl/r6-64.md
 suppl/r6-65.md
+suppl/r6-66.md
 suppl/r6-70.md
 suppl/r6-72.md
 suppl/r7-2.md
@@ -1091,3 +1093,6 @@ suppl/r7-14.md
 suppl/r7-22.md
 suppl/r7-35.md
 suppl/r7-47.md
+suppl/r7-89.md
+suppl/r8-3.md
+suppl/r8-8.md
