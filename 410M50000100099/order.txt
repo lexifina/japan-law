@@ -151,6 +151,7 @@ art-031-49.md
 art-031-50.md
 art-031-51.md
 art-031-52.md
+art-031-53.md
 art-032.md
 art-032-2.md
 art-032-3.md
@@ -228,6 +229,9 @@ suppl/r7-0331-m31.md
 suppl/r7-0331-m36.md
 suppl/r7-1022-m103.md
 suppl/r7-1128-m118.md
+suppl/r8-0203-m10.md
+suppl/r8-0326-m36.md
+suppl/r8-0327-m39.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/style-3.md
