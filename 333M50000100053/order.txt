@@ -122,6 +122,7 @@ art-032-9.md
 art-032-9-2.md
 art-032-10.md
 art-032-10-2.md
+art-032-10-3.md
 art-032-11.md
 art-032-12.md
 art-032-13.md
@@ -333,6 +334,7 @@ suppl/r6-0830-m119.md
 suppl/r6-1227-m167.md
 suppl/r7-0530-m62.md
 suppl/r7-1226-m128.md
+suppl/r8-0115-m2.md
 suppl/r8-0126-m7.md
 suppl/r8-0331-m67.md
 appdx/style-2.md
