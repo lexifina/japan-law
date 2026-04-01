@@ -82,6 +82,7 @@ suppl/r2-1228-m92.md
 suppl/r4-0325-m19.md
 suppl/r5-0905-m42.md
 suppl/r7-0523-m44.md
+suppl/r7-0625-m51.md
 suppl/r7-0801-m58.md
 appdx/tablex-1.md
 appdx/tablex-2.md
