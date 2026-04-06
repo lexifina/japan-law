@@ -228,6 +228,7 @@ suppl/r7-0218-m10.md
 suppl/r7-0331-m31.md
 suppl/r7-0331-m36.md
 suppl/r7-1022-m103.md
+suppl/r7-1113-m112.md
 suppl/r7-1128-m118.md
 suppl/r8-0203-m10.md
 suppl/r8-0326-m36.md
