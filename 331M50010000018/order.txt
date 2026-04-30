@@ -88,5 +88,6 @@ suppl/r6-0329-m22.md
 suppl/r6-1225-m65.md
 suppl/r7-0401-m18.md
 suppl/r8-0113-m2.md
+suppl/r8-0430-m36.md
 appdx/style-1.md
 appdx/table.md
