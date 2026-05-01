@@ -49,14 +49,8 @@ art-026.md
 art-027.md
 art-028.md
 art-029.md
-art-029-2.md
-art-029-3.md
-art-029-4.md
-art-029-5.md
-art-029-6.md
-art-029-7.md
-art-029-8.md
-art-030-to-031.md
+art-030.md
+art-031.md
 art-032.md
 art-033.md
 art-034.md
@@ -70,6 +64,11 @@ art-038-4.md
 art-038-5.md
 art-038-6.md
 art-038-7.md
+art-038-8.md
+art-038-9.md
+art-038-10.md
+art-038-11.md
+art-038-12.md
 art-039.md
 art-040.md
 art-041.md
@@ -109,6 +108,7 @@ art-071-2.md
 art-071-3.md
 art-072.md
 art-072-2.md
+art-072-3.md
 art-073.md
 art-074.md
 art-075.md
@@ -154,12 +154,6 @@ art-091-22.md
 art-091-23.md
 art-091-24.md
 art-091-25.md
-art-091-25-2.md
-art-091-25-3.md
-art-091-25-4.md
-art-091-25-5.md
-art-091-25-6.md
-art-091-25-7.md
 art-091-26.md
 art-091-27.md
 art-091-28.md
@@ -174,6 +168,11 @@ art-091-36.md
 art-091-37.md
 art-091-38.md
 art-091-39.md
+art-091-39-2.md
+art-091-39-3.md
+art-091-39-4.md
+art-091-39-5.md
+art-091-39-6.md
 art-091-40.md
 art-091-41.md
 art-091-42.md
@@ -209,6 +208,7 @@ art-091-57.md
 art-091-58.md
 art-091-59.md
 art-091-60.md
+art-091-60-2.md
 art-091-61.md
 art-091-62.md
 art-091-63.md
@@ -808,3 +808,4 @@ suppl/r7-0731-m35.md
 suppl/r7-1107-m49.md
 suppl/r8-0121-m3.md
 suppl/r8-0226-m10.md
+suppl/r8-0326-m20.md
