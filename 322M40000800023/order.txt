@@ -413,6 +413,7 @@ suppl/r7-0331-m23.md
 suppl/r7-0919-m90.md
 suppl/r8-0213-m7.md
 suppl/r8-0327-m19.md
+suppl/r8-0512-m55.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
@@ -472,3 +473,4 @@ appdx/format-42.md
 appdx/format-43.md
 appdx/format-44.md
 appdx/format-45.md
+appdx/format-46.md
