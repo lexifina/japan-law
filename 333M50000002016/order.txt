@@ -184,6 +184,7 @@ suppl/r4-0128-m5.md
 suppl/r4-0414-m34.md
 suppl/r6-0628-m63.md
 suppl/r7-0124-m2.md
+suppl/r8-0507-m46.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/style-1.md
