@@ -308,6 +308,7 @@ art-214.md
 art-215.md
 art-216.md
 art-217.md
+art-217-2.md
 art-218.md
 art-219.md
 art-220.md
@@ -388,6 +389,7 @@ suppl/r7-1030-m53.md
 suppl/r8-0202-m5.md
 suppl/r8-0218-m6.md
 suppl/r8-0327-m21.md
+suppl/r8-0521-m38.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
