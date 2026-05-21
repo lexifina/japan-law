@@ -748,6 +748,7 @@ art-249.md
 art-249-2.md
 art-249-3.md
 art-249-4.md
+art-249-4-2.md
 art-249-5.md
 art-249-6.md
 art-249-7.md
@@ -1316,6 +1317,7 @@ suppl/r8-0219-m14.md
 suppl/r8-0323-m30.md
 suppl/r8-0327-m46.md
 suppl/r8-0401-m75.md
+suppl/r8-0428-m88.md
 suppl/r8-0518-m93.md
 appdx/style-1.md
 appdx/style-2.md
