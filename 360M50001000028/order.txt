@@ -99,6 +99,7 @@ suppl/r6-0329-m31.md
 suppl/r6-0405-m41.md
 suppl/r6-0524-m51.md
 suppl/r6-1211-m108.md
+suppl/r8-0526-m72.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
