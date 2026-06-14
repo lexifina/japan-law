@@ -42,6 +42,10 @@ art-019-11.md
 art-019-12.md
 art-019-13.md
 art-019-14.md
+art-019-14-2.md
+art-019-14-3.md
+art-019-14-4.md
+art-019-14-5.md
 art-019-15.md
 art-019-16.md
 art-019-17.md
@@ -358,6 +362,7 @@ suppl/r7-0930-m47.md
 suppl/r7-1010-m51.md
 suppl/r8-0317-m11.md
 suppl/r8-0323-m13.md
+suppl/r8-0327-m20.md
 suppl/r8-0331-m24.md
 appdx/table-1.md
 appdx/table-2.md
@@ -575,3 +580,4 @@ appdx/note-198.md
 appdx/note-199.md
 appdx/note-200.md
 appdx/note-201.md
+appdx/note-202.md
