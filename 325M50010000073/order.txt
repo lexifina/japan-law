@@ -352,6 +352,7 @@ suppl/r7-0623-m30.md
 suppl/r7-0917-m40.md
 suppl/r7-1110-m50.md
 suppl/r8-0331-m28.md
+suppl/r8-0617-m45.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/tablex-3.md
