@@ -215,6 +215,7 @@ suppl/r7-0815-m40.md
 suppl/r8-0126-m3.md
 suppl/r8-0226-m7.md
 suppl/r8-0326-m18.md
+suppl/r8-0626-m43.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
