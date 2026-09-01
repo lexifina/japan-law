@@ -23,6 +23,7 @@ art-005-4.md
 art-005-5.md
 art-005-6.md
 art-005-6-2.md
+art-005-6-3.md
 art-005-7.md
 art-006.md
 art-006-2.md
@@ -378,6 +379,7 @@ suppl/r5-0815-m62.md
 suppl/r6-0619-m59.md
 suppl/r6-0626-m60.md
 suppl/r6-0627-m61.md
+suppl/r6-0726-m67.md
 suppl/r6-1025-m86.md
 suppl/r6-1101-m97.md
 suppl/r6-1113-m98.md
