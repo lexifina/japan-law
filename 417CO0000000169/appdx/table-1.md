@@ -132,7 +132,7 @@
 
 | １ | Japalura swinhonis（スウィンホーキノボリトカゲ） |
 
-| （２）　たてがみとかげ科 |
+| （２）　イグアナ科 |
 
 | １ | Anolis allogus（アノリス・アルログス） |
 
@@ -244,7 +244,7 @@
 
 | １ | Tachysurus fulvidraco（コウライギギ） |
 
-| （２）　イクタルルス科 |
+| （２）　アメリカなまず科 |
 
 | １ | Ameiurus nebulosus（ブラウンブルヘッド） |
 
@@ -274,7 +274,7 @@
 
 | （１）　サンフィッシュ科 |
 
-| １ | Lepomis macrochirus（ブルーギル） |
+| １ | Lepomis属（ブルーギル属）全種 |
 
 | ２ | Micropterus dolomieu（コクチバス） |
 
@@ -296,7 +296,13 @@
 
 | ３ | Morone saxatilis（ストライプトバス） |
 
-| （５）　パーチ科 |
+| （５）　ペルキクティス科 |
+
+| １ | Maccullochella peelii（マーレーコッド） |
+
+| ２ | Macquaria ambigua（ゴールデンパーチ） |
+
+| （６）　パーチ科 |
 
 | １ | Gymnocephalus cernua（ラッフ） |
 
@@ -304,11 +310,13 @@
 
 | ３ | Sander lucioperca（パイクパーチ） |
 
-| （６）　けつぎょ科 |
+| （７）　けつぎょ科 |
 
-| １ | Siniperca chuatsi（ケツギョ） |
+| １ | Coreoperca属（オヤニラミ属）に属する種のうちCoreoperca kawamebari（オヤニラミ）以外のもの |
 
-| ２ | Siniperca scherzeri（コウライケツギョ） |
+| ２ | Siniperca chuatsi（ケツギョ） |
+
+| ３ | Siniperca scherzeri（コウライケツギョ） |
 
 | 六　昆虫綱 |
 
