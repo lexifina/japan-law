@@ -1098,4 +1098,5 @@ suppl/r7-89.md
 suppl/r8-3.md
 suppl/r8-8.md
 suppl/r8-27.md
+suppl/r8-43.md
 suppl/r8-62.md
