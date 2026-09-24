@@ -169,6 +169,7 @@ art-173-4.md
 art-173-5.md
 art-173-6.md
 art-173-7.md
+art-173-8.md
 art-174.md
 art-174-2.md
 art-174-3.md
