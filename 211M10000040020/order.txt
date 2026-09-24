@@ -36,6 +36,7 @@ suppl/h24-0330-m19.md
 suppl/r1-0621-m5.md
 suppl/r2-1204-m73.md
 suppl/r7-0221-m4.md
+suppl/r8-0910-m59.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/style-1.md
