@@ -222,6 +222,7 @@ suppl/r3-0331-m36.md
 suppl/r4-0331-m21.md
 suppl/r5-0331-m17.md
 suppl/r5-0619-m43.md
+suppl/r8-0910-m59.md
 appdx/format-1.md
 appdx/format-2.md
 appdx/format-3.md
@@ -266,8 +267,8 @@ appdx/format-41.md
 appdx/format-42.md
 appdx/format-43.md
 appdx/format-44.md
-appdx/style-1.md
 appdx/format-45.md
+appdx/style-1.md
 appdx/format-46.md
 appdx/format-47.md
 appdx/format-48.md
@@ -276,3 +277,4 @@ appdx/format-50.md
 appdx/format-51.md
 appdx/format-52.md
 appdx/format-53.md
+appdx/format-54.md
