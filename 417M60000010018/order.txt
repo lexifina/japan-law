@@ -385,6 +385,7 @@ suppl/r7-0110-m1.md
 suppl/r7-0214-m2.md
 suppl/r7-0815-m40.md
 suppl/r7-0930-m48.md
+suppl/r7-1010-m49.md
 suppl/r7-1030-m53.md
 suppl/r8-0202-m5.md
 suppl/r8-0218-m6.md
