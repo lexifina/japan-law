@@ -212,10 +212,11 @@ art-059-4.md
 art-059-5.md
 art-060.md
 art-061.md
-art-061-2.md
-art-061-3.md
-art-061-4.md
 art-062.md
+art-063.md
+art-064.md
+art-065.md
+art-066.md
 suppl/original.md
 suppl/s59-0321-m7.md
 suppl/s61-0329-m19.md
@@ -365,6 +366,7 @@ suppl/r8-0323-m13.md
 suppl/r8-0327-m20.md
 suppl/r8-0331-m24.md
 suppl/r8-0623-m41.md
+suppl/r8-0828-m47.md
 suppl/r8-0901-m48.md
 appdx/table-1.md
 appdx/table-2.md
