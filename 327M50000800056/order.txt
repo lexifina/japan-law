@@ -874,6 +874,7 @@ suppl/r8-0331-m31.md
 suppl/r8-0331-m32.md
 suppl/r8-0401-m39.md
 suppl/r8-0630-m65.md
+suppl/r8-1001-m82.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-3.md
