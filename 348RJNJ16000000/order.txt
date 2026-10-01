@@ -171,6 +171,7 @@ suppl/r7-1224-r0.md
 suppl/r8-0213-r0.md
 suppl/r8-0331-r0.md
 suppl/r8-0401-r0.md
+suppl/r8-1001-r0.md
 appdx/table-1.md
 appdx/table-2.md
 appdx/table-2-2.md
