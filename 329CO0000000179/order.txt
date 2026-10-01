@@ -840,6 +840,9 @@ suppl/r7-1212-co413.md
 suppl/r8-0311-co24.md
 suppl/r8-0318-co39.md
 suppl/r8-0828-co266.md
+suppl/r8-0911-co274.md
+suppl/r8-0916-co286.md
+suppl/r8-0930-co308.md
 appdx/style-1.md
 appdx/table-2.md
 appdx/table-2-2.md
