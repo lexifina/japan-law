@@ -719,6 +719,7 @@ suppl/r8-0623-m78.md
 suppl/r8-0723-m90.md
 suppl/r8-0724-m91.md
 suppl/r8-0730-m95.md
+suppl/r8-1001-m115.md
 appdx/style-1.md
 appdx/style-2.md
 appdx/tablex-1.md
