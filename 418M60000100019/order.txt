@@ -330,6 +330,7 @@ suppl/r7-1128-m13.md
 suppl/r8-0331-m3.md
 suppl/r8-0519-m4.md
 suppl/r8-0520-m6.md
+suppl/r8-0930-m18.md
 appdx/tablex-1.md
 appdx/tablex-2.md
 appdx/style-1.md
