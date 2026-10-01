@@ -40,5 +40,6 @@ suppl/h30-0216-m15.md
 suppl/h31-0123-m5.md
 suppl/r1-0628-m20.md
 suppl/r7-0116-m2.md
+suppl/r8-0625-m107.md
 appdx/style-1.md
 appdx/table.md
