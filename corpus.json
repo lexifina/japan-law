@@ -1,0 +1,40 @@
+{
+  "corpus": "jp/national/acts",
+  "name": "Japanese law: 日本国憲法 (the Constitution of Japan) and 個人情報の保護に関する法律 (Act on the Protection of Personal Information, 平成十五年法律第五十七号)",
+  "acts": [
+    "昭和二十一年憲法",
+    "平成十五年法律第五十七号"
+  ],
+  "history_from": "1947-05-03",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Promulgated"
+    ],
+    "time": "12:00 Asia/Tokyo (UTC+9, no summer time)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no retroactivity unless the law says so (法律不遡及の原則)",
+      "meaning": "an amendment applies from its enforcement day (施行日); how it treats facts and proceedings from before that day is set by the transitional provisions (経過措置) in the amending law's supplementary provisions (附則), which this record includes as suppl/<law>.md files but does not read as scope data; the Constitution bars retroactive criminal liability, and the general rule outside criminal law is a principle of interpretation, not a constitutional rule",
+      "authority": "日本国憲法 第三十九条 (\"第三十九条　何人も、実行の時に適法であつた行為又は既に無罪とされた行為については、刑事上の責任を問はれない。又、同一の犯罪について、重ねて刑事上の責任を問はれない。\")",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/jiten.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2026-10-01",
+  "citation": {
+    "file": "([a-z-]+)/art-0*([0-9]+(?:-[0-9]+)*)\\.md",
+    "cites": "第{n}(?![のノ][一二三四五六七八九十])",
+    "n_format": "kanji-article: {n} is the article number in kanji with 条 and any branch numbers, as the text writes it: 16 -> 十六条, 16-2 -> 十六条の二, 100 -> 百条, 123 -> 百二十三条"
+  },
+  "label": "Japan",
+  "language": "ja",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "record_note": "Checked against the official source (e-Gov 法令検索, Law API v2) on 2026-10-28. e-Gov keeps revisions of the APPI from 2017-03-01 only; the first is a labelled baseline by the publisher, not a law."
+}
