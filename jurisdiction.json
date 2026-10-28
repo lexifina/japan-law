@@ -1,0 +1,10 @@
+{
+  "path": "jp",
+  "code": "JP",
+  "name": "Japan",
+  "level": "country",
+  "repo": "https://github.com/lexifina/japan-law",
+  "build": "ready",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
