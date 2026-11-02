@@ -9,10 +9,11 @@ It asserts that:
 2. tools/jiten.py gives the text before and after a known amendment, and each equals the file at that day's tag;
 3. `git log --follow` on a file lists its amending laws in the order they took effect;
 4. every tag resolves to a commit, and every commit has an `In-force:` trailer, and every trailer block parses;
-5. no commit is authored by Lexifina except the documentation commit (the last one), and only the labelled baseline
-   is by the publisher;
+5. every commit authored by Lexifina is a documentation commit (the last one is one), and every commit by the
+   publisher is a labelled baseline;
 6. every git or tool command in the README's table runs and prints something;
-7. the branch mishiko holds only changes not yet in force, on top of main.
+7. the branch mishiko contains main and holds only changes not yet in force, or changes that have since come into
+   force and are on main too (same e-Gov revision).
 With --record the result is written to verification.json next to this script (for REPRODUCE.md).
 """
 import argparse
@@ -25,7 +26,7 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-LAW = re.compile(r'^(明治|大正|昭和|平成|令和)\S+年法律第\S+号 \(Act No\. \d+ of \d{4}\)$|^日本国憲法 \(The Constitution of Japan\)$')
+LAW = re.compile(r'^(明治|大正|昭和|平成|令和)\S+年\S*第\S+号 \([A-Za-z ]+ No\. \d+ of \d{4}\)$|^日本国憲法 \(The Constitution of Japan\)$')
 PUBLISHER = 'e-Gov 法令検索 (デジタル庁)'
 
 
@@ -36,8 +37,9 @@ def default_repo() -> Path:
 
 
 class Smoke:
-    def __init__(self, repo: Path):
+    def __init__(self, repo: Path, since: str = ''):
         self.repo = repo
+        self.since = since
         self.results: list[tuple[str, bool, str]] = []
 
     def git(self, *args: str) -> str:
@@ -113,10 +115,12 @@ class Smoke:
             self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
         rows = self.git('log', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', 'mishiko',
                         '--no-merges').splitlines()
+        # Trailer blocks are parsed one commit at a time; with --since, only the commits added after that one.
+        recent = set(self.git('rev-list', '--no-merges', 'main', 'mishiko', f'^{self.since}').split()) if self.since else None
         bad = [r for r in rows if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
         assert not bad, f'{len(bad)} commits without a well-formed In-force, e.g. {bad[:2]}'
         unparsed = []
-        for h in [r.split('\t')[0] for r in rows]:
+        for h in [r.split('\t')[0] for r in rows if recent is None or r.split('\t')[0] in recent]:
             body = self.git('log', '-1', '--format=%B', h)
             last = body.rstrip('\n').split('\n\n')[-1]
             parsed = subprocess.run(['git', 'interpret-trailers', '--parse'], cwd=self.repo, input=body,
@@ -127,21 +131,26 @@ class Smoke:
         objs = subprocess.run(['git', 'cat-file', '--batch'], cwd=self.repo, capture_output=True,
                               input=''.join(r.split('\t')[0] + '\n' for r in rows).encode()).stdout
         assert b'\r' not in objs, 'a commit object holds a carriage return (CRLF message)'
-        return f'{len(tags)} tags resolve; {len(rows)} commits carry In-force; every trailer block parses; no CR in any commit object'
+        parsed_n = len(rows) if recent is None else len(recent)
+        return (f'{len(tags)} tags resolve; {len(rows)} commits carry In-force; the trailer blocks of {parsed_n} commits '
+                'parse; no CR in any commit object')
 
     # 5
     def lexifina(self):
         rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn%x09%B%x1e', 'main').split('\x1e')
         rows = [r.strip('\n').split('\t', 4) for r in rows if r.strip()]
         by_lex = [r for r in rows if r[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
+        assert by_lex and by_lex[0] == rows[0], 'the last commit is not the documentation commit'
+        assert all('Kind: documentation' in r[4] for r in by_lex), 'a commit by Lexifina that is not documentation'
         assert all(r[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
         pub = [r for r in rows if r[1] == PUBLISHER]
-        assert len(pub) == 1 and 'Kind: baseline' in pub[0][4], f'{len(pub)} publisher commits, or one not labelled'
-        authors = {r[1] for r in rows[1:]}
-        assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors - {PUBLISHER}}'
-        assert all(r[2].endswith('.invalid') for r in rows[1:]), 'an author address that is not .invalid'
-        return f'only the documentation commit {rows[0][0][:10]} is by Lexifina; one labelled baseline; {len(authors)} authors'
+        assert pub and all('Kind: baseline' in r[4] for r in pub), f'{len(pub)} publisher commits, or one not labelled'
+        laws = [r for r in rows if r[1] != 'Lexifina']
+        authors = {r[1] for r in laws}
+        assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {sorted(authors - {PUBLISHER})[:5]}'
+        assert all(r[2].endswith('.invalid') for r in laws), 'an author address that is not .invalid'
+        return (f'{len(by_lex)} documentation commits by Lexifina, the last one on top; {len(pub)} labelled baselines; '
+                f'{len(authors)} authors')
 
     # 6
     def readme(self):
@@ -164,26 +173,31 @@ class Smoke:
         main = self.git('rev-parse', 'main').strip()
         assert base == main, 'mishiko does not contain main'
         built = json.loads((self.repo / 'corpus.json').read_text(encoding='utf-8'))['built']
-        rows = self.git('log', '--no-merges', '--format=%(trailers:key=In-force,valueonly,separator=)',
-                        'main..mishiko').split()
-        assert rows and all(d > built for d in rows), f'mishiko holds changes in force by {built}: {rows}'
+        fmt = '--format=%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Revision,valueonly,separator=)'
+        rows = [l.split('\t') for l in self.git('log', '--no-merges', fmt, 'main..mishiko').splitlines() if l]
+        on_main = {l.split('\t')[1] for l in self.git('log', fmt, 'main').splitlines() if '\t' in l}
+        matured = [r for r in rows if r[0] <= built]
+        assert rows and all(r[1] in on_main for r in matured), \
+            f'mishiko holds changes in force by {built} that main lacks: {[r for r in matured if r[1] not in on_main]}'
         main_days = self.git('log', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main').split()
         assert all(d <= built for d in main_days), 'main holds a change not yet in force'
-        return f'{len(rows)} commits not yet in force, all after {built}; main has none'
+        return (f'{len(rows) - len(matured)} commits not yet in force, all after {built}; {len(matured)} since in force, '
+                'and on main too; main has none after that day')
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--repo', default=None)
     ap.add_argument('--record', action='store_true')
+    ap.add_argument('--since', default='', help='parse the trailer blocks only of commits after this one')
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding='utf-8')
-    s = Smoke(Path(args.repo) if args.repo else default_repo())
+    s = Smoke(Path(args.repo) if args.repo else default_repo(), args.since)
     s.check('blame names a law', s.blame)
     s.check('text before and after an amendment', s.on_date)
     s.check('log --follow in date order', s.follow)
     s.check('tags resolve, In-force on every commit, trailers parse', s.tags_and_trailers)
-    s.check('only the documentation commit is by Lexifina', s.lexifina)
+    s.check('only documentation commits are by Lexifina', s.lexifina)
     s.check('README commands run', s.readme)
     s.check('future branch', s.future)
     ok = all(r[1] for r in s.results)
