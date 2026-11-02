@@ -1,6 +1,6 @@
 {
- "built": "2026-10-28",
- "source": "https://laws.e-gov.go.jp/api/2",
+ "built": "2026-11-02",
+ "source": "https://laws.e-gov.go.jp",
  "acts": [
   {
    "law_id": "321CONSTITUTION",
@@ -16,7 +16,8 @@
      "promulgated": "1946-11-03",
      "status": "CurrentEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/321CONSTITUTION_19470503_000000000000000?response_format=xml",
-     "sha256": "ecbba0777389ea4143c9a63460c9516031f6e4410f0ab58f42c32ccfc704a4b8"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "4f4715db04b513e8df46f8887236f2628602adc1b401315f40bc3292db010e07"
     }
    ]
   },
@@ -34,6 +35,7 @@
      "promulgated": "2015-09-09",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20170301_427AC0000000065?response_format=xml",
+     "text_from": "law_data",
      "sha256": "b99bdd997151498e59cc4aea857d86e59b142288a4b722495296d6a18c1b58de"
     },
     {
@@ -44,6 +46,7 @@
      "promulgated": "2015-09-09",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20170530_427AC0000000065?response_format=xml",
+     "text_from": "law_data",
      "sha256": "f515bea41f0725c66c5400460b7f0a8cb83beaeeda1fa09780d9006deb379ba6"
     },
     {
@@ -54,6 +57,7 @@
      "promulgated": "2016-05-27",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20170530_428AC0000000051?response_format=xml",
+     "text_from": "law_data",
      "sha256": "1d4a241d7baa26b1c2a718290647f80270819f2a54ff21d934e6b455d84a7b49"
     },
     {
@@ -64,6 +68,7 @@
      "promulgated": "2018-07-27",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20200107_430AC0000000080?response_format=xml",
+     "text_from": "law_data",
      "sha256": "bc76c65495937158e941e4659f337364b55dbfe404f543dc584b666da6926c55"
     },
     {
@@ -74,6 +79,7 @@
      "promulgated": "2020-06-12",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20200612_502AC0000000044?response_format=xml",
+     "text_from": "law_data",
      "sha256": "943668b63ae2cd5496b6a83ff886566dbff5153b8e7e7f783c40ae2f1d1ad2ed"
     },
     {
@@ -84,6 +90,7 @@
      "promulgated": "2020-06-12",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20201212_502AC0000000044?response_format=xml",
+     "text_from": "law_data",
      "sha256": "072377194c9eb73ca829bd8ac5e55bbfc24a8cbb85ffc9b4ab30c0cb2b032bc0"
     },
     {
@@ -94,6 +101,7 @@
      "promulgated": "2021-05-19",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20210519_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
      "sha256": "283ebcfbc825e52eb85eed30d687e3d6da01d178650365e93f2217420137eb20"
     },
     {
@@ -104,6 +112,7 @@
      "promulgated": "2020-06-12",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20211001_502AC0000000044?response_format=xml",
+     "text_from": "law_data",
      "sha256": "60679494c6f953f632601955ff52b9fd4eac7e9ce723324a02ddcc47bb82d008"
     },
     {
@@ -114,6 +123,7 @@
      "promulgated": "2021-05-19",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20220101_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
      "sha256": "ece6e271bbcb39929172b56ff5888872f754e7cb565af0e298f2bcd5f1ac4d50"
     },
     {
@@ -124,6 +134,7 @@
      "promulgated": "2020-06-12",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20220401_502AC0000000044?response_format=xml",
+     "text_from": "law_data",
      "sha256": "65d6b9e41ddab50d957845256b9cee49f6c93489011679b03d056b5c5ad189ba"
     },
     {
@@ -134,6 +145,7 @@
      "promulgated": "2021-05-19",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20220401_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
      "sha256": "e266d0b4ac864ea541a9b3209ccabf8f96184e71b3d71a2ea4323acd2bb9755e"
     },
     {
@@ -144,6 +156,7 @@
      "promulgated": "2022-05-25",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20220525_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
      "sha256": "ad822a9390418f0111965edc65fd850cb8fc7e0777cb56df86cc906979a39e52"
     },
     {
@@ -154,6 +167,7 @@
      "promulgated": "2022-05-27",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20220617_504AC0000000054?response_format=xml",
+     "text_from": "law_data",
      "sha256": "8d146d0676a4f97e9754e858908d7405aafe7dc8cc37ccf501f601a0934a9011"
     },
     {
@@ -164,6 +178,7 @@
      "promulgated": "2022-06-17",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20220617_504AC0000000068?response_format=xml",
+     "text_from": "law_data",
      "sha256": "5c0ed899ad143a03c8426beb7f8302634e03ccd553e529998ff907e5420f1a6e"
     },
     {
@@ -174,6 +189,7 @@
      "promulgated": "2021-05-19",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20221001_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
      "sha256": "80383d4e7a6bd52597a360868f915bb86319cc1d7917354f6719192b9c462b64"
     },
     {
@@ -184,6 +200,7 @@
      "promulgated": "2021-05-19",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20230401_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
      "sha256": "af81a1e565ff8b620aba25451d1f87f3c28482dadd580b2c218222c5c2729e36"
     },
     {
@@ -194,6 +211,7 @@
      "promulgated": "2023-06-07",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20230607_505AC0000000047?response_format=xml",
+     "text_from": "law_data",
      "sha256": "dd4d6c4fdf06d7da44bbb072e9ea7e5f5e7b833de95c600d862a4d031c405197"
     },
     {
@@ -204,6 +222,7 @@
      "promulgated": "2023-11-29",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20231129_505AC0000000079?response_format=xml",
+     "text_from": "law_data",
      "sha256": "58c6b0f43227f7ad9c4783021dca150cfd7570137df8a4645a501efd1504053c"
     },
     {
@@ -214,6 +233,7 @@
      "promulgated": "2023-11-29",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20240201_505AC0000000079?response_format=xml",
+     "text_from": "law_data",
      "sha256": "b96cc9450f433430bb25c61001d04d420d5fb1baa8dacc8869657d9f0b3d4a90"
     },
     {
@@ -224,6 +244,7 @@
      "promulgated": "2023-05-19",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20240216_505AC0000000032?response_format=xml",
+     "text_from": "law_data",
      "sha256": "6d9769b95cca3a00f2c6a6599611dd6d1caabf3c4481c00596f2137e3dee20bf"
     },
     {
@@ -234,6 +255,7 @@
      "promulgated": "2023-11-29",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20240401_505AC0000000079?response_format=xml",
+     "text_from": "law_data",
      "sha256": "01f42afd9da58c9e5ca02f38b799b005dc1b17cfc4f2872fa72897fde69447ea"
     },
     {
@@ -244,6 +266,7 @@
      "promulgated": "2023-06-07",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20250401_505AC0000000047?response_format=xml",
+     "text_from": "law_data",
      "sha256": "880e2d1bbd660d71902c2b2d8c49eddce0f4b215d463b839f6bea28c61ab55cf"
     },
     {
@@ -254,6 +277,7 @@
      "promulgated": "2024-06-07",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20250401_506AC0000000046?response_format=xml",
+     "text_from": "law_data",
      "sha256": "7a93e8755057817c2e58bdd8d3d104687398ad44375b12a0b2b38972b0b32d7e"
     },
     {
@@ -264,6 +288,7 @@
      "promulgated": "2022-06-17",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20250601_504AC0000000068?response_format=xml",
+     "text_from": "law_data",
      "sha256": "d8630140b627729bb758cd263c22a7c4e5a24b640360ceef037437821d54a990"
     },
     {
@@ -274,6 +299,7 @@
      "promulgated": "2022-05-25",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20260521_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
      "sha256": "ab6d3f0c4ee0361dfb0739b471314663980cef907cc95f1c74b49d3e6850e0a0"
     },
     {
@@ -284,6 +310,7 @@
      "promulgated": "2026-06-24",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20260624_508AC0000000046?response_format=xml",
+     "text_from": "law_data",
      "sha256": "51f0f75251707a3cbcabee9d5620332f0a7c2c8bc64799babc3f487afc157e00"
     },
     {
@@ -294,6 +321,7 @@
      "promulgated": "2026-07-17",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20260717_508AC0000000056?response_format=xml",
+     "text_from": "law_data",
      "sha256": "8df1edc8217db5b9b07d03dc8e6c5ecdb75d7055e89f76795dea83c06e8ab9c6"
     },
     {
@@ -304,6 +332,7 @@
      "promulgated": "2026-07-17",
      "status": "PreviousEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20260717_508AC0000000062?response_format=xml",
+     "text_from": "law_data",
      "sha256": "6b9aa95dfe6e94e7cab67b491619ee9067a4f00ee29da72105a0588fea0b80dd"
     },
     {
@@ -314,6 +343,7 @@
      "promulgated": "2025-06-18",
      "status": "CurrentEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20261001_507AC0000000070?response_format=xml",
+     "text_from": "law_data",
      "sha256": "3e53971d3809ae9ce1105e52cea4e20a6530a62aaf0956a8c549220ce868f78f"
     },
     {
@@ -324,7 +354,8 @@
      "promulgated": "2026-07-17",
      "status": "UnEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20261102_508AC0000000062?response_format=xml",
-     "sha256": "b4eba15fe7b920c79521076016a1921f8f2acbd684b46251c52df290e272935f"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "f03f8a68bf5e438c5d19321a48c42903675e34bda7e9446f403ae66bbed79b4e"
     },
     {
      "law_revision_id": "415AC0000000057_20270117_508AC0000000056",
@@ -334,7 +365,8 @@
      "promulgated": "2026-07-17",
      "status": "UnEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20270117_508AC0000000056?response_format=xml",
-     "sha256": "556b0a843eeb0c8c9030496c524242f0aa15ece90d14b11a9d9101ce337097ec"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "f250975da1527db189fb29efb54ab2bc2c010520196abe8d133115c6df205aeb"
     },
     {
      "law_revision_id": "415AC0000000057_20270401_506AC0000000060",
@@ -344,7 +376,8 @@
      "promulgated": "2024-06-21",
      "status": "UnEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20270401_506AC0000000060?response_format=xml",
-     "sha256": "ecc1b0998de40ef1ae49452d655fd8cb2923324559b14c3398da2ed0e5894efb"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "ec2a1b148fe8b7b60fce25452cdbc30e4a18544b8a84afa4132395649f63f60a"
     },
     {
      "law_revision_id": "415AC0000000057_20270416_508AC0000000059",
@@ -354,7 +387,8 @@
      "promulgated": "2026-07-17",
      "status": "UnEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20270416_508AC0000000059?response_format=xml",
-     "sha256": "25a7a23904c19c1171632ed1af552ce7a23b1454b9c7e67c87047f500aa0a1b5"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "e3510b27f391639b4f2c9f3ddeb711e1c39ad8555c4e96a4a27074921c0cf422"
     },
     {
      "law_revision_id": "415AC0000000057_20280716_508AC0000000056",
@@ -364,7 +398,8 @@
      "promulgated": "2026-07-17",
      "status": "UnEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20280716_508AC0000000056?response_format=xml",
-     "sha256": "60df278119c023e81212e93a91fa9d492b3767cb0b79e8f2fb2ac592803c0215"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "bb8b62d2d8633b0598403107d24d0f9e8ff0ec1e892b366f45d8cbfe5ed267cd"
     },
     {
      "law_revision_id": "415AC0000000057_20281223_508AC0000000046",
@@ -374,7 +409,1651 @@
      "promulgated": "2026-06-24",
      "status": "UnEnforced",
      "xml": "https://laws.e-gov.go.jp/api/2/law_data/415AC0000000057_20281223_508AC0000000046?response_format=xml",
-     "sha256": "0d0a30c2f0c97ac2aa75c60fd7d06e4850e7c04cd2290a8557e81688ff0152c8"
+     "text_from": "XML一括ダウンロード",
+     "sha256": "c796646de4474fcf5194512fcbdea0bef6bc96cca385002a37e626eb1778701a"
+    }
+   ]
+  },
+  {
+   "law_id": "129AC0000000089",
+   "law_num": "明治二十九年法律第八十九号",
+   "slug": "minpo",
+   "title": "民法",
+   "revisions": [
+    {
+     "law_revision_id": "129AC0000000089_20161013_428AC1000000027",
+     "in_force": "2016-10-13",
+     "amending_law_id": "428AC1000000027",
+     "amending_law_num": "平成二十八年法律第二十七号",
+     "promulgated": "2016-04-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20161013_428AC1000000027?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "28481c489a0ff5aecf28837ad8b3d4cfbf692d1de306fa6c59a35a55275e52c6"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20170602_429AC0000000044",
+     "in_force": "2017-06-02",
+     "amending_law_id": "429AC0000000044",
+     "amending_law_num": "平成二十九年法律第四十四号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20170602_429AC0000000044?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "0c8f07dcd3c6211f9878b914dce3884af62623ae5f0eef465f6cd1073cc12209"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20180401_429AC0000000044",
+     "in_force": "2018-04-01",
+     "amending_law_id": "429AC0000000044",
+     "amending_law_num": "平成二十九年法律第四十四号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20180401_429AC0000000044?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "e43e2f103e9edd904d619e28b00c67ad63137e57c0cf794c8a5cee1ffb2e98c3"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20180620_430AC0000000059",
+     "in_force": "2018-06-20",
+     "amending_law_id": "430AC0000000059",
+     "amending_law_num": "平成三十年法律第五十九号",
+     "promulgated": "2018-06-20",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20180620_430AC0000000059?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "2665b32f01bc4fad15dc0d2056f6a31664c5007ed19b42d54fa00145066d03e9"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20190113_430AC0000000072",
+     "in_force": "2019-01-13",
+     "amending_law_id": "430AC0000000072",
+     "amending_law_num": "平成三十年法律第七十二号",
+     "promulgated": "2018-07-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20190113_430AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "9c33dcdaeab70460a7bab6fc6330d4917e58d7358d688bf588c2975f389e693f"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20190517_501AC0000000002",
+     "in_force": "2019-05-17",
+     "amending_law_id": "501AC0000000002",
+     "amending_law_num": "令和元年法律第二号",
+     "promulgated": "2019-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20190517_501AC0000000002?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "d20cdf1b399ca0055883d7fc2e4401c3860e0287ff9bc9fa5c79c99e9d10adb6"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20190614_501AC0000000034",
+     "in_force": "2019-06-14",
+     "amending_law_id": "501AC0000000034",
+     "amending_law_num": "令和元年法律第三十四号",
+     "promulgated": "2019-06-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20190614_501AC0000000034?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "e3ba325a3f4dc1e1dda82a0f70ab3db0df2f3226e67737c6fd755ae8aa559281"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20190701_430AC0000000072",
+     "in_force": "2019-07-01",
+     "amending_law_id": "430AC0000000072",
+     "amending_law_num": "平成三十年法律第七十二号",
+     "promulgated": "2018-07-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20190701_430AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "4c746c62e67e5f7dc67b95e444a8f52113392c14049752f50028540f4493727a"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20191211_501AC0000000071",
+     "in_force": "2019-12-11",
+     "amending_law_id": "501AC0000000071",
+     "amending_law_num": "令和元年法律第七十一号",
+     "promulgated": "2019-12-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20191211_501AC0000000071?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "d9dc57e80936de5d66c6a8280009119233e8e882a0df2b77a5910d65e53e0140"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20200301_429AC0000000044",
+     "in_force": "2020-03-01",
+     "amending_law_id": "429AC0000000044",
+     "amending_law_num": "平成二十九年法律第四十四号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20200301_429AC0000000044?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "4a2c3f2fe85d9495ecf67df2924b73948ca87de9ebe7870e6cf4d8214e9d6bcf"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20200401_429AC0000000044",
+     "in_force": "2020-04-01",
+     "amending_law_id": "429AC0000000044",
+     "amending_law_num": "平成二十九年法律第四十四号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20200401_429AC0000000044?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "48478990b067291baca3f6b109cc4d1c3c8fd3902476031fac1dc659aa553163"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20200401_430AC0000000072",
+     "in_force": "2020-04-01",
+     "amending_law_id": "430AC0000000072",
+     "amending_law_num": "平成三十年法律第七十二号",
+     "promulgated": "2018-07-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20200401_430AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "9801bb90fb4699cf1de0b73553603153c437b151dc29e32df47e873a5be68c11"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20200401_501AC0000000002",
+     "in_force": "2020-04-01",
+     "amending_law_id": "501AC0000000002",
+     "amending_law_num": "令和元年法律第二号",
+     "promulgated": "2019-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20200401_501AC0000000002?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "ebfc2614944f89ac71a7cd6e37c681874dfc0bb5bf5f6fcdea4ce83b7a6c1db7"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20200401_501AC0000000034",
+     "in_force": "2020-04-01",
+     "amending_law_id": "501AC0000000034",
+     "amending_law_num": "令和元年法律第三十四号",
+     "promulgated": "2019-06-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20200401_501AC0000000034?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "488c6edc4df3cae9d27e49d6b24005a7f3de9424b6455fecca801304c96ae18f"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20210428_503AC0000000024",
+     "in_force": "2021-04-28",
+     "amending_law_id": "503AC0000000024",
+     "amending_law_num": "令和三年法律第二十四号",
+     "promulgated": "2021-04-28",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20210428_503AC0000000024?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "388f6393cbf890df3140eea3a6812818b8b573fd28bf2f23fdad10696d91715f"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20210519_503AC0000000037",
+     "in_force": "2021-05-19",
+     "amending_law_id": "503AC0000000037",
+     "amending_law_num": "令和三年法律第三十七号",
+     "promulgated": "2021-05-19",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20210519_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "f7acb9bd6abf872b441fe3102027c40fdec04a900e52aba3a6744d94f89e9fcb"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20210901_503AC0000000037",
+     "in_force": "2021-09-01",
+     "amending_law_id": "503AC0000000037",
+     "amending_law_num": "令和三年法律第三十七号",
+     "promulgated": "2021-05-19",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20210901_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "28f83819985e72dfe7ac54ec70e81b7b174160c3f3ec5a8ea195a7b13edb4e63"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20220401_430AC0000000059",
+     "in_force": "2022-04-01",
+     "amending_law_id": "430AC0000000059",
+     "amending_law_num": "平成三十年法律第五十九号",
+     "promulgated": "2018-06-20",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20220401_430AC0000000059?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "61d7520467827e546a4a89e4e8cf802c3138274925e277302129fb0b56aec48a"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20220401_503AC0000000037",
+     "in_force": "2022-04-01",
+     "amending_law_id": "503AC0000000037",
+     "amending_law_num": "令和三年法律第三十七号",
+     "promulgated": "2021-05-19",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20220401_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "18f533c2a999cf7facdb472f37b003b016f5bca0ca80e4cc04b89c0e8257b7c3"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20220617_504AC0000000068",
+     "in_force": "2022-06-17",
+     "amending_law_id": "504AC0000000068",
+     "amending_law_num": "令和四年法律第六十八号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20220617_504AC0000000068?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a088ea987ca9c56ad0d8a9545f9b6d09b627061675eff79b666e516d1cb5f795"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20220901_501AC0000000071",
+     "in_force": "2022-09-01",
+     "amending_law_id": "501AC0000000071",
+     "amending_law_num": "令和元年法律第七十一号",
+     "promulgated": "2019-12-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20220901_501AC0000000071?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "c9336fa93ba21b37dd73091f32840debe4aa46d90dfb86ea0da55f1f621a7882"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20221216_504AC0000000102",
+     "in_force": "2022-12-16",
+     "amending_law_id": "504AC0000000102",
+     "amending_law_num": "令和四年法律第百二号",
+     "promulgated": "2022-12-16",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20221216_504AC0000000102?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "47bbb6d396945561dc35943bd1f7fb5cf779c3d3d68a65a8c6d48adef6990cdb"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20230401_503AC0000000024",
+     "in_force": "2023-04-01",
+     "amending_law_id": "503AC0000000024",
+     "amending_law_num": "令和三年法律第二十四号",
+     "promulgated": "2021-04-28",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20230401_503AC0000000024?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "13f84fc44e61b980db631c3b3c04fdebf6d0a024c64d0a14e1b556fa0a27033a"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20230401_503AC0000000061",
+     "in_force": "2023-04-01",
+     "amending_law_id": "503AC0000000061",
+     "amending_law_num": "令和三年法律第六十一号",
+     "promulgated": "2021-06-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20230401_503AC0000000061?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "34e5877eb83d8b8c0ca9c2575b6db6f0b57d29f0638eb4dff92f5ec49d554bfc"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20230614_505AC0000000053",
+     "in_force": "2023-06-14",
+     "amending_law_id": "505AC0000000053",
+     "amending_law_num": "令和五年法律第五十三号",
+     "promulgated": "2023-06-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20230614_505AC0000000053?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "acfe49477c3b695913e5a0d006640a11a1e5d6ee1b080a0464cee6fa85494a0e"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20240401_504AC0000000102",
+     "in_force": "2024-04-01",
+     "amending_law_id": "504AC0000000102",
+     "amending_law_num": "令和四年法律第百二号",
+     "promulgated": "2022-12-16",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20240401_504AC0000000102?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "de77c57e87b34d9103521be8532228a4c6046fcc1494fabb109260fd1e8400e1"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20240524_506AC0000000033",
+     "in_force": "2024-05-24",
+     "amending_law_id": "506AC0000000033",
+     "amending_law_num": "令和六年法律第三十三号",
+     "promulgated": "2024-05-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20240524_506AC0000000033?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "032d21f8fa9ce04e8aa2ba8ba8fb3fcaa15dec7bf2b7e99350fc979cb4e40635"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20250601_504AC0000000068",
+     "in_force": "2025-06-01",
+     "amending_law_id": "504AC0000000068",
+     "amending_law_num": "令和四年法律第六十八号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20250601_504AC0000000068?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "e063562bd9637c6b26f035f5556b12cfda4d9c67813c8d9295f5614de999c248"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20250606_507AC0000000057",
+     "in_force": "2025-06-06",
+     "amending_law_id": "507AC0000000057",
+     "amending_law_num": "令和七年法律第五十七号",
+     "promulgated": "2025-06-06",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20250606_507AC0000000057?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "6ee442c0d7362938630b243b198d3ef61999a006abb795d2efc5ebfd650dcffa"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20251001_505AC0000000053",
+     "in_force": "2025-10-01",
+     "amending_law_id": "505AC0000000053",
+     "amending_law_num": "令和五年法律第五十三号",
+     "promulgated": "2023-06-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20251001_505AC0000000053?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "62306937a83a7e26dd3d166379057deab2b36844bfda3e243c545a7f438cb54d"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20260401_506AC0000000033",
+     "in_force": "2026-04-01",
+     "amending_law_id": "506AC0000000033",
+     "amending_law_num": "令和六年法律第三十三号",
+     "promulgated": "2024-05-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20260401_506AC0000000033?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "68f772d567dd7a6bc5efadc407923f6e96379a6ff5d8aef534439da1de384dac"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20260624_508AC0000000045",
+     "in_force": "2026-06-24",
+     "amending_law_id": "508AC0000000045",
+     "amending_law_num": "令和八年法律第四十五号",
+     "promulgated": "2026-06-24",
+     "status": "CurrentEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20260624_508AC0000000045?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "4bbaa55efa592c2529a30e2a1aa6b653d11da3b61341ccc235d7d99571e650b7"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20270623_508AC0000000045",
+     "in_force": "2027-06-23",
+     "amending_law_id": "508AC0000000045",
+     "amending_law_num": "令和八年法律第四十五号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20270623_508AC0000000045?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "07cbf5a04a8629552a6fc9f70951e514e8e76e0e089ff1cc7748820d5b127ba7"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20271205_507AC0000000057",
+     "in_force": "2027-12-05",
+     "amending_law_id": "507AC0000000057",
+     "amending_law_num": "令和七年法律第五十七号",
+     "promulgated": "2025-06-06",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20271205_507AC0000000057?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "77603fcdfdee655affa838cbeed9d788eacb5b1aa915c5ba796418d79141ada5"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20280613_505AC0000000053",
+     "in_force": "2028-06-13",
+     "amending_law_id": "505AC0000000053",
+     "amending_law_num": "令和五年法律第五十三号",
+     "promulgated": "2023-06-14",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20280613_505AC0000000053?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "e98e92ce73a64b8de699a8f6f87b1d65fbe0cc33044fa2d5b9a91ce8cb7adf7d"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20281223_508AC0000000045",
+     "in_force": "2028-12-23",
+     "amending_law_id": "508AC0000000045",
+     "amending_law_num": "令和八年法律第四十五号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20281223_508AC0000000045?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "3707cffd1de626f307e45caca046af699faae43628d4960fb90bb86a489fd2b4"
+    },
+    {
+     "law_revision_id": "129AC0000000089_20290623_508AC0000000045",
+     "in_force": "2029-06-23",
+     "amending_law_id": "508AC0000000045",
+     "amending_law_num": "令和八年法律第四十五号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089_20290623_508AC0000000045?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "1ee4e61978838b6704980e0ecdb91f41c3327f0ace1e3af90489daf45c16b6ef"
+    }
+   ]
+  },
+  {
+   "law_id": "140AC0000000045",
+   "law_num": "明治四十年法律第四十五号",
+   "slug": "keiho",
+   "title": "刑法",
+   "revisions": [
+    {
+     "law_revision_id": "140AC0000000045_20160623_428AC0000000054",
+     "in_force": "2016-06-23",
+     "amending_law_id": "428AC0000000054",
+     "amending_law_num": "平成二十八年法律第五十四号",
+     "promulgated": "2016-06-03",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20160623_428AC0000000054?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "8eb3f27bc0da03583f26634234dc0b9f5941c0420e5689a4763cf872987b5149"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20170711_429AC0000000067",
+     "in_force": "2017-07-11",
+     "amending_law_id": "429AC0000000067",
+     "amending_law_num": "平成二十九年法律第六十七号",
+     "promulgated": "2017-06-21",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20170711_429AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "039ad452b82287a73f2fa1ad5b06f681a1b66dc2fd70adcc568989e53bf76fce"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20170713_429AC0000000067",
+     "in_force": "2017-07-13",
+     "amending_law_id": "429AC0000000067",
+     "amending_law_num": "平成二十九年法律第六十七号",
+     "promulgated": "2017-06-21",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20170713_429AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "88d450b2091c91dbefe4fa608e274e7b86eae6221a48f205ed0915904a9f1589"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20170713_429AC0000000072",
+     "in_force": "2017-07-13",
+     "amending_law_id": "429AC0000000072",
+     "amending_law_num": "平成二十九年法律第七十二号",
+     "promulgated": "2017-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20170713_429AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a1743dc9ff76a65e19cd69909250a262961de3cf7a224387a5349ac4daa2fd72"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20180713_430AC0000000072",
+     "in_force": "2018-07-13",
+     "amending_law_id": "430AC0000000072",
+     "amending_law_num": "平成三十年法律第七十二号",
+     "promulgated": "2018-07-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20180713_430AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a686c2d2343e6a77346ade844928e5d230a9f9c7570a6fad8155fa85bf10fdcf"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20200401_430AC0000000072",
+     "in_force": "2020-04-01",
+     "amending_law_id": "430AC0000000072",
+     "amending_law_num": "平成三十年法律第七十二号",
+     "promulgated": "2018-07-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20200401_430AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "eb83f72f9af6d620c053ae694b00b2a2336171bbb06661267e94c89478b94aec"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20220707_504AC0000000067",
+     "in_force": "2022-07-07",
+     "amending_law_id": "504AC0000000067",
+     "amending_law_num": "令和四年法律第六十七号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20220707_504AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "3aa2e2c22abb892aaca9b2b8fe209a5328c0afb6dcb5207c94294a2203202a78"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20230517_505AC0000000028",
+     "in_force": "2023-05-17",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20230517_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "742ae151a4223d610aa1bce2d27e01f71804b7215e0703784ddaa6b0e1d18767"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20230606_505AC0000000028",
+     "in_force": "2023-06-06",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20230606_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "fd6df2f9c1bceb564da59c9ee7b97a758fa0a943bfe4ef14fc8478e47b63c24f"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20230713_505AC0000000066",
+     "in_force": "2023-07-13",
+     "amending_law_id": "505AC0000000066",
+     "amending_law_num": "令和五年法律第六十六号",
+     "promulgated": "2023-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20230713_505AC0000000066?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "d7aa3914bbf1244ed776271879996092729ba953c2a6322fa73da0317b1e4f44"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20250523_507AC0000000039",
+     "in_force": "2025-05-23",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20250523_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "6ef77d9beb641253d1ba9fc5da8209457baffe47903c6e3918848f76d4fce58e"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20250601_504AC0000000067",
+     "in_force": "2025-06-01",
+     "amending_law_id": "504AC0000000067",
+     "amending_law_num": "令和四年法律第六十七号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20250601_504AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "bcc13d346318e812909cd6d07ee4404490ce64b72b9adb2b4a494a1f7d5068e8"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20250601_505AC0000000028",
+     "in_force": "2025-06-01",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20250601_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "cba1a1d713de32c5c58d9b4f7be683ffed3271440ea6c5dfa6b7dace6fe0598a"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20250612_507AC0000000039",
+     "in_force": "2025-06-12",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20250612_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "39a6fa06ad315d05666d01300f37968b57d7072b357532e729dbf38637b293a3"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20250722_507AC0000000026",
+     "in_force": "2025-07-22",
+     "amending_law_id": "507AC0000000026",
+     "amending_law_num": "令和七年法律第二十六号",
+     "promulgated": "2025-04-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20250722_507AC0000000026?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a7bac1d120be86cabae6f120c48961d44d2bb19298c92f0219cf67131d5bcdc7"
+    },
+    {
+     "law_revision_id": "140AC0000000045_20260521_507AC0000000039",
+     "in_force": "2026-05-21",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "CurrentEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/140AC0000000045_20260521_507AC0000000039?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "2b079c84c131b571974a36e1c87589c5a4737a037c309caf1ec07fa4d12feedb"
+    }
+   ]
+  },
+  {
+   "law_id": "132AC0000000048",
+   "law_num": "明治三十二年法律第四十八号",
+   "slug": "shoho",
+   "title": "商法",
+   "revisions": [
+    {
+     "law_revision_id": "132AC0000000048_20160401_426AC0000000042",
+     "in_force": "2016-04-01",
+     "amending_law_id": "426AC0000000042",
+     "amending_law_num": "平成二十六年法律第四十二号",
+     "promulgated": "2014-05-30",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20160401_426AC0000000042?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "83d8da010462f1aa911763caf5ab8eabda1aedb5e856fa459176b344f3cfbddb"
+    },
+    {
+     "law_revision_id": "132AC0000000048_20170602_429AC0000000045",
+     "in_force": "2017-06-02",
+     "amending_law_id": "429AC0000000045",
+     "amending_law_num": "平成二十九年法律第四十五号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20170602_429AC0000000045?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "dc977383252e72a4152137973102c16eba321f19d2c58cec08a5ab19217d63fa"
+    },
+    {
+     "law_revision_id": "132AC0000000048_20190401_430AC0000000029",
+     "in_force": "2019-04-01",
+     "amending_law_id": "430AC0000000029",
+     "amending_law_num": "平成三十年法律第二十九号",
+     "promulgated": "2018-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20190401_430AC0000000029?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "d1bb5b9ce37fd9c78e3ae33652f5606eee0588e55ee38da22e24c097f8c906d7"
+    },
+    {
+     "law_revision_id": "132AC0000000048_20200401_429AC0000000045",
+     "in_force": "2020-04-01",
+     "amending_law_id": "429AC0000000045",
+     "amending_law_num": "平成二十九年法律第四十五号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20200401_429AC0000000045?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "ac604bb948966e7370b72fa7a3d48c38da87d6cc46af9f33aac60a0bcd1ecf6f"
+    },
+    {
+     "law_revision_id": "132AC0000000048_20230401_503AC0000000061",
+     "in_force": "2023-04-01",
+     "amending_law_id": "503AC0000000061",
+     "amending_law_num": "令和三年法律第六十一号",
+     "promulgated": "2021-06-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20230401_503AC0000000061?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "74de78b37026452adc1633e8564218081f72e5da0f912092424ab7377a2ddaf2"
+    },
+    {
+     "law_revision_id": "132AC0000000048_20260624_508AC0000000046",
+     "in_force": "2026-06-24",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "CurrentEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20260624_508AC0000000046?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "2afd4da758682f90d6fbefa57901f85bed91c5b6a08922a65dadb64e5c0fbeb1"
+    },
+    {
+     "law_revision_id": "132AC0000000048_20281223_508AC0000000046",
+     "in_force": "2028-12-23",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/132AC0000000048_20281223_508AC0000000046?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "c34352c2ac4b6e1d6081e4e87d0fba788f78136131ec923a10c9c7494bbffac1"
+    }
+   ]
+  },
+  {
+   "law_id": "408AC0000000109",
+   "law_num": "平成八年法律第百九号",
+   "slug": "minji-sosho",
+   "title": "民事訴訟法",
+   "revisions": [
+    {
+     "law_revision_id": "408AC0000000109_20121001_424AC0000000030",
+     "in_force": "2012-10-01",
+     "amending_law_id": "424AC0000000030",
+     "amending_law_num": "平成二十四年法律第三十号",
+     "promulgated": "2012-05-08",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20121001_424AC0000000030?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "4e6e20f4f5140a81ade19c8466f4c75191ec674b31c800f8b9ff3cf53f621bb7"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20170602_429AC0000000045",
+     "in_force": "2017-06-02",
+     "amending_law_id": "429AC0000000045",
+     "amending_law_num": "平成二十九年法律第四十五号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20170602_429AC0000000045?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "231110936aba8f29cd1f075a9f7a33d67d7faab25c4baf1ada7b3f957f2202e8"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20200401_429AC0000000045",
+     "in_force": "2020-04-01",
+     "amending_law_id": "429AC0000000045",
+     "amending_law_num": "平成二十九年法律第四十五号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20200401_429AC0000000045?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "c227345c47dee7e39e746b56960c050b98ab3989ef789e05015f213db5f85ec4"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20201001_502AC0000000022",
+     "in_force": "2020-10-01",
+     "amending_law_id": "502AC0000000022",
+     "amending_law_num": "令和二年法律第二十二号",
+     "promulgated": "2020-04-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20201001_502AC0000000022?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "3bc1ce6841491193c91e753f81be9ec4797f4c4d70799a53d7b345fffe907e61"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20210428_503AC0000000024",
+     "in_force": "2021-04-28",
+     "amending_law_id": "503AC0000000024",
+     "amending_law_num": "令和三年法律第二十四号",
+     "promulgated": "2021-04-28",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20210428_503AC0000000024?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "c0ca8e3fe41aaeb5be9c4f9659cc422b9d01d0e8e66e315f82ee878551671979"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20220525_504AC0000000048",
+     "in_force": "2022-05-25",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20220525_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "69bc70578df57aecae38841fe7e00aecac323dd88f3b95d9c28c369f7963153d"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20230220_504AC0000000048",
+     "in_force": "2023-02-20",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20230220_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "6a26b66c8d6af24e4a869d9a111a9f7aa0be72931bd5ade654f13b0950568a2f"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20230301_504AC0000000048",
+     "in_force": "2023-03-01",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20230301_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "c6152338c8d74aa4714ed79c2922102f94ef9c96e77a37343ae4840d832765b3"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20230401_503AC0000000024",
+     "in_force": "2023-04-01",
+     "amending_law_id": "503AC0000000024",
+     "amending_law_num": "令和三年法律第二十四号",
+     "promulgated": "2021-04-28",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20230401_503AC0000000024?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "5e82032efe2fa4295c4bdc730710fba7e6783524b79458b69a9cd2ca9b3f205e"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20230606_505AC0000000028",
+     "in_force": "2023-06-06",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20230606_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "5d5807a651b0ca24a3bd76e875973fc7dfba74e227944605408add2df49194aa"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20231115_505AC0000000028",
+     "in_force": "2023-11-15",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20231115_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "048a9da67cfc14667586bd5c149b98483d6ef9c838c20a951c0e70e5aff68502"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20240301_504AC0000000048",
+     "in_force": "2024-03-01",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20240301_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "1b016d042672f222d9a28591f4984e1c0aeb391c74f6513a67c603463ffc83de"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20250523_507AC0000000039",
+     "in_force": "2025-05-23",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20250523_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "611f896ea6badeb6950a95b8a31640c76a62174ebe6e67dfe31943677dead437"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20250722_507AC0000000026",
+     "in_force": "2025-07-22",
+     "amending_law_id": "507AC0000000026",
+     "amending_law_num": "令和七年法律第二十六号",
+     "promulgated": "2025-04-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20250722_507AC0000000026?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a6ada9a1d79a9a80e04743695b37bf9ab991e34c34835223761de2d4064713a0"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20260521_504AC0000000048",
+     "in_force": "2026-05-21",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20260521_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "b5a0b62d18b83b73d690312a6db3b0e9addeb84f0d51d317c478cc9f14800496"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20260521_507AC0000000039",
+     "in_force": "2026-05-21",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20260521_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "75e94fb8e87253c8e25b89d15a2066541f835f2274d074e57b5807ee08fa02d9"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20260624_508AC0000000046",
+     "in_force": "2026-06-24",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "CurrentEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20260624_508AC0000000046?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "da0d44b43f526ae2862b55f407702c117adaad46323e7c60a96c3189080a62d8"
+    },
+    {
+     "law_revision_id": "408AC0000000109_20281223_508AC0000000046",
+     "in_force": "2028-12-23",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/408AC0000000109_20281223_508AC0000000046?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "899e097e398dcabc9c5f112ff17238424a306cdd290dd3bc979a93d8041763e5"
+    }
+   ]
+  },
+  {
+   "law_id": "323AC0000000131",
+   "law_num": "昭和二十三年法律第百三十一号",
+   "slug": "keiji-sosho",
+   "title": "刑事訴訟法",
+   "revisions": [
+    {
+     "law_revision_id": "323AC0000000131_20161201_428AC0000000054",
+     "in_force": "2016-12-01",
+     "amending_law_id": "428AC0000000054",
+     "amending_law_num": "平成二十八年法律第五十四号",
+     "promulgated": "2016-06-03",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20161201_428AC0000000054?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "0fa1c7b2e4d7e0eb5f3cc8b8c2d032fa13b6dc520e7fc9360fe06412b4610f36"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20170713_429AC0000000072",
+     "in_force": "2017-07-13",
+     "amending_law_id": "429AC0000000072",
+     "amending_law_num": "平成二十九年法律第七十二号",
+     "promulgated": "2017-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20170713_429AC0000000072?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "9acb4e5716f11354ea706bc91396f59d7492a2d954c33bdc9dea35cecc5d1a18"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20180601_428AC0000000054",
+     "in_force": "2018-06-01",
+     "amending_law_id": "428AC0000000054",
+     "amending_law_num": "平成二十八年法律第五十四号",
+     "promulgated": "2016-06-03",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20180601_428AC0000000054?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "c5cd716c9c9ea780b5bad4f8126845495a4d6e0c9be291ae104c9099d91529aa"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20190601_428AC0000000054",
+     "in_force": "2019-06-01",
+     "amending_law_id": "428AC0000000054",
+     "amending_law_num": "平成二十八年法律第五十四号",
+     "promulgated": "2016-06-03",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20190601_428AC0000000054?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "32f2903e5d885a9acbc3d33e290501cd4118158d2e978b4a3e731a823aab37b9"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20200401_501AC0000000063",
+     "in_force": "2020-04-01",
+     "amending_law_id": "501AC0000000063",
+     "amending_law_num": "令和元年法律第六十三号",
+     "promulgated": "2019-12-04",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20200401_501AC0000000063?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a577ed88379f5104dd2df15e2a06e62b3f1e298c6339696f2816d6bd139302fb"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20210519_503AC0000000037",
+     "in_force": "2021-05-19",
+     "amending_law_id": "503AC0000000037",
+     "amending_law_num": "令和三年法律第三十七号",
+     "promulgated": "2021-05-19",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20210519_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "9cd770d0f5ddb6c329944b3f8573577afc0351bf0d017fa0a3968ea4f8ba42e8"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20220401_503AC0000000037",
+     "in_force": "2022-04-01",
+     "amending_law_id": "503AC0000000037",
+     "amending_law_num": "令和三年法律第三十七号",
+     "promulgated": "2021-05-19",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20220401_503AC0000000037?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "bfa98f09922db0363ab51b71c171d9ea4a63b226febd9f9ac09bcc9b2e4fabe2"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20220525_504AC0000000048",
+     "in_force": "2022-05-25",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20220525_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "483c8c43a60ed4fbddf439c05525971890b2dc58e489a0dc234211c1eda1b675"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20221101_502AC0000000033",
+     "in_force": "2022-11-01",
+     "amending_law_id": "502AC0000000033",
+     "amending_law_num": "令和二年法律第三十三号",
+     "promulgated": "2020-05-29",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20221101_502AC0000000033?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "c4e5468f492b3865b1d2b0f5399c2af62365b826c40f59840c08afb8c80420d2"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20230606_505AC0000000028",
+     "in_force": "2023-06-06",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20230606_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "01e8f9fe1141204cf94ecf92bd50062dfc0b83defd4c74cdb558c8f72cbcf6c2"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20230623_505AC0000000066",
+     "in_force": "2023-06-23",
+     "amending_law_id": "505AC0000000066",
+     "amending_law_num": "令和五年法律第六十六号",
+     "promulgated": "2023-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20230623_505AC0000000066?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "0881d499a2e832960c103031d458e7e1765c86ac54d5e564f1dc2c636664e273"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20230713_505AC0000000066",
+     "in_force": "2023-07-13",
+     "amending_law_id": "505AC0000000066",
+     "amending_law_num": "令和五年法律第六十六号",
+     "promulgated": "2023-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20230713_505AC0000000066?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "1a16dfd92067578e5ca15cdbcf1ca5137752346024f76a80097881624e2b7e90"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20230713_505AC0000000067",
+     "in_force": "2023-07-13",
+     "amending_law_id": "505AC0000000067",
+     "amending_law_num": "令和五年法律第六十七号",
+     "promulgated": "2023-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20230713_505AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "9d2cfbfa359296076ced2ae5bb8d4779b9b18212937c221e39495f33a4b119fb"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20231115_505AC0000000028",
+     "in_force": "2023-11-15",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20231115_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "9ac08db9403e14d212e5cc7384e1ff6f88c8c9e360b8a8f53b5534c8e70794ff"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20231215_505AC0000000066",
+     "in_force": "2023-12-15",
+     "amending_law_id": "505AC0000000066",
+     "amending_law_num": "令和五年法律第六十六号",
+     "promulgated": "2023-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20231215_505AC0000000066?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a6ee05a8fe54a67e2ed8ef0e337efe90a9a65fb625f7eb59e04414e6514d562d"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20240215_505AC0000000028",
+     "in_force": "2024-02-15",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20240215_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "71dd5b43947858fb7e265341e5293c8ff86414d1da48e8476f2417db6345df7d"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20240215_505AC0000000066",
+     "in_force": "2024-02-15",
+     "amending_law_id": "505AC0000000066",
+     "amending_law_num": "令和五年法律第六十六号",
+     "promulgated": "2023-06-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20240215_505AC0000000066?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "f8caa1504796deb39487aa5b806f4b075fd3d47b0e8fc812e44338aaf38f743c"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20240515_505AC0000000028",
+     "in_force": "2024-05-15",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20240515_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "af55c0598093fe07a606ed6593d6073386560c06aecdb93ea5fecc22d1f3a49f"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20241212_505AC0000000084",
+     "in_force": "2024-12-12",
+     "amending_law_id": "505AC0000000084",
+     "amending_law_num": "令和五年法律第八十四号",
+     "promulgated": "2023-12-13",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20241212_505AC0000000084?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "f518d77caecd45b2b7f1911724e4b18367a9822355a4a4c05f4381f3201be290"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20250515_505AC0000000028",
+     "in_force": "2025-05-15",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20250515_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "b2115ba1d010ae32a29570c686304d2fbd72070d013ada9b0317fb96e28702aa"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20250523_507AC0000000039",
+     "in_force": "2025-05-23",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20250523_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "bb9eda737ec5f13dc7207b4c833389f153c9ee987f996098f2a07d561ddf0053"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20250601_504AC0000000067",
+     "in_force": "2025-06-01",
+     "amending_law_id": "504AC0000000067",
+     "amending_law_num": "令和四年法律第六十七号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20250601_504AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "dc96edc462d0f05d9436d87b02b0e664ed8491028ea2150ce4d7b17f01707f70"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20250601_505AC0000000028",
+     "in_force": "2025-06-01",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20250601_505AC0000000028?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "832103b4d427e095f3a0a6d363fddef17026dbc46d84b745efc464a2dd307dd7"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20250612_507AC0000000039",
+     "in_force": "2025-06-12",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20250612_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "1cb53ccfb975da427090cdb894d31c6d02d88dba90e02990c50569811b3b8855"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20250722_507AC0000000026",
+     "in_force": "2025-07-22",
+     "amending_law_id": "507AC0000000026",
+     "amending_law_num": "令和七年法律第二十六号",
+     "promulgated": "2025-04-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20250722_507AC0000000026?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "ac97652e18b415ec43eb29b57e3816e2ed52bc2c7a4a2bce7f47d2059ac5d404"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20260521_504AC0000000048",
+     "in_force": "2026-05-21",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20260521_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "cd5eb2e11a69dc711f22444346057abad0471a3800770afaee1150e0246a991b"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20260521_507AC0000000039",
+     "in_force": "2026-05-21",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20260521_507AC0000000039?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "79f4a673062910824a688a1b2e177861af29a75a1aded5911c567e42a8a25629"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20260624_508AC0000000046",
+     "in_force": "2026-06-24",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20260624_508AC0000000046?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "7586e6de2f2883aada0ba2e366720a3bca563660f9226ff1d7f66fa1e7842e32"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20260724_508AC0000000067",
+     "in_force": "2026-07-24",
+     "amending_law_id": "508AC0000000067",
+     "amending_law_num": "令和八年法律第六十七号",
+     "promulgated": "2026-07-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20260724_508AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a258a6cdb7fc9c8dec53c100636bf5b17f9775e558c92bbe3473958dac2b0b28"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20260813_508AC0000000067",
+     "in_force": "2026-08-13",
+     "amending_law_id": "508AC0000000067",
+     "amending_law_num": "令和八年法律第六十七号",
+     "promulgated": "2026-07-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20260813_508AC0000000067?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "7fb04a4a5cb134dc18c5324f9d6c29c5167dc7ccf3a13968f1dfbdb3b3aca0b6"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20261020_508AC0000000067",
+     "in_force": "2026-10-20",
+     "amending_law_id": "508AC0000000067",
+     "amending_law_num": "令和八年法律第六十七号",
+     "promulgated": "2026-07-24",
+     "status": "CurrentEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20261020_508AC0000000067?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "7e2f05726acb8c407bc2fb174f3108999f6906a5d21b8bd056e8bdcac1402d7d"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20270331_507AC0000000039",
+     "in_force": "2027-03-31",
+     "amending_law_id": "507AC0000000039",
+     "amending_law_num": "令和七年法律第三十九号",
+     "promulgated": "2025-05-23",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20270331_507AC0000000039?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "9ce44cdf631afa6834f0870a5fbf64c0dde2dab4c8d0307d620d0479b6c7a665"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20270723_508AC0000000067",
+     "in_force": "2027-07-23",
+     "amending_law_id": "508AC0000000067",
+     "amending_law_num": "令和八年法律第六十七号",
+     "promulgated": "2026-07-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20270723_508AC0000000067?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "356de5f15bfc46a01349663e2789aa52557088a97e6f98e6d80847588b275318"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20280516_505AC0000000028",
+     "in_force": "2028-05-16",
+     "amending_law_id": "505AC0000000028",
+     "amending_law_num": "令和五年法律第二十八号",
+     "promulgated": "2023-05-17",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20280516_505AC0000000028?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "57f4f99c834217daf9f8b08c64bb97b0fc095e301677b4f7ab7d9ab2a666d0cb"
+    },
+    {
+     "law_revision_id": "323AC0000000131_20281223_508AC0000000046",
+     "in_force": "2028-12-23",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/323AC0000000131_20281223_508AC0000000046?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "1feaf0635cfe9cb29f69202893f842275e9ea612f8d95808ddf6f096f2d0d9c1"
+    }
+   ]
+  },
+  {
+   "law_id": "417AC0000000086",
+   "law_num": "平成十七年法律第八十六号",
+   "slug": "kaisha",
+   "title": "会社法",
+   "revisions": [
+    {
+     "law_revision_id": "417AC0000000086_20170401_428AC0000000062",
+     "in_force": "2017-04-01",
+     "amending_law_id": "428AC0000000062",
+     "amending_law_num": "平成二十八年法律第六十二号",
+     "promulgated": "2016-06-03",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20170401_428AC0000000062?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "1098fa7fe34d2f4eec5756c09a22566f66577c2a1b0341ca5821197eabc1e54e"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20170602_429AC0000000045",
+     "in_force": "2017-06-02",
+     "amending_law_id": "429AC0000000045",
+     "amending_law_num": "平成二十九年法律第四十五号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20170602_429AC0000000045?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "2b679f00742226251d0a46c352883773d3c3c4c96c11ef3e206b587ff1deae58"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20190517_501AC0000000002",
+     "in_force": "2019-05-17",
+     "amending_law_id": "501AC0000000002",
+     "amending_law_num": "令和元年法律第二号",
+     "promulgated": "2019-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20190517_501AC0000000002?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "571e5b60106facf948e7cf7c8f8cfe458334f74018ba80747d3e2ff061d76ec6"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20200401_429AC0000000045",
+     "in_force": "2020-04-01",
+     "amending_law_id": "429AC0000000045",
+     "amending_law_num": "平成二十九年法律第四十五号",
+     "promulgated": "2017-06-02",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20200401_429AC0000000045?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "08c5c56464a09e3be8bca907705ec2860ff536d54805646b5abb468b32759c5f"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20200401_501AC0000000002",
+     "in_force": "2020-04-01",
+     "amending_law_id": "501AC0000000002",
+     "amending_law_num": "令和元年法律第二号",
+     "promulgated": "2019-05-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20200401_501AC0000000002?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "7298f36e5afe23cdbf617204dff843bbd72b05de0257357e5d4c71bba8a6bbe7"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20200829_502AC0000000033",
+     "in_force": "2020-08-29",
+     "amending_law_id": "502AC0000000033",
+     "amending_law_num": "令和二年法律第三十三号",
+     "promulgated": "2020-05-29",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20200829_502AC0000000033?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "a8993cfb893dd31636209e114ed23fd7fe8cbec7e340a3c3b3b24dbb69d627f2"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20201201_430AC0000000095",
+     "in_force": "2020-12-01",
+     "amending_law_id": "430AC0000000095",
+     "amending_law_num": "平成三十年法律第九十五号",
+     "promulgated": "2018-12-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20201201_430AC0000000095?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "26d63800ba7d98f6a8622ae0f376ad0b084f997f528c922a227be8b58581d3ab"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20210301_501AC0000000070",
+     "in_force": "2021-03-01",
+     "amending_law_id": "501AC0000000070",
+     "amending_law_num": "令和元年法律第七十号",
+     "promulgated": "2019-12-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20210301_501AC0000000070?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "93392e82261dfca4ceaf117a978b3a0d82bbef631cb4f8bc114eb63dc49d3bea"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20220525_504AC0000000048",
+     "in_force": "2022-05-25",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20220525_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "4ec62faa102d04645cfde321effb2bcccb455adcceaef9639a3698ca79a86b15"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20220610_504AC0000000061",
+     "in_force": "2022-06-10",
+     "amending_law_id": "504AC0000000061",
+     "amending_law_num": "令和四年法律第六十一号",
+     "promulgated": "2022-06-10",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20220610_504AC0000000061?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "0c697ea8e8f8b5606d5e542d068903a7f5feb07e6a238475094dd66e4fb8c406"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20220617_504AC0000000068",
+     "in_force": "2022-06-17",
+     "amending_law_id": "504AC0000000068",
+     "amending_law_num": "令和四年法律第六十八号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20220617_504AC0000000068?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "f5b6065feb4bf67c1e2b7e0352aa80e2a72d53d789db842a2ab73cda2940f6cd"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20220901_501AC0000000070",
+     "in_force": "2022-09-01",
+     "amending_law_id": "501AC0000000070",
+     "amending_law_num": "令和元年法律第七十号",
+     "promulgated": "2019-12-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20220901_501AC0000000070?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "cc66f386cb09ae498ef8ba02f6df7c43b30ef1478421578f8331d66461cf82b0"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20221001_502AC1000000078",
+     "in_force": "2022-10-01",
+     "amending_law_id": "502AC1000000078",
+     "amending_law_num": "令和二年法律第七十八号",
+     "promulgated": "2020-12-11",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20221001_502AC1000000078?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "d2a5efd77be96d5e8329045e1e42e3b37891430265a307564512cc338bc04423"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20221101_502AC0000000033",
+     "in_force": "2022-11-01",
+     "amending_law_id": "502AC0000000033",
+     "amending_law_num": "令和二年法律第三十三号",
+     "promulgated": "2020-05-29",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20221101_502AC0000000033?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "55ec3c648a59f32160d97a327d6733a4a6b5cb20e0d9c66de9225692b12cc3bf"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20230601_504AC0000000061",
+     "in_force": "2023-06-01",
+     "amending_law_id": "504AC0000000061",
+     "amending_law_num": "令和四年法律第六十一号",
+     "promulgated": "2022-06-10",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20230601_504AC0000000061?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "26f15b22bd5d4b0921c09e2d231ed703eb90d3b9d40f3f3b44f41af55a301fb9"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20230614_505AC0000000053",
+     "in_force": "2023-06-14",
+     "amending_law_id": "505AC0000000053",
+     "amending_law_num": "令和五年法律第五十三号",
+     "promulgated": "2023-06-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20230614_505AC0000000053?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "21540746bcadacfb020ccba5271c184551df6d356ee2d29126412ce5111ea68e"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20240522_506AC0000000032",
+     "in_force": "2024-05-22",
+     "amending_law_id": "506AC0000000032",
+     "amending_law_num": "令和六年法律第三十二号",
+     "promulgated": "2024-05-22",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20240522_506AC0000000032?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "7018d682bb77ae46db8a7cae0d23749b5f4acb7c6f3733052400e31f4f3888cb"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20241121_506AC0000000032",
+     "in_force": "2024-11-21",
+     "amending_law_id": "506AC0000000032",
+     "amending_law_num": "令和六年法律第三十二号",
+     "promulgated": "2024-05-22",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20241121_506AC0000000032?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "5bbdaa201edc936342601343f553de4dbc0589a252c446acd16959cc13b0234b"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20250501_506AC0000000032",
+     "in_force": "2025-05-01",
+     "amending_law_id": "506AC0000000032",
+     "amending_law_num": "令和六年法律第三十二号",
+     "promulgated": "2024-05-22",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20250501_506AC0000000032?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "5b6622511b6963a4a201330ba4ed001289ae206b1f53af1be794e70a661468b0"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20250601_504AC0000000068",
+     "in_force": "2025-06-01",
+     "amending_law_id": "504AC0000000068",
+     "amending_law_num": "令和四年法律第六十八号",
+     "promulgated": "2022-06-17",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20250601_504AC0000000068?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "0e2b6ce8c9d9a5562b8e7f33cfcc9199c242b5919345126dde5a1923e78627f1"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20250606_507AC0000000057",
+     "in_force": "2025-06-06",
+     "amending_law_id": "507AC0000000057",
+     "amending_law_num": "令和七年法律第五十七号",
+     "promulgated": "2025-06-06",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20250606_507AC0000000057?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "7d2403f2992ff4affac7e1dbf2b06b08ea7dc172b627aff521ab10c7bb571773"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20251001_505AC0000000053",
+     "in_force": "2025-10-01",
+     "amending_law_id": "505AC0000000053",
+     "amending_law_num": "令和五年法律第五十三号",
+     "promulgated": "2023-06-14",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20251001_505AC0000000053?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "4deecec4c0ee1f4730e4896afa21a8725906fcfc1f33edb067a8a83c563291d1"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20260501_506AC0000000032",
+     "in_force": "2026-05-01",
+     "amending_law_id": "506AC0000000032",
+     "amending_law_num": "令和六年法律第三十二号",
+     "promulgated": "2024-05-22",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20260501_506AC0000000032?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "e45986c262dc9530dcab6bee12ecac162b2cec8a0731fb9b4588a611959657d4"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20260521_504AC0000000048",
+     "in_force": "2026-05-21",
+     "amending_law_id": "504AC0000000048",
+     "amending_law_num": "令和四年法律第四十八号",
+     "promulgated": "2022-05-25",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20260521_504AC0000000048?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "d48e9482975f2dd3e72ee0d5597004d20d77e50e7878d5f5c4cc9fd6e8325f7b"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20260624_508AC0000000046",
+     "in_force": "2026-06-24",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20260624_508AC0000000046?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "7600e4f393ac2afbc72d9c1aefa127f4557af96e5a1015a7e9f3f963b0ce1ba3"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20260723_508AC0000000064",
+     "in_force": "2026-07-23",
+     "amending_law_id": "508AC0000000064",
+     "amending_law_num": "令和八年法律第六十四号",
+     "promulgated": "2026-07-23",
+     "status": "PreviousEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20260723_508AC0000000064?response_format=xml",
+     "text_from": "law_data",
+     "sha256": "371706e723ed87657a987853ba9d23a88f1ef8204eb55cb501f5d792bd0ae380"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20260812_508AC0000000064",
+     "in_force": "2026-08-12",
+     "amending_law_id": "508AC0000000064",
+     "amending_law_num": "令和八年法律第六十四号",
+     "promulgated": "2026-07-23",
+     "status": "CurrentEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20260812_508AC0000000064?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "f6a1aa510fb6007cad0d84d788090c4558a90dfa41b5a772e48081b7875ef261"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20270401_508AC0000000064",
+     "in_force": "2027-04-01",
+     "amending_law_id": "508AC0000000064",
+     "amending_law_num": "令和八年法律第六十四号",
+     "promulgated": "2026-07-23",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20270401_508AC0000000064?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "c92cc8c826b624ede60add5900d1ab545d501824aeb3059048baa3df1ce4ed2e"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20270722_508AC0000000064",
+     "in_force": "2027-07-22",
+     "amending_law_id": "508AC0000000064",
+     "amending_law_num": "令和八年法律第六十四号",
+     "promulgated": "2026-07-23",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20270722_508AC0000000064?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "a9c12713f481a2f86ced3fb8e952d36d8f5652cd1235d54080374e1540920b67"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20271205_507AC0000000057",
+     "in_force": "2027-12-05",
+     "amending_law_id": "507AC0000000057",
+     "amending_law_num": "令和七年法律第五十七号",
+     "promulgated": "2025-06-06",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20271205_507AC0000000057?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "b7e22072eb13cb581da4deefde33f17bc498f18becb6d9d486d89ad3889dc4dd"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20280613_505AC0000000053",
+     "in_force": "2028-06-13",
+     "amending_law_id": "505AC0000000053",
+     "amending_law_num": "令和五年法律第五十三号",
+     "promulgated": "2023-06-14",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20280613_505AC0000000053?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "a1d16202dfcb221c32850e6a91cc7c5368a3492daf4191cfd172ae51f4557fe5"
+    },
+    {
+     "law_revision_id": "417AC0000000086_20281223_508AC0000000046",
+     "in_force": "2028-12-23",
+     "amending_law_id": "508AC0000000046",
+     "amending_law_num": "令和八年法律第四十六号",
+     "promulgated": "2026-06-24",
+     "status": "UnEnforced",
+     "xml": "https://laws.e-gov.go.jp/api/2/law_data/417AC0000000086_20281223_508AC0000000046?response_format=xml",
+     "text_from": "XML一括ダウンロード",
+     "sha256": "8fb21c3714be7c066db7a853f7ef6eebc2f3496e66f6473eaa94971147d4dfaa"
     }
    ]
   }

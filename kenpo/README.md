@@ -2,9 +2,9 @@
 
 昭和二十一年憲法 · <https://laws.e-gov.go.jp/law/321CONSTITUTION>
 
-e-Gov の改正履歴 1 件（1947-05-03 施行から）。2026-10-28 現在の本文は 1947-05-03 施行の改正履歴。
+e-Gov の改正履歴 1 件（1947-05-03 施行から）。2026-11-02 現在の本文は 1947-05-03 施行の改正履歴。
 
-1 revisions in e-Gov, from 1947-05-03; the text in force on 2026-10-28 is the revision of 1947-05-03.
+1 revisions in e-Gov, from 1947-05-03; the text in force on 2026-11-02 is the revision of 1947-05-03.
 
 | 規定 | ファイル | 改正回数 | 最終改正 |
 | --- | --- | ---: | --- |
