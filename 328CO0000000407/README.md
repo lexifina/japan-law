@@ -1,0 +1,80 @@
+# 奄美群島の復帰に伴う国税関係法令の適用の暫定措置等に関する政令
+
+昭和二十八年政令第四百七号 · <https://laws.e-gov.go.jp/law/328CO0000000407>
+
+2026-11-03 現在の本文（1966-03-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 1966-03-31: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 目次 | [toc.md](toc.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 第十七条 | [art-017.md](art-017.md) |
+| 第十八条 | [art-018.md](art-018.md) |
+| 第十九条 | [art-019.md](art-019.md) |
+| 第二十条 | [art-020.md](art-020.md) |
+| 第二十一条 | [art-021.md](art-021.md) |
+| 第二十二条 | [art-022.md](art-022.md) |
+| 第二十三条 | [art-023.md](art-023.md) |
+| 第二十四条 | [art-024.md](art-024.md) |
+| 第二十五条 | [art-025.md](art-025.md) |
+| 第二十六条 | [art-026.md](art-026.md) |
+| 第二十七条 | [art-027.md](art-027.md) |
+| 第二十八条 | [art-028.md](art-028.md) |
+| 第二十九条 | [art-029.md](art-029.md) |
+| 第二十九条の二 | [art-029-2.md](art-029-2.md) |
+| 第二十九条の三 | [art-029-3.md](art-029-3.md) |
+| 第三十条 | [art-030.md](art-030.md) |
+| 第三十一条 | [art-031.md](art-031.md) |
+| 第三十二条 | [art-032.md](art-032.md) |
+| 第三十二条の二 | [art-032-2.md](art-032-2.md) |
+| 第三十三条 | [art-033.md](art-033.md) |
+| 第三十四条 | [art-034.md](art-034.md) |
+| 第三十五条 | [art-035.md](art-035.md) |
+| 第三十五条の二 | [art-035-2.md](art-035-2.md) |
+| 第三十六条 | [art-036.md](art-036.md) |
+| 第三十六条の二 | [art-036-2.md](art-036-2.md) |
+| 第三十七条 | [art-037.md](art-037.md) |
+| 第三十八条 | [art-038.md](art-038.md) |
+| 第三十九条 | [art-039.md](art-039.md) |
+| 第四十条 | [art-040.md](art-040.md) |
+| 第四十一条 | [art-041.md](art-041.md) |
+| 第四十二条 | [art-042.md](art-042.md) |
+| 第四十三条 | [art-043.md](art-043.md) |
+| 第四十四条 | [art-044.md](art-044.md) |
+| 第四十五条 | [art-045.md](art-045.md) |
+| 第四十六条 | [art-046.md](art-046.md) |
+| 第四十七条 | [art-047.md](art-047.md) |
+| 第四十八条 | [art-048.md](art-048.md) |
+| 第四十九条 | [art-049.md](art-049.md) |
+| 第五十条 | [art-050.md](art-050.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和二九年二月二六日政令第二〇号） | [suppl/s29-0226-co20.md](suppl/s29-0226-co20.md) |
+| 附則（昭和二九年五月二四日政令第一〇七号） | [suppl/s29-0524-co107.md](suppl/s29-0524-co107.md) |
+| 附則（昭和二九年六月一九日政令第一五〇号） | [suppl/s29-0619-co150.md](suppl/s29-0619-co150.md) |
+| 附則（昭和二九年六月二二日政令第一五五号） | [suppl/s29-0622-co155.md](suppl/s29-0622-co155.md) |
+| 附則（昭和三〇年三月三一日政令第四八号） | [suppl/s30-0331-co48.md](suppl/s30-0331-co48.md) |
+| 附則（昭和三〇年六月三〇日政令第一〇一号） | [suppl/s30-0630-co101.md](suppl/s30-0630-co101.md) |
+| 附則（昭和三一年一二月二九日政令第三六五号） | [suppl/s31-1229-co365.md](suppl/s31-1229-co365.md) |
+| 附則（昭和三二年三月三一日政令第四九号） | [suppl/s32-0331-co49.md](suppl/s32-0331-co49.md) |
+| 附則（昭和三二年六月二七日政令第一五八号） | [suppl/s32-0627-co158.md](suppl/s32-0627-co158.md) |
+| 附則（昭和三五年四月一五日政令第九三号） | [suppl/s35-0415-co93.md](suppl/s35-0415-co93.md) |
+| 附則（昭和四一年三月三一日政令第七八号） | [suppl/s41-0331-co78.md](suppl/s41-0331-co78.md) |

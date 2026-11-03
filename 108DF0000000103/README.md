@@ -1,0 +1,15 @@
+# 明治八年太政官布告第百三号（裁判事務心得）
+
+明治八年太政官布告第百三号 · <https://laws.e-gov.go.jp/law/108DF0000000103>
+
+2026-11-03 現在の本文（1875-06-08 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 1875-06-08: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 前文 | [preamble.md](preamble.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |

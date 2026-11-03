@@ -1,0 +1,46 @@
+# 船主相互保険組合法施行令
+
+昭和二十五年政令第二百七十七号 · <https://laws.e-gov.go.jp/law/325CO0000000277>
+
+2026-11-03 現在の本文（2021-09-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2021-09-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和二六年六月二三日政令第二三三号） | [suppl/s26-0623-co233.md](suppl/s26-0623-co233.md) |
+| 附則（昭和三九年三月二三日政令第二九号） | [suppl/s39-0323-co29.md](suppl/s39-0323-co29.md) |
+| 附則（昭和四九年三月三〇日政令第七二号） | [suppl/s49-0330-co72.md](suppl/s49-0330-co72.md) |
+| 附則（昭和五九年六月六日政令第一七六号） | [suppl/s59-0606-co176.md](suppl/s59-0606-co176.md) |
+| 附則（昭和五九年九月二一日政令第二七三号） | [suppl/s59-0921-co273.md](suppl/s59-0921-co273.md) |
+| 附則（平成六年九月一九日政令第三〇三号） | [suppl/h6-0919-co303.md](suppl/h6-0919-co303.md) |
+| 附則（平成七年一二月二二日政令第四二六号） | [suppl/h7-1222-co426.md](suppl/h7-1222-co426.md) |
+| 附則（平成一〇年五月二七日政令第一八四号） | [suppl/h10-0527-co184.md](suppl/h10-0527-co184.md) |
+| 附則（平成一〇年一一月二〇日政令第三六九号） | [suppl/h10-1120-co369.md](suppl/h10-1120-co369.md) |
+| 附則（平成一〇年一二月一五日政令第三九三号） | [suppl/h10-1215-co393.md](suppl/h10-1215-co393.md) |
+| 附則（平成一二年六月七日政令第二四四号） | [suppl/h12-0607-co244.md](suppl/h12-0607-co244.md) |
+| 附則（平成一二年六月七日政令第三〇三号） | [suppl/h12-0607-co303.md](suppl/h12-0607-co303.md) |
+| 附則（平成一八年四月一九日政令第一七四号） | [suppl/h18-0419-co174.md](suppl/h18-0419-co174.md) |
+| 附則（平成一九年三月二日政令第三九号） | [suppl/h19-0302-co39.md](suppl/h19-0302-co39.md) |
+| 附則（平成一九年七月一三日政令第二〇八号） | [suppl/h19-0713-co208.md](suppl/h19-0713-co208.md) |
+| 附則（平成二七年一月二八日政令第二三号） | [suppl/h27-0128-co23.md](suppl/h27-0128-co23.md) |
+| 附則（令和三年二月三日政令第二一号） | [suppl/r3-0203-co21.md](suppl/r3-0203-co21.md) |
+| 附則（令和三年八月四日政令第二二三号） | [suppl/r3-0804-co223.md](suppl/r3-0804-co223.md) |
