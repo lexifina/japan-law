@@ -1,0 +1,24 @@
+# 特定タンカーに係る特定賠償義務履行担保契約等に関する特別措置法施行規則
+
+平成二十四年国土交通省令第六十一号 · <https://laws.e-gov.go.jp/law/424M60000800061>
+
+2026-11-03 現在の本文（2020-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2020-10-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成二五年三月二七日国土交通省令第一一号） | [suppl/h25-0327-m11.md](suppl/h25-0327-m11.md) |
+| 附則（平成二六年三月二六日国土交通省令第三一号） | [suppl/h26-0326-m31.md](suppl/h26-0326-m31.md) |
+| 附則（平成二七年三月二七日国土交通省令第一四号） | [suppl/h27-0327-m14.md](suppl/h27-0327-m14.md) |
+| 附則（平成二八年三月二五日国土交通省令第二一号） | [suppl/h28-0325-m21.md](suppl/h28-0325-m21.md) |
+| 附則（令和二年二月二八日国土交通省令第一〇号） | [suppl/r2-0228-m10.md](suppl/r2-0228-m10.md) |

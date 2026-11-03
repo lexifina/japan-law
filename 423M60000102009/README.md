@@ -1,0 +1,32 @@
+# 厚生労働省関係東日本大震災復興特別区域法第二条第四項に規定する省令の特例に関する措置及びその適用を受ける復興推進事業を定める命令
+
+平成二十三年内閣府・厚生労働省令第九号 · <https://laws.e-gov.go.jp/law/423M60000102009>
+
+2026-11-03 現在の本文（2026-05-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-05-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成二四年三月二八日復興庁・厚生労働省令第一号） | [suppl/h24-0328-m1.md](suppl/h24-0328-m1.md) |
+| 附則（平成二四年八月三〇日復興庁・厚生労働省令第二号） | [suppl/h24-0830-m2.md](suppl/h24-0830-m2.md) |
+| 附則（平成二六年五月二九日復興庁・厚生労働省令第一号） | [suppl/h26-0529-m1.md](suppl/h26-0529-m1.md) |
+| 附則（平成二六年一一月二一日復興庁・厚生労働省令第二号） | [suppl/h26-1121-m2.md](suppl/h26-1121-m2.md) |
+| 附則（平成二八年三月三一日復興庁・厚生労働省令第一号） | [suppl/h28-0331-m1.md](suppl/h28-0331-m1.md) |
+| 附則（平成三〇年三月三〇日復興庁・厚生労働省令第一号） | [suppl/h30-0330-m1.md](suppl/h30-0330-m1.md) |
+| 附則（令和三年三月三一日厚生労働省令第八三号） | [suppl/r3-0331-m83.md](suppl/r3-0331-m83.md) |
+| 附則（令和四年六月一日復興庁・厚生労働省令第一号） | [suppl/r4-0601-m1.md](suppl/r4-0601-m1.md) |
+| 附則（令和八年一月七日復興庁・厚生労働省令第一号） | [suppl/r8-0107-m1.md](suppl/r8-0107-m1.md) |
+| 別表 | [appdx/table.md](appdx/table.md) |
