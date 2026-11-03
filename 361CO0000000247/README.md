@@ -1,0 +1,23 @@
+# 昭和六十一年度における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する政令
+
+昭和六十一年政令第二百四十七号 · <https://laws.e-gov.go.jp/law/361CO0000000247>
+
+2026-11-03 現在の本文（2024-04-25 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2024-04-25: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和六二年三月二〇日政令第五四号） | [suppl/s62-0320-co54.md](suppl/s62-0320-co54.md) |
+| 附則（令和六年四月二四日政令第一七四号） | [suppl/r6-0424-co174.md](suppl/r6-0424-co174.md) |
+| 別表第一 | [appdx/table-1.md](appdx/table-1.md) |
+| 別表第二 | [appdx/table-2.md](appdx/table-2.md) |
+| 別表第三 | [appdx/table-3.md](appdx/table-3.md) |
