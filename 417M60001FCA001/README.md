@@ -1,0 +1,16 @@
+# 環境情報の提供の促進等による特定事業者等の環境に配慮した事業活動の促進に関する法律第九条第一項の規定による環境報告書の作成及び公表の方法を定める命令
+
+平成十七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号 · <https://laws.e-gov.go.jp/law/417M60001FCA001>
+
+2026-11-03 現在の本文（2020-09-30 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2020-09-30: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 本則 | [main.md](main.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成一八年四月二七日内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号） | [suppl/h18-0427-m1.md](suppl/h18-0427-m1.md) |
+| 附則（令和二年九月三〇日内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第四号） | [suppl/r2-0930-m4.md](suppl/r2-0930-m4.md) |
