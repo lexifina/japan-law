@@ -1,0 +1,31 @@
+# 食品表示法第六条第八項に規定するアレルゲン、消費期限、食品を安全に摂取するために加熱を要するかどうかの別その他の食品を摂取する際の安全性に重要な影響を及ぼす事項等を定める内閣府令
+
+平成二十七年内閣府令第十一号 · <https://laws.e-gov.go.jp/law/427M60000002011>
+
+2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成二八年三月八日内閣府令第一〇号） | [suppl/h28-0308-m10.md](suppl/h28-0308-m10.md) |
+| 附則（平成三〇年九月二一日内閣府令第四五号） | [suppl/h30-0921-m45.md](suppl/h30-0921-m45.md) |
+| 附則（令和元年五月七日内閣府令第三号） | [suppl/r1-0507-m3.md](suppl/r1-0507-m3.md) |
+| 附則（令和元年六月二八日内閣府令第一七号） | [suppl/r1-0628-m17.md](suppl/r1-0628-m17.md) |
+| 附則（令和二年二月二八日内閣府令第八号） | [suppl/r2-0228-m8.md](suppl/r2-0228-m8.md) |
+| 附則（令和二年三月二七日内閣府令第二〇号） | [suppl/r2-0327-m20.md](suppl/r2-0327-m20.md) |
+| 附則（令和二年七月一六日内閣府令第五二号） | [suppl/r2-0716-m52.md](suppl/r2-0716-m52.md) |
+| 附則（令和三年三月二九日内閣府令第一七号） | [suppl/r3-0329-m17.md](suppl/r3-0329-m17.md) |
+| 附則（令和八年四月一日内閣府令第三四号） | [suppl/r8-0401-m34.md](suppl/r8-0401-m34.md) |
+| 別記様式第１号 | [appdx/style-1.md](appdx/style-1.md) |
+| 別記様式第２号 | [appdx/style-2.md](appdx/style-2.md) |
