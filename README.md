@@ -6,11 +6,23 @@ published by the Digital Agency (デジタル庁) in [e-Gov 法令検索](https:
 (XML一括ダウンロード) for the text in force and not yet in force, and its Law API (Version 2) for each law's list of
 revisions and the text of each earlier revision.
 
-**Two kinds of law here.** 8 laws have their revision history: every revision e-Gov holds, one commit per
-amending law and day. The other 8974 have, for now, one version only: the text in force on 2026-11-03, dated the day
+**Two kinds of law here.** 308 laws have their revision history: every revision e-Gov holds, one commit per
+amending law and day. The other 8674 have, for now, one version only: the text in force on 2026-11-03, dated the day
 its latest revision took effect, committed by the publisher and labelled `Label: oldest version available` (and
-`Kind: baseline`). Their earlier revisions will be added behind them, as new commits on top, without rewriting
+`Kind: baseline`). Their earlier revisions are added behind them, as new commits on top, without rewriting
 anything. [`data/laws.json`](data/laws.json) lists every law with its folder and how many versions it has.
+
+**Earlier versions added later (300 laws so far).** A law first published as its current text gets its earlier
+revisions as **correction commits** appended after it, one per version, oldest first (`Kind: correction`). Each says
+which days it covers (`Corrects: <folder> <from>..<to>`, to the day before the next version), that it replaces no
+published commit (`Supersedes: none`), why (`Reason:`), which folder it is (`Act-path:`) and every file of that version
+(`Files:`); its tree holds that version's whole text. A last correction sets the folder back to the text in force now
+(`Supersedes:` the current-text commit), so the tip is still today's law. The author of each is the amending law e-Gov
+names for that revision (the first is credited as described below). To read a day, take the commit `In-force:` picks
+for the folder, then apply each correction whose `Corrects:` range holds that day: `tools/jiten.py` gives the same
+result, because it takes the newest commit whose `In-force:` is on or before the day. Because these commits come after
+the current text, `git log -- <folder>` on such a law is not in date order and `git blame` at the tip credits the
+restoring commit for lines that changed since; read such a law by day with `tools/jiten.py`.
 Histories are added in this order: the six codes (六法: 民法, 刑法, 商法, 民事訴訟法, 刑事訴訟法, 会社法), the
 most-cited laws, then the rest of the 法律, then 政令, then 府省令.
 
@@ -37,6 +49,7 @@ most-cited laws, then the rest of the 法律, then 政令, then 府省令.
 | Laws taking effect in stages (段階施行) | `git log --format="%as %an" --grep="^Stage: "` |
 | The baselines: the first text e-Gov holds of each law amended before its record begins | `git log --format="%as %an %s" --grep="Kind: baseline"` |
 | The laws held as current text only, so far | `git log --format="%as %s" --grep="^Label: oldest version available"` |
+| The earlier versions added behind a current text (correction commits) | `git log --format="%as %s" --grep="^Kind: correction"` |
 | Which folder is which law | [`data/laws.json`](data/laws.json) |
 | The amending laws with all their dates | [`laws.csv`](laws.csv) |
 | Amendments promulgated but not yet in force | `git log --format="%as %s" main..mishiko` |
@@ -126,8 +139,8 @@ a history by Lexifina (加工: Lexifina). The history, commit messages, tables a
 
 ## 日本語
 
-e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 8982 件。うち改正履歴つき 8 件、
-現行の本文のみ 8974 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
+e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 8982 件。うち改正履歴つき 308 件、
+現行の本文のみ 8674 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
 XML一括ダウンロード、改正履歴の一覧と過去の改正履歴の本文は法令API（Version 2）から取得した。六法、よく引用される法律、
 その他の法律、政令、府省令の順に追加している。
 
@@ -139,6 +152,8 @@ XML一括ダウンロード、改正履歴の一覧と過去の改正履歴の�
 - **追加の順序:** 後から追加した法令は、履歴の先端に一つのまとまりとして追加している。ある日の本文は
   `tools/jiten.py` で読む（`In-force:` を見る）。
 - **未施行の改正**はブランチ `mishiko` にある。
+- **後から追加した過去の版:** 現行の本文だけを先に公開した法令には、その後、過去の改正履歴を訂正（correction）コミットとして
+  先端に追加している（`Kind: correction`、`Corrects:` が対象の期間）。ある日の本文は `tools/jiten.py` で読める。
 - **起点:** e-Gov の改正履歴は多くの法令で2017年以降。その最初の本文はそれまでの改正をすべて溶け込ませたもの
   なので、法律ではなく e-Gov を作成者とし、`Kind: baseline` と表示している。
 - ある日の本文: `python tools/jiten.py 2022-04-01 kojin-joho 27`

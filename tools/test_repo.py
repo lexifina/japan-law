@@ -10,7 +10,7 @@ It asserts that:
 3. `git log --follow` on a file lists its amending laws in the order they took effect;
 4. every tag resolves to a commit, and every commit has an `In-force:` trailer, and every trailer block parses;
 5. every commit authored by Lexifina is a documentation commit (the last one is one), and every commit by the
-   publisher is a labelled baseline;
+   publisher is a labelled baseline or a labelled correction (Kind: correction);
 6. every git or tool command in the README's table runs and prints something;
 7. the branch mishiko contains main and holds only changes not yet in force, or changes that have since come into
    force and are on main too (same e-Gov revision).
@@ -149,7 +149,10 @@ class Smoke:
         assert all('Kind: documentation' in r[4] for r in by_lex), 'a commit by Lexifina that is not documentation'
         assert all(r[3] == 'Lexifina' for r in rows), 'a committer other than Lexifina'
         pub = [r for r in rows if r[1] == PUBLISHER]
-        assert pub and all('Kind: baseline' in r[4] for r in pub), f'{len(pub)} publisher commits, or one not labelled'
+        # The publisher's commits are labelled: a baseline (a consolidated first text), or a correction of the history
+        # pass (an earlier version found in e-Gov's record before any law's, or the text in force now set back).
+        assert pub and all('Kind: baseline' in r[4] or 'Kind: correction' in r[4] for r in pub), \
+            f'{len(pub)} publisher commits, or one not labelled'
         laws = [r for r in rows if r[1] != 'Lexifina']
         authors = {r[1] for r in laws}
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {sorted(authors - {PUBLISHER})[:5]}'
