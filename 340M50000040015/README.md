@@ -1,0 +1,80 @@
+# 減価償却資産の耐用年数等に関する省令
+
+昭和四十年大蔵省令第十五号 · <https://laws.e-gov.go.jp/law/340M50000040015>
+
+2026-11-03 現在の本文（2026-05-22 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-05-22: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和四一年六月一三日大蔵省令第三七号） | [suppl/s41-0613-m37.md](suppl/s41-0613-m37.md) |
+| 附則（昭和四三年四月二〇日大蔵省令第二〇号） | [suppl/s43-0420-m20.md](suppl/s43-0420-m20.md) |
+| 附則（昭和四四年四月八日大蔵省令第二七号） | [suppl/s44-0408-m27.md](suppl/s44-0408-m27.md) |
+| 附則（昭和四五年四月三〇日大蔵省令第三三号） | [suppl/s45-0430-m33.md](suppl/s45-0430-m33.md) |
+| 附則（昭和四六年四月一二日大蔵省令第二三号） | [suppl/s46-0412-m23.md](suppl/s46-0412-m23.md) |
+| 附則（昭和四七年六月六日大蔵省令第五二号） | [suppl/s47-0606-m52.md](suppl/s47-0606-m52.md) |
+| 附則（昭和四七年八月二六日大蔵省令第六九号） | [suppl/s47-0826-m69.md](suppl/s47-0826-m69.md) |
+| 附則（昭和四八年五月二九日大蔵省令第三二号） | [suppl/s48-0529-m32.md](suppl/s48-0529-m32.md) |
+| 附則（昭和四九年四月一八日大蔵省令第三五号） | [suppl/s49-0418-m35.md](suppl/s49-0418-m35.md) |
+| 附則（昭和五〇年三月三一日大蔵省令第一二号） | [suppl/s50-0331-m12.md](suppl/s50-0331-m12.md) |
+| 附則（昭和五二年三月三一日大蔵省令第九号） | [suppl/s52-0331-m9.md](suppl/s52-0331-m9.md) |
+| 附則（昭和五三年五月二四日大蔵省令第三七号） | [suppl/s53-0524-m37.md](suppl/s53-0524-m37.md) |
+| 附則（昭和五四年三月三一日大蔵省令第一六号） | [suppl/s54-0331-m16.md](suppl/s54-0331-m16.md) |
+| 附則（昭和五六年三月三一日大蔵省令第一四号） | [suppl/s56-0331-m14.md](suppl/s56-0331-m14.md) |
+| 附則（昭和五八年三月三一日大蔵省令第一九号） | [suppl/s58-0331-m19.md](suppl/s58-0331-m19.md) |
+| 附則（昭和六〇年三月三〇日大蔵省令第一五号） | [suppl/s60-0330-m15.md](suppl/s60-0330-m15.md) |
+| 附則（昭和六二年九月二九日大蔵省令第五〇号） | [suppl/s62-0929-m50.md](suppl/s62-0929-m50.md) |
+| 附則（昭和六三年三月三一日大蔵省令第一六号） | [suppl/s63-0331-m16.md](suppl/s63-0331-m16.md) |
+| 附則（平成元年三月三一日大蔵省令第四二号） | [suppl/h1-0331-m42.md](suppl/h1-0331-m42.md) |
+| 附則（平成二年三月三一日大蔵省令第一七号） | [suppl/h2-0331-m17.md](suppl/h2-0331-m17.md) |
+| 附則（平成三年三月三〇日大蔵省令第一八号） | [suppl/h3-0330-m18.md](suppl/h3-0330-m18.md) |
+| 附則（平成五年三月三一日大蔵省令第四八号） | [suppl/h5-0331-m48.md](suppl/h5-0331-m48.md) |
+| 附則（平成六年三月三一日大蔵省令第四二号） | [suppl/h6-0331-m42.md](suppl/h6-0331-m42.md) |
+| 附則（平成七年三月三一日大蔵省令第三四号） | [suppl/h7-0331-m34.md](suppl/h7-0331-m34.md) |
+| 附則（平成一〇年三月三一日大蔵省令第五〇号） | [suppl/h10-0331-m50.md](suppl/h10-0331-m50.md) |
+| 附則（平成一〇年一二月二四日大蔵省令第一七五号） | [suppl/h10-1224-m175.md](suppl/h10-1224-m175.md) |
+| 附則（平成一二年三月三一日大蔵省令第三五号） | [suppl/h12-0331-m35.md](suppl/h12-0331-m35.md) |
+| 附則（平成一三年三月三〇日財務省令第三四号） | [suppl/h13-0330-m34.md](suppl/h13-0330-m34.md) |
+| 附則（平成一五年三月三一日財務省令第三八号） | [suppl/h15-0331-m38.md](suppl/h15-0331-m38.md) |
+| 附則（平成一六年三月三一日財務省令第三三号） | [suppl/h16-0331-m33.md](suppl/h16-0331-m33.md) |
+| 附則（平成一七年五月三一日財務省令第五三号） | [suppl/h17-0531-m53.md](suppl/h17-0531-m53.md) |
+| 附則（平成一九年三月三〇日財務省令第二一号） | [suppl/h19-0330-m21.md](suppl/h19-0330-m21.md) |
+| 附則（平成二〇年四月三〇日財務省令第三二号） | [suppl/h20-0430-m32.md](suppl/h20-0430-m32.md) |
+| 附則（平成二二年三月三一日財務省令第二〇号） | [suppl/h22-0331-m20.md](suppl/h22-0331-m20.md) |
+| 附則（平成二三年一一月二八日財務省令第八一号） | [suppl/h23-1128-m81.md](suppl/h23-1128-m81.md) |
+| 附則（平成二四年一月二五日財務省令第一〇号） | [suppl/h24-0125-m10.md](suppl/h24-0125-m10.md) |
+| 附則（平成二五年三月三〇日財務省令第二四号） | [suppl/h25-0330-m24.md](suppl/h25-0330-m24.md) |
+| 附則（平成二五年九月四日財務省令第五二号） | [suppl/h25-0904-m52.md](suppl/h25-0904-m52.md) |
+| 附則（平成二六年七月九日財務省令第五五号） | [suppl/h26-0709-m55.md](suppl/h26-0709-m55.md) |
+| 附則（平成二七年三月三一日財務省令第三八号） | [suppl/h27-0331-m38.md](suppl/h27-0331-m38.md) |
+| 附則（平成二八年三月三一日財務省令第二七号） | [suppl/h28-0331-m27.md](suppl/h28-0331-m27.md) |
+| 附則（平成二九年三月三一日財務省令第二九号） | [suppl/h29-0331-m29.md](suppl/h29-0331-m29.md) |
+| 附則（平成三〇年三月三一日財務省令第三一号） | [suppl/h30-0331-m31.md](suppl/h30-0331-m31.md) |
+| 附則（令和二年三月三一日財務省令第二六号） | [suppl/r2-0331-m26.md](suppl/r2-0331-m26.md) |
+| 附則（令和二年六月三〇日財務省令第五六号） | [suppl/r2-0630-m56.md](suppl/r2-0630-m56.md) |
+| 附則（令和三年九月一七日財務省令第六六号） | [suppl/r3-0917-m66.md](suppl/r3-0917-m66.md) |
+| 附則（令和六年三月三〇日財務省令第三〇号） | [suppl/r6-0330-m30.md](suppl/r6-0330-m30.md) |
+| 附則（令和六年一一月一五日財務省令第六三号） | [suppl/r6-1115-m63.md](suppl/r6-1115-m63.md) |
+| 附則（令和七年三月三一日財務省令第三四号） | [suppl/r7-0331-m34.md](suppl/r7-0331-m34.md) |
+| 附則（令和八年三月三一日財務省令第二九号） | [suppl/r8-0331-m29.md](suppl/r8-0331-m29.md) |
+| 別表第一 | [appdx/table-1.md](appdx/table-1.md) |
+| 別表第二 | [appdx/table-2.md](appdx/table-2.md) |
+| 別表第三 | [appdx/table-3.md](appdx/table-3.md) |
+| 別表第四 | [appdx/table-4.md](appdx/table-4.md) |
+| 別表第五 | [appdx/table-5.md](appdx/table-5.md) |
+| 別表第六 | [appdx/table-6.md](appdx/table-6.md) |
+| 別表第七 | [appdx/table-7.md](appdx/table-7.md) |
+| 別表第八 | [appdx/table-8.md](appdx/table-8.md) |
+| 別表第九 | [appdx/table-9.md](appdx/table-9.md) |
+| 別表第十 | [appdx/table-10.md](appdx/table-10.md) |
+| 別表第十一 | [appdx/table-11.md](appdx/table-11.md) |
