@@ -1,14 +1,18 @@
 # Japanese law, change by change
 
-8 Japanese laws and regulations in force as a git repository (7 Acts (法律), 1 the Constitution (憲法)). Each amending law is one commit for each
+508 Japanese laws and regulations in force as a git repository (507 Acts (法律), 1 the Constitution (憲法)). Each amending law is one commit for each
 day it took effect, credited to that law and dated that day (施行日), at noon in Tokyo. The text is the consolidated text
 published by the Digital Agency (デジタル庁) in [e-Gov 法令検索](https://laws.e-gov.go.jp): its XML bulk download
 (XML一括ダウンロード) for the text in force and not yet in force, and its Law API (Version 2) for each law's list of
 revisions and the text of each earlier revision.
 
-The record grows: laws are added in this order: the six codes (六法: 民法, 刑法, 商法, 民事訴訟法, 刑事訴訟法, 会社法), the
-most-cited laws, then the rest of the 法律, then 政令, then 府省令. [`data/laws.json`](data/laws.json) lists the laws
-held so far.
+**Two kinds of law here.** 8 laws have their revision history: every revision e-Gov holds, one commit per
+amending law and day. The other 500 have, for now, one version only: the text in force on 2026-11-03, dated the day
+its latest revision took effect, committed by the publisher and labelled `Label: oldest version available` (and
+`Kind: baseline`). Their earlier revisions will be added behind them, as new commits on top, without rewriting
+anything. [`data/laws.json`](data/laws.json) lists every law with its folder and how many versions it has.
+Histories are added in this order: the six codes (六法: 民法, 刑法, 商法, 民事訴訟法, 刑事訴訟法, 会社法), the
+most-cited laws, then the rest of the 法律, then 政令, then 府省令.
 
 *日本語: [下記](#日本語).*
 
@@ -20,7 +24,7 @@ held so far.
 | And from 1 April 2022, after the 2021 reform renumbered it? | `python tools/jiten.py 2022-04-01 kojin-joho 27` |
 | The whole APPI as it stood on 1 January 2020 | `python tools/jiten.py 2020-01-01 kojin-joho` |
 | 第九条 of the Constitution | `python tools/jiten.py 2000-01-01 kenpo 9` |
-| 第七百九条 of the Civil Code (民法) today | `python tools/jiten.py 2026-11-02 minpo 709` |
+| 第七百九条 of the Civil Code (民法) today | `python tools/jiten.py 2026-11-03 minpo 709` |
 | Every change to the Civil Code's 第五条 (minors), with the law and the day | `git log --format="%as %an" -- minpo/art-005.md` |
 | 第百七十六条 of the Penal Code (刑法) on 13 July 2023 | `python tools/jiten.py 2023-07-13 keiho 176` |
 | Which law wrote each line of the Companies Act's 第二条 (definitions)? | `git blame kaisha/art-002.md` |
@@ -32,6 +36,7 @@ held so far.
 | The transitional provisions of the 2015 reform | `python tools/jiten.py 2024-01-01 kojin-joho suppl/h27-65` |
 | Laws taking effect in stages (段階施行) | `git log --format="%as %an" --grep="^Stage: "` |
 | The baselines: the first text e-Gov holds of each law amended before its record begins | `git log --format="%as %an %s" --grep="Kind: baseline"` |
+| The laws held as current text only, so far | `git log --format="%as %s" --grep="^Label: oldest version available"` |
 | Which folder is which law | [`data/laws.json`](data/laws.json) |
 | The amending laws with all their dates | [`laws.csv`](laws.csv) |
 | Amendments promulgated but not yet in force | `git log --format="%as %s" main..mishiko` |
@@ -94,7 +99,9 @@ is the law number and title, `toc.md` the table of contents, `preamble.md` the p
 provision (附則) is one file in `suppl/`: `original.md` the law's own, and `h27-65.md` the one added by
 平成二十七年法律第六十五号 (era letters m, t, s, h, r for 明治, 大正, 昭和, 平成, 令和). Appended tables (別表) are in
 `appdx/`. A repealed article is removed when e-Gov removes it; an article e-Gov prints as `削除` stays, with that word.
-Each law's folder has a `README.md` listing its provisions with how often each changed.
+Each law's folder has a `README.md` listing its provisions with how often each changed. A few laws whose text
+the reader cannot split into provisions are one file, `text.md`, with the whole text in order (`Layout: single file`;
+0 so far).
 
 ## What it does not show
 
@@ -119,7 +126,8 @@ a history by Lexifina (加工: Lexifina). The history, commit messages, tables a
 
 ## 日本語
 
-e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 8 件）。現行・未施行の本文は
+e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 508 件。うち改正履歴つき 8 件、
+現行の本文のみ 500 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
 XML一括ダウンロード、改正履歴の一覧と過去の改正履歴の本文は法令API（Version 2）から取得した。六法、よく引用される法律、
 その他の法律、政令、府省令の順に追加している。
 

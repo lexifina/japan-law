@@ -1,0 +1,31 @@
+# 印紙等模造取締法
+
+昭和二十二年法律第百八十九号 · <https://laws.e-gov.go.jp/law/322AC0000000189>
+
+2026-11-03 現在の本文（2025-06-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2025-06-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和二三年七月七日法律第一〇八号） | [suppl/s23-108.md](suppl/s23-108.md) |
+| 附則（昭和二四年一二月二七日法律第二八五号） | [suppl/s24-285.md](suppl/s24-285.md) |
+| 附則（昭和二六年三月三一日法律第七七号） | [suppl/s26-77.md](suppl/s26-77.md) |
+| 附則（昭和二八年二月二八日法律第六号） | [suppl/s28-6.md](suppl/s28-6.md) |
+| 附則（昭和二九年五月一三日法律第九六号） | [suppl/s29-96.md](suppl/s29-96.md) |
+| 附則（昭和三二年六月一四日法律第一七三号） | [suppl/s32-173.md](suppl/s32-173.md) |
+| 附則（昭和三四年三月二八日法律第五五号） | [suppl/s34-55.md](suppl/s34-55.md) |
+| 附則（昭和三七年三月三一日法律第四八号） | [suppl/s37-48.md](suppl/s37-48.md) |
+| 附則（昭和三七年三月三一日法律第五〇号） | [suppl/s37-50.md](suppl/s37-50.md) |
+| 附則（昭和四二年五月三一日法律第二三号） | [suppl/s42-23.md](suppl/s42-23.md) |
+| 附則（昭和四六年三月三一日法律第二一号） | [suppl/s46-21.md](suppl/s46-21.md) |
+| 附則（昭和四八年四月二六日法律第二一号） | [suppl/s48-21.md](suppl/s48-21.md) |
+| 附則（昭和六三年一二月三〇日法律第一〇八号） | [suppl/s63-108.md](suppl/s63-108.md) |
+| 附則（昭和六三年一二月三〇日法律第一〇九号） | [suppl/s63-109.md](suppl/s63-109.md) |
+| 附則（平成三年五月一五日法律第七三号） | [suppl/h3-73.md](suppl/h3-73.md) |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
+| 附則（令和四年六月一七日法律第六八号） | [suppl/r4-68.md](suppl/r4-68.md) |

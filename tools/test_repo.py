@@ -119,12 +119,17 @@ class Smoke:
         recent = set(self.git('rev-list', '--no-merges', 'main', 'mishiko', f'^{self.since}').split()) if self.since else None
         bad = [r for r in rows if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
         assert not bad, f'{len(bad)} commits without a well-formed In-force, e.g. {bad[:2]}'
+        # git's own trailer parser (%(trailers:only)) must give back the whole last paragraph of each message: one
+        # `git log` for all of them, rather than one `git interpret-trailers` per commit.
         unparsed = []
-        for h in [r.split('\t')[0] for r in rows if recent is None or r.split('\t')[0] in recent]:
-            body = self.git('log', '-1', '--format=%B', h)
+        out = self.git('log', '--no-merges', '--format=%H%x00%(trailers:only,unfold)%x00%B%x01', 'main', 'mishiko')
+        for rec in out.split('\x01'):
+            if '\x00' not in rec:
+                continue
+            h, parsed, body = rec.lstrip('\n').split('\x00', 2)
+            if recent is not None and h not in recent:
+                continue
             last = body.rstrip('\n').split('\n\n')[-1]
-            parsed = subprocess.run(['git', 'interpret-trailers', '--parse'], cwd=self.repo, input=body,
-                                    capture_output=True, text=True, encoding='utf-8').stdout
             if parsed.strip() != last.strip():
                 unparsed.append(h[:10])
         assert not unparsed, f'trailer blocks git does not parse: {unparsed[:3]}'
