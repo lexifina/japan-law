@@ -2,19 +2,19 @@
 
 昭和二十七年法律第二百三十二号 · <https://laws.e-gov.go.jp/law/327AC0000000232>
 
-2026-11-03 現在の本文（2022-12-05 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2015-12-10 施行から）。2026-11-03 現在の本文は 2022-12-05 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-12-05: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2015-12-10; the text in force on 2026-11-03 is the revision of 2022-12-05.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和二九年六月一日法律第一五二号） | [suppl/s29-152.md](suppl/s29-152.md) |
-| 附則（昭和三五年六月二三日法律第一〇二号） | [suppl/s35-102.md](suppl/s35-102.md) |
-| 附則（昭和五〇年七月一〇日法律第五八号） | [suppl/s50-58.md](suppl/s50-58.md) |
-| 附則（平成二七年九月一一日法律第六七号） | [suppl/h27-67.md](suppl/h27-67.md) |
-| 附則（令和元年六月一九日法律第三八号） | [suppl/r1-38.md](suppl/r1-38.md) |
-| 附則（令和二年六月二四日法律第六一号） | [suppl/r2-61.md](suppl/r2-61.md) |
-| 附則（令和三年六月一一日法律第六五号） | [suppl/r3-65.md](suppl/r3-65.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 本則 | [main.md](main.md) | 4 | 2022-12-05 |
+| 附則 | [suppl/original.md](suppl/original.md) | 1 | 2022-03-10 |
+| 附則（昭和二九年六月一日法律第一五二号） | [suppl/s29-152.md](suppl/s29-152.md) | 0 |  |
+| 附則（昭和三五年六月二三日法律第一〇二号） | [suppl/s35-102.md](suppl/s35-102.md) | 0 |  |
+| 附則（昭和五〇年七月一〇日法律第五八号） | [suppl/s50-58.md](suppl/s50-58.md) | 0 |  |
+| 附則（平成二七年九月一一日法律第六七号） | [suppl/h27-67.md](suppl/h27-67.md) | 0 |  |
+| 附則（令和元年六月一九日法律第三八号） | [suppl/r1-38.md](suppl/r1-38.md) | 1 | 2019-09-18 |
+| 附則（令和二年六月二四日法律第六一号） | [suppl/r2-61.md](suppl/r2-61.md) | 1 | 2022-06-20 |
+| 附則（令和三年六月一一日法律第六五号） | [suppl/r3-65.md](suppl/r3-65.md) | 1 | 2022-03-10 |
