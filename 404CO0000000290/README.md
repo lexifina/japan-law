@@ -1,0 +1,33 @@
+# 労働時間等の設定の改善に関する特別措置法第八条から第十二条までに規定する厚生労働大臣の権限の一部の委任等に関する政令
+
+平成四年政令第二百九十号 · <https://laws.e-gov.go.jp/law/404CO0000000290>
+
+2026-11-03 現在の本文（2018-01-04 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2018-01-04: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成七年一二月六日政令第三九九号） | [suppl/h7-1206-co399.md](suppl/h7-1206-co399.md) |
+| 附則（平成一〇年五月二七日政令第一八四号） | [suppl/h10-0527-co184.md](suppl/h10-0527-co184.md) |
+| 附則（平成一〇年一二月一五日政令第三九三号） | [suppl/h10-1215-co393.md](suppl/h10-1215-co393.md) |
+| 附則（平成一一年一二月三日政令第三九〇号） | [suppl/h11-1203-co390.md](suppl/h11-1203-co390.md) |
+| 附則（平成一二年六月七日政令第二四四号） | [suppl/h12-0607-co244.md](suppl/h12-0607-co244.md) |
+| 附則（平成一二年六月七日政令第三〇九号） | [suppl/h12-0607-co309.md](suppl/h12-0607-co309.md) |
+| 附則（平成一三年九月二七日政令第三一七号） | [suppl/h13-0927-co317.md](suppl/h13-0927-co317.md) |
+| 附則（平成一四年六月七日政令第二〇〇号） | [suppl/h14-0607-co200.md](suppl/h14-0607-co200.md) |
+| 附則（平成一四年一〇月三〇日政令第三二一号） | [suppl/h14-1030-co321.md](suppl/h14-1030-co321.md) |
+| 附則（平成一六年一〇月二九日政令第三三七号） | [suppl/h16-1029-co337.md](suppl/h16-1029-co337.md) |
+| 附則（平成一八年一月五日政令第二号） | [suppl/h18-0105-co2.md](suppl/h18-0105-co2.md) |
+| 附則（平成一八年三月二九日政令第八四号） | [suppl/h18-0329-co84.md](suppl/h18-0329-co84.md) |
+| 附則（平成一九年一一月七日政令第三二九号） | [suppl/h19-1107-co329.md](suppl/h19-1107-co329.md) |
+| 附則（平成二〇年七月一六日政令第二二八号） | [suppl/h20-0716-co228.md](suppl/h20-0716-co228.md) |
+| 附則（平成二四年三月三一日政令第九七号） | [suppl/h24-0331-co97.md](suppl/h24-0331-co97.md) |
+| 附則（平成二四年五月二五日政令第一五一号） | [suppl/h24-0525-co151.md](suppl/h24-0525-co151.md) |
+| 附則（平成二八年三月三一日政令第一〇三号） | [suppl/h28-0331-co103.md](suppl/h28-0331-co103.md) |
+| 附則（平成二九年八月一八日政令第二二八号） | [suppl/h29-0818-co228.md](suppl/h29-0818-co228.md) |
