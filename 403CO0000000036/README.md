@@ -1,0 +1,20 @@
+# 石油臨時特別税に関する政令
+
+平成三年政令第三十六号 · <https://laws.e-gov.go.jp/law/403CO0000000036>
+
+2026-11-03 現在の本文（2001-01-06 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2001-01-06: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成三年四月二三日政令第一四五号） | [suppl/h3-0423-co145.md](suppl/h3-0423-co145.md) |
+| 附則（平成三年六月一四日政令第二〇八号） | [suppl/h3-0614-co208.md](suppl/h3-0614-co208.md) |
+| 附則（平成一二年六月七日政令第三〇七号） | [suppl/h12-0607-co307.md](suppl/h12-0607-co307.md) |
