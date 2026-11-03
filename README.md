@@ -1,13 +1,13 @@
 # Japanese law, change by change
 
-5008 Japanese laws and regulations in force as a git repository (2311 Cabinet Orders (政令), 2101 Acts (法律), 529 Ministerial Ordinances (府省令), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)). Each amending law is one commit for each
+5508 Japanese laws and regulations in force as a git repository (2311 Cabinet Orders (政令), 2101 Acts (法律), 1029 Ministerial Ordinances (府省令), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)). Each amending law is one commit for each
 day it took effect, credited to that law and dated that day (施行日), at noon in Tokyo. The text is the consolidated text
 published by the Digital Agency (デジタル庁) in [e-Gov 法令検索](https://laws.e-gov.go.jp): its XML bulk download
 (XML一括ダウンロード) for the text in force and not yet in force, and its Law API (Version 2) for each law's list of
 revisions and the text of each earlier revision.
 
 **Two kinds of law here.** 8 laws have their revision history: every revision e-Gov holds, one commit per
-amending law and day. The other 5000 have, for now, one version only: the text in force on 2026-11-03, dated the day
+amending law and day. The other 5500 have, for now, one version only: the text in force on 2026-11-03, dated the day
 its latest revision took effect, committed by the publisher and labelled `Label: oldest version available` (and
 `Kind: baseline`). Their earlier revisions will be added behind them, as new commits on top, without rewriting
 anything. [`data/laws.json`](data/laws.json) lists every law with its folder and how many versions it has.
@@ -126,8 +126,8 @@ a history by Lexifina (加工: Lexifina). The history, commit messages, tables a
 
 ## 日本語
 
-e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 5008 件。うち改正履歴つき 8 件、
-現行の本文のみ 5000 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
+e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 5508 件。うち改正履歴つき 8 件、
+現行の本文のみ 5500 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
 XML一括ダウンロード、改正履歴の一覧と過去の改正履歴の本文は法令API（Version 2）から取得した。六法、よく引用される法律、
 その他の法律、政令、府省令の順に追加している。
 
