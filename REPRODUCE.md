@@ -25,9 +25,9 @@ compatible with CC BY 4.0. See [LICENSE](LICENSE).
 
 ## What is in it
 
-8982 laws (4094 Ministerial Ordinances (府省令), 2311 Cabinet Orders (政令), 2101 Acts (法律), 409 Rules (規則), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)): 9134 revisions in force and
-21 not yet in force (on `mishiko`); 8981 laws begin with a labelled
-baseline; 57 amending laws take effect in stages in at least one of them. [`data/laws.json`](data/laws.json)
+8982 laws (4094 Ministerial Ordinances (府省令), 2311 Cabinet Orders (政令), 2101 Acts (法律), 409 Rules (規則), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)): 12597 revisions in force and
+252 not yet in force (on `mishiko`); 8973 laws begin with a labelled
+baseline; 1313 amending laws take effect in stages in at least one of them. [`data/laws.json`](data/laws.json)
 lists each law with its folder, and [`laws.csv`](laws.csv) each amending law with its dates.
 
 ## How the history was made
@@ -41,6 +41,11 @@ lists each law with its folder, and [`laws.csv`](laws.csv) each amending law wit
    - for a law already held, the revisions that have come into force since, as changes from the newest one held, after
      checking that the one held still reads back exactly as e-Gov has it (a difference would be a correction, made
      only in a labelled commit decided by hand);
+   - for a law first published as its current text alone, its earlier revisions, as labelled correction commits after
+     it (see the README): one per version in force at the end of its day, oldest first, each holding that version's
+     whole text and naming its days (`Corrects:`), then one that sets the folder back to the text in force now. The
+     current text published before must first read back exactly as e-Gov's current revision; a law where it does not
+     is held. A revision e-Gov replaced on its own day was never in force at the end of a day and gets no commit;
    - a documentation commit (this file, the tables, `data/`).
    Then `mishiko` gets a merge of the new `main` (the folders of laws that already have changes on `mishiko` keep its
    text, which already holds every change `main` has since received), and each new law's revisions not yet in force.
@@ -71,6 +76,7 @@ lists each law with its folder, and [`laws.csv`](laws.csv) each amending law wit
 | 2026-11-03 | `45c7156e1824` | 500 | 500 | - | 0 |
 | 2026-11-03 | `68af551f1603` | 500 | 500 | - | 0 |
 | 2026-11-03 | `acb8292f7fd2` | 474 | 474 | - | 0 |
+| 2026-11-03 | `a9244402cd5d` | 3357 | 0 | 299 laws given their earlier versions (3357 correction commits) | 231 |
 
 The text of each revision is turned into files exactly as in the first build: one file per article, `suppl/` for the
 supplementary provisions, `appdx/` for the appended tables, ruby readings left out, nothing else changed in a line.
@@ -83,17 +89,17 @@ Each commit's message has the amending law's title and number, the provisions it
 1. **Against the official text.** Every revision of every law the append added, and the revisions now in force of the
    laws it extended, read back from git on the day they took effect (the way `tools/jiten.py` reads them), compared
    file by file with the text parsed from e-Gov's XML, and word for word with every text node of the XML read without
-   the parser. Revisions not yet in force are read from `mishiko`. Result: 510 revisions of 476 laws checked (24799 files), 0 mismatches; 510 revisions word for word (1070845 words), 0 mismatches; 0 history problems.
+   the parser. Revisions not yet in force are read from `mishiko`. Result: 3625 revisions of 302 laws checked (956023 files), 0 mismatches; 3625 revisions word for word (75889760 words), 0 mismatches; 0 history problems.
 2. **Published history unchanged.** The previous `main` and `mishiko` are ancestors of the new ones; every tag that
    existed points where it did; the folders of laws not extended are unchanged.
 3. **`tools/test_repo.py`** (7 of 7 passed):
    - pass: blame names a law: kojin-joho/art-002.md lines by e-Gov 法令検索 (デジタル庁), 令和三年法律第三十七号 (Act No. 37 of 2021), 令和二年法律第四十四号 (Act No. 44 of 2020), 令和八年法律第六十二号 (Act No. 62 of 2026), 平成二十七年法律第六十五号 (Act No. 65 of 2015)
    - pass: text before and after an amendment: kojin-joho/art-001.md 2022-03-31 != 2022-04-01; kojin-joho/art-132.md 2025-03-31 != 2025-04-01; kenpo 第九条 on 2000-01-01; APPI before 2017-03-01 refused
    - pass: log --follow in date order: kojin-joho/art-002.md 6 commits; kojin-joho/art-027.md 4 commits; kojin-joho/appdx/table-1.md 6 commits
-   - pass: tags resolve, In-force on every commit, trailers parse: 9172 tags resolve; 9176 commits carry In-force; the trailer blocks of 497 commits parse; no CR in any commit object
-   - pass: only documentation commits are by Lexifina: 20 documentation commits by Lexifina, the last one on top; 8981 labelled baselines; 53 authors
-   - pass: README commands run: 18 README commands ran and printed output
-   - pass: future branch: 21 commits not yet in force, all after 2026-11-03; 1 since in force, and on main too; main has none after that day
+   - pass: tags resolve, In-force on every commit, trailers parse: 9387 tags resolve; 12765 commits carry In-force; the trailer blocks of 3611 commits parse; no CR in any commit object
+   - pass: only documentation commits are by Lexifina: 21 documentation commits by Lexifina, the last one on top; 9571 labelled baselines; 462 authors
+   - pass: README commands run: 19 README commands ran and printed output
+   - pass: future branch: 252 commits not yet in force, all after 2026-11-03; 1 since in force, and on main too; main has none after that day
 
 Software: Python 3.14.4, lxml 6.1.3, git version 2.53.0.
 
@@ -106,12 +112,16 @@ Software: Python 3.14.4, lxml 6.1.3, git version 2.53.0.
 3. **The baseline is the publisher's.** See the README.
 4. **Supplementary provisions are text of the law.** Each is one file, added by the law it belongs to.
 5. **Ruby readings and the extract flag are left out**, as in the first build.
-6. **Breadth first.** Every law not yet given its history is published as its current text alone, one version labelled
+6. **Earlier versions as corrections.** The published history only grows, so the earlier revisions of a law published
+   first as its current text cannot go before it: they are appended after it as correction commits in the shared
+   git-for-law format (`Kind: correction`, `In-force:`, `Corrects:`, `Supersedes:`, `Reason:`, `Act-path:`, `Files:`),
+   which readers apply by day. No tag is added for a correction.
+7. **Breadth first.** Every law not yet given its history is published as its current text alone, one version labelled
    `oldest version available`, so the whole statute book is here before the histories are; the histories follow as
    new commits on top. A current text the reader cannot split into provisions is published as a single-file act
    (`text.md`, `Layout: single file`), its words still checked against the XML. A law whose history the parser
    cannot read exactly is held, not approximated, and listed for later work.
-7. **Japanese only**, the official language.
+8. **Japanese only**, the official language.
 
 ## What an AI model did
 
