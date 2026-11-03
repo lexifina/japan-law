@@ -25,9 +25,9 @@ compatible with CC BY 4.0. See [LICENSE](LICENSE).
 
 ## What is in it
 
-8982 laws (4094 Ministerial Ordinances (府省令), 2311 Cabinet Orders (政令), 2101 Acts (法律), 409 Rules (規則), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)): 15305 revisions in force and
-445 not yet in force (on `mishiko`); 8970 laws begin with a labelled
-baseline; 2271 amending laws take effect in stages in at least one of them. [`data/laws.json`](data/laws.json)
+8982 laws (4094 Ministerial Ordinances (府省令), 2311 Cabinet Orders (政令), 2101 Acts (法律), 409 Rules (規則), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)): 17497 revisions in force and
+572 not yet in force (on `mishiko`); 8968 laws begin with a labelled
+baseline; 3056 amending laws take effect in stages in at least one of them. [`data/laws.json`](data/laws.json)
 lists each law with its folder, and [`laws.csv`](laws.csv) each amending law with its dates.
 
 ## How the history was made
@@ -78,6 +78,7 @@ lists each law with its folder, and [`laws.csv`](laws.csv) each amending law wit
 | 2026-11-03 | `acb8292f7fd2` | 474 | 474 | - | 0 |
 | 2026-11-03 | `a9244402cd5d` | 3357 | 0 | 299 laws given their earlier versions (3357 correction commits) | 231 |
 | 2026-11-03 | `2a41972f04c3` | 2675 | 0 | 299 laws given their earlier versions (2675 correction commits) | 194 |
+| 2026-11-03 | `43b5135ae5b2` | 2352 | 0 | 300 laws given their earlier versions (2352 correction commits) | 128 |
 
 The text of each revision is turned into files exactly as in the first build: one file per article, `suppl/` for the
 supplementary provisions, `appdx/` for the appended tables, ruby readings left out, nothing else changed in a line.
@@ -90,17 +91,17 @@ Each commit's message has the amending law's title and number, the provisions it
 1. **Against the official text.** Every revision of every law the append added, and the revisions now in force of the
    laws it extended, read back from git on the day they took effect (the way `tools/jiten.py` reads them), compared
    file by file with the text parsed from e-Gov's XML, and word for word with every text node of the XML read without
-   the parser. Revisions not yet in force are read from `mishiko`. Result: 2906 revisions of 302 laws checked (619592 files), 0 mismatches; 2906 revisions word for word (73190495 words), 0 mismatches; 0 history problems.
+   the parser. Revisions not yet in force are read from `mishiko`. Result: 2516 revisions of 302 laws checked (282716 files), 0 mismatches; 2516 revisions word for word (15853002 words), 0 mismatches; 0 history problems.
 2. **Published history unchanged.** The previous `main` and `mishiko` are ancestors of the new ones; every tag that
    existed points where it did; the folders of laws not extended are unchanged.
 3. **`tools/test_repo.py`** (7 of 7 passed):
    - pass: blame names a law: kojin-joho/art-002.md lines by e-Gov 法令検索 (デジタル庁), 令和三年法律第三十七号 (Act No. 37 of 2021), 令和二年法律第四十四号 (Act No. 44 of 2020), 令和八年法律第六十二号 (Act No. 62 of 2026), 平成二十七年法律第六十五号 (Act No. 65 of 2015)
    - pass: text before and after an amendment: kojin-joho/art-001.md 2022-03-31 != 2022-04-01; kojin-joho/art-132.md 2025-03-31 != 2025-04-01; kenpo 第九条 on 2000-01-01; APPI before 2017-03-01 refused
    - pass: log --follow in date order: kojin-joho/art-002.md 6 commits; kojin-joho/art-027.md 4 commits; kojin-joho/appdx/table-1.md 6 commits
-   - pass: tags resolve, In-force on every commit, trailers parse: 9569 tags resolve; 15635 commits carry In-force; the trailer blocks of 3123 commits parse; no CR in any commit object
-   - pass: only documentation commits are by Lexifina: 22 documentation commits by Lexifina, the last one on top; 10166 labelled baselines; 600 authors
+   - pass: tags resolve, In-force on every commit, trailers parse: 9689 tags resolve; 18116 commits carry In-force; the trailer blocks of 2928 commits parse; no CR in any commit object
+   - pass: only documentation commits are by Lexifina: 23 documentation commits by Lexifina, the last one on top; 10764 labelled baselines; 701 authors
    - pass: README commands run: 19 README commands ran and printed output
-   - pass: future branch: 446 commits not yet in force, all after 2026-11-03; 1 since in force, and on main too; main has none after that day
+   - pass: future branch: 574 commits not yet in force, all after 2026-11-03; 1 since in force, and on main too; main has none after that day
 
 Software: Python 3.14.4, lxml 6.1.3, git version 2.53.0.
 
