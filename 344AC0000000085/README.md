@@ -1,0 +1,65 @@
+# 失業保険法及び労働者災害補償保険法の一部を改正する法律及び労働保険の保険料の徴収等に関する法律の施行に伴う関係法律の整備等に関する法律
+
+昭和四十四年法律第八十五号 · <https://laws.e-gov.go.jp/law/344AC0000000085>
+
+2026-11-03 現在の本文（2026-07-17 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-07-17: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第八条の二 | [art-008-2.md](art-008-2.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 第十七条 | [art-017.md](art-017.md) |
+| 第十八条 | [art-018.md](art-018.md) |
+| 第十八条の二 | [art-018-2.md](art-018-2.md) |
+| 第十八条の三 | [art-018-3.md](art-018-3.md) |
+| 第十九条 | [art-019.md](art-019.md) |
+| 第二十条 | [art-020.md](art-020.md) |
+| 第二十一条 | [art-021.md](art-021.md) |
+| 第二十二条 | [art-022.md](art-022.md) |
+| 第二十三条 | [art-023.md](art-023.md) |
+| 第二十四条 | [art-024.md](art-024.md) |
+| 第二十五条 | [art-025.md](art-025.md) |
+| 第二十六条 | [art-026.md](art-026.md) |
+| 第二十七条 | [art-027.md](art-027.md) |
+| 第二十八条 | [art-028.md](art-028.md) |
+| 第二十九条 | [art-029.md](art-029.md) |
+| 第三十条 | [art-030.md](art-030.md) |
+| 第三十四条 | [art-034.md](art-034.md) |
+| 第四十三条 | [art-043.md](art-043.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和四八年九月二一日法律第八五号） | [suppl/s48-85.md](suppl/s48-85.md) |
+| 附則（昭和四九年一二月二八日法律第一一七号） | [suppl/s49-117.md](suppl/s49-117.md) |
+| 附則（昭和五一年五月二七日法律第三二号） | [suppl/s51-32.md](suppl/s51-32.md) |
+| 附則（昭和五三年五月二三日法律第五四号） | [suppl/s53-54.md](suppl/s53-54.md) |
+| 附則（昭和五七年七月一六日法律第六六号） | [suppl/s57-66.md](suppl/s57-66.md) |
+| 附則（昭和五八年一二月一〇日法律第八三号） | [suppl/s58-83.md](suppl/s58-83.md) |
+| 附則（昭和五九年一二月二五日法律第八七号） | [suppl/s59-87.md](suppl/s59-87.md) |
+| 附則（昭和六一年一二月四日法律第九三号） | [suppl/s61-93.md](suppl/s61-93.md) |
+| 附則（平成四年三月三一日法律第八号） | [suppl/h4-8.md](suppl/h4-8.md) |
+| 附則（平成五年一一月一二日法律第八九号） | [suppl/h5-89.md](suppl/h5-89.md) |
+| 附則（平成一一年七月一六日法律第八七号） | [suppl/h11-87.md](suppl/h11-87.md) |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
+| 附則（平成一二年一一月二二日法律第一二四号） | [suppl/h12-124.md](suppl/h12-124.md) |
+| 附則（平成一九年七月六日法律第一一〇号） | [suppl/h19-110.md](suppl/h19-110.md) |
+| 附則（平成二一年五月一日法律第三六号） | [suppl/h21-36.md](suppl/h21-36.md) |
+| 附則（平成二二年三月三一日法律第一五号） | [suppl/h22-15.md](suppl/h22-15.md) |
+| 附則（平成二五年六月二六日法律第六三号） | [suppl/h25-63.md](suppl/h25-63.md) |
+| 附則（平成二六年六月一三日法律第六九号） | [suppl/h26-69.md](suppl/h26-69.md) |
+| 附則（令和二年三月三一日法律第一四号） | [suppl/r2-14.md](suppl/r2-14.md) |
+| 附則（令和四年六月一七日法律第六八号） | [suppl/r4-68.md](suppl/r4-68.md) |
+| 附則（令和八年七月一七日法律第六〇号） | [suppl/r8-60.md](suppl/r8-60.md) |
