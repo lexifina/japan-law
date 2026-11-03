@@ -1,0 +1,33 @@
+# 卸売市場法施行令
+
+昭和四十六年政令第二百二十一号 · <https://laws.e-gov.go.jp/law/346CO0000000221>
+
+2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和四八年四月一二日政令第七一号） | [suppl/s48-0412-co71.md](suppl/s48-0412-co71.md) |
+| 附則（昭和五三年七月五日政令第二八二号） | [suppl/s53-0705-co282.md](suppl/s53-0705-co282.md) |
+| 附則（昭和五五年三月三一日政令第四二号） | [suppl/s55-0331-co42.md](suppl/s55-0331-co42.md) |
+| 附則（平成七年六月一四日政令第二三八号） | [suppl/h7-0614-co238.md](suppl/h7-0614-co238.md) |
+| 附則（平成一一年七月二六日政令第二三三号） | [suppl/h11-0726-co233.md](suppl/h11-0726-co233.md) |
+| 附則（平成一一年一二月二二日政令第四一六号） | [suppl/h11-1222-co416.md](suppl/h11-1222-co416.md) |
+| 附則（平成一三年三月三〇日政令第一四一号） | [suppl/h13-0330-co141.md](suppl/h13-0330-co141.md) |
+| 附則（平成一四年二月八日政令第二七号） | [suppl/h14-0208-co27.md](suppl/h14-0208-co27.md) |
+| 附則（平成一六年六月九日政令第一九六号） | [suppl/h16-0609-co196.md](suppl/h16-0609-co196.md) |
+| 附則（平成一八年三月三一日政令第一三五号） | [suppl/h18-0331-co135.md](suppl/h18-0331-co135.md) |
+| 附則（平成二三年六月三〇日政令第一九九号） | [suppl/h23-0630-co199.md](suppl/h23-0630-co199.md) |
+| 附則（平成三〇年一〇月一七日政令第二九三号） | [suppl/h30-1017-co293.md](suppl/h30-1017-co293.md) |
+| 附則（令和元年六月二八日政令第四四号） | [suppl/r1-0628-co44.md](suppl/r1-0628-co44.md) |
+| 附則（令和元年七月一二日政令第五五号） | [suppl/r1-0712-co55.md](suppl/r1-0712-co55.md) |
+| 附則（令和六年一二月二七日政令第四〇一号） | [suppl/r6-1227-co401.md](suppl/r6-1227-co401.md) |
+| 附則（令和七年九月一八日政令第三二六号） | [suppl/r7-0918-co326.md](suppl/r7-0918-co326.md) |
+| 附則（令和七年一〇月一日政令第三三八号） | [suppl/r7-1001-co338.md](suppl/r7-1001-co338.md) |

@@ -25,8 +25,8 @@ compatible with CC BY 4.0. See [LICENSE](LICENSE).
 
 ## What is in it
 
-2508 laws (2101 Acts (法律), 406 Cabinet Orders (政令), 1 the Constitution (憲法)): 2660 revisions in force and
-21 not yet in force (on `mishiko`); 2507 laws begin with a labelled
+3008 laws (2101 Acts (法律), 906 Cabinet Orders (政令), 1 the Constitution (憲法)): 3160 revisions in force and
+21 not yet in force (on `mishiko`); 3007 laws begin with a labelled
 baseline; 57 amending laws take effect in stages in at least one of them. [`data/laws.json`](data/laws.json)
 lists each law with its folder, and [`laws.csv`](laws.csv) each amending law with its dates.
 
@@ -58,6 +58,7 @@ lists each law with its folder, and [`laws.csv`](laws.csv) each amending law wit
 | 2026-11-03 | `a8315924f803` | 500 | 500 | - | 0 |
 | 2026-11-03 | `87d60a193fe2` | 500 | 500 | - | 0 |
 | 2026-11-03 | `c077311d8bca` | 500 | 500 | - | 0 |
+| 2026-11-03 | `fe6dfc72b496` | 500 | 500 | - | 0 |
 
 The text of each revision is turned into files exactly as in the first build: one file per article, `suppl/` for the
 supplementary provisions, `appdx/` for the appended tables, ruby readings left out, nothing else changed in a line.
@@ -70,15 +71,15 @@ Each commit's message has the amending law's title and number, the provisions it
 1. **Against the official text.** Every revision of every law the append added, and the revisions now in force of the
    laws it extended, read back from git on the day they took effect (the way `tools/jiten.py` reads them), compared
    file by file with the text parsed from e-Gov's XML, and word for word with every text node of the XML read without
-   the parser. Revisions not yet in force are read from `mishiko`. Result: 536 revisions of 502 laws checked (35744 files), 0 mismatches; 536 revisions word for word (1736295 words), 0 mismatches; 0 history problems.
+   the parser. Revisions not yet in force are read from `mishiko`. Result: 536 revisions of 502 laws checked (30720 files), 0 mismatches; 536 revisions word for word (1485714 words), 0 mismatches; 0 history problems.
 2. **Published history unchanged.** The previous `main` and `mishiko` are ancestors of the new ones; every tag that
    existed points where it did; the folders of laws not extended are unchanged.
 3. **`tools/test_repo.py`** (7 of 7 passed):
    - pass: blame names a law: kojin-joho/art-002.md lines by e-Gov 法令検索 (デジタル庁), 令和三年法律第三十七号 (Act No. 37 of 2021), 令和二年法律第四十四号 (Act No. 44 of 2020), 令和八年法律第六十二号 (Act No. 62 of 2026), 平成二十七年法律第六十五号 (Act No. 65 of 2015)
    - pass: text before and after an amendment: kojin-joho/art-001.md 2022-03-31 != 2022-04-01; kojin-joho/art-132.md 2025-03-31 != 2025-04-01; kenpo 第九条 on 2000-01-01; APPI before 2017-03-01 refused
    - pass: log --follow in date order: kojin-joho/art-002.md 6 commits; kojin-joho/art-027.md 4 commits; kojin-joho/appdx/table-1.md 6 commits
-   - pass: tags resolve, In-force on every commit, trailers parse: 2698 tags resolve; 2689 commits carry In-force; the trailer blocks of 523 commits parse; no CR in any commit object
-   - pass: only documentation commits are by Lexifina: 7 documentation commits by Lexifina, the last one on top; 2507 labelled baselines; 53 authors
+   - pass: tags resolve, In-force on every commit, trailers parse: 3198 tags resolve; 3190 commits carry In-force; the trailer blocks of 523 commits parse; no CR in any commit object
+   - pass: only documentation commits are by Lexifina: 8 documentation commits by Lexifina, the last one on top; 3007 labelled baselines; 53 authors
    - pass: README commands run: 18 README commands ran and printed output
    - pass: future branch: 21 commits not yet in force, all after 2026-11-03; 1 since in force, and on main too; main has none after that day
 
