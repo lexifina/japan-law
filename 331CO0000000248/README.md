@@ -1,0 +1,80 @@
+# 労働保険審査官及び労働保険審査会法施行令
+
+昭和三十一年政令第二百四十八号 · <https://laws.e-gov.go.jp/law/331CO0000000248>
+
+2026-11-03 現在の本文（2026-05-21 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-05-21: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 目次 | [toc.md](toc.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十四条の二 | [art-014-2.md](art-014-2.md) |
+| 第十四条の三 | [art-014-3.md](art-014-3.md) |
+| 第十四条の四 | [art-014-4.md](art-014-4.md) |
+| 第十四条の五 | [art-014-5.md](art-014-5.md) |
+| 第十四条の六 | [art-014-6.md](art-014-6.md) |
+| 第十四条の七 | [art-014-7.md](art-014-7.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十五条の二 | [art-015-2.md](art-015-2.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 第十七条 | [art-017.md](art-017.md) |
+| 第十七条の二 | [art-017-2.md](art-017-2.md) |
+| 第十八条 | [art-018.md](art-018.md) |
+| 第十九条 | [art-019.md](art-019.md) |
+| 第二十条 | [art-020.md](art-020.md) |
+| 第二十一条 | [art-021.md](art-021.md) |
+| 第二十二条 | [art-022.md](art-022.md) |
+| 第二十二条の二 | [art-022-2.md](art-022-2.md) |
+| 第二十三条 | [art-023.md](art-023.md) |
+| 第二十四条 | [art-024.md](art-024.md) |
+| 第二十五条 | [art-025.md](art-025.md) |
+| 第二十六条 | [art-026.md](art-026.md) |
+| 第二十七条 | [art-027.md](art-027.md) |
+| 第二十八条 | [art-028.md](art-028.md) |
+| 第二十九条 | [art-029.md](art-029.md) |
+| 第三十条 | [art-030.md](art-030.md) |
+| 第三十一条 | [art-031.md](art-031.md) |
+| 第三十二条 | [art-032.md](art-032.md) |
+| 第三十三条 | [art-033.md](art-033.md) |
+| 第三十四条 | [art-034.md](art-034.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和三五年六月一日政令第一三八号） | [suppl/s35-0601-co138.md](suppl/s35-0601-co138.md) |
+| 附則（昭和三七年九月二九日政令第三九一号） | [suppl/s37-0929-co391.md](suppl/s37-0929-co391.md) |
+| 附則（昭和三八年三月三〇日政令第七〇号） | [suppl/s38-0330-co70.md](suppl/s38-0330-co70.md) |
+| 附則（昭和三九年六月二五日政令第一九九号） | [suppl/s39-0625-co199.md](suppl/s39-0625-co199.md) |
+| 附則（昭和四二年六月三〇日政令第一六一号） | [suppl/s42-0630-co161.md](suppl/s42-0630-co161.md) |
+| 附則（昭和四七年三月三一日政令第四七号） | [suppl/s47-0331-co47.md](suppl/s47-0331-co47.md) |
+| 附則（昭和四七年五月一日政令第一五七号） | [suppl/s47-0501-co157.md](suppl/s47-0501-co157.md) |
+| 附則（昭和五〇年三月一〇日政令第二六号） | [suppl/s50-0310-co26.md](suppl/s50-0310-co26.md) |
+| 附則（昭和五六年五月二二日政令第一八〇号） | [suppl/s56-0522-co180.md](suppl/s56-0522-co180.md) |
+| 附則（昭和五九年六月二二日政令第二一二号） | [suppl/s59-0622-co212.md](suppl/s59-0622-co212.md) |
+| 附則（昭和六〇年一二月二一日政令第三一七号） | [suppl/s60-1221-co317.md](suppl/s60-1221-co317.md) |
+| 附則（平成六年七月二七日政令第二五一号） | [suppl/h6-0727-co251.md](suppl/h6-0727-co251.md) |
+| 附則（平成八年六月二六日政令第一九一号） | [suppl/h8-0626-co191.md](suppl/h8-0626-co191.md) |
+| 附則（平成九年一一月一九日政令第三三三号） | [suppl/h9-1119-co333.md](suppl/h9-1119-co333.md) |
+| 附則（平成一一年一二月三日政令第三九〇号） | [suppl/h11-1203-co390.md](suppl/h11-1203-co390.md) |
+| 附則（平成一二年六月七日政令第三〇九号） | [suppl/h12-0607-co309.md](suppl/h12-0607-co309.md) |
+| 附則（平成一三年一月四日政令第一号） | [suppl/h13-0104-co1.md](suppl/h13-0104-co1.md) |
+| 附則（平成一八年二月一日政令第一四号） | [suppl/h18-0201-co14.md](suppl/h18-0201-co14.md) |
+| 附則（平成二七年一一月二六日政令第三九二号） | [suppl/h27-1126-co392.md](suppl/h27-1126-co392.md) |
+| 附則（令和元年一二月一三日政令第一八三号） | [suppl/r1-1213-co183.md](suppl/r1-1213-co183.md) |
+| 附則（令和二年一二月二三日政令第三六七号） | [suppl/r2-1223-co367.md](suppl/r2-1223-co367.md) |
+| 附則（令和六年一二月一一日政令第三六七号） | [suppl/r6-1211-co367.md](suppl/r6-1211-co367.md) |
+| 附則（令和八年一月二八日政令第九号） | [suppl/r8-0128-co9.md](suppl/r8-0128-co9.md) |

@@ -1,0 +1,51 @@
+# 肥料の品質の確保等に関する法律施行令
+
+昭和二十五年政令第百九十八号 · <https://laws.e-gov.go.jp/law/325CO0000000198>
+
+2026-11-03 現在の本文（2021-12-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2021-12-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和二九年五月一八日政令第一〇四号） | [suppl/s29-0518-co104.md](suppl/s29-0518-co104.md) |
+| 附則（昭和三一年一〇月一日政令第三〇八号） | [suppl/s31-1001-co308.md](suppl/s31-1001-co308.md) |
+| 附則（昭和三五年一一月一四日政令第二八六号） | [suppl/s35-1114-co286.md](suppl/s35-1114-co286.md) |
+| 附則（昭和三六年一〇月三〇日政令第三三二号） | [suppl/s36-1030-co332.md](suppl/s36-1030-co332.md) |
+| 附則（昭和三七年一二月二五日政令第四五七号） | [suppl/s37-1225-co457.md](suppl/s37-1225-co457.md) |
+| 附則（昭和三八年一一月三〇日政令第三七一号） | [suppl/s38-1130-co371.md](suppl/s38-1130-co371.md) |
+| 附則（昭和三九年一一月一七日政令第三五一号） | [suppl/s39-1117-co351.md](suppl/s39-1117-co351.md) |
+| 附則（昭和四〇年一一月一日政令第三四五号） | [suppl/s40-1101-co345.md](suppl/s40-1101-co345.md) |
+| 附則（昭和四七年一一月一日政令第三九三号） | [suppl/s47-1101-co393.md](suppl/s47-1101-co393.md) |
+| 附則（昭和五三年七月五日政令第二八二号） | [suppl/s53-0705-co282.md](suppl/s53-0705-co282.md) |
+| 附則（昭和五三年一〇月一七日政令第三五三号） | [suppl/s53-1017-co353.md](suppl/s53-1017-co353.md) |
+| 附則（昭和五九年一月三一日政令第五号） | [suppl/s59-0131-co5.md](suppl/s59-0131-co5.md) |
+| 附則（昭和六二年三月二五日政令第六〇号） | [suppl/s62-0325-co60.md](suppl/s62-0325-co60.md) |
+| 附則（平成元年三月二二日政令第五八号） | [suppl/h1-0322-co58.md](suppl/h1-0322-co58.md) |
+| 附則（平成三年三月一九日政令第四〇号） | [suppl/h3-0319-co40.md](suppl/h3-0319-co40.md) |
+| 附則（平成六年三月二四日政令第七三号） | [suppl/h6-0324-co73.md](suppl/h6-0324-co73.md) |
+| 附則（平成九年三月二六日政令第七六号） | [suppl/h9-0326-co76.md](suppl/h9-0326-co76.md) |
+| 附則（平成一二年三月二四日政令第九六号） | [suppl/h12-0324-co96.md](suppl/h12-0324-co96.md) |
+| 附則（平成一二年六月七日政令第三一〇号） | [suppl/h12-0607-co310.md](suppl/h12-0607-co310.md) |
+| 附則（平成一二年八月四日政令第四〇四号） | [suppl/h12-0804-co404.md](suppl/h12-0804-co404.md) |
+| 附則（平成一五年六月二〇日政令第二六九号） | [suppl/h15-0620-co269.md](suppl/h15-0620-co269.md) |
+| 附則（平成一六年三月一七日政令第三七号） | [suppl/h16-0317-co37.md](suppl/h16-0317-co37.md) |
+| 附則（平成一八年三月二三日政令第五一号） | [suppl/h18-0323-co51.md](suppl/h18-0323-co51.md) |
+| 附則（平成二七年一一月二六日政令第三九二号） | [suppl/h27-1126-co392.md](suppl/h27-1126-co392.md) |
+| 附則（平成二八年三月二四日政令第七三号） | [suppl/h28-0324-co73.md](suppl/h28-0324-co73.md) |
+| 附則（令和元年一二月一三日政令第一八三号） | [suppl/r1-1213-co183.md](suppl/r1-1213-co183.md) |
+| 附則（令和二年八月五日政令第二三六号） | [suppl/r2-0805-co236.md](suppl/r2-0805-co236.md) |
+| 附則（令和二年一〇月一四日政令第三〇八号） | [suppl/r2-1014-co308.md](suppl/r2-1014-co308.md) |

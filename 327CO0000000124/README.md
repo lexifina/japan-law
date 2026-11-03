@@ -1,0 +1,35 @@
+# 日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律施行令
+
+昭和二十七年政令第百二十四号 · <https://laws.e-gov.go.jp/law/327CO0000000124>
+
+2026-11-03 現在の本文（2022-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2022-04-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第二条の二 | [art-002-2.md](art-002-2.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第三条の二 | [art-003-2.md](art-003-2.md) |
+| 第三条の三 | [art-003-3.md](art-003-3.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和三〇年七月三〇日政令第一五一号） | [suppl/s30-0730-co151.md](suppl/s30-0730-co151.md) |
+| 附則（昭和三四年四月九日政令第一一一号） | [suppl/s34-0409-co111.md](suppl/s34-0409-co111.md) |
+| 附則（昭和三五年六月二三日政令第一七四号） | [suppl/s35-0623-co174.md](suppl/s35-0623-co174.md) |
+| 附則（昭和三七年三月三一日政令第九九号） | [suppl/s37-0331-co99.md](suppl/s37-0331-co99.md) |
+| 附則（昭和四一年一月二四日政令第五号） | [suppl/s41-0124-co5.md](suppl/s41-0124-co5.md) |
+| 附則（昭和四一年三月三一日政令第八四号） | [suppl/s41-0331-co84.md](suppl/s41-0331-co84.md) |
+| 附則（昭和五三年四月一八日政令第一三二号） | [suppl/s53-0418-co132.md](suppl/s53-0418-co132.md) |
+| 附則（昭和五九年四月一三日政令第一〇三号） | [suppl/s59-0413-co103.md](suppl/s59-0413-co103.md) |
+| 附則（昭和六三年一二月三〇日政令第三六一号） | [suppl/s63-1230-co361.md](suppl/s63-1230-co361.md) |
+| 附則（平成一五年三月三一日政令第一三七号） | [suppl/h15-0331-co137.md](suppl/h15-0331-co137.md) |
+| 附則（平成二一年三月三一日政令第一〇七号） | [suppl/h21-0331-co107.md](suppl/h21-0331-co107.md) |
+| 附則（平成三〇年四月一八日政令第一六一号） | [suppl/h30-0418-co161.md](suppl/h30-0418-co161.md) |
+| 附則（令和二年三月三一日政令第一一四号） | [suppl/r2-0331-co114.md](suppl/r2-0331-co114.md) |
+| 附則（令和二年六月二六日政令第二〇七号） | [suppl/r2-0626-co207.md](suppl/r2-0626-co207.md) |
+| 附則（令和三年三月三一日政令第一二一号） | [suppl/r3-0331-co121.md](suppl/r3-0331-co121.md) |
