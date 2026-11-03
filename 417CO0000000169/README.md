@@ -1,0 +1,42 @@
+# 特定外来生物による生態系等に係る被害の防止に関する法律施行令
+
+平成十七年政令第百六十九号 · <https://laws.e-gov.go.jp/law/417CO0000000169>
+
+2026-11-03 現在の本文（2026-09-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-09-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成一七年一二月一四日政令第三六二号） | [suppl/h17-1214-co362.md](suppl/h17-1214-co362.md) |
+| 附則（平成一八年七月二一日政令第二四〇号） | [suppl/h18-0721-co240.md](suppl/h18-0721-co240.md) |
+| 附則（平成一九年八月三日政令第二四六号） | [suppl/h19-0803-co246.md](suppl/h19-0803-co246.md) |
+| 附則（平成一九年一一月一六日政令第三三八号） | [suppl/h19-1116-co338.md](suppl/h19-1116-co338.md) |
+| 附則（平成二一年一二月一一日政令第二八七号） | [suppl/h21-1211-co287.md](suppl/h21-1211-co287.md) |
+| 附則（平成二三年五月一八日政令第一四二号） | [suppl/h23-0518-co142.md](suppl/h23-0518-co142.md) |
+| 附則（平成二五年七月五日政令第二一五号） | [suppl/h25-0705-co215.md](suppl/h25-0705-co215.md) |
+| 附則（平成二六年五月三〇日政令第二〇一号） | [suppl/h26-0530-co201.md](suppl/h26-0530-co201.md) |
+| 附則（平成二七年一月一五日政令第八号） | [suppl/h27-0115-co8.md](suppl/h27-0115-co8.md) |
+| 附則（平成二七年八月二六日政令第二九八号） | [suppl/h27-0826-co298.md](suppl/h27-0826-co298.md) |
+| 附則（平成二八年八月一八日政令第二八三号） | [suppl/h28-0818-co283.md](suppl/h28-0818-co283.md) |
+| 附則（平成二九年九月一日政令第二三二号） | [suppl/h29-0901-co232.md](suppl/h29-0901-co232.md) |
+| 附則（平成二九年一一月二七日政令第二八八号） | [suppl/h29-1127-co288.md](suppl/h29-1127-co288.md) |
+| 附則（令和二年九月一六日政令第二八一号） | [suppl/r2-0916-co281.md](suppl/r2-0916-co281.md) |
+| 附則（令和四年一一月二八日政令第三六〇号） | [suppl/r4-1128-co360.md](suppl/r4-1128-co360.md) |
+| 附則（令和五年一月二五日政令第一六号） | [suppl/r5-0125-co16.md](suppl/r5-0125-co16.md) |
+| 附則（令和五年八月二日政令第二五三号） | [suppl/r5-0802-co253.md](suppl/r5-0802-co253.md) |
+| 附則（令和六年五月三一日政令第二〇一号） | [suppl/r6-0531-co201.md](suppl/r6-0531-co201.md) |
+| 附則（令和八年八月五日政令第二四八号） | [suppl/r8-0805-co248.md](suppl/r8-0805-co248.md) |
+| 別表第一 | [appdx/table-1.md](appdx/table-1.md) |
+| 別表第二 | [appdx/table-2.md](appdx/table-2.md) |
+| 別表第三 | [appdx/table-3.md](appdx/table-3.md) |
+| 別表第四 | [appdx/table-4.md](appdx/table-4.md) |
+| 別表第五 | [appdx/table-5.md](appdx/table-5.md) |

@@ -1,0 +1,82 @@
+# 医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令
+
+平成十七年政令第九十一号 · <https://laws.e-gov.go.jp/law/417CO0000000091>
+
+2026-11-03 現在の本文（2026-05-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-05-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 目次 | [toc.md](toc.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第三条の二 | [art-003-2.md](art-003-2.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第六条の二 | [art-006-2.md](art-006-2.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第七条の二 | [art-007-2.md](art-007-2.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第八条の二 | [art-008-2.md](art-008-2.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第九条の二 | [art-009-2.md](art-009-2.md) |
+| 第九条の三 | [art-009-3.md](art-009-3.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十三条の二 | [art-013-2.md](art-013-2.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十四条の二 | [art-014-2.md](art-014-2.md) |
+| 第十四条の三 | [art-014-3.md](art-014-3.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 第十七条 | [art-017.md](art-017.md) |
+| 第十八条 | [art-018.md](art-018.md) |
+| 第十九条 | [art-019.md](art-019.md) |
+| 第二十条 | [art-020.md](art-020.md) |
+| 第二十一条 | [art-021.md](art-021.md) |
+| 第二十二条 | [art-022.md](art-022.md) |
+| 第二十三条 | [art-023.md](art-023.md) |
+| 第二十四条 | [art-024.md](art-024.md) |
+| 第二十四条の二 | [art-024-2.md](art-024-2.md) |
+| 第二十四条の三 | [art-024-3.md](art-024-3.md) |
+| 第二十五条 | [art-025.md](art-025.md) |
+| 第二十六条 | [art-026.md](art-026.md) |
+| 第二十七条 | [art-027.md](art-027.md) |
+| 第二十八条 | [art-028.md](art-028.md) |
+| 第二十九条 | [art-029.md](art-029.md) |
+| 第三十条 | [art-030.md](art-030.md) |
+| 第三十一条 | [art-031.md](art-031.md) |
+| 第三十二条 | [art-032.md](art-032.md) |
+| 第三十二条の二 | [art-032-2.md](art-032-2.md) |
+| 第三十二条の三 | [art-032-3.md](art-032-3.md) |
+| 第三十三条 | [art-033.md](art-033.md) |
+| 第三十四条 | [art-034.md](art-034.md) |
+| 第三十四条の二 | [art-034-2.md](art-034-2.md) |
+| 第三十五条 | [art-035.md](art-035.md) |
+| 第三十六条 | [art-036.md](art-036.md) |
+| 第三十七条 | [art-037.md](art-037.md) |
+| 第三十八条 | [art-038.md](art-038.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成一八年二月一日政令第一四号） | [suppl/h18-0201-co14.md](suppl/h18-0201-co14.md) |
+| 附則（平成一八年三月三一日政令第一二八号） | [suppl/h18-0331-co128.md](suppl/h18-0331-co128.md) |
+| 附則（平成一九年三月三〇日政令第九九号） | [suppl/h19-0330-co99.md](suppl/h19-0330-co99.md) |
+| 附則（平成二〇年三月一九日政令第五二号） | [suppl/h20-0319-co52.md](suppl/h20-0319-co52.md) |
+| 附則（平成二一年三月二七日政令第六一号） | [suppl/h21-0327-co61.md](suppl/h21-0327-co61.md) |
+| 附則（平成二六年三月三一日政令第一二六号） | [suppl/h26-0331-co126.md](suppl/h26-0331-co126.md) |
+| 附則（平成二六年七月三〇日政令第二六九号） | [suppl/h26-0730-co269.md](suppl/h26-0730-co269.md) |
+| 附則（平成二九年三月二九日政令第六二号） | [suppl/h29-0329-co62.md](suppl/h29-0329-co62.md) |
+| 附則（平成三〇年一月三一日政令第二四号） | [suppl/h30-0131-co24.md](suppl/h30-0131-co24.md) |
+| 附則（平成三〇年一〇月一七日政令第二九五号） | [suppl/h30-1017-co295.md](suppl/h30-1017-co295.md) |
+| 附則（平成三一年三月二〇日政令第四九号） | [suppl/h31-0320-co49.md](suppl/h31-0320-co49.md) |
+| 附則（令和二年七月二八日政令第二二八号） | [suppl/r2-0728-co228.md](suppl/r2-0728-co228.md) |
+| 附則（令和三年一月五日政令第一号） | [suppl/r3-0105-co1.md](suppl/r3-0105-co1.md) |
+| 附則（令和四年一月一三日政令第一九号） | [suppl/r4-0113-co19.md](suppl/r4-0113-co19.md) |
+| 附則（令和四年五月二〇日政令第一九六号） | [suppl/r4-0520-co196.md](suppl/r4-0520-co196.md) |
+| 附則（令和七年一〇月三一日政令第三六二号） | [suppl/r7-1031-co362.md](suppl/r7-1031-co362.md) |

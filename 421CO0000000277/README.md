@@ -1,0 +1,49 @@
+# 新型インフルエンザ予防接種による健康被害の救済に関する特別措置法施行令
+
+平成二十一年政令第二百七十七号 · <https://laws.e-gov.go.jp/law/421CO0000000277>
+
+2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成二二年四月一日政令第一〇七号） | [suppl/h22-0401-co107.md](suppl/h22-0401-co107.md) |
+| 附則（平成二三年三月三一日政令第六九号） | [suppl/h23-0331-co69.md](suppl/h23-0331-co69.md) |
+| 附則（平成二三年七月二二日政令第二二六号） | [suppl/h23-0722-co226.md](suppl/h23-0722-co226.md) |
+| 附則（平成二三年九月三〇日政令第三〇五号） | [suppl/h23-0930-co305.md](suppl/h23-0930-co305.md) |
+| 附則（平成二四年二月三日政令第二六号） | [suppl/h24-0203-co26.md](suppl/h24-0203-co26.md) |
+| 附則（平成二四年三月三〇日政令第九二号） | [suppl/h24-0330-co92.md](suppl/h24-0330-co92.md) |
+| 附則（平成二五年九月二六日政令第二九一号） | [suppl/h25-0926-co291.md](suppl/h25-0926-co291.md) |
+| 附則（平成二六年三月三一日政令第一一七号） | [suppl/h26-0331-co117.md](suppl/h26-0331-co117.md) |
+| 附則（平成二七年四月一〇日政令第二〇九号） | [suppl/h27-0410-co209.md](suppl/h27-0410-co209.md) |
+| 附則（平成二八年三月三一日政令第一七三号） | [suppl/h28-0331-co173.md](suppl/h28-0331-co173.md) |
+| 附則（平成二九年三月三一日政令第九三号） | [suppl/h29-0331-co93.md](suppl/h29-0331-co93.md) |
+| 附則（平成三〇年三月三〇日政令第一〇七号） | [suppl/h30-0330-co107.md](suppl/h30-0330-co107.md) |
+| 附則（平成三一年三月二九日政令第一一五号） | [suppl/h31-0329-co115.md](suppl/h31-0329-co115.md) |
+| 附則（令和元年九月二七日政令第一一六号） | [suppl/r1-0927-co116.md](suppl/r1-0927-co116.md) |
+| 附則（令和二年三月三〇日政令第九四号） | [suppl/r2-0330-co94.md](suppl/r2-0330-co94.md) |
+| 附則（令和三年三月三一日政令第九二号） | [suppl/r3-0331-co92.md](suppl/r3-0331-co92.md) |
+| 附則（令和四年三月二五日政令第一〇七号） | [suppl/r4-0325-co107.md](suppl/r4-0325-co107.md) |
+| 附則（令和五年三月三〇日政令第一一一号） | [suppl/r5-0330-co111.md](suppl/r5-0330-co111.md) |
+| 附則（令和六年三月二九日政令第一一七号） | [suppl/r6-0329-co117.md](suppl/r6-0329-co117.md) |
+| 附則（令和七年三月二六日政令第八一号） | [suppl/r7-0326-co81.md](suppl/r7-0326-co81.md) |
+| 附則（令和八年三月二七日政令第七二号） | [suppl/r8-0327-co72.md](suppl/r8-0327-co72.md) |
+| 別表 | [appdx/table.md](appdx/table.md) |
