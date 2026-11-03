@@ -1,0 +1,54 @@
+# 判事補及び検事の弁護士職務経験に関する法律
+
+平成十六年法律第百二十一号 · <https://laws.e-gov.go.jp/law/416AC0000000121>
+
+2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成一六年一〇月二八日法律第一三六号） | [suppl/h16-136.md](suppl/h16-136.md) |
+| 附則（平成一七年一〇月二一日法律第一〇二号） | [suppl/h17-102.md](suppl/h17-102.md) |
+| 附則（平成一七年一一月七日法律第一一三号） | [suppl/h17-113.md](suppl/h17-113.md) |
+| 附則（平成一七年一一月七日法律第一一五号） | [suppl/h17-115.md](suppl/h17-115.md) |
+| 附則（平成一七年一一月七日法律第一一六号） | [suppl/h17-116.md](suppl/h17-116.md) |
+| 附則（平成一七年一一月七日法律第一一八号） | [suppl/h17-118.md](suppl/h17-118.md) |
+| 附則（平成一八年三月三一日法律第一二号） | [suppl/h18-12.md](suppl/h18-12.md) |
+| 附則（平成一八年一一月一七日法律第一〇一号） | [suppl/h18-101.md](suppl/h18-101.md) |
+| 附則（平成一九年七月六日法律第一〇八号） | [suppl/h19-108.md](suppl/h19-108.md) |
+| 附則（平成一九年七月六日法律第一一〇号） | [suppl/h19-110.md](suppl/h19-110.md) |
+| 附則（平成二一年三月三〇日法律第五号） | [suppl/h21-5.md](suppl/h21-5.md) |
+| 附則（平成二二年三月三一日法律第一九号） | [suppl/h22-19.md](suppl/h22-19.md) |
+| 附則（平成二三年三月三一日法律第一四号） | [suppl/h23-14.md](suppl/h23-14.md) |
+| 附則（平成二三年八月三〇日法律第一〇七号） | [suppl/h23-107.md](suppl/h23-107.md) |
+| 附則（平成二四年三月三一日法律第二四号） | [suppl/h24-24.md](suppl/h24-24.md) |
+| 附則（平成二四年六月二七日法律第四二号） | [suppl/h24-42.md](suppl/h24-42.md) |
+| 附則（平成二四年八月二二日法律第六三号） | [suppl/h24-63.md](suppl/h24-63.md) |
+| 附則（平成二四年八月二二日法律第六七号） | [suppl/h24-67.md](suppl/h24-67.md) |
+| 附則（平成二四年一一月二六日法律第九六号） | [suppl/h24-96.md](suppl/h24-96.md) |
+| 附則（平成二五年五月三一日法律第二八号） | [suppl/h25-28.md](suppl/h25-28.md) |
+| 附則（平成二五年六月二六日法律第六三号） | [suppl/h25-63.md](suppl/h25-63.md) |
+| 附則（平成二六年四月一八日法律第二二号） | [suppl/h26-22.md](suppl/h26-22.md) |
+| 附則（平成二六年六月一三日法律第六七号） | [suppl/h26-67.md](suppl/h26-67.md) |
+| 附則（平成二七年六月三日法律第三三号） | [suppl/h27-33.md](suppl/h27-33.md) |
+| 附則（平成二七年六月三日法律第三四号） | [suppl/h27-34.md](suppl/h27-34.md) |
+| 附則（令和二年五月二九日法律第三三号） | [suppl/r2-33.md](suppl/r2-33.md) |
+| 附則（令和六年六月一二日法律第四七号） | [suppl/r6-47.md](suppl/r6-47.md) |
+| 附則（令和七年一二月二四日法律第八九号） | [suppl/r7-89.md](suppl/r7-89.md) |
