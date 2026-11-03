@@ -2,25 +2,25 @@
 
 昭和三十七年法律第百四十三号 · <https://laws.e-gov.go.jp/law/337AC1000000143>
 
-2026-11-03 現在の本文（2020-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2010-04-01 施行から）。2026-11-03 現在の本文は 2020-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2020-04-01: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2010-04-01; the text in force on 2026-11-03 is the revision of 2020-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和四五年五月一四日法律第五三号） | [suppl/s45-53.md](suppl/s45-53.md) |
-| 附則（昭和四九年六月二五日法律第九二号） | [suppl/s49-92.md](suppl/s49-92.md) |
-| 附則（昭和五五年三月三一日法律第一八号） | [suppl/s55-18.md](suppl/s55-18.md) |
-| 附則（平成元年一二月二二日法律第八四号） | [suppl/h1-84.md](suppl/h1-84.md) |
-| 附則（平成二年三月三一日法律第一〇号） | [suppl/h2-10.md](suppl/h2-10.md) |
-| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
-| 附則（平成一二年三月二九日法律第八号） | [suppl/h12-8.md](suppl/h12-8.md) |
-| 附則（平成二二年三月三一日法律第二一号） | [suppl/h22-21.md](suppl/h22-21.md) |
-| 附則（令和二年三月三一日法律第一二号） | [suppl/r2-12.md](suppl/r2-12.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2020-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2020-04-01 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2020-04-01 |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和四五年五月一四日法律第五三号） | [suppl/s45-53.md](suppl/s45-53.md) | 0 |  |
+| 附則（昭和四九年六月二五日法律第九二号） | [suppl/s49-92.md](suppl/s49-92.md) | 0 |  |
+| 附則（昭和五五年三月三一日法律第一八号） | [suppl/s55-18.md](suppl/s55-18.md) | 0 |  |
+| 附則（平成元年一二月二二日法律第八四号） | [suppl/h1-84.md](suppl/h1-84.md) | 0 |  |
+| 附則（平成二年三月三一日法律第一〇号） | [suppl/h2-10.md](suppl/h2-10.md) | 0 |  |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) | 0 |  |
+| 附則（平成一二年三月二九日法律第八号） | [suppl/h12-8.md](suppl/h12-8.md) | 0 |  |
+| 附則（平成二二年三月三一日法律第二一号） | [suppl/h22-21.md](suppl/h22-21.md) | 0 |  |
+| 附則（令和二年三月三一日法律第一二号） | [suppl/r2-12.md](suppl/r2-12.md) | 1 | 2020-04-01 |
