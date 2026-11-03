@@ -1,0 +1,80 @@
+# 造船法施行規則
+
+昭和二十五年運輸省令第四十二号 · <https://laws.e-gov.go.jp/law/325M50000800042>
+
+2026-11-03 現在の本文（2021-11-20 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2021-11-20: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 第十七条 | [art-017.md](art-017.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和二七年七月二一日運輸省令第五一号） | [suppl/s27-0721-m51.md](suppl/s27-0721-m51.md) |
+| 附則（昭和二八年二月七日運輸省令第二号） | [suppl/s28-0207-m2.md](suppl/s28-0207-m2.md) |
+| 附則（昭和三三年五月二七日運輸省令第一八号） | [suppl/s33-0527-m18.md](suppl/s33-0527-m18.md) |
+| 附則（昭和三五年三月二日運輸省令第六号） | [suppl/s35-0302-m6.md](suppl/s35-0302-m6.md) |
+| 附則（昭和三九年九月一八日運輸省令第六七号） | [suppl/s39-0918-m67.md](suppl/s39-0918-m67.md) |
+| 附則（昭和四二年七月一四日運輸省令第五四号） | [suppl/s42-0714-m54.md](suppl/s42-0714-m54.md) |
+| 附則（昭和四五年九月三日運輸省令第七六号） | [suppl/s45-0903-m76.md](suppl/s45-0903-m76.md) |
+| 附則（昭和五三年六月二三日運輸省令第三二号） | [suppl/s53-0623-m32.md](suppl/s53-0623-m32.md) |
+| 附則（昭和五三年一一月一四日運輸省令第五六号） | [suppl/s53-1114-m56.md](suppl/s53-1114-m56.md) |
+| 附則（昭和五四年四月二八日運輸省令第一六号） | [suppl/s54-0428-m16.md](suppl/s54-0428-m16.md) |
+| 附則（昭和五六年三月三〇日運輸省令第一二号） | [suppl/s56-0330-m12.md](suppl/s56-0330-m12.md) |
+| 附則（昭和五九年六月二二日運輸省令第一八号） | [suppl/s59-0622-m18.md](suppl/s59-0622-m18.md) |
+| 附則（昭和六〇年六月一五日運輸省令第二二号） | [suppl/s60-0615-m22.md](suppl/s60-0615-m22.md) |
+| 附則（平成元年七月二〇日運輸省令第二四号） | [suppl/h1-0720-m24.md](suppl/h1-0720-m24.md) |
+| 附則（平成六年三月三〇日運輸省令第一二号） | [suppl/h6-0330-m12.md](suppl/h6-0330-m12.md) |
+| 附則（平成六年三月三〇日運輸省令第一四号） | [suppl/h6-0330-m14.md](suppl/h6-0330-m14.md) |
+| 附則（平成一二年一一月二九日運輸省令第三九号） | [suppl/h12-1129-m39.md](suppl/h12-1129-m39.md) |
+| 附則（平成一四年四月一日国土交通省令第五三号） | [suppl/h14-0401-m53.md](suppl/h14-0401-m53.md) |
+| 附則（平成一四年六月二八日国土交通省令第七九号） | [suppl/h14-0628-m79.md](suppl/h14-0628-m79.md) |
+| 附則（平成一八年四月二八日国土交通省令第五八号） | [suppl/h18-0428-m58.md](suppl/h18-0428-m58.md) |
+| 附則（平成二二年一一月一八日国土交通省令第五四号） | [suppl/h22-1118-m54.md](suppl/h22-1118-m54.md) |
+| 附則（令和元年六月二八日国土交通省令第二〇号） | [suppl/r1-0628-m20.md](suppl/r1-0628-m20.md) |
+| 附則（令和二年一二月二三日国土交通省令第九八号） | [suppl/r2-1223-m98.md](suppl/r2-1223-m98.md) |
+| 附則（令和三年八月二〇日国土交通省令第五一号） | [suppl/r3-0820-m51.md](suppl/r3-0820-m51.md) |
+| 附則（令和三年一一月一九日国土交通省令第七一号） | [suppl/r3-1119-m71.md](suppl/r3-1119-m71.md) |
+| 第一号書式 | [appdx/format-1.md](appdx/format-1.md) |
+| 第二号書式 | [appdx/format-2.md](appdx/format-2.md) |
+| 第三号書式 | [appdx/format-3.md](appdx/format-3.md) |
+| 第四号書式 | [appdx/format-4.md](appdx/format-4.md) |
+| 第五号書式 | [appdx/format-5.md](appdx/format-5.md) |
+| 第六号書式 | [appdx/format-6.md](appdx/format-6.md) |
+| 第七号書式Ａ | [appdx/style-1.md](appdx/style-1.md) |
+| 第七号書式Ｂ | [appdx/style-2.md](appdx/style-2.md) |
+| 第八号書式 | [appdx/format-7.md](appdx/format-7.md) |
+| 第九号書式 | [appdx/format-8.md](appdx/format-8.md) |
+| 第十号書式 | [appdx/format-9.md](appdx/format-9.md) |
+| 第十一号書式 | [appdx/format-10.md](appdx/format-10.md) |
+| 第十二号書式 | [appdx/format-11.md](appdx/format-11.md) |
+| 第十三号書式 | [appdx/format-12.md](appdx/format-12.md) |
+| 第十四号書式 | [appdx/format-13.md](appdx/format-13.md) |
+| 第十五号書式 | [appdx/format-14.md](appdx/format-14.md) |
+| 第十六号書式 | [appdx/format-15.md](appdx/format-15.md) |
+| 第十七号書式 | [appdx/format-16.md](appdx/format-16.md) |
+| 第十八号書式 | [appdx/format-17.md](appdx/format-17.md) |
+| 第十九号書式 | [appdx/format-18.md](appdx/format-18.md) |
+| 第二十号書式 | [appdx/format-19.md](appdx/format-19.md) |
+| 第二十一号書式 | [appdx/format-20.md](appdx/format-20.md) |
+| 第二十二号書式 | [appdx/format-21.md](appdx/format-21.md) |
+| 第二十三号書式 | [appdx/format-22.md](appdx/format-22.md) |
+| 第二十四号書式 | [appdx/format-23.md](appdx/format-23.md) |
