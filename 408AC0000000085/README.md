@@ -2,36 +2,36 @@
 
 平成八年法律第八十五号 · <https://laws.e-gov.go.jp/law/408AC0000000085>
 
-2026-11-03 現在の本文（2026-11-02 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 9 件（2013-06-21 施行から）。2026-11-03 現在の本文は 2026-11-02 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-11-02: the oldest version available; its revision history is not yet added.
+9 revisions in e-Gov, from 2013-06-21; the text in force on 2026-11-03 is the revision of 2026-11-02.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成九年五月九日法律第五〇号） | [suppl/h9-50.md](suppl/h9-50.md) |
-| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
-| 附則（平成一四年七月一二日法律第八五号） | [suppl/h14-85.md](suppl/h14-85.md) |
-| 附則（平成一六年六月二日法律第六七号） | [suppl/h16-67.md](suppl/h16-67.md) |
-| 附則（平成一六年六月二日法律第七六号） | [suppl/h16-76.md](suppl/h16-76.md) |
-| 附則（平成一六年六月一八日法律第一一一号） | [suppl/h16-111.md](suppl/h16-111.md) |
-| 附則（平成一六年六月一八日法律第一一二号） | [suppl/h16-112.md](suppl/h16-112.md) |
-| 附則（平成一八年六月二日法律第五〇号） | [suppl/h18-50.md](suppl/h18-50.md) |
-| 附則（平成一八年六月二一日法律第九二号） | [suppl/h18-92.md](suppl/h18-92.md) |
-| 附則（平成二〇年五月二三日法律第四〇号） | [suppl/h20-40.md](suppl/h20-40.md) |
-| 附則（平成二三年六月二四日法律第七四号） | [suppl/h23-74.md](suppl/h23-74.md) |
-| 附則（平成二五年六月二一日法律第五四号） | [suppl/h25-54.md](suppl/h25-54.md) |
-| 附則（平成三〇年六月二七日法律第六七号） | [suppl/h30-67.md](suppl/h30-67.md) |
-| 附則（令和三年五月一九日法律第三六号） | [suppl/r3-36.md](suppl/r3-36.md) |
-| 附則（令和四年五月二〇日法律第四四号） | [suppl/r4-44.md](suppl/r4-44.md) |
-| 附則（令和八年六月二四日法律第四六号） | [suppl/r8-46.md](suppl/r8-46.md) |
-| 附則（令和八年七月一七日法律第六二号） | [suppl/r8-62.md](suppl/r8-62.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2022-05-31 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 2 | 2026-11-02 |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 0 |  |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 2 | 2022-05-31 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成九年五月九日法律第五〇号） | [suppl/h9-50.md](suppl/h9-50.md) | 0 |  |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) | 0 |  |
+| 附則（平成一四年七月一二日法律第八五号） | [suppl/h14-85.md](suppl/h14-85.md) | 0 |  |
+| 附則（平成一六年六月二日法律第六七号） | [suppl/h16-67.md](suppl/h16-67.md) | 0 |  |
+| 附則（平成一六年六月二日法律第七六号） | [suppl/h16-76.md](suppl/h16-76.md) | 0 |  |
+| 附則（平成一六年六月一八日法律第一一一号） | [suppl/h16-111.md](suppl/h16-111.md) | 0 |  |
+| 附則（平成一六年六月一八日法律第一一二号） | [suppl/h16-112.md](suppl/h16-112.md) | 0 |  |
+| 附則（平成一八年六月二日法律第五〇号） | [suppl/h18-50.md](suppl/h18-50.md) | 0 |  |
+| 附則（平成一八年六月二一日法律第九二号） | [suppl/h18-92.md](suppl/h18-92.md) | 0 |  |
+| 附則（平成二〇年五月二三日法律第四〇号） | [suppl/h20-40.md](suppl/h20-40.md) | 0 |  |
+| 附則（平成二三年六月二四日法律第七四号） | [suppl/h23-74.md](suppl/h23-74.md) | 0 |  |
+| 附則（平成二五年六月二一日法律第五四号） | [suppl/h25-54.md](suppl/h25-54.md) | 0 |  |
+| 附則（平成三〇年六月二七日法律第六七号） | [suppl/h30-67.md](suppl/h30-67.md) | 1 | 2019-06-25 |
+| 附則（令和三年五月一九日法律第三六号） | [suppl/r3-36.md](suppl/r3-36.md) | 2 | 2021-09-01 |
+| 附則（令和四年五月二〇日法律第四四号） | [suppl/r4-44.md](suppl/r4-44.md) | 1 | 2022-05-31 |
+| 附則（令和八年六月二四日法律第四六号） | [suppl/r8-46.md](suppl/r8-46.md) | 1 | 2026-06-24 |
+| 附則（令和八年七月一七日法律第六二号） | [suppl/r8-62.md](suppl/r8-62.md) | 2 | 2026-11-02 |

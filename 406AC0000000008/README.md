@@ -2,44 +2,44 @@
 
 平成六年法律第八号 · <https://laws.e-gov.go.jp/law/406AC0000000008>
 
-2026-11-03 現在の本文（2024-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 8 件（2015-07-19 施行から）。2026-11-03 現在の本文は 2024-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-04-01: the oldest version available; its revision history is not yet added.
+8 revisions in e-Gov, from 2015-07-19; the text in force on 2026-11-03 is the revision of 2024-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 第十六条 | [art-016.md](art-016.md) |
-| 第十七条 | [art-017.md](art-017.md) |
-| 第十八条 | [art-018.md](art-018.md) |
-| 第十九条 | [art-019.md](art-019.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成八年六月二六日法律第一〇七号） | [suppl/h8-107.md](suppl/h8-107.md) |
-| 附則（平成九年六月四日法律第六九号） | [suppl/h9-69.md](suppl/h9-69.md) |
-| 附則（平成一〇年五月八日法律第五四号） | [suppl/h10-54.md](suppl/h10-54.md) |
-| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
-| 附則（平成一二年六月二日法律第一〇六号） | [suppl/h12-106.md](suppl/h12-106.md) |
-| 附則（平成一五年三月三一日法律第二一号） | [suppl/h15-21.md](suppl/h15-21.md) |
-| 附則（平成一九年三月三一日法律第二三号） | [suppl/h19-23.md](suppl/h19-23.md) |
-| 附則（平成二三年八月三〇日法律第一〇五号） | [suppl/h23-105.md](suppl/h23-105.md) |
-| 附則（平成二五年一一月二二日法律第七六号） | [suppl/h25-76.md](suppl/h25-76.md) |
-| 附則（平成二七年五月二〇日法律第二二号） | [suppl/h27-22.md](suppl/h27-22.md) |
-| 附則（平成二九年六月二日法律第四五号） | [suppl/h29-45.md](suppl/h29-45.md) |
-| 附則（令和三年五月一〇日法律第三一号） | [suppl/r3-31.md](suppl/r3-31.md) |
-| 附則（令和四年三月三一日法律第七号） | [suppl/r4-7.md](suppl/r4-7.md) |
-| 附則（令和五年五月二六日法律第三六号） | [suppl/r5-36.md](suppl/r5-36.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2022-04-01 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2021-11-01 |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 第九条 | [art-009.md](art-009.md) | 0 |  |
+| 第十条 | [art-010.md](art-010.md) | 1 | 2024-04-01 |
+| 第十一条 | [art-011.md](art-011.md) | 0 |  |
+| 第十二条 | [art-012.md](art-012.md) | 0 |  |
+| 第十三条 | [art-013.md](art-013.md) | 0 |  |
+| 第十四条 | [art-014.md](art-014.md) | 0 |  |
+| 第十五条 | [art-015.md](art-015.md) | 0 |  |
+| 第十六条 | [art-016.md](art-016.md) | 1 | 2020-04-01 |
+| 第十七条 | [art-017.md](art-017.md) | 0 |  |
+| 第十八条 | [art-018.md](art-018.md) | 1 | 2024-04-01 |
+| 第十九条 | [art-019.md](art-019.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成八年六月二六日法律第一〇七号） | [suppl/h8-107.md](suppl/h8-107.md) | 0 |  |
+| 附則（平成九年六月四日法律第六九号） | [suppl/h9-69.md](suppl/h9-69.md) | 0 |  |
+| 附則（平成一〇年五月八日法律第五四号） | [suppl/h10-54.md](suppl/h10-54.md) | 0 |  |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) | 0 |  |
+| 附則（平成一二年六月二日法律第一〇六号） | [suppl/h12-106.md](suppl/h12-106.md) | 0 |  |
+| 附則（平成一五年三月三一日法律第二一号） | [suppl/h15-21.md](suppl/h15-21.md) | 0 |  |
+| 附則（平成一九年三月三一日法律第二三号） | [suppl/h19-23.md](suppl/h19-23.md) | 0 |  |
+| 附則（平成二三年八月三〇日法律第一〇五号） | [suppl/h23-105.md](suppl/h23-105.md) | 0 |  |
+| 附則（平成二五年一一月二二日法律第七六号） | [suppl/h25-76.md](suppl/h25-76.md) | 0 |  |
+| 附則（平成二七年五月二〇日法律第二二号） | [suppl/h27-22.md](suppl/h27-22.md) | 0 |  |
+| 附則（平成二九年六月二日法律第四五号） | [suppl/h29-45.md](suppl/h29-45.md) | 1 | 2017-06-02 |
+| 附則（令和三年五月一〇日法律第三一号） | [suppl/r3-31.md](suppl/r3-31.md) | 1 | 2021-11-01 |
+| 附則（令和四年三月三一日法律第七号） | [suppl/r4-7.md](suppl/r4-7.md) | 1 | 2022-04-01 |
+| 附則（令和五年五月二六日法律第三六号） | [suppl/r5-36.md](suppl/r5-36.md) | 2 | 2024-04-01 |
