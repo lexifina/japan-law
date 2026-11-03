@@ -1,0 +1,66 @@
+# 政党交付金の交付を受ける政党等に対する法人格の付与に関する法律
+
+平成六年法律第百六号 · <https://laws.e-gov.go.jp/law/406AC1000000106>
+
+2026-11-03 現在の本文（2022-09-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2022-09-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 目次 | [toc.md](toc.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第七条の二 | [art-007-2.md](art-007-2.md) |
+| 第七条の三 | [art-007-3.md](art-007-3.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第九条の二 | [art-009-2.md](art-009-2.md) |
+| 第九条の三 | [art-009-3.md](art-009-3.md) |
+| 第九条の四 | [art-009-4.md](art-009-4.md) |
+| 第九条の五 | [art-009-5.md](art-009-5.md) |
+| 第九条の六 | [art-009-6.md](art-009-6.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十条の二 | [art-010-2.md](art-010-2.md) |
+| 第十条の三 | [art-010-3.md](art-010-3.md) |
+| 第十条の四 | [art-010-4.md](art-010-4.md) |
+| 第十条の五 | [art-010-5.md](art-010-5.md) |
+| 第十条の六 | [art-010-6.md](art-010-6.md) |
+| 第十条の七 | [art-010-7.md](art-010-7.md) |
+| 第十条の八 | [art-010-8.md](art-010-8.md) |
+| 第十条の九 | [art-010-9.md](art-010-9.md) |
+| 第十条の十 | [art-010-10.md](art-010-10.md) |
+| 第十条の十一 | [art-010-11.md](art-010-11.md) |
+| 第十条の十二 | [art-010-12.md](art-010-12.md) |
+| 第十条の十三 | [art-010-13.md](art-010-13.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十五条の二 | [art-015-2.md](art-015-2.md) |
+| 第十五条の三 | [art-015-3.md](art-015-3.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成一一年七月一六日法律第八七号） | [suppl/h11-87.md](suppl/h11-87.md) |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
+| 附則（平成一二年一一月一日法律第一一八号） | [suppl/h12-118.md](suppl/h12-118.md) |
+| 附則（平成一四年七月三日法律第七九号） | [suppl/h14-79.md](suppl/h14-79.md) |
+| 附則（平成一六年六月二日法律第七六号） | [suppl/h16-76.md](suppl/h16-76.md) |
+| 附則（平成一六年一二月一日法律第一四七号） | [suppl/h16-147.md](suppl/h16-147.md) |
+| 附則（平成一七年七月二六日法律第八七号） | [suppl/h17-87.md](suppl/h17-87.md) |
+| 附則（平成一八年六月二日法律第五〇号） | [suppl/h18-50.md](suppl/h18-50.md) |
+| 附則（平成二〇年三月三一日法律第九号） | [suppl/h20-9.md](suppl/h20-9.md) |
+| 附則（平成二〇年四月三〇日法律第二三号） | [suppl/h20-23.md](suppl/h20-23.md) |
+| 附則（平成二三年五月二五日法律第五三号） | [suppl/h23-53.md](suppl/h23-53.md) |
+| 附則（平成二三年六月二四日法律第七四号） | [suppl/h23-74.md](suppl/h23-74.md) |
+| 附則（平成二七年三月三一日法律第九号） | [suppl/h27-9.md](suppl/h27-9.md) |
+| 附則（令和元年一二月一一日法律第七一号） | [suppl/r1-71.md](suppl/r1-71.md) |
+| 附則（令和二年三月三一日法律第八号） | [suppl/r2-8.md](suppl/r2-8.md) |
+| 附則（令和三年五月一九日法律第三七号） | [suppl/r3-37.md](suppl/r3-37.md) |
