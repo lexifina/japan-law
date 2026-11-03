@@ -1,0 +1,52 @@
+# 公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則
+
+令和三年デジタル庁令第十号 · <https://laws.e-gov.go.jp/law/503M60004000010>
+
+2026-11-03 現在の本文（2026-06-26 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-06-26: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第四条の二 | [art-004-2.md](art-004-2.md) |
+| 第四条の三 | [art-004-3.md](art-004-3.md) |
+| 第四条の四 | [art-004-4.md](art-004-4.md) |
+| 第四条の五 | [art-004-5.md](art-004-5.md) |
+| 第四条の六 | [art-004-6.md](art-004-6.md) |
+| 第四条の七 | [art-004-7.md](art-004-7.md) |
+| 第四条の八 | [art-004-8.md](art-004-8.md) |
+| 第四条の九 | [art-004-9.md](art-004-9.md) |
+| 第四条の十 | [art-004-10.md](art-004-10.md) |
+| 第四条の十一 | [art-004-11.md](art-004-11.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十一条の二 | [art-011-2.md](art-011-2.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（令和四年七月二二日デジタル庁令第二号） | [suppl/r4-0722-m2.md](suppl/r4-0722-m2.md) |
+| 附則（令和五年七月二一日デジタル庁令第二号） | [suppl/r5-0721-m2.md](suppl/r5-0721-m2.md) |
+| 附則（令和六年一月三一日デジタル庁令第二号） | [suppl/r6-0131-m2.md](suppl/r6-0131-m2.md) |
+| 附則（令和六年二月二六日デジタル庁令第三号） | [suppl/r6-0226-m3.md](suppl/r6-0226-m3.md) |
+| 附則（令和六年五月二四日デジタル庁令第五号） | [suppl/r6-0524-m5.md](suppl/r6-0524-m5.md) |
+| 附則（令和六年六月二八日デジタル庁令第六号） | [suppl/r6-0628-m6.md](suppl/r6-0628-m6.md) |
+| 附則（令和六年九月三〇日デジタル庁令第七号） | [suppl/r6-0930-m7.md](suppl/r6-0930-m7.md) |
+| 附則（令和六年一一月二九日デジタル庁令第八号） | [suppl/r6-1129-m8.md](suppl/r6-1129-m8.md) |
+| 附則（令和七年三月三日デジタル庁令第一号） | [suppl/r7-0303-m1.md](suppl/r7-0303-m1.md) |
+| 附則（令和七年六月二四日デジタル庁令第五号） | [suppl/r7-0624-m5.md](suppl/r7-0624-m5.md) |
+| 附則（令和七年七月二八日デジタル庁令第六号） | [suppl/r7-0728-m6.md](suppl/r7-0728-m6.md) |
+| 附則（令和七年七月二八日デジタル庁令第七号） | [suppl/r7-0728-m7.md](suppl/r7-0728-m7.md) |
+| 附則（令和七年七月二八日デジタル庁令第八号） | [suppl/r7-0728-m8.md](suppl/r7-0728-m8.md) |
+| 附則（令和八年三月三一日デジタル庁令第三号） | [suppl/r8-0331-m3.md](suppl/r8-0331-m3.md) |
+| 附則（令和八年六月二六日デジタル庁令第五号） | [suppl/r8-0626-m5.md](suppl/r8-0626-m5.md) |
