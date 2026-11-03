@@ -1,0 +1,83 @@
+# 特定物質等の規制等によるオゾン層の保護に関する法律施行規則
+
+昭和六十三年通商産業省令第八十号 · <https://laws.e-gov.go.jp/law/363M50000400080>
+
+2026-11-03 現在の本文（2026-07-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-07-01: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十条の二 | [art-010-2.md](art-010-2.md) |
+| 第十条の三 | [art-010-3.md](art-010-3.md) |
+| 第十条の四 | [art-010-4.md](art-010-4.md) |
+| 第十条の五 | [art-010-5.md](art-010-5.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十二条の二 | [art-012-2.md](art-012-2.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十三条の二 | [art-013-2.md](art-013-2.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十六条 | [art-016.md](art-016.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（平成元年六月一五日通商産業省令第三九号） | [suppl/h1-0615-m39.md](suppl/h1-0615-m39.md) |
+| 附則（平成元年一二月一四日通商産業省令第九五号） | [suppl/h1-1214-m95.md](suppl/h1-1214-m95.md) |
+| 附則（平成三年三月三〇日通商産業省令第一八号） | [suppl/h3-0330-m18.md](suppl/h3-0330-m18.md) |
+| 附則（平成三年五月二一日通商産業省令第二八号） | [suppl/h3-0521-m28.md](suppl/h3-0521-m28.md) |
+| 附則（平成三年一二月二七日通商産業省令第八七号） | [suppl/h3-1227-m87.md](suppl/h3-1227-m87.md) |
+| 附則（平成四年一一月二五日通商産業省令第七九号） | [suppl/h4-1125-m79.md](suppl/h4-1125-m79.md) |
+| 附則（平成四年一二月二五日通商産業省令第八九号） | [suppl/h4-1225-m89.md](suppl/h4-1225-m89.md) |
+| 附則（平成六年九月三〇日通商産業省令第六五号） | [suppl/h6-0930-m65.md](suppl/h6-0930-m65.md) |
+| 附則（平成六年九月三〇日通商産業省令第六六号） | [suppl/h6-0930-m66.md](suppl/h6-0930-m66.md) |
+| 附則（平成七年三月一七日通商産業省令第一六号） | [suppl/h7-0317-m16.md](suppl/h7-0317-m16.md) |
+| 附則（平成九年三月二七日通商産業省令第三九号） | [suppl/h9-0327-m39.md](suppl/h9-0327-m39.md) |
+| 附則（平成一〇年三月三〇日通商産業省令第三四号） | [suppl/h10-0330-m34.md](suppl/h10-0330-m34.md) |
+| 附則（平成一二年一一月二〇日通商産業省令第三五一号） | [suppl/h12-1120-m351.md](suppl/h12-1120-m351.md) |
+| 附則（平成一三年三月二九日経済産業省令第九九号） | [suppl/h13-0329-m99.md](suppl/h13-0329-m99.md) |
+| 附則（平成一三年一二月一七日経済産業省令第二二二号） | [suppl/h13-1217-m222.md](suppl/h13-1217-m222.md) |
+| 附則（平成一四年一二月六日経済産業省令第一一八号） | [suppl/h14-1206-m118.md](suppl/h14-1206-m118.md) |
+| 附則（平成一五年二月三日経済産業省令第九号） | [suppl/h15-0203-m9.md](suppl/h15-0203-m9.md) |
+| 附則（平成一七年三月四日経済産業省令第一四号） | [suppl/h17-0304-m14.md](suppl/h17-0304-m14.md) |
+| 附則（平成二八年三月二九日経済産業省令第四三号） | [suppl/h28-0329-m43.md](suppl/h28-0329-m43.md) |
+| 附則（平成三〇年八月二一日経済産業省令第五一号） | [suppl/h30-0821-m51.md](suppl/h30-0821-m51.md) |
+| 附則（令和元年七月一日経済産業省令第一七号） | [suppl/r1-0701-m17.md](suppl/r1-0701-m17.md) |
+| 附則（令和元年一二月一三日経済産業省令第四九号） | [suppl/r1-1213-m49.md](suppl/r1-1213-m49.md) |
+| 附則（令和二年九月一一日経済産業省令第七三号） | [suppl/r2-0911-m73.md](suppl/r2-0911-m73.md) |
+| 附則（令和二年一二月二八日経済産業省令第九〇号） | [suppl/r2-1228-m90.md](suppl/r2-1228-m90.md) |
+| 附則（令和二年一二月二八日経済産業省令第九二号） | [suppl/r2-1228-m92.md](suppl/r2-1228-m92.md) |
+| 附則（令和八年三月二四日経済産業省令第一七号） | [suppl/r8-0324-m17.md](suppl/r8-0324-m17.md) |
+| 様式第１ | [appdx/style-1.md](appdx/style-1.md) |
+| 様式第２ | [appdx/style-2.md](appdx/style-2.md) |
+| 様式第３ | [appdx/style-3.md](appdx/style-3.md) |
+| 様式第４ | [appdx/style-4.md](appdx/style-4.md) |
+| 様式第５ | [appdx/style-5.md](appdx/style-5.md) |
+| 様式第６ | [appdx/style-6.md](appdx/style-6.md) |
+| 様式第７ | [appdx/style-7.md](appdx/style-7.md) |
+| 様式第８ | [appdx/style-8.md](appdx/style-8.md) |
+| 様式第８の２ | [appdx/style-9.md](appdx/style-9.md) |
+| 様式第９ | [appdx/style-10.md](appdx/style-10.md) |
+| 様式第９の２ | [appdx/style-11.md](appdx/style-11.md) |
+| 様式第１０ | [appdx/style-12.md](appdx/style-12.md) |
+| 様式第１０の２ | [appdx/style-13.md](appdx/style-13.md) |
+| 様式第１１ | [appdx/style-14.md](appdx/style-14.md) |
+| 様式第１２ | [appdx/style-15.md](appdx/style-15.md) |
+| 様式第１３ | [appdx/style-16.md](appdx/style-16.md) |
+| 様式第１４ | [appdx/style-17.md](appdx/style-17.md) |
+| 様式第１５ | [appdx/style-18.md](appdx/style-18.md) |
+| 様式第１６ | [appdx/style-19.md](appdx/style-19.md) |
+| 様式第１７ | [appdx/style-20.md](appdx/style-20.md) |
+| 様式第１８ | [appdx/style-21.md](appdx/style-21.md) |
+| 様式第１９ | [appdx/style-22.md](appdx/style-22.md) |

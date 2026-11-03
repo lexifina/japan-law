@@ -1,0 +1,79 @@
+# 海洋汚染防止設備及び大気汚染防止検査対象設備型式承認規則
+
+昭和五十八年運輸省令第四十一号 · <https://laws.e-gov.go.jp/law/358M50000800041>
+
+2026-11-03 現在の本文（2021-11-20 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2021-11-20: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 制定文 | [enact.md](enact.md) |
+| 目次 | [toc.md](toc.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 第三条 | [art-003.md](art-003.md) |
+| 第四条 | [art-004.md](art-004.md) |
+| 第五条 | [art-005.md](art-005.md) |
+| 第六条 | [art-006.md](art-006.md) |
+| 第七条 | [art-007.md](art-007.md) |
+| 第八条 | [art-008.md](art-008.md) |
+| 第九条 | [art-009.md](art-009.md) |
+| 第十条 | [art-010.md](art-010.md) |
+| 第十一条 | [art-011.md](art-011.md) |
+| 第十二条 | [art-012.md](art-012.md) |
+| 第十三条 | [art-013.md](art-013.md) |
+| 第十四条 | [art-014.md](art-014.md) |
+| 第十五条 | [art-015.md](art-015.md) |
+| 第十六条から第二十五条まで | [art-016-to-025.md](art-016-to-025.md) |
+| 第二十六条 | [art-026.md](art-026.md) |
+| 第二十七条 | [art-027.md](art-027.md) |
+| 第二十八条 | [art-028.md](art-028.md) |
+| 第二十九条 | [art-029.md](art-029.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和五九年三月一九日運輸省令第四号） | [suppl/s59-0319-m4.md](suppl/s59-0319-m4.md) |
+| 附則（昭和五九年六月二二日運輸省令第一八号） | [suppl/s59-0622-m18.md](suppl/s59-0622-m18.md) |
+| 附則（昭和六一年一一月二九日運輸省令第四〇号） | [suppl/s61-1129-m40.md](suppl/s61-1129-m40.md) |
+| 附則（昭和六二年三月二五日運輸省令第二五号） | [suppl/s62-0325-m25.md](suppl/s62-0325-m25.md) |
+| 附則（昭和六二年九月二九日運輸省令第五五号） | [suppl/s62-0929-m55.md](suppl/s62-0929-m55.md) |
+| 附則（平成元年三月三一日運輸省令第一二号） | [suppl/h1-0331-m12.md](suppl/h1-0331-m12.md) |
+| 附則（平成元年七月二〇日運輸省令第二四号） | [suppl/h1-0720-m24.md](suppl/h1-0720-m24.md) |
+| 附則（平成三年三月二二日運輸省令第二号） | [suppl/h3-0322-m2.md](suppl/h3-0322-m2.md) |
+| 附則（平成五年四月二八日運輸省令第一五号） | [suppl/h5-0428-m15.md](suppl/h5-0428-m15.md) |
+| 附則（平成六年三月二九日運輸省令第九号） | [suppl/h6-0329-m9.md](suppl/h6-0329-m9.md) |
+| 附則（平成六年三月三〇日運輸省令第一二号） | [suppl/h6-0330-m12.md](suppl/h6-0330-m12.md) |
+| 附則（平成八年二月二七日運輸省令第一四号） | [suppl/h8-0227-m14.md](suppl/h8-0227-m14.md) |
+| 附則（平成九年三月二一日運輸省令第一五号） | [suppl/h9-0321-m15.md](suppl/h9-0321-m15.md) |
+| 附則（平成九年一二月一五日運輸省令第八三号） | [suppl/h9-1215-m83.md](suppl/h9-1215-m83.md) |
+| 附則（平成一〇年一〇月三〇日運輸省令第七二号） | [suppl/h10-1030-m72.md](suppl/h10-1030-m72.md) |
+| 附則（平成一二年三月二二日運輸省令第九号） | [suppl/h12-0322-m9.md](suppl/h12-0322-m9.md) |
+| 附則（平成一二年一一月二九日運輸省令第三九号） | [suppl/h12-1129-m39.md](suppl/h12-1129-m39.md) |
+| 附則（平成一三年三月三〇日国土交通省令第七二号） | [suppl/h13-0330-m72.md](suppl/h13-0330-m72.md) |
+| 附則（平成一四年六月二八日国土交通省令第七九号） | [suppl/h14-0628-m79.md](suppl/h14-0628-m79.md) |
+| 附則（平成一五年九月一九日国土交通省令第九三号） | [suppl/h15-0919-m93.md](suppl/h15-0919-m93.md) |
+| 附則（平成一六年二月二六日国土交通省令第六号） | [suppl/h16-0226-m6.md](suppl/h16-0226-m6.md) |
+| 附則（平成一六年三月三一日国土交通省令第三四号） | [suppl/h16-0331-m34.md](suppl/h16-0331-m34.md) |
+| 附則（平成一六年一〇月二八日国土交通省令第九三号） | [suppl/h16-1028-m93.md](suppl/h16-1028-m93.md) |
+| 附則（平成一七年三月二八日国土交通省令第一九号） | [suppl/h17-0328-m19.md](suppl/h17-0328-m19.md) |
+| 附則（平成一八年三月三一日国土交通省令第三〇号） | [suppl/h18-0331-m30.md](suppl/h18-0331-m30.md) |
+| 附則（平成二四年一二月二八日国土交通省令第九一号） | [suppl/h24-1228-m91.md](suppl/h24-1228-m91.md) |
+| 附則（平成二六年三月三一日国土交通省令第三七号） | [suppl/h26-0331-m37.md](suppl/h26-0331-m37.md) |
+| 附則（平成三〇年八月三一日国土交通省令第六六号） | [suppl/h30-0831-m66.md](suppl/h30-0831-m66.md) |
+| 附則（令和元年六月二八日国土交通省令第二〇号） | [suppl/r1-0628-m20.md](suppl/r1-0628-m20.md) |
+| 附則（令和元年一二月一六日国土交通省令第四七号） | [suppl/r1-1216-m47.md](suppl/r1-1216-m47.md) |
+| 附則（令和二年一二月二三日国土交通省令第九八号） | [suppl/r2-1223-m98.md](suppl/r2-1223-m98.md) |
+| 附則（令和三年一一月一九日国土交通省令第七一号） | [suppl/r3-1119-m71.md](suppl/r3-1119-m71.md) |
+| 別表第一 | [appdx/table-1.md](appdx/table-1.md) |
+| 別表第一の二 | [appdx/table-1-2.md](appdx/table-1-2.md) |
+| 別表第二 | [appdx/table-2.md](appdx/table-2.md) |
+| 別表第二の二 | [appdx/table-2-2.md](appdx/table-2-2.md) |
+| 第一号様式 | [appdx/style-1.md](appdx/style-1.md) |
+| 第二号様式 | [appdx/style-2.md](appdx/style-2.md) |
+| 第三号様式 | [appdx/style-3.md](appdx/style-3.md) |
+| 第四号様式 | [appdx/style-4.md](appdx/style-4.md) |
+| 第五号様式 | [appdx/style-5.md](appdx/style-5.md) |
+| 第六号様式 | [appdx/style-6.md](appdx/style-6.md) |
+| 第七号様式 | [appdx/style-7.md](appdx/style-7.md) |
+| 第八号様式 | [appdx/style-8.md](appdx/style-8.md) |
+| 第九号様式 | [appdx/style-9.md](appdx/style-9.md) |
