@@ -1,0 +1,56 @@
+# 都市開発資金の貸付けに関する法律
+
+昭和四十一年法律第二十号 · <https://laws.e-gov.go.jp/law/341AC0000000020>
+
+2026-11-03 現在の本文（2026-05-27 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2026-05-27: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 第一条 | [art-001.md](art-001.md) |
+| 第二条 | [art-002.md](art-002.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和四三年六月一五日法律第一〇一号） | [suppl/s43-101.md](suppl/s43-101.md) |
+| 附則（昭和五五年五月一日法律第三三号） | [suppl/s55-33.md](suppl/s55-33.md) |
+| 附則（昭和六二年六月二日法律第六二号） | [suppl/s62-62.md](suppl/s62-62.md) |
+| 附則（昭和六二年九月四日法律第八七号） | [suppl/s62-87.md](suppl/s62-87.md) |
+| 附則（昭和六三年四月二六日法律第二二号） | [suppl/s63-22.md](suppl/s63-22.md) |
+| 附則（平成元年六月二八日法律第四〇号） | [suppl/h1-40.md](suppl/h1-40.md) |
+| 附則（平成四年四月二四日法律第三一号） | [suppl/h4-31.md](suppl/h4-31.md) |
+| 附則（平成四年六月五日法律第七六号） | [suppl/h4-76.md](suppl/h4-76.md) |
+| 附則（平成五年五月六日法律第三四号） | [suppl/h5-34.md](suppl/h5-34.md) |
+| 附則（平成六年三月二日法律第七号） | [suppl/h6-7.md](suppl/h6-7.md) |
+| 附則（平成七年二月二六日法律第一四号） | [suppl/h7-14.md](suppl/h7-14.md) |
+| 附則（平成八年三月三一日法律第二一号） | [suppl/h8-21.md](suppl/h8-21.md) |
+| 附則（平成九年五月九日法律第五〇号） | [suppl/h9-50.md](suppl/h9-50.md) |
+| 附則（平成一〇年五月二九日法律第八〇号） | [suppl/h10-80.md](suppl/h10-80.md) |
+| 附則（平成一〇年六月三日法律第九二号） | [suppl/h10-92.md](suppl/h10-92.md) |
+| 附則（平成一一年三月三一日法律第二五号） | [suppl/h11-25.md](suppl/h11-25.md) |
+| 附則（平成一一年六月一六日法律第七六号） | [suppl/h11-76.md](suppl/h11-76.md) |
+| 附則（平成一一年七月三〇日法律第一一七号） | [suppl/h11-117.md](suppl/h11-117.md) |
+| 附則（平成一一年一二月二二日法律第一六〇号） | [suppl/h11-160.md](suppl/h11-160.md) |
+| 附則（平成一四年二月八日法律第一号） | [suppl/h14-1.md](suppl/h14-1.md) |
+| 附則（平成一四年三月三一日法律第一一号） | [suppl/h14-11.md](suppl/h14-11.md) |
+| 附則（平成一四年四月五日法律第二二号） | [suppl/h14-22.md](suppl/h14-22.md) |
+| 附則（平成一四年七月一二日法律第八三号） | [suppl/h14-83.md](suppl/h14-83.md) |
+| 附則（平成一四年七月一二日法律第八五号） | [suppl/h14-85.md](suppl/h14-85.md) |
+| 附則（平成一五年六月二〇日法律第一〇〇号） | [suppl/h15-100.md](suppl/h15-100.md) |
+| 附則（平成一五年六月二〇日法律第一〇一号） | [suppl/h15-101.md](suppl/h15-101.md) |
+| 附則（平成一六年六月一八日法律第一一一号） | [suppl/h16-111.md](suppl/h16-111.md) |
+| 附則（平成一七年四月二七日法律第三四号） | [suppl/h17-34.md](suppl/h17-34.md) |
+| 附則（平成一七年七月二六日法律第八七号） | [suppl/h17-87.md](suppl/h17-87.md) |
+| 附則（平成一八年六月七日法律第五四号） | [suppl/h18-54.md](suppl/h18-54.md) |
+| 附則（平成一九年三月三一日法律第一九号） | [suppl/h19-19.md](suppl/h19-19.md) |
+| 附則（平成一九年三月三一日法律第二三号） | [suppl/h19-23.md](suppl/h19-23.md) |
+| 附則（平成二一年六月三日法律第四五号） | [suppl/h21-45.md](suppl/h21-45.md) |
+| 附則（平成二三年四月二七日法律第二四号） | [suppl/h23-24.md](suppl/h23-24.md) |
+| 附則（平成二三年五月二日法律第三七号） | [suppl/h23-37.md](suppl/h23-37.md) |
+| 附則（平成二五年一一月二二日法律第七六号） | [suppl/h25-76.md](suppl/h25-76.md) |
+| 附則（平成二六年四月二五日法律第三〇号） | [suppl/h26-30.md](suppl/h26-30.md) |
+| 附則（平成二六年五月二一日法律第三九号） | [suppl/h26-39.md](suppl/h26-39.md) |
+| 附則（平成二九年五月一二日法律第二六号） | [suppl/h29-26.md](suppl/h29-26.md) |
+| 附則（平成三〇年四月二五日法律第二二号） | [suppl/h30-22.md](suppl/h30-22.md) |
+| 附則（令和六年五月二九日法律第四〇号） | [suppl/r6-40.md](suppl/r6-40.md) |
+| 附則（令和八年五月二七日法律第二三号） | [suppl/r8-23.md](suppl/r8-23.md) |

@@ -1,0 +1,20 @@
+# 日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定及び日本国における国際連合の軍隊の地位に関する協定の実施に伴う航空法の特例に関する法律
+
+昭和二十七年法律第二百三十二号 · <https://laws.e-gov.go.jp/law/327AC0000000232>
+
+2026-11-03 現在の本文（2022-12-05 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+
+The text in force on 2026-11-03, in force from 2022-12-05: the oldest version available; its revision history is not yet added.
+
+| 規定 | ファイル |
+| --- | --- |
+| 題名 | [title.md](title.md) |
+| 本則 | [main.md](main.md) |
+| 附則 | [suppl/original.md](suppl/original.md) |
+| 附則（昭和二九年六月一日法律第一五二号） | [suppl/s29-152.md](suppl/s29-152.md) |
+| 附則（昭和三五年六月二三日法律第一〇二号） | [suppl/s35-102.md](suppl/s35-102.md) |
+| 附則（昭和五〇年七月一〇日法律第五八号） | [suppl/s50-58.md](suppl/s50-58.md) |
+| 附則（平成二七年九月一一日法律第六七号） | [suppl/h27-67.md](suppl/h27-67.md) |
+| 附則（令和元年六月一九日法律第三八号） | [suppl/r1-38.md](suppl/r1-38.md) |
+| 附則（令和二年六月二四日法律第六一号） | [suppl/r2-61.md](suppl/r2-61.md) |
+| 附則（令和三年六月一一日法律第六五号） | [suppl/r3-65.md](suppl/r3-65.md) |
