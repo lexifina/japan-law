@@ -2,18 +2,18 @@
 
 平成十三年政令第三百八十八号 · <https://laws.e-gov.go.jp/law/413CO0000000388>
 
-2026-11-03 現在の本文（2024-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2005-11-01 施行から）。2026-11-05 現在の本文は 2024-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-04-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2005-11-01; the text in force on 2026-11-05 is the revision of 2024-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一七年八月三日政令第二七一号） | [suppl/h17-0803-co271.md](suppl/h17-0803-co271.md) |
-| 附則（平成三〇年九月七日政令第二五二号） | [suppl/h30-0907-co252.md](suppl/h30-0907-co252.md) |
-| 附則（令和五年一一月二九日政令第三三八号） | [suppl/r5-1129-co338.md](suppl/r5-1129-co338.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2018-11-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2024-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2024-04-01 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2018-11-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一七年八月三日政令第二七一号） | [suppl/h17-0803-co271.md](suppl/h17-0803-co271.md) | 0 |  |
+| 附則（平成三〇年九月七日政令第二五二号） | [suppl/h30-0907-co252.md](suppl/h30-0907-co252.md) | 1 | 2018-11-01 |
+| 附則（令和五年一一月二九日政令第三三八号） | [suppl/r5-1129-co338.md](suppl/r5-1129-co338.md) | 1 | 2024-04-01 |

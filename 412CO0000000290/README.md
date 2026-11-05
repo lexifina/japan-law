@@ -2,28 +2,28 @@
 
 平成十二年政令第二百九十号 · <https://laws.e-gov.go.jp/law/412CO0000000290>
 
-2026-11-03 現在の本文（2022-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2015-10-01 施行から）。2026-11-05 現在の本文は 2022-10-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-10-01: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2015-10-01; the text in force on 2026-11-05 is the revision of 2022-10-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一五年六月二五日政令第二七七号） | [suppl/h15-0625-co277.md](suppl/h15-0625-co277.md) |
-| 附則（平成一七年七月二九日政令第二六三号） | [suppl/h17-0729-co263.md](suppl/h17-0729-co263.md) |
-| 附則（平成二七年三月六日政令第六八号） | [suppl/h27-0306-co68.md](suppl/h27-0306-co68.md) |
-| 附則（平成二七年九月九日政令第三一九号） | [suppl/h27-0909-co319.md](suppl/h27-0909-co319.md) |
-| 附則（平成三〇年一月一七日政令第三号） | [suppl/h30-0117-co3.md](suppl/h30-0117-co3.md) |
-| 附則（令和三年六月二三日政令第一七六号） | [suppl/r3-0623-co176.md](suppl/r3-0623-co176.md) |
-| 附則（令和四年八月一〇日政令第二七九号） | [suppl/r4-0810-co279.md](suppl/r4-0810-co279.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2018-04-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2018-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2022-10-01 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2018-04-01 |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2018-04-01 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2018-04-01 |
+| 第七条 | [art-007.md](art-007.md) | 1 | 2018-04-01 |
+| 第八条 | [art-008.md](art-008.md) | 2 | 2021-07-01 |
+| 第九条 | [art-009.md](art-009.md) | 1 | 2018-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一五年六月二五日政令第二七七号） | [suppl/h15-0625-co277.md](suppl/h15-0625-co277.md) | 0 |  |
+| 附則（平成一七年七月二九日政令第二六三号） | [suppl/h17-0729-co263.md](suppl/h17-0729-co263.md) | 0 |  |
+| 附則（平成二七年三月六日政令第六八号） | [suppl/h27-0306-co68.md](suppl/h27-0306-co68.md) | 0 |  |
+| 附則（平成二七年九月九日政令第三一九号） | [suppl/h27-0909-co319.md](suppl/h27-0909-co319.md) | 0 |  |
+| 附則（平成三〇年一月一七日政令第三号） | [suppl/h30-0117-co3.md](suppl/h30-0117-co3.md) | 1 | 2018-01-17 |
+| 附則（令和三年六月二三日政令第一七六号） | [suppl/r3-0623-co176.md](suppl/r3-0623-co176.md) | 1 | 2021-07-01 |
+| 附則（令和四年八月一〇日政令第二七九号） | [suppl/r4-0810-co279.md](suppl/r4-0810-co279.md) | 1 | 2022-10-01 |

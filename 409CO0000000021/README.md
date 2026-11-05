@@ -2,37 +2,37 @@
 
 平成九年政令第二十一号 · <https://laws.e-gov.go.jp/law/409CO0000000021>
 
-2026-11-03 現在の本文（2025-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 8 件（2007-06-13 施行から）。2026-11-05 現在の本文は 2025-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-04-01: the oldest version available; its revision history is not yet added.
+8 revisions in e-Gov, from 2007-06-13; the text in force on 2026-11-05 is the revision of 2025-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第二条の二 | [art-002-2.md](art-002-2.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一〇年三月二七日政令第七五号） | [suppl/h10-0327-co75.md](suppl/h10-0327-co75.md) |
-| 附則（平成一一年一二月三日政令第三八五号） | [suppl/h11-1203-co385.md](suppl/h11-1203-co385.md) |
-| 附則（平成一二年三月二四日政令第九八号） | [suppl/h12-0324-co98.md](suppl/h12-0324-co98.md) |
-| 附則（平成一二年六月七日政令第三一一号） | [suppl/h12-0607-co311.md](suppl/h12-0607-co311.md) |
-| 附則（平成一四年一二月一三日政令第三七六号） | [suppl/h14-1213-co376.md](suppl/h14-1213-co376.md) |
-| 附則（平成一六年三月二四日政令第五七号） | [suppl/h16-0324-co57.md](suppl/h16-0324-co57.md) |
-| 附則（平成一八年二月一日政令第一四号） | [suppl/h18-0201-co14.md](suppl/h18-0201-co14.md) |
-| 附則（平成一八年三月一七日政令第四六号） | [suppl/h18-0317-co46.md](suppl/h18-0317-co46.md) |
-| 附則（平成一九年六月一三日政令第一八〇号） | [suppl/h19-0613-co180.md](suppl/h19-0613-co180.md) |
-| 附則（令和元年九月六日政令第八七号） | [suppl/r1-0906-co87.md](suppl/r1-0906-co87.md) |
-| 附則（令和元年一二月一三日政令第一八三号） | [suppl/r1-1213-co183.md](suppl/r1-1213-co183.md) |
-| 附則（令和元年一二月一八日政令第一八八号） | [suppl/r1-1218-co188.md](suppl/r1-1218-co188.md) |
-| 附則（令和四年六月二四日政令第二四〇号） | [suppl/r4-0624-co240.md](suppl/r4-0624-co240.md) |
-| 附則（令和五年九月六日政令第二七六号） | [suppl/r5-0906-co276.md](suppl/r5-0906-co276.md) |
-| 附則（令和五年一二月一五日政令第三六〇号） | [suppl/r5-1215-co360.md](suppl/r5-1215-co360.md) |
-| 附則（令和六年九月二六日政令第三〇六号） | [suppl/r6-0926-co306.md](suppl/r6-0926-co306.md) |
-| 別表第一 | [appdx/table-1.md](appdx/table-1.md) |
-| 別表第二 | [appdx/table-2.md](appdx/table-2.md) |
-| 別表第二の二 | [appdx/table-2-2.md](appdx/table-2-2.md) |
-| 別表第三 | [appdx/table-3.md](appdx/table-3.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2019-12-16 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2023-12-21 |
+| 第二条の二 | [art-002-2.md](art-002-2.md) | 1 | 2023-12-21 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2023-12-21 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2025-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 2 | 2023-12-21 |
+| 附則（平成一〇年三月二七日政令第七五号） | [suppl/h10-0327-co75.md](suppl/h10-0327-co75.md) | 0 |  |
+| 附則（平成一一年一二月三日政令第三八五号） | [suppl/h11-1203-co385.md](suppl/h11-1203-co385.md) | 0 |  |
+| 附則（平成一二年三月二四日政令第九八号） | [suppl/h12-0324-co98.md](suppl/h12-0324-co98.md) | 0 |  |
+| 附則（平成一二年六月七日政令第三一一号） | [suppl/h12-0607-co311.md](suppl/h12-0607-co311.md) | 0 |  |
+| 附則（平成一四年一二月一三日政令第三七六号） | [suppl/h14-1213-co376.md](suppl/h14-1213-co376.md) | 0 |  |
+| 附則（平成一六年三月二四日政令第五七号） | [suppl/h16-0324-co57.md](suppl/h16-0324-co57.md) | 0 |  |
+| 附則（平成一八年二月一日政令第一四号） | [suppl/h18-0201-co14.md](suppl/h18-0201-co14.md) | 0 |  |
+| 附則（平成一八年三月一七日政令第四六号） | [suppl/h18-0317-co46.md](suppl/h18-0317-co46.md) | 0 |  |
+| 附則（平成一九年六月一三日政令第一八〇号） | [suppl/h19-0613-co180.md](suppl/h19-0613-co180.md) | 0 |  |
+| 附則（令和元年九月六日政令第八七号） | [suppl/r1-0906-co87.md](suppl/r1-0906-co87.md) | 1 | 2019-10-01 |
+| 附則（令和元年一二月一三日政令第一八三号） | [suppl/r1-1213-co183.md](suppl/r1-1213-co183.md) | 1 | 2019-12-16 |
+| 附則（令和元年一二月一八日政令第一八八号） | [suppl/r1-1218-co188.md](suppl/r1-1218-co188.md) | 1 | 2020-04-01 |
+| 附則（令和四年六月二四日政令第二四〇号） | [suppl/r4-0624-co240.md](suppl/r4-0624-co240.md) | 1 | 2022-06-30 |
+| 附則（令和五年九月六日政令第二七六号） | [suppl/r5-0906-co276.md](suppl/r5-0906-co276.md) | 1 | 2023-12-21 |
+| 附則（令和五年一二月一五日政令第三六〇号） | [suppl/r5-1215-co360.md](suppl/r5-1215-co360.md) | 1 | 2023-12-21 |
+| 附則（令和六年九月二六日政令第三〇六号） | [suppl/r6-0926-co306.md](suppl/r6-0926-co306.md) | 1 | 2025-04-01 |
+| 別表第一 | [appdx/table-1.md](appdx/table-1.md) | 1 | 2019-10-01 |
+| 別表第二 | [appdx/table-2.md](appdx/table-2.md) | 2 | 2022-06-30 |
+| 別表第二の二 | [appdx/table-2-2.md](appdx/table-2-2.md) | 1 | 2023-12-21 |
+| 別表第三 | [appdx/table-3.md](appdx/table-3.md) | 2 | 2020-04-01 |

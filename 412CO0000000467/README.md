@@ -2,24 +2,24 @@
 
 平成十二年政令第四百六十七号 · <https://laws.e-gov.go.jp/law/412CO0000000467>
 
-2026-11-03 現在の本文（2026-05-21 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（2016-04-01 施行から）。2026-11-05 現在の本文は 2026-05-21 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-05-21: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-05 is the revision of 2026-05-21.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二八年三月二四日政令第七二号） | [suppl/h28-0324-co72.md](suppl/h28-0324-co72.md) |
-| 附則（平成二九年五月二六日政令第一五〇号） | [suppl/h29-0526-co150.md](suppl/h29-0526-co150.md) |
-| 附則（令和三年八月一三日政令第二三〇号） | [suppl/r3-0813-co230.md](suppl/r3-0813-co230.md) |
-| 附則（令和四年一二月二三日政令第三九一号） | [suppl/r4-1223-co391.md](suppl/r4-1223-co391.md) |
-| 附則（令和七年一二月一九日政令第四二四号） | [suppl/r7-1219-co424.md](suppl/r7-1219-co424.md) |
-| 附則（令和八年五月七日政令第一六三号） | [suppl/r8-0507-co163.md](suppl/r8-0507-co163.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2021-08-26 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2021-08-26 |
+| 第三条 | [art-003.md](art-003.md) | 3 | 2025-12-30 |
+| 第四条 | [art-004.md](art-004.md) | 2 | 2026-05-21 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2021-08-26 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2021-08-26 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二八年三月二四日政令第七二号） | [suppl/h28-0324-co72.md](suppl/h28-0324-co72.md) | 0 |  |
+| 附則（平成二九年五月二六日政令第一五〇号） | [suppl/h29-0526-co150.md](suppl/h29-0526-co150.md) | 1 | 2017-06-14 |
+| 附則（令和三年八月一三日政令第二三〇号） | [suppl/r3-0813-co230.md](suppl/r3-0813-co230.md) | 1 | 2021-08-26 |
+| 附則（令和四年一二月二三日政令第三九一号） | [suppl/r4-1223-co391.md](suppl/r4-1223-co391.md) | 1 | 2023-04-01 |
+| 附則（令和七年一二月一九日政令第四二四号） | [suppl/r7-1219-co424.md](suppl/r7-1219-co424.md) | 1 | 2025-12-30 |
+| 附則（令和八年五月七日政令第一六三号） | [suppl/r8-0507-co163.md](suppl/r8-0507-co163.md) | 1 | 2026-05-21 |
