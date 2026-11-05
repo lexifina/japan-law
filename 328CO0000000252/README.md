@@ -2,34 +2,34 @@
 
 昭和二十八年政令第二百五十二号 · <https://laws.e-gov.go.jp/law/328CO0000000252>
 
-2026-11-03 現在の本文（2021-01-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2006-05-01 施行から）。2026-11-05 現在の本文は 2021-01-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2021-01-01: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2006-05-01; the text in force on 2026-11-05 is the revision of 2021-01-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第一条の二 | [art-001-2.md](art-001-2.md) |
-| 第一条の三 | [art-001-3.md](art-001-3.md) |
-| 第一条の四 | [art-001-4.md](art-001-4.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第四条の二 | [art-004-2.md](art-004-2.md) |
-| 第四条の三 | [art-004-3.md](art-004-3.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和三七年一月二三日政令第一〇号） | [suppl/s37-0123-co10.md](suppl/s37-0123-co10.md) |
-| 附則（昭和四五年六月一日政令第一六二号） | [suppl/s45-0601-co162.md](suppl/s45-0601-co162.md) |
-| 附則（昭和五三年七月五日政令第二八二号） | [suppl/s53-0705-co282.md](suppl/s53-0705-co282.md) |
-| 附則（昭和五八年一二月二六日政令第二七六号） | [suppl/s58-1226-co276.md](suppl/s58-1226-co276.md) |
-| 附則（昭和六二年六月二三日政令第二三〇号） | [suppl/s62-0623-co230.md](suppl/s62-0623-co230.md) |
-| 附則（平成一五年一月三一日政令第二八号） | [suppl/h15-0131-co28.md](suppl/h15-0131-co28.md) |
-| 附則（平成一七年二月一八日政令第二四号） | [suppl/h17-0218-co24.md](suppl/h17-0218-co24.md) |
-| 附則（平成一八年四月二六日政令第一七九号） | [suppl/h18-0426-co179.md](suppl/h18-0426-co179.md) |
-| 附則（令和二年一二月二四日政令第三七六号） | [suppl/r2-1224-co376.md](suppl/r2-1224-co376.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2021-01-01 |
+| 第一条の二 | [art-001-2.md](art-001-2.md) | 0 |  |
+| 第一条の三 | [art-001-3.md](art-001-3.md) | 0 |  |
+| 第一条の四 | [art-001-4.md](art-001-4.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第四条の二 | [art-004-2.md](art-004-2.md) | 0 |  |
+| 第四条の三 | [art-004-3.md](art-004-3.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 0 |  |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和三七年一月二三日政令第一〇号） | [suppl/s37-0123-co10.md](suppl/s37-0123-co10.md) | 0 |  |
+| 附則（昭和四五年六月一日政令第一六二号） | [suppl/s45-0601-co162.md](suppl/s45-0601-co162.md) | 0 |  |
+| 附則（昭和五三年七月五日政令第二八二号） | [suppl/s53-0705-co282.md](suppl/s53-0705-co282.md) | 0 |  |
+| 附則（昭和五八年一二月二六日政令第二七六号） | [suppl/s58-1226-co276.md](suppl/s58-1226-co276.md) | 0 |  |
+| 附則（昭和六二年六月二三日政令第二三〇号） | [suppl/s62-0623-co230.md](suppl/s62-0623-co230.md) | 0 |  |
+| 附則（平成一五年一月三一日政令第二八号） | [suppl/h15-0131-co28.md](suppl/h15-0131-co28.md) | 0 |  |
+| 附則（平成一七年二月一八日政令第二四号） | [suppl/h17-0218-co24.md](suppl/h17-0218-co24.md) | 0 |  |
+| 附則（平成一八年四月二六日政令第一七九号） | [suppl/h18-0426-co179.md](suppl/h18-0426-co179.md) | 0 |  |
+| 附則（令和二年一二月二四日政令第三七六号） | [suppl/r2-1224-co376.md](suppl/r2-1224-co376.md) | 1 | 2021-01-01 |

@@ -2,21 +2,21 @@
 
 平成二十五年法律第八十六号 · <https://laws.e-gov.go.jp/law/425AC0000000086>
 
-2026-11-03 現在の本文（2026-07-21 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（2014-05-20 施行から）。2026-11-05 現在の本文は 2026-07-21 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-07-21: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 2014-05-20; the text in force on 2026-11-05 is the revision of 2026-07-21.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和二年六月一二日法律第四七号） | [suppl/r2-47.md](suppl/r2-47.md) |
-| 附則（令和四年六月一七日法律第六八号） | [suppl/r4-68.md](suppl/r4-68.md) |
-| 附則（令和五年六月一六日法律第五六号） | [suppl/r5-56.md](suppl/r5-56.md) |
-| 附則（令和八年七月一日法律第五二号） | [suppl/r8-52.md](suppl/r8-52.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2026-07-21 |
+| 第二条 | [art-002.md](art-002.md) | 3 | 2026-07-21 |
+| 第三条 | [art-003.md](art-003.md) | 2 | 2026-07-21 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2025-06-01 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2025-06-01 |
+| 第六条 | [art-006.md](art-006.md) | 2 | 2026-07-21 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和二年六月一二日法律第四七号） | [suppl/r2-47.md](suppl/r2-47.md) | 1 | 2020-07-02 |
+| 附則（令和四年六月一七日法律第六八号） | [suppl/r4-68.md](suppl/r4-68.md) | 1 | 2022-06-17 |
+| 附則（令和五年六月一六日法律第五六号） | [suppl/r5-56.md](suppl/r5-56.md) | 1 | 2024-06-10 |
+| 附則（令和八年七月一日法律第五二号） | [suppl/r8-52.md](suppl/r8-52.md) | 1 | 2026-07-21 |
