@@ -2,37 +2,37 @@
 
 昭和三十一年総理府令第九十三号 · <https://laws.e-gov.go.jp/law/331M50000002093>
 
-2026-11-03 現在の本文（2026-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2014-05-30 施行から）。2026-11-05 現在の本文は 2026-10-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-10-01: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2014-05-30; the text in force on 2026-11-05 is the revision of 2026-10-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第三条の二 | [art-003-2.md](art-003-2.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和三六年六月一六日総理府令第三〇号） | [suppl/s36-0616-m30.md](suppl/s36-0616-m30.md) |
-| 附則（昭和三八年六月二七日総理府令第二九号） | [suppl/s38-0627-m29.md](suppl/s38-0627-m29.md) |
-| 附則（昭和三九年七月九日総理府令第三〇号） | [suppl/s39-0709-m30.md](suppl/s39-0709-m30.md) |
-| 附則（昭和四一年七月八日総理府令第三五号） | [suppl/s41-0708-m35.md](suppl/s41-0708-m35.md) |
-| 附則（昭和四二年七月二七日総理府令第三四号） | [suppl/s42-0727-m34.md](suppl/s42-0727-m34.md) |
-| 附則（昭和四四年一二月一六日総理府令第四九号） | [suppl/s44-1216-m49.md](suppl/s44-1216-m49.md) |
-| 附則（昭和五九年六月二九日総理府令第三五号） | [suppl/s59-0629-m35.md](suppl/s59-0629-m35.md) |
-| 附則（平成一〇年七月九日総理府令第四七号） | [suppl/h10-0709-m47.md](suppl/h10-0709-m47.md) |
-| 附則（平成一二年八月一四日総理府令第九〇号） | [suppl/h12-0814-m90.md](suppl/h12-0814-m90.md) |
-| 附則（平成一九年九月二八日総務省令第一二二号） | [suppl/h19-0928-m122.md](suppl/h19-0928-m122.md) |
-| 附則（平成二六年五月二九日総務省令第五二号） | [suppl/h26-0529-m52.md](suppl/h26-0529-m52.md) |
-| 附則（令和二年一二月二八日総務省令第一二九号） | [suppl/r2-1228-m129.md](suppl/r2-1228-m129.md) |
-| 附則（令和七年五月二三日総務省令第五三号） | [suppl/r7-0523-m53.md](suppl/r7-0523-m53.md) |
-| 附則（令和八年一月三〇日総務省令第九号） | [suppl/r8-0130-m9.md](suppl/r8-0130-m9.md) |
-| 附則（令和八年九月一六日総務省令第一〇九号） | [suppl/r8-0916-m109.md](suppl/r8-0916-m109.md) |
-| （別記）第一号書式 | [appdx/format-1.md](appdx/format-1.md) |
-| 第二号書式 | [appdx/format-2.md](appdx/format-2.md) |
-| 第三号書式 | [appdx/format-3.md](appdx/format-3.md) |
-| 第四号書式 | [appdx/format-4.md](appdx/format-4.md) |
-| 第五号書式 | [appdx/format-5.md](appdx/format-5.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2026-10-01 |
+| 第三条の二 | [art-003-2.md](art-003-2.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和三六年六月一六日総理府令第三〇号） | [suppl/s36-0616-m30.md](suppl/s36-0616-m30.md) | 0 |  |
+| 附則（昭和三八年六月二七日総理府令第二九号） | [suppl/s38-0627-m29.md](suppl/s38-0627-m29.md) | 0 |  |
+| 附則（昭和三九年七月九日総理府令第三〇号） | [suppl/s39-0709-m30.md](suppl/s39-0709-m30.md) | 0 |  |
+| 附則（昭和四一年七月八日総理府令第三五号） | [suppl/s41-0708-m35.md](suppl/s41-0708-m35.md) | 0 |  |
+| 附則（昭和四二年七月二七日総理府令第三四号） | [suppl/s42-0727-m34.md](suppl/s42-0727-m34.md) | 0 |  |
+| 附則（昭和四四年一二月一六日総理府令第四九号） | [suppl/s44-1216-m49.md](suppl/s44-1216-m49.md) | 0 |  |
+| 附則（昭和五九年六月二九日総理府令第三五号） | [suppl/s59-0629-m35.md](suppl/s59-0629-m35.md) | 0 |  |
+| 附則（平成一〇年七月九日総理府令第四七号） | [suppl/h10-0709-m47.md](suppl/h10-0709-m47.md) | 0 |  |
+| 附則（平成一二年八月一四日総理府令第九〇号） | [suppl/h12-0814-m90.md](suppl/h12-0814-m90.md) | 0 |  |
+| 附則（平成一九年九月二八日総務省令第一二二号） | [suppl/h19-0928-m122.md](suppl/h19-0928-m122.md) | 0 |  |
+| 附則（平成二六年五月二九日総務省令第五二号） | [suppl/h26-0529-m52.md](suppl/h26-0529-m52.md) | 0 |  |
+| 附則（令和二年一二月二八日総務省令第一二九号） | [suppl/r2-1228-m129.md](suppl/r2-1228-m129.md) | 1 | 2020-12-28 |
+| 附則（令和七年五月二三日総務省令第五三号） | [suppl/r7-0523-m53.md](suppl/r7-0523-m53.md) | 1 | 2025-06-01 |
+| 附則（令和八年一月三〇日総務省令第九号） | [suppl/r8-0130-m9.md](suppl/r8-0130-m9.md) | 1 | 2026-04-01 |
+| 附則（令和八年九月一六日総務省令第一〇九号） | [suppl/r8-0916-m109.md](suppl/r8-0916-m109.md) | 1 | 2026-10-01 |
+| （別記）第一号書式 | [appdx/format-1.md](appdx/format-1.md) | 0 |  |
+| 第二号書式 | [appdx/format-2.md](appdx/format-2.md) | 0 |  |
+| 第三号書式 | [appdx/format-3.md](appdx/format-3.md) | 0 |  |
+| 第四号書式 | [appdx/format-4.md](appdx/format-4.md) | 0 |  |
+| 第五号書式 | [appdx/format-5.md](appdx/format-5.md) | 0 |  |

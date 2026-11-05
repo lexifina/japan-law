@@ -2,19 +2,19 @@
 
 昭和二十九年総理府令第七十四号 · <https://laws.e-gov.go.jp/law/329M50000002074>
 
-2026-11-03 現在の本文（2025-03-24 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2007-01-09 施行から）。2026-11-05 現在の本文は 2025-03-24 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-03-24: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2007-01-09; the text in force on 2026-11-05 is the revision of 2025-03-24.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一二年八月一四日総理府令第九二号） | [suppl/h12-0814-m92.md](suppl/h12-0814-m92.md) |
-| 附則（平成一九年一月四日内閣府令第二号） | [suppl/h19-0104-m2.md](suppl/h19-0104-m2.md) |
-| 附則（平成二九年一一月一〇日防衛省令第一三号） | [suppl/h29-1110-m13.md](suppl/h29-1110-m13.md) |
-| 附則（令和七年三月二一日防衛省令第五号） | [suppl/r7-0321-m5.md](suppl/r7-0321-m5.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 2 | 2025-03-24 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2025-03-24 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2017-11-30 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一二年八月一四日総理府令第九二号） | [suppl/h12-0814-m92.md](suppl/h12-0814-m92.md) | 0 |  |
+| 附則（平成一九年一月四日内閣府令第二号） | [suppl/h19-0104-m2.md](suppl/h19-0104-m2.md) | 0 |  |
+| 附則（平成二九年一一月一〇日防衛省令第一三号） | [suppl/h29-1110-m13.md](suppl/h29-1110-m13.md) | 1 | 2017-11-30 |
+| 附則（令和七年三月二一日防衛省令第五号） | [suppl/r7-0321-m5.md](suppl/r7-0321-m5.md) | 1 | 2025-03-24 |
