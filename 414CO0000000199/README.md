@@ -2,35 +2,35 @@
 
 平成十四年政令第百九十九号 · <https://laws.e-gov.go.jp/law/414CO0000000199>
 
-2026-11-03 現在の本文（2022-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2016-04-01 施行から）。2026-11-05 現在の本文は 2022-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-04-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-05 is the revision of 2022-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一五年一二月三日政令第四八三号） | [suppl/h15-1203-co483.md](suppl/h15-1203-co483.md) |
-| 附則（平成一五年一二月一〇日政令第四九二号） | [suppl/h15-1210-co492.md](suppl/h15-1210-co492.md) |
-| 附則（平成一七年一二月二一日政令第三七一号） | [suppl/h17-1221-co371.md](suppl/h17-1221-co371.md) |
-| 附則（平成一八年二月二四日政令第二五号） | [suppl/h18-0224-co25.md](suppl/h18-0224-co25.md) |
-| 附則（平成一九年三月三〇日政令第一一〇号） | [suppl/h19-0330-co110.md](suppl/h19-0330-co110.md) |
-| 附則（平成二二年一二月二二日政令第二五〇号） | [suppl/h22-1222-co250.md](suppl/h22-1222-co250.md) |
-| 附則（平成二七年三月一八日政令第七四号） | [suppl/h27-0318-co74.md](suppl/h27-0318-co74.md) |
-| 附則（平成二八年三月三一日政令第一〇三号） | [suppl/h28-0331-co103.md](suppl/h28-0331-co103.md) |
-| 附則（令和三年五月二一日政令第一五六号） | [suppl/r3-0521-co156.md](suppl/r3-0521-co156.md) |
-| 附則（令和三年七月二日政令第一九五号） | [suppl/r3-0702-co195.md](suppl/r3-0702-co195.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 0 |  |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 第九条 | [art-009.md](art-009.md) | 0 |  |
+| 第十条 | [art-010.md](art-010.md) | 0 |  |
+| 第十一条 | [art-011.md](art-011.md) | 0 |  |
+| 第十二条 | [art-012.md](art-012.md) | 2 | 2022-04-01 |
+| 第十三条 | [art-013.md](art-013.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一五年一二月三日政令第四八三号） | [suppl/h15-1203-co483.md](suppl/h15-1203-co483.md) | 0 |  |
+| 附則（平成一五年一二月一〇日政令第四九二号） | [suppl/h15-1210-co492.md](suppl/h15-1210-co492.md) | 0 |  |
+| 附則（平成一七年一二月二一日政令第三七一号） | [suppl/h17-1221-co371.md](suppl/h17-1221-co371.md) | 0 |  |
+| 附則（平成一八年二月二四日政令第二五号） | [suppl/h18-0224-co25.md](suppl/h18-0224-co25.md) | 0 |  |
+| 附則（平成一九年三月三〇日政令第一一〇号） | [suppl/h19-0330-co110.md](suppl/h19-0330-co110.md) | 0 |  |
+| 附則（平成二二年一二月二二日政令第二五〇号） | [suppl/h22-1222-co250.md](suppl/h22-1222-co250.md) | 0 |  |
+| 附則（平成二七年三月一八日政令第七四号） | [suppl/h27-0318-co74.md](suppl/h27-0318-co74.md) | 0 |  |
+| 附則（平成二八年三月三一日政令第一〇三号） | [suppl/h28-0331-co103.md](suppl/h28-0331-co103.md) | 1 | 2021-09-01 |
+| 附則（令和三年五月二一日政令第一五六号） | [suppl/r3-0521-co156.md](suppl/r3-0521-co156.md) | 1 | 2022-04-01 |
+| 附則（令和三年七月二日政令第一九五号） | [suppl/r3-0702-co195.md](suppl/r3-0702-co195.md) | 1 | 2021-09-01 |

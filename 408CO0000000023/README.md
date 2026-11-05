@@ -2,19 +2,19 @@
 
 平成八年政令第二十三号 · <https://laws.e-gov.go.jp/law/408CO0000000023>
 
-2026-11-03 現在の本文（2024-08-30 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（1998-09-10 施行から）。2026-11-05 現在の本文は 2024-08-30 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-08-30: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 1998-09-10; the text in force on 2026-11-05 is the revision of 2024-08-30.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一〇年七月一〇日政令第二四六号） | [suppl/h10-0710-co246.md](suppl/h10-0710-co246.md) |
-| 附則（平成三〇年二月二一日政令第三六号） | [suppl/h30-0221-co36.md](suppl/h30-0221-co36.md) |
-| 附則（令和元年六月二八日政令第四八号） | [suppl/r1-0628-co48.md](suppl/r1-0628-co48.md) |
-| 附則（令和二年三月一一日政令第四〇号） | [suppl/r2-0311-co40.md](suppl/r2-0311-co40.md) |
-| 附則（令和二年七月八日政令第二二一号） | [suppl/r2-0708-co221.md](suppl/r2-0708-co221.md) |
-| 附則（令和六年七月三一日政令第二五八号） | [suppl/r6-0731-co258.md](suppl/r6-0731-co258.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2020-04-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 5 | 2024-08-30 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一〇年七月一〇日政令第二四六号） | [suppl/h10-0710-co246.md](suppl/h10-0710-co246.md) | 0 |  |
+| 附則（平成三〇年二月二一日政令第三六号） | [suppl/h30-0221-co36.md](suppl/h30-0221-co36.md) | 1 | 2018-03-23 |
+| 附則（令和元年六月二八日政令第四八号） | [suppl/r1-0628-co48.md](suppl/r1-0628-co48.md) | 1 | 2019-07-28 |
+| 附則（令和二年三月一一日政令第四〇号） | [suppl/r2-0311-co40.md](suppl/r2-0311-co40.md) | 1 | 2020-04-01 |
+| 附則（令和二年七月八日政令第二二一号） | [suppl/r2-0708-co221.md](suppl/r2-0708-co221.md) | 1 | 2020-08-07 |
+| 附則（令和六年七月三一日政令第二五八号） | [suppl/r6-0731-co258.md](suppl/r6-0731-co258.md) | 1 | 2024-08-30 |
