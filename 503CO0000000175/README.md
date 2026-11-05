@@ -2,19 +2,19 @@
 
 令和三年政令第百七十五号 · <https://laws.e-gov.go.jp/law/503CO0000000175>
 
-2026-11-03 現在の本文（2024-05-27 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2021-06-23 施行から）。2026-11-05 現在の本文は 2024-05-27 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-05-27: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2021-06-23; the text in force on 2026-11-05 is the revision of 2024-05-27.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和四年一二月九日政令第三七七号） | [suppl/r4-1209-co377.md](suppl/r4-1209-co377.md) |
-| 附則（令和五年四月二六日政令第一七五号） | [suppl/r5-0426-co175.md](suppl/r5-0426-co175.md) |
-| 附則（令和六年三月二九日政令第一一六号） | [suppl/r6-0329-co116.md](suppl/r6-0329-co116.md) |
-| 附則（令和六年五月二四日政令第一九〇号） | [suppl/r6-0524-co190.md](suppl/r6-0524-co190.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2024-05-27 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2022-12-19 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和四年一二月九日政令第三七七号） | [suppl/r4-1209-co377.md](suppl/r4-1209-co377.md) | 3 | 2024-04-01 |
+| 附則（令和五年四月二六日政令第一七五号） | [suppl/r5-0426-co175.md](suppl/r5-0426-co175.md) | 1 | 2023-05-08 |
+| 附則（令和六年三月二九日政令第一一六号） | [suppl/r6-0329-co116.md](suppl/r6-0329-co116.md) | 1 | 2024-04-01 |
+| 附則（令和六年五月二四日政令第一九〇号） | [suppl/r6-0524-co190.md](suppl/r6-0524-co190.md) | 1 | 2024-05-27 |

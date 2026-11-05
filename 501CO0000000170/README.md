@@ -2,16 +2,16 @@
 
 令和元年政令第百七十号 · <https://laws.e-gov.go.jp/law/501CO0000000170>
 
-2026-11-03 現在の本文（2024-09-25 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2019-12-01 施行から）。2026-11-05 現在の本文は 2024-09-25 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-09-25: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2019-12-01; the text in force on 2026-11-05 is the revision of 2024-09-25.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和五年三月三〇日政令第一二六号） | [suppl/r5-0330-co126.md](suppl/r5-0330-co126.md) |
-| 附則（令和六年五月三一日政令第二〇二号） | [suppl/r6-0531-co202.md](suppl/r6-0531-co202.md) |
-| 附則（令和六年九月二〇日政令第二九一号） | [suppl/r6-0920-co291.md](suppl/r6-0920-co291.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 3 | 2024-09-25 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和五年三月三〇日政令第一二六号） | [suppl/r5-0330-co126.md](suppl/r5-0330-co126.md) | 1 | 2023-04-01 |
+| 附則（令和六年五月三一日政令第二〇二号） | [suppl/r6-0531-co202.md](suppl/r6-0531-co202.md) | 1 | 2024-05-31 |
+| 附則（令和六年九月二〇日政令第二九一号） | [suppl/r6-0920-co291.md](suppl/r6-0920-co291.md) | 1 | 2024-09-25 |

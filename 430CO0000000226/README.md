@@ -2,19 +2,19 @@
 
 平成三十年政令第二百二十六号 · <https://laws.e-gov.go.jp/law/430CO0000000226>
 
-2026-11-03 現在の本文（2020-01-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2018-07-27 施行から）。2026-11-05 現在の本文は 2020-01-31 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2020-01-31: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2018-07-27; the text in force on 2026-11-05 is the revision of 2020-01-31.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成三一年一月三〇日政令第一七号） | [suppl/h31-0130-co17.md](suppl/h31-0130-co17.md) |
-| 附則（令和元年五月一七日政令第五号） | [suppl/r1-0517-co5.md](suppl/r1-0517-co5.md) |
-| 附則（令和二年一月三一日政令第一九号） | [suppl/r2-0131-co19.md](suppl/r2-0131-co19.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2019-01-30 |
+| 第二条 | [art-002.md](art-002.md) | 3 | 2020-01-31 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2019-05-17 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成三一年一月三〇日政令第一七号） | [suppl/h31-0130-co17.md](suppl/h31-0130-co17.md) | 1 | 2019-01-30 |
+| 附則（令和元年五月一七日政令第五号） | [suppl/r1-0517-co5.md](suppl/r1-0517-co5.md) | 1 | 2019-05-17 |
+| 附則（令和二年一月三一日政令第一九号） | [suppl/r2-0131-co19.md](suppl/r2-0131-co19.md) | 1 | 2020-01-31 |
