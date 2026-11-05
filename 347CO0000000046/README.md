@@ -2,23 +2,23 @@
 
 昭和四十七年政令第四十六号 · <https://laws.e-gov.go.jp/law/347CO0000000046>
 
-2026-11-03 現在の本文（2020-09-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2010-10-01 施行から）。2026-11-05 現在の本文は 2020-09-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2020-09-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2010-10-01; the text in force on 2026-11-05 is the revision of 2020-09-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和四八年一〇月二四日政令第三二二号） | [suppl/s48-1024-co322.md](suppl/s48-1024-co322.md) |
-| 附則（昭和五〇年三月一〇日政令第二六号） | [suppl/s50-0310-co26.md](suppl/s50-0310-co26.md) |
-| 附則（昭和五一年六月二八日政令第一六八号） | [suppl/s51-0628-co168.md](suppl/s51-0628-co168.md) |
-| 附則（平成一一年一二月三日政令第三九〇号） | [suppl/h11-1203-co390.md](suppl/h11-1203-co390.md) |
-| 附則（平成一二年六月七日政令第三〇九号） | [suppl/h12-0607-co309.md](suppl/h12-0607-co309.md) |
-| 附則（平成一三年一月四日政令第一号） | [suppl/h13-0104-co1.md](suppl/h13-0104-co1.md) |
-| 附則（平成一九年四月二三日政令第一六一号） | [suppl/h19-0423-co161.md](suppl/h19-0423-co161.md) |
-| 附則（平成二二年九月二九日政令第二〇六号） | [suppl/h22-0929-co206.md](suppl/h22-0929-co206.md) |
-| 附則（平成二九年七月一四日政令第一九六号） | [suppl/h29-0714-co196.md](suppl/h29-0714-co196.md) |
-| 附則（令和二年七月八日政令第二一九号） | [suppl/r2-0708-co219.md](suppl/r2-0708-co219.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2020-09-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和四八年一〇月二四日政令第三二二号） | [suppl/s48-1024-co322.md](suppl/s48-1024-co322.md) | 0 |  |
+| 附則（昭和五〇年三月一〇日政令第二六号） | [suppl/s50-0310-co26.md](suppl/s50-0310-co26.md) | 0 |  |
+| 附則（昭和五一年六月二八日政令第一六八号） | [suppl/s51-0628-co168.md](suppl/s51-0628-co168.md) | 0 |  |
+| 附則（平成一一年一二月三日政令第三九〇号） | [suppl/h11-1203-co390.md](suppl/h11-1203-co390.md) | 0 |  |
+| 附則（平成一二年六月七日政令第三〇九号） | [suppl/h12-0607-co309.md](suppl/h12-0607-co309.md) | 0 |  |
+| 附則（平成一三年一月四日政令第一号） | [suppl/h13-0104-co1.md](suppl/h13-0104-co1.md) | 0 |  |
+| 附則（平成一九年四月二三日政令第一六一号） | [suppl/h19-0423-co161.md](suppl/h19-0423-co161.md) | 0 |  |
+| 附則（平成二二年九月二九日政令第二〇六号） | [suppl/h22-0929-co206.md](suppl/h22-0929-co206.md) | 0 |  |
+| 附則（平成二九年七月一四日政令第一九六号） | [suppl/h29-0714-co196.md](suppl/h29-0714-co196.md) | 1 | 2020-04-01 |
+| 附則（令和二年七月八日政令第二一九号） | [suppl/r2-0708-co219.md](suppl/r2-0708-co219.md) | 1 | 2020-09-01 |
