@@ -8986,7 +8986,7 @@
     "令和八年人事院規則一〇―一七"
   ],
   "history_from": "1872-11-09",
-  "built": "2026-11-03",
+  "built": "2026-11-05",
   "dates": {
     "commit": "in-force",
     "other_trailers": [
@@ -9014,7 +9014,7 @@
   },
   "label": "Japan",
   "language": "ja",
-  "checked_on": "2026-11-03",
+  "checked_on": "2026-11-05",
   "history": "in-force",
-  "record_note": "Checked against the official source (e-Gov 法令検索, Digital Agency) on 2026-11-03. e-Gov keeps revisions of most laws from 2017 or later; the first revision of a law amended before then is a labelled baseline by the publisher, not a law. data/laws.json maps each folder to its law."
+  "record_note": "Checked against the official source (e-Gov 法令検索, Digital Agency) on 2026-11-05. e-Gov keeps revisions of most laws from 2017 or later; the first revision of a law amended before then is a labelled baseline by the publisher, not a law. data/laws.json maps each folder to its law."
 }

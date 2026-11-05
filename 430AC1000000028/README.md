@@ -2,23 +2,23 @@
 
 平成三十年法律第二十八号 · <https://laws.e-gov.go.jp/law/430AC1000000028>
 
-2026-11-03 現在の本文（2021-06-16 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2018-05-23 施行から）。2026-11-05 現在の本文は 2021-06-16 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2021-06-16: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2018-05-23; the text in force on 2026-11-05 is the revision of 2021-06-16.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和三年六月一六日法律第六七号） | [suppl/r3-67.md](suppl/r3-67.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2021-06-16 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2021-06-16 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2021-06-16 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2021-06-16 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2021-06-16 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2021-06-16 |
+| 第七条 | [art-007.md](art-007.md) | 1 | 2021-06-16 |
+| 第八条 | [art-008.md](art-008.md) | 1 | 2021-06-16 |
+| 第九条 | [art-009.md](art-009.md) | 1 | 2021-06-16 |
+| 第十条 | [art-010.md](art-010.md) | 1 | 2021-06-16 |
+| 第十一条 | [art-011.md](art-011.md) | 1 | 2021-06-16 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和三年六月一六日法律第六七号） | [suppl/r3-67.md](suppl/r3-67.md) | 1 | 2021-06-16 |

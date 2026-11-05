@@ -6,13 +6,13 @@ published by the Digital Agency (デジタル庁) in [e-Gov 法令検索](https:
 (XML一括ダウンロード) for the text in force and not yet in force, and its Law API (Version 2) for each law's list of
 revisions and the text of each earlier revision.
 
-**Two kinds of law here.** 1206 laws have their revision history: every revision e-Gov holds, one commit per
-amending law and day. The other 7776 have, for now, one version only: the text in force on 2026-11-03, dated the day
+**Two kinds of law here.** 1504 laws have their revision history: every revision e-Gov holds, one commit per
+amending law and day. The other 7478 have, for now, one version only: the text in force on 2026-11-05, dated the day
 its latest revision took effect, committed by the publisher and labelled `Label: oldest version available` (and
 `Kind: baseline`). Their earlier revisions are added behind them, as new commits on top, without rewriting
 anything. [`data/laws.json`](data/laws.json) lists every law with its folder and how many versions it has.
 
-**Earlier versions added later (1198 laws so far).** A law first published as its current text gets its earlier
+**Earlier versions added later (1496 laws so far).** A law first published as its current text gets its earlier
 revisions as **correction commits** appended after it, one per version, oldest first (`Kind: correction`). Each says
 which days it covers (`Corrects: <folder> <from>..<to>`, to the day before the next version), that it replaces no
 published commit (`Supersedes: none`), why (`Reason:`), which folder it is (`Act-path:`) and every file of that version
@@ -36,7 +36,7 @@ most-cited laws, then the rest of the 法律, then 政令, then 府省令.
 | And from 1 April 2022, after the 2021 reform renumbered it? | `python tools/jiten.py 2022-04-01 kojin-joho 27` |
 | The whole APPI as it stood on 1 January 2020 | `python tools/jiten.py 2020-01-01 kojin-joho` |
 | 第九条 of the Constitution | `python tools/jiten.py 2000-01-01 kenpo 9` |
-| 第七百九条 of the Civil Code (民法) today | `python tools/jiten.py 2026-11-03 minpo 709` |
+| 第七百九条 of the Civil Code (民法) today | `python tools/jiten.py 2026-11-05 minpo 709` |
 | Every change to the Civil Code's 第五条 (minors), with the law and the day | `git log --format="%as %an" -- minpo/art-005.md` |
 | 第百七十六条 of the Penal Code (刑法) on 13 July 2023 | `python tools/jiten.py 2023-07-13 keiho 176` |
 | Which law wrote each line of the Companies Act's 第二条 (definitions)? | `git blame kaisha/art-002.md` |
@@ -139,8 +139,8 @@ a history by Lexifina (加工: Lexifina). The history, commit messages, tables a
 
 ## 日本語
 
-e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 8982 件。うち改正履歴つき 1206 件、
-現行の本文のみ 7776 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
+e-Gov 法令検索（デジタル庁）が公開する現行の法令を、改正ごとのgitの履歴にしたもの（現在 8982 件。うち改正履歴つき 1504 件、
+現行の本文のみ 7478 件：「利用可能な最古の版」と表示し、改正履歴は後から上に追加する）。現行・未施行の本文は
 XML一括ダウンロード、改正履歴の一覧と過去の改正履歴の本文は法令API（Version 2）から取得した。六法、よく引用される法律、
 その他の法律、政令、府省令の順に追加している。
 
