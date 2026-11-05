@@ -2,17 +2,17 @@
 
 平成二十六年政令第五号 · <https://laws.e-gov.go.jp/law/426CO0000000005>
 
-2026-11-03 現在の本文（2024-09-25 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2016-04-01 施行から）。2026-11-05 現在の本文は 2024-09-25 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-09-25: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-05 is the revision of 2024-09-25.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二七年一二月一六日政令第四二一号） | [suppl/h27-1216-co421.md](suppl/h27-1216-co421.md) |
-| 附則（令和元年九月六日政令第九〇号） | [suppl/r1-0906-co90.md](suppl/r1-0906-co90.md) |
-| 附則（令和五年三月三〇日政令第一二六号） | [suppl/r5-0330-co126.md](suppl/r5-0330-co126.md) |
-| 附則（令和六年九月二〇日政令第二九一号） | [suppl/r6-0920-co291.md](suppl/r6-0920-co291.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 2 | 2024-09-25 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 3 | 2024-09-25 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二七年一二月一六日政令第四二一号） | [suppl/h27-1216-co421.md](suppl/h27-1216-co421.md) | 0 |  |
+| 附則（令和元年九月六日政令第九〇号） | [suppl/r1-0906-co90.md](suppl/r1-0906-co90.md) | 1 | 2019-09-07 |
+| 附則（令和五年三月三〇日政令第一二六号） | [suppl/r5-0330-co126.md](suppl/r5-0330-co126.md) | 1 | 2023-04-01 |
+| 附則（令和六年九月二〇日政令第二九一号） | [suppl/r6-0920-co291.md](suppl/r6-0920-co291.md) | 1 | 2024-09-25 |
