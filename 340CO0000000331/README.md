@@ -2,28 +2,28 @@
 
 昭和四十年政令第三百三十一号 · <https://laws.e-gov.go.jp/law/340CO0000000331>
 
-2026-11-03 現在の本文（2021-09-25 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2016-04-01 施行から）。2026-11-05 現在の本文は 2021-09-25 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2021-09-25: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-05 is the revision of 2021-09-25.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和五〇年四月一八日政令第一二一号） | [suppl/s50-0418-co121.md](suppl/s50-0418-co121.md) |
-| 附則（昭和五三年七月五日政令第二八二号） | [suppl/s53-0705-co282.md](suppl/s53-0705-co282.md) |
-| 附則（平成一一年一〇月二九日政令第三四六号） | [suppl/h11-1029-co346.md](suppl/h11-1029-co346.md) |
-| 附則（平成一二年六月七日政令第三一二号） | [suppl/h12-0607-co312.md](suppl/h12-0607-co312.md) |
-| 附則（平成一九年九月二五日政令第三〇四号） | [suppl/h19-0925-co304.md](suppl/h19-0925-co304.md) |
-| 附則（平成二七年一月二三日政令第二一号） | [suppl/h27-0123-co21.md](suppl/h27-0123-co21.md) |
-| 附則（平成二七年三月三一日政令第一六四号） | [suppl/h27-0331-co164.md](suppl/h27-0331-co164.md) |
-| 附則（平成二八年三月三一日政令第一八二号） | [suppl/h28-0331-co182.md](suppl/h28-0331-co182.md) |
-| 附則（平成三〇年九月二八日政令第二八〇号） | [suppl/h30-0928-co280.md](suppl/h30-0928-co280.md) |
-| 附則（令和二年一一月二〇日政令第三二九号） | [suppl/r2-1120-co329.md](suppl/r2-1120-co329.md) |
-| 附則（令和三年九月二四日政令第二六一号） | [suppl/r3-0924-co261.md](suppl/r3-0924-co261.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 3 | 2021-09-25 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和五〇年四月一八日政令第一二一号） | [suppl/s50-0418-co121.md](suppl/s50-0418-co121.md) | 0 |  |
+| 附則（昭和五三年七月五日政令第二八二号） | [suppl/s53-0705-co282.md](suppl/s53-0705-co282.md) | 0 |  |
+| 附則（平成一一年一〇月二九日政令第三四六号） | [suppl/h11-1029-co346.md](suppl/h11-1029-co346.md) | 0 |  |
+| 附則（平成一二年六月七日政令第三一二号） | [suppl/h12-0607-co312.md](suppl/h12-0607-co312.md) | 0 |  |
+| 附則（平成一九年九月二五日政令第三〇四号） | [suppl/h19-0925-co304.md](suppl/h19-0925-co304.md) | 0 |  |
+| 附則（平成二七年一月二三日政令第二一号） | [suppl/h27-0123-co21.md](suppl/h27-0123-co21.md) | 0 |  |
+| 附則（平成二七年三月三一日政令第一六四号） | [suppl/h27-0331-co164.md](suppl/h27-0331-co164.md) | 0 |  |
+| 附則（平成二八年三月三一日政令第一八二号） | [suppl/h28-0331-co182.md](suppl/h28-0331-co182.md) | 0 |  |
+| 附則（平成三〇年九月二八日政令第二八〇号） | [suppl/h30-0928-co280.md](suppl/h30-0928-co280.md) | 1 | 2018-09-30 |
+| 附則（令和二年一一月二〇日政令第三二九号） | [suppl/r2-1120-co329.md](suppl/r2-1120-co329.md) | 1 | 2020-11-25 |
+| 附則（令和三年九月二四日政令第二六一号） | [suppl/r3-0924-co261.md](suppl/r3-0924-co261.md) | 1 | 2021-09-25 |
