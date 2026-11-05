@@ -2,17 +2,17 @@
 
 平成二十三年政令第百四十号 · <https://laws.e-gov.go.jp/law/423CO0000000140>
 
-2026-11-03 現在の本文（2026-03-27 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2011-05-13 施行から）。2026-11-05 現在の本文は 2026-03-27 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-03-27: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2011-05-13; the text in force on 2026-11-05 is the revision of 2026-03-27.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和三年三月二四日政令第六〇号） | [suppl/r3-0324-co60.md](suppl/r3-0324-co60.md) |
-| 附則（令和七年一二月一〇日政令第四〇七号） | [suppl/r7-1210-co407.md](suppl/r7-1210-co407.md) |
-| 附則（令和八年三月二七日政令第六一号） | [suppl/r8-0327-co61.md](suppl/r8-0327-co61.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 3 | 2026-03-27 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2026-03-27 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和三年三月二四日政令第六〇号） | [suppl/r3-0324-co60.md](suppl/r3-0324-co60.md) | 1 | 2021-04-01 |
+| 附則（令和七年一二月一〇日政令第四〇七号） | [suppl/r7-1210-co407.md](suppl/r7-1210-co407.md) | 1 | 2026-02-02 |
+| 附則（令和八年三月二七日政令第六一号） | [suppl/r8-0327-co61.md](suppl/r8-0327-co61.md) | 1 | 2026-03-27 |

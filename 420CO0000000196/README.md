@@ -2,22 +2,22 @@
 
 平成二十年政令第百九十六号 · <https://laws.e-gov.go.jp/law/420CO0000000196>
 
-2026-11-03 現在の本文（2024-03-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2014-03-06 施行から）。2026-11-05 現在の本文は 2024-03-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-03-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2014-03-06; the text in force on 2026-11-05 is the revision of 2024-03-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二〇年八月二九日政令第二六七号） | [suppl/h20-0829-co267.md](suppl/h20-0829-co267.md) |
-| 附則（平成二三年三月三一日政令第八八号） | [suppl/h23-0331-co88.md](suppl/h23-0331-co88.md) |
-| 附則（平成二六年三月五日政令第五二号） | [suppl/h26-0305-co52.md](suppl/h26-0305-co52.md) |
-| 附則（平成三一年三月一日政令第三二号） | [suppl/h31-0301-co32.md](suppl/h31-0301-co32.md) |
-| 附則（令和六年二月二六日政令第三九号） | [suppl/r6-0226-co39.md](suppl/r6-0226-co39.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2024-03-01 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2019-03-05 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2024-03-01 |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二〇年八月二九日政令第二六七号） | [suppl/h20-0829-co267.md](suppl/h20-0829-co267.md) | 0 |  |
+| 附則（平成二三年三月三一日政令第八八号） | [suppl/h23-0331-co88.md](suppl/h23-0331-co88.md) | 0 |  |
+| 附則（平成二六年三月五日政令第五二号） | [suppl/h26-0305-co52.md](suppl/h26-0305-co52.md) | 0 |  |
+| 附則（平成三一年三月一日政令第三二号） | [suppl/h31-0301-co32.md](suppl/h31-0301-co32.md) | 1 | 2019-03-05 |
+| 附則（令和六年二月二六日政令第三九号） | [suppl/r6-0226-co39.md](suppl/r6-0226-co39.md) | 1 | 2024-03-01 |
