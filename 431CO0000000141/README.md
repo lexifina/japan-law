@@ -2,20 +2,20 @@
 
 平成三十一年政令第百四十一号 · <https://laws.e-gov.go.jp/law/431CO0000000141>
 
-2026-11-03 現在の本文（2026-03-06 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 8 件（2019-10-01 施行から）。2026-11-05 現在の本文は 2026-03-06 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-03-06: the oldest version available; its revision history is not yet added.
+8 revisions in e-Gov, from 2019-10-01; the text in force on 2026-11-05 is the revision of 2026-03-06.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和二年三月六日政令第三七号） | [suppl/r2-0306-co37.md](suppl/r2-0306-co37.md) |
-| 附則（令和二年六月五日政令第一七八号） | [suppl/r2-0605-co178.md](suppl/r2-0605-co178.md) |
-| 附則（令和三年三月五日政令第四二号） | [suppl/r3-0305-co42.md](suppl/r3-0305-co42.md) |
-| 附則（令和五年三月一五日政令第五二号） | [suppl/r5-0315-co52.md](suppl/r5-0315-co52.md) |
-| 附則（令和六年三月一三日政令第五一号） | [suppl/r6-0313-co51.md](suppl/r6-0313-co51.md) |
-| 附則（令和七年三月一九日政令第六五号） | [suppl/r7-0319-co65.md](suppl/r7-0319-co65.md) |
-| 附則（令和八年三月六日政令第二二号） | [suppl/r8-0306-co22.md](suppl/r8-0306-co22.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 7 | 2026-03-06 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和二年三月六日政令第三七号） | [suppl/r2-0306-co37.md](suppl/r2-0306-co37.md) | 1 | 2020-03-06 |
+| 附則（令和二年六月五日政令第一七八号） | [suppl/r2-0605-co178.md](suppl/r2-0605-co178.md) | 1 | 2020-06-05 |
+| 附則（令和三年三月五日政令第四二号） | [suppl/r3-0305-co42.md](suppl/r3-0305-co42.md) | 1 | 2021-03-05 |
+| 附則（令和五年三月一五日政令第五二号） | [suppl/r5-0315-co52.md](suppl/r5-0315-co52.md) | 1 | 2023-03-15 |
+| 附則（令和六年三月一三日政令第五一号） | [suppl/r6-0313-co51.md](suppl/r6-0313-co51.md) | 1 | 2024-03-13 |
+| 附則（令和七年三月一九日政令第六五号） | [suppl/r7-0319-co65.md](suppl/r7-0319-co65.md) | 1 | 2025-03-19 |
+| 附則（令和八年三月六日政令第二二号） | [suppl/r8-0306-co22.md](suppl/r8-0306-co22.md) | 1 | 2026-03-06 |

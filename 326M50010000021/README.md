@@ -2,95 +2,95 @@
 
 昭和二十六年農林省令第二十一号 · <https://laws.e-gov.go.jp/law/326M50010000021>
 
-2026-11-03 現在の本文（2026-08-03 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 10 件（2017-04-01 施行から）。2026-11-05 現在の本文は 2026-08-03 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-08-03: the oldest version available; its revision history is not yet added.
+10 revisions in e-Gov, from 2017-04-01; the text in force on 2026-11-05 is the revision of 2026-08-03.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 第十六条 | [art-016.md](art-016.md) |
-| 第十七条 | [art-017.md](art-017.md) |
-| 第十八条 | [art-018.md](art-018.md) |
-| 第十九条 | [art-019.md](art-019.md) |
-| 第二十条 | [art-020.md](art-020.md) |
-| 第二十一条 | [art-021.md](art-021.md) |
-| 第二十二条 | [art-022.md](art-022.md) |
-| 第二十三条 | [art-023.md](art-023.md) |
-| 第二十四条 | [art-024.md](art-024.md) |
-| 第二十五条 | [art-025.md](art-025.md) |
-| 第二十六条 | [art-026.md](art-026.md) |
-| 第二十七条 | [art-027.md](art-027.md) |
-| 第二十八条 | [art-028.md](art-028.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和三八年五月一日農林省令第三六号） | [suppl/s38-0501-m36.md](suppl/s38-0501-m36.md) |
-| 附則（昭和四六年一月一四日農林省令第二号） | [suppl/s46-0114-m2.md](suppl/s46-0114-m2.md) |
-| 附則（昭和四六年三月三〇日農林省令第一五号） | [suppl/s46-0330-m15.md](suppl/s46-0330-m15.md) |
-| 附則（昭和四六年七月一日農林省令第五五号） | [suppl/s46-0701-m55.md](suppl/s46-0701-m55.md) |
-| 附則（昭和五一年一月二二日農林省令第二号） | [suppl/s51-0122-m2.md](suppl/s51-0122-m2.md) |
-| 附則（昭和五三年三月二七日農林省令第一五号） | [suppl/s53-0327-m15.md](suppl/s53-0327-m15.md) |
-| 附則（昭和五三年四月二八日農林省令第三一号） | [suppl/s53-0428-m31.md](suppl/s53-0428-m31.md) |
-| 附則（昭和五三年七月五日農林省令第四九号） | [suppl/s53-0705-m49.md](suppl/s53-0705-m49.md) |
-| 附則（昭和五六年五月二二日農林水産省令第二〇号） | [suppl/s56-0522-m20.md](suppl/s56-0522-m20.md) |
-| 附則（昭和五八年七月三〇日農林水産省令第二六号） | [suppl/s58-0730-m26.md](suppl/s58-0730-m26.md) |
-| 附則（昭和五八年一二月二六日農林水産省令第五七号） | [suppl/s58-1226-m57.md](suppl/s58-1226-m57.md) |
-| 附則（昭和五九年五月一五日農林水産省令第一九号） | [suppl/s59-0515-m19.md](suppl/s59-0515-m19.md) |
-| 附則（平成五年四月一日農林水産省令第一二号） | [suppl/h5-0401-m12.md](suppl/h5-0401-m12.md) |
-| 附則（平成八年一〇月二九日農林水産省令第六〇号） | [suppl/h8-1029-m60.md](suppl/h8-1029-m60.md) |
-| 附則（平成一一年一月一一日農林水産省令第一号） | [suppl/h11-0111-m1.md](suppl/h11-0111-m1.md) |
-| 附則（平成一一年三月三〇日農林水産省令第一五号） | [suppl/h11-0330-m15.md](suppl/h11-0330-m15.md) |
-| 附則（平成一二年九月一日農林水産省令第八二号） | [suppl/h12-0901-m82.md](suppl/h12-0901-m82.md) |
-| 附則（平成一三年三月二二日農林水産省令第五九号） | [suppl/h13-0322-m59.md](suppl/h13-0322-m59.md) |
-| 附則（平成一三年三月三〇日農林水産省令第七七号） | [suppl/h13-0330-m77.md](suppl/h13-0330-m77.md) |
-| 附則（平成一四年七月一九日農林水産省令第六五号） | [suppl/h14-0719-m65.md](suppl/h14-0719-m65.md) |
-| 附則（平成一五年三月六日農林水産省令第一三号） | [suppl/h15-0306-m13.md](suppl/h15-0306-m13.md) |
-| 附則（平成一六年三月一八日農林水産省令第一八号） | [suppl/h16-0318-m18.md](suppl/h16-0318-m18.md) |
-| 附則（平成一六年六月四日農林水産省令第四九号） | [suppl/h16-0604-m49.md](suppl/h16-0604-m49.md) |
-| 附則（平成一六年六月二一日農林水産省令第五四号） | [suppl/h16-0621-m54.md](suppl/h16-0621-m54.md) |
-| 附則（平成一九年三月八日農林水産省令第六号） | [suppl/h19-0308-m6.md](suppl/h19-0308-m6.md) |
-| 附則（平成一九年三月三〇日農林水産省令第二八号） | [suppl/h19-0330-m28.md](suppl/h19-0330-m28.md) |
-| 附則（平成二八年三月二四日農林水産省令第一六号） | [suppl/h28-0324-m16.md](suppl/h28-0324-m16.md) |
-| 附則（平成二八年一〇月三一日農林水産省令第七一号） | [suppl/h28-1031-m71.md](suppl/h28-1031-m71.md) |
-| 附則（平成三〇年一一月三〇日農林水産省令第七五号） | [suppl/h30-1130-m75.md](suppl/h30-1130-m75.md) |
-| 附則（令和元年六月二七日農林水産省令第一〇号） | [suppl/r1-0627-m10.md](suppl/r1-0627-m10.md) |
-| 附則（令和元年六月二八日農林水産省令第一一号） | [suppl/r1-0628-m11.md](suppl/r1-0628-m11.md) |
-| 附則（令和二年一二月二一日農林水産省令第八三号） | [suppl/r2-1221-m83.md](suppl/r2-1221-m83.md) |
-| 附則（令和五年九月二九日農林水産省令第四九号） | [suppl/r5-0929-m49.md](suppl/r5-0929-m49.md) |
-| 附則（令和五年一二月二八日農林水産省令第六三号） | [suppl/r5-1228-m63.md](suppl/r5-1228-m63.md) |
-| 附則（令和八年八月三日農林水産省令第五六号） | [suppl/r8-0803-m56.md](suppl/r8-0803-m56.md) |
-| 別記 | [appdx/note-1.md](appdx/note-1.md) |
-| 様式第１号 | [appdx/style-1.md](appdx/style-1.md) |
-| 様式第２号 | [appdx/style-2.md](appdx/style-2.md) |
-| 様式第３号 | [appdx/style-3.md](appdx/style-3.md) |
-| 様式第４号 | [appdx/style-4.md](appdx/style-4.md) |
-| 様式第５号 | [appdx/style-5.md](appdx/style-5.md) |
-| 様式第６号 | [appdx/style-6.md](appdx/style-6.md) |
-| 様式第７号 | [appdx/style-7.md](appdx/style-7.md) |
-| 様式第８号 | [appdx/style-8.md](appdx/style-8.md) |
-| 様式第９号 | [appdx/style-9.md](appdx/style-9.md) |
-| 様式第１０号 | [appdx/style-10.md](appdx/style-10.md) |
-| 様式第１１号 | [appdx/style-11.md](appdx/style-11.md) |
-| 様式第１２号 | [appdx/style-12.md](appdx/style-12.md) |
-| 様式第１３号 | [appdx/style-13.md](appdx/style-13.md) |
-| 様式第１４号 | [appdx/style-14.md](appdx/style-14.md) |
-| 様式第１５号 | [appdx/style-15.md](appdx/style-15.md) |
-| 様式第１６号 | [appdx/style-16.md](appdx/style-16.md) |
-| 様式第１７号 | [appdx/style-17.md](appdx/style-17.md) |
-| 様式第１８号 | [appdx/style-18.md](appdx/style-18.md) |
-| 様式第１９号 | [appdx/style-19.md](appdx/style-19.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2018-12-01 |
+| 第二条 | [art-002.md](art-002.md) | 3 | 2024-04-01 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2018-12-01 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2018-12-01 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2018-12-01 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2018-12-01 |
+| 第七条 | [art-007.md](art-007.md) | 2 | 2023-09-29 |
+| 第八条 | [art-008.md](art-008.md) | 2 | 2023-09-29 |
+| 第九条 | [art-009.md](art-009.md) | 1 | 2018-12-01 |
+| 第十条 | [art-010.md](art-010.md) | 2 | 2023-09-29 |
+| 第十一条 | [art-011.md](art-011.md) | 2 | 2019-06-28 |
+| 第十二条 | [art-012.md](art-012.md) | 1 | 2018-12-01 |
+| 第十三条 | [art-013.md](art-013.md) | 2 | 2019-06-28 |
+| 第十四条 | [art-014.md](art-014.md) | 2 | 2026-08-03 |
+| 第十五条 | [art-015.md](art-015.md) | 1 | 2018-12-01 |
+| 第十六条 | [art-016.md](art-016.md) | 1 | 2018-12-01 |
+| 第十七条 | [art-017.md](art-017.md) | 1 | 2018-12-01 |
+| 第十八条 | [art-018.md](art-018.md) | 2 | 2020-04-01 |
+| 第十九条 | [art-019.md](art-019.md) | 2 | 2019-06-28 |
+| 第二十条 | [art-020.md](art-020.md) | 1 | 2018-12-01 |
+| 第二十一条 | [art-021.md](art-021.md) | 1 | 2018-12-01 |
+| 第二十二条 | [art-022.md](art-022.md) | 2 | 2020-04-01 |
+| 第二十三条 | [art-023.md](art-023.md) | 1 | 2018-12-01 |
+| 第二十四条 | [art-024.md](art-024.md) | 1 | 2018-12-01 |
+| 第二十五条 | [art-025.md](art-025.md) | 1 | 2018-12-01 |
+| 第二十六条 | [art-026.md](art-026.md) | 1 | 2018-12-01 |
+| 第二十七条 | [art-027.md](art-027.md) | 1 | 2018-12-01 |
+| 第二十八条 | [art-028.md](art-028.md) | 1 | 2018-12-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和三八年五月一日農林省令第三六号） | [suppl/s38-0501-m36.md](suppl/s38-0501-m36.md) | 0 |  |
+| 附則（昭和四六年一月一四日農林省令第二号） | [suppl/s46-0114-m2.md](suppl/s46-0114-m2.md) | 0 |  |
+| 附則（昭和四六年三月三〇日農林省令第一五号） | [suppl/s46-0330-m15.md](suppl/s46-0330-m15.md) | 0 |  |
+| 附則（昭和四六年七月一日農林省令第五五号） | [suppl/s46-0701-m55.md](suppl/s46-0701-m55.md) | 0 |  |
+| 附則（昭和五一年一月二二日農林省令第二号） | [suppl/s51-0122-m2.md](suppl/s51-0122-m2.md) | 0 |  |
+| 附則（昭和五三年三月二七日農林省令第一五号） | [suppl/s53-0327-m15.md](suppl/s53-0327-m15.md) | 0 |  |
+| 附則（昭和五三年四月二八日農林省令第三一号） | [suppl/s53-0428-m31.md](suppl/s53-0428-m31.md) | 0 |  |
+| 附則（昭和五三年七月五日農林省令第四九号） | [suppl/s53-0705-m49.md](suppl/s53-0705-m49.md) | 0 |  |
+| 附則（昭和五六年五月二二日農林水産省令第二〇号） | [suppl/s56-0522-m20.md](suppl/s56-0522-m20.md) | 0 |  |
+| 附則（昭和五八年七月三〇日農林水産省令第二六号） | [suppl/s58-0730-m26.md](suppl/s58-0730-m26.md) | 0 |  |
+| 附則（昭和五八年一二月二六日農林水産省令第五七号） | [suppl/s58-1226-m57.md](suppl/s58-1226-m57.md) | 0 |  |
+| 附則（昭和五九年五月一五日農林水産省令第一九号） | [suppl/s59-0515-m19.md](suppl/s59-0515-m19.md) | 0 |  |
+| 附則（平成五年四月一日農林水産省令第一二号） | [suppl/h5-0401-m12.md](suppl/h5-0401-m12.md) | 0 |  |
+| 附則（平成八年一〇月二九日農林水産省令第六〇号） | [suppl/h8-1029-m60.md](suppl/h8-1029-m60.md) | 0 |  |
+| 附則（平成一一年一月一一日農林水産省令第一号） | [suppl/h11-0111-m1.md](suppl/h11-0111-m1.md) | 0 |  |
+| 附則（平成一一年三月三〇日農林水産省令第一五号） | [suppl/h11-0330-m15.md](suppl/h11-0330-m15.md) | 0 |  |
+| 附則（平成一二年九月一日農林水産省令第八二号） | [suppl/h12-0901-m82.md](suppl/h12-0901-m82.md) | 0 |  |
+| 附則（平成一三年三月二二日農林水産省令第五九号） | [suppl/h13-0322-m59.md](suppl/h13-0322-m59.md) | 0 |  |
+| 附則（平成一三年三月三〇日農林水産省令第七七号） | [suppl/h13-0330-m77.md](suppl/h13-0330-m77.md) | 0 |  |
+| 附則（平成一四年七月一九日農林水産省令第六五号） | [suppl/h14-0719-m65.md](suppl/h14-0719-m65.md) | 0 |  |
+| 附則（平成一五年三月六日農林水産省令第一三号） | [suppl/h15-0306-m13.md](suppl/h15-0306-m13.md) | 0 |  |
+| 附則（平成一六年三月一八日農林水産省令第一八号） | [suppl/h16-0318-m18.md](suppl/h16-0318-m18.md) | 0 |  |
+| 附則（平成一六年六月四日農林水産省令第四九号） | [suppl/h16-0604-m49.md](suppl/h16-0604-m49.md) | 0 |  |
+| 附則（平成一六年六月二一日農林水産省令第五四号） | [suppl/h16-0621-m54.md](suppl/h16-0621-m54.md) | 0 |  |
+| 附則（平成一九年三月八日農林水産省令第六号） | [suppl/h19-0308-m6.md](suppl/h19-0308-m6.md) | 0 |  |
+| 附則（平成一九年三月三〇日農林水産省令第二八号） | [suppl/h19-0330-m28.md](suppl/h19-0330-m28.md) | 0 |  |
+| 附則（平成二八年三月二四日農林水産省令第一六号） | [suppl/h28-0324-m16.md](suppl/h28-0324-m16.md) | 0 |  |
+| 附則（平成二八年一〇月三一日農林水産省令第七一号） | [suppl/h28-1031-m71.md](suppl/h28-1031-m71.md) | 0 |  |
+| 附則（平成三〇年一一月三〇日農林水産省令第七五号） | [suppl/h30-1130-m75.md](suppl/h30-1130-m75.md) | 1 | 2018-12-01 |
+| 附則（令和元年六月二七日農林水産省令第一〇号） | [suppl/r1-0627-m10.md](suppl/r1-0627-m10.md) | 1 | 2019-07-01 |
+| 附則（令和元年六月二八日農林水産省令第一一号） | [suppl/r1-0628-m11.md](suppl/r1-0628-m11.md) | 1 | 2019-06-28 |
+| 附則（令和二年一二月二一日農林水産省令第八三号） | [suppl/r2-1221-m83.md](suppl/r2-1221-m83.md) | 1 | 2020-12-21 |
+| 附則（令和五年九月二九日農林水産省令第四九号） | [suppl/r5-0929-m49.md](suppl/r5-0929-m49.md) | 1 | 2023-09-29 |
+| 附則（令和五年一二月二八日農林水産省令第六三号） | [suppl/r5-1228-m63.md](suppl/r5-1228-m63.md) | 1 | 2023-12-28 |
+| 附則（令和八年八月三日農林水産省令第五六号） | [suppl/r8-0803-m56.md](suppl/r8-0803-m56.md) | 1 | 2026-08-03 |
+| 別記 | [appdx/note-1.md](appdx/note-1.md) | 1 | 2018-12-01 |
+| 様式第１号 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
+| 様式第２号 | [appdx/style-2.md](appdx/style-2.md) | 1 | 2018-12-01 |
+| 様式第３号 | [appdx/style-3.md](appdx/style-3.md) | 1 | 2018-12-01 |
+| 様式第４号 | [appdx/style-4.md](appdx/style-4.md) | 1 | 2018-12-01 |
+| 様式第５号 | [appdx/style-5.md](appdx/style-5.md) | 1 | 2018-12-01 |
+| 様式第６号 | [appdx/style-6.md](appdx/style-6.md) | 1 | 2018-12-01 |
+| 様式第７号 | [appdx/style-7.md](appdx/style-7.md) | 1 | 2018-12-01 |
+| 様式第８号 | [appdx/style-8.md](appdx/style-8.md) | 1 | 2018-12-01 |
+| 様式第９号 | [appdx/style-9.md](appdx/style-9.md) | 1 | 2018-12-01 |
+| 様式第１０号 | [appdx/style-10.md](appdx/style-10.md) | 1 | 2018-12-01 |
+| 様式第１１号 | [appdx/style-11.md](appdx/style-11.md) | 1 | 2018-12-01 |
+| 様式第１２号 | [appdx/style-12.md](appdx/style-12.md) | 1 | 2018-12-01 |
+| 様式第１３号 | [appdx/style-13.md](appdx/style-13.md) | 1 | 2018-12-01 |
+| 様式第１４号 | [appdx/style-14.md](appdx/style-14.md) | 1 | 2018-12-01 |
+| 様式第１５号 | [appdx/style-15.md](appdx/style-15.md) | 1 | 2018-12-01 |
+| 様式第１６号 | [appdx/style-16.md](appdx/style-16.md) | 1 | 2018-12-01 |
+| 様式第１７号 | [appdx/style-17.md](appdx/style-17.md) | 1 | 2018-12-01 |
+| 様式第１８号 | [appdx/style-18.md](appdx/style-18.md) | 1 | 2018-12-01 |
+| 様式第１９号 | [appdx/style-19.md](appdx/style-19.md) | 1 | 2018-12-01 |

@@ -2,22 +2,22 @@
 
 令和二年政令第二百二十三号 · <https://laws.e-gov.go.jp/law/502CO0000000223>
 
-2026-11-03 現在の本文（2022-05-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2020-07-14 施行から）。2026-11-05 現在の本文は 2022-05-31 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-05-31: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2020-07-14; the text in force on 2026-11-05 is the revision of 2022-05-31.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和三年五月一〇日政令第一五三号） | [suppl/r3-0510-co153.md](suppl/r3-0510-co153.md) |
-| 附則（令和三年一二月一五日政令第三二九号） | [suppl/r3-1215-co329.md](suppl/r3-1215-co329.md) |
-| 附則（令和四年五月二七日政令第二〇三号） | [suppl/r4-0527-co203.md](suppl/r4-0527-co203.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2022-05-31 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2021-05-20 |
+| 第七条 | [art-007.md](art-007.md) | 1 | 2021-05-20 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和三年五月一〇日政令第一五三号） | [suppl/r3-0510-co153.md](suppl/r3-0510-co153.md) | 1 | 2021-05-20 |
+| 附則（令和三年一二月一五日政令第三二九号） | [suppl/r3-1215-co329.md](suppl/r3-1215-co329.md) | 1 | 2021-12-15 |
+| 附則（令和四年五月二七日政令第二〇三号） | [suppl/r4-0527-co203.md](suppl/r4-0527-co203.md) | 1 | 2022-05-31 |

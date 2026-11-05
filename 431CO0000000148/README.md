@@ -2,25 +2,25 @@
 
 平成三十一年政令第百四十八号 · <https://laws.e-gov.go.jp/law/431CO0000000148>
 
-2026-11-03 現在の本文（2025-11-12 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 9 件（2019-04-05 施行から）。2026-11-05 現在の本文は 2025-11-12 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-11-12: the oldest version available; its revision history is not yet added.
+9 revisions in e-Gov, from 2019-04-05; the text in force on 2026-11-05 is the revision of 2025-11-12.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和元年一一月一五日政令第一六三号） | [suppl/r1-1115-co163.md](suppl/r1-1115-co163.md) |
-| 附則（令和二年一一月一三日政令第三二四号） | [suppl/r2-1113-co324.md](suppl/r2-1113-co324.md) |
-| 附則（令和三年一一月一九日政令第三一一号） | [suppl/r3-1119-co311.md](suppl/r3-1119-co311.md) |
-| 附則（令和四年一一月七日政令第三四四号） | [suppl/r4-1107-co344.md](suppl/r4-1107-co344.md) |
-| 附則（令和五年五月一七日政令第一八二号） | [suppl/r5-0517-co182.md](suppl/r5-0517-co182.md) |
-| 附則（令和五年一一月一〇日政令第三二六号） | [suppl/r5-1110-co326.md](suppl/r5-1110-co326.md) |
-| 附則（令和六年一一月八日政令第三四四号） | [suppl/r6-1108-co344.md](suppl/r6-1108-co344.md) |
-| 附則（令和七年一一月一二日政令第三七二号） | [suppl/r7-1112-co372.md](suppl/r7-1112-co372.md) |
-| 別表 | [appdx/table.md](appdx/table.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 8 | 2025-11-12 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2023-05-17 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2023-05-17 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2023-05-17 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和元年一一月一五日政令第一六三号） | [suppl/r1-1115-co163.md](suppl/r1-1115-co163.md) | 1 | 2019-11-15 |
+| 附則（令和二年一一月一三日政令第三二四号） | [suppl/r2-1113-co324.md](suppl/r2-1113-co324.md) | 1 | 2020-11-13 |
+| 附則（令和三年一一月一九日政令第三一一号） | [suppl/r3-1119-co311.md](suppl/r3-1119-co311.md) | 1 | 2021-11-19 |
+| 附則（令和四年一一月七日政令第三四四号） | [suppl/r4-1107-co344.md](suppl/r4-1107-co344.md) | 1 | 2022-11-07 |
+| 附則（令和五年五月一七日政令第一八二号） | [suppl/r5-0517-co182.md](suppl/r5-0517-co182.md) | 1 | 2023-05-17 |
+| 附則（令和五年一一月一〇日政令第三二六号） | [suppl/r5-1110-co326.md](suppl/r5-1110-co326.md) | 1 | 2023-11-10 |
+| 附則（令和六年一一月八日政令第三四四号） | [suppl/r6-1108-co344.md](suppl/r6-1108-co344.md) | 1 | 2024-11-08 |
+| 附則（令和七年一一月一二日政令第三七二号） | [suppl/r7-1112-co372.md](suppl/r7-1112-co372.md) | 1 | 2025-11-12 |
+| 別表 | [appdx/table.md](appdx/table.md) | 1 | 2023-05-17 |

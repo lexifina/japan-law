@@ -2,21 +2,21 @@
 
 令和六年政令第四号 · <https://laws.e-gov.go.jp/law/506CO0000000004>
 
-2026-11-03 現在の本文（2026-07-29 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（2024-01-11 施行から）。2026-11-05 現在の本文は 2026-07-29 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-07-29: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 2024-01-11; the text in force on 2026-11-05 is the revision of 2026-07-29.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和六年二月一五日政令第三〇号） | [suppl/r6-0215-co30.md](suppl/r6-0215-co30.md) |
-| 附則（令和六年七月二六日政令第二四九号） | [suppl/r6-0726-co249.md](suppl/r6-0726-co249.md) |
-| 附則（令和六年一二月二七日政令第三九八号） | [suppl/r6-1227-co398.md](suppl/r6-1227-co398.md) |
-| 附則（令和七年七月二五日政令第二六七号） | [suppl/r7-0725-co267.md](suppl/r7-0725-co267.md) |
-| 附則（令和八年七月二九日政令第二三七号） | [suppl/r8-0729-co237.md](suppl/r8-0729-co237.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2024-02-15 |
+| 第二条 | [art-002.md](art-002.md) | 3 | 2026-07-29 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2024-12-27 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和六年二月一五日政令第三〇号） | [suppl/r6-0215-co30.md](suppl/r6-0215-co30.md) | 1 | 2024-02-15 |
+| 附則（令和六年七月二六日政令第二四九号） | [suppl/r6-0726-co249.md](suppl/r6-0726-co249.md) | 1 | 2024-07-26 |
+| 附則（令和六年一二月二七日政令第三九八号） | [suppl/r6-1227-co398.md](suppl/r6-1227-co398.md) | 1 | 2024-12-27 |
+| 附則（令和七年七月二五日政令第二六七号） | [suppl/r7-0725-co267.md](suppl/r7-0725-co267.md) | 1 | 2025-07-25 |
+| 附則（令和八年七月二九日政令第二三七号） | [suppl/r8-0729-co237.md](suppl/r8-0729-co237.md) | 1 | 2026-07-29 |
