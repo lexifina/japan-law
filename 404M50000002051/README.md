@@ -2,19 +2,19 @@
 
 平成四年総理府令第五十一号 · <https://laws.e-gov.go.jp/law/404M50000002051>
 
-2026-11-03 現在の本文（2023-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2015-04-01 施行から）。2026-11-06 現在の本文は 2023-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2023-04-01: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2015-04-01; the text in force on 2026-11-06 is the revision of 2023-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一二年八月一四日総理府令第一〇三号） | [suppl/h12-0814-m103.md](suppl/h12-0814-m103.md) |
-| 附則（平成二〇年六月一八日国土交通省令第四四号） | [suppl/h20-0618-m44.md](suppl/h20-0618-m44.md) |
-| 附則（平成二三年六月三〇日国土交通省令第四八号） | [suppl/h23-0630-m48.md](suppl/h23-0630-m48.md) |
-| 附則（平成二七年一月三〇日国土交通省令第六号） | [suppl/h27-0130-m6.md](suppl/h27-0130-m6.md) |
-| 附則（令和五年三月一七日国土交通省令第一〇号） | [suppl/r5-0317-m10.md](suppl/r5-0317-m10.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2023-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一二年八月一四日総理府令第一〇三号） | [suppl/h12-0814-m103.md](suppl/h12-0814-m103.md) | 0 |  |
+| 附則（平成二〇年六月一八日国土交通省令第四四号） | [suppl/h20-0618-m44.md](suppl/h20-0618-m44.md) | 0 |  |
+| 附則（平成二三年六月三〇日国土交通省令第四八号） | [suppl/h23-0630-m48.md](suppl/h23-0630-m48.md) | 0 |  |
+| 附則（平成二七年一月三〇日国土交通省令第六号） | [suppl/h27-0130-m6.md](suppl/h27-0130-m6.md) | 0 |  |
+| 附則（令和五年三月一七日国土交通省令第一〇号） | [suppl/r5-0317-m10.md](suppl/r5-0317-m10.md) | 1 | 2023-04-01 |

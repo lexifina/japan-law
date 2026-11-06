@@ -2,19 +2,19 @@
 
 昭和五十九年通商産業省令第二号 · <https://laws.e-gov.go.jp/law/359M50000400002>
 
-2026-11-03 現在の本文（2020-06-15 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2015-04-01 施行から）。2026-11-06 現在の本文は 2020-06-15 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2020-06-15: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2015-04-01; the text in force on 2026-11-06 is the revision of 2020-06-15.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一一年七月一日通商産業省令第六九号） | [suppl/h11-0701-m69.md](suppl/h11-0701-m69.md) |
-| 附則（平成一二年九月一九日通商産業省令第一六三号） | [suppl/h12-0919-m163.md](suppl/h12-0919-m163.md) |
-| 附則（平成一六年六月三〇日経済産業省令第七三号） | [suppl/h16-0630-m73.md](suppl/h16-0630-m73.md) |
-| 附則（平成二二年六月二日経済産業省令第三三号） | [suppl/h22-0602-m33.md](suppl/h22-0602-m33.md) |
-| 附則（平成二七年四月一日経済産業省令第四一号） | [suppl/h27-0401-m41.md](suppl/h27-0401-m41.md) |
-| 附則（令和二年六月一五日経済産業省令第五八号） | [suppl/r2-0615-m58.md](suppl/r2-0615-m58.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 1 | 2020-06-15 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一一年七月一日通商産業省令第六九号） | [suppl/h11-0701-m69.md](suppl/h11-0701-m69.md) | 0 |  |
+| 附則（平成一二年九月一九日通商産業省令第一六三号） | [suppl/h12-0919-m163.md](suppl/h12-0919-m163.md) | 0 |  |
+| 附則（平成一六年六月三〇日経済産業省令第七三号） | [suppl/h16-0630-m73.md](suppl/h16-0630-m73.md) | 0 |  |
+| 附則（平成二二年六月二日経済産業省令第三三号） | [suppl/h22-0602-m33.md](suppl/h22-0602-m33.md) | 0 |  |
+| 附則（平成二七年四月一日経済産業省令第四一号） | [suppl/h27-0401-m41.md](suppl/h27-0401-m41.md) | 0 |  |
+| 附則（令和二年六月一五日経済産業省令第五八号） | [suppl/r2-0615-m58.md](suppl/r2-0615-m58.md) | 1 | 2020-06-15 |
