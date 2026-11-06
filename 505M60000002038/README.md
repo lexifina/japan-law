@@ -2,41 +2,41 @@
 
 令和五年内閣府令第三十八号 · <https://laws.e-gov.go.jp/law/505M60000002038>
 
-2026-11-03 現在の本文（2026-04-08 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（2023-04-01 施行から）。2026-11-06 現在の本文は 2026-04-08 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-04-08: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 2023-04-01; the text in force on 2026-11-06 is the revision of 2026-04-08.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 目次 | [toc.md](toc.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 第十六条 | [art-016.md](art-016.md) |
-| 第十七条 | [art-017.md](art-017.md) |
-| 第十八条 | [art-018.md](art-018.md) |
-| 第十九条 | [art-019.md](art-019.md) |
-| 第二十条 | [art-020.md](art-020.md) |
-| 第二十一条 | [art-021.md](art-021.md) |
-| 第二十二条 | [art-022.md](art-022.md) |
-| 第二十三条 | [art-023.md](art-023.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和六年三月二九日内閣府令第四二号） | [suppl/r6-0329-m42.md](suppl/r6-0329-m42.md) |
-| 附則（令和六年八月二七日内閣府令第七二号） | [suppl/r6-0827-m72.md](suppl/r6-0827-m72.md) |
-| 附則（令和七年四月一日内閣府令第四四号） | [suppl/r7-0401-m44.md](suppl/r7-0401-m44.md) |
-| 附則（令和七年七月八日内閣府令第七〇号） | [suppl/r7-0708-m70.md](suppl/r7-0708-m70.md) |
-| 附則（令和八年四月八日内閣府令第四一号） | [suppl/r8-0408-m41.md](suppl/r8-0408-m41.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 目次 | [toc.md](toc.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2024-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2025-04-01 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2024-10-01 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2025-07-08 |
+| 第六条 | [art-006.md](art-006.md) | 2 | 2026-04-08 |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 第九条 | [art-009.md](art-009.md) | 0 |  |
+| 第十条 | [art-010.md](art-010.md) | 0 |  |
+| 第十一条 | [art-011.md](art-011.md) | 0 |  |
+| 第十二条 | [art-012.md](art-012.md) | 0 |  |
+| 第十三条 | [art-013.md](art-013.md) | 0 |  |
+| 第十四条 | [art-014.md](art-014.md) | 0 |  |
+| 第十五条 | [art-015.md](art-015.md) | 0 |  |
+| 第十六条 | [art-016.md](art-016.md) | 0 |  |
+| 第十七条 | [art-017.md](art-017.md) | 0 |  |
+| 第十八条 | [art-018.md](art-018.md) | 0 |  |
+| 第十九条 | [art-019.md](art-019.md) | 0 |  |
+| 第二十条 | [art-020.md](art-020.md) | 0 |  |
+| 第二十一条 | [art-021.md](art-021.md) | 0 |  |
+| 第二十二条 | [art-022.md](art-022.md) | 0 |  |
+| 第二十三条 | [art-023.md](art-023.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 1 | 2024-10-01 |
+| 附則（令和六年三月二九日内閣府令第四二号） | [suppl/r6-0329-m42.md](suppl/r6-0329-m42.md) | 1 | 2024-04-01 |
+| 附則（令和六年八月二七日内閣府令第七二号） | [suppl/r6-0827-m72.md](suppl/r6-0827-m72.md) | 1 | 2024-10-01 |
+| 附則（令和七年四月一日内閣府令第四四号） | [suppl/r7-0401-m44.md](suppl/r7-0401-m44.md) | 1 | 2025-04-01 |
+| 附則（令和七年七月八日内閣府令第七〇号） | [suppl/r7-0708-m70.md](suppl/r7-0708-m70.md) | 1 | 2025-07-08 |
+| 附則（令和八年四月八日内閣府令第四一号） | [suppl/r8-0408-m41.md](suppl/r8-0408-m41.md) | 1 | 2026-04-08 |

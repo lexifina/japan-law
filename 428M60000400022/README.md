@@ -2,102 +2,102 @@
 
 平成二十八年経済産業省令第二十二号 · <https://laws.e-gov.go.jp/law/428M60000400022>
 
-2026-11-03 現在の本文（2026-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 24 件（2017-04-01 施行から）。2026-11-06 現在の本文は 2026-10-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-10-01: the oldest version available; its revision history is not yet added.
+24 revisions in e-Gov, from 2017-04-01; the text in force on 2026-11-06 is the revision of 2026-10-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 目次 | [toc.md](toc.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条から第七条まで | [art-003-to-007.md](art-003-to-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十一条の二 | [art-011-2.md](art-011-2.md) |
-| 第十一条の三 | [art-011-3.md](art-011-3.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 第十六条 | [art-016.md](art-016.md) |
-| 第十七条 | [art-017.md](art-017.md) |
-| 第十八条 | [art-018.md](art-018.md) |
-| 第十九条 | [art-019.md](art-019.md) |
-| 第二十条 | [art-020.md](art-020.md) |
-| 第二十一条 | [art-021.md](art-021.md) |
-| 第二十二条 | [art-022.md](art-022.md) |
-| 第二十二条の二 | [art-022-2.md](art-022-2.md) |
-| 第二十三条 | [art-023.md](art-023.md) |
-| 第二十四条 | [art-024.md](art-024.md) |
-| 第二十五条 | [art-025.md](art-025.md) |
-| 第二十六条から第二十六条の三まで | [art-026-to-026-3.md](art-026-to-026-3.md) |
-| 第二十七条 | [art-027.md](art-027.md) |
-| 第二十七条の二 | [art-027-2.md](art-027-2.md) |
-| 第二十八条 | [art-028.md](art-028.md) |
-| 第二十九条 | [art-029.md](art-029.md) |
-| 第三十条 | [art-030.md](art-030.md) |
-| 第三十条の二 | [art-030-2.md](art-030-2.md) |
-| 第三十一条 | [art-031.md](art-031.md) |
-| 第三十一条の二 | [art-031-2.md](art-031-2.md) |
-| 第三十一条の三 | [art-031-3.md](art-031-3.md) |
-| 第三十二条 | [art-032.md](art-032.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二八年九月三〇日経済産業省令第九四号） | [suppl/h28-0930-m94.md](suppl/h28-0930-m94.md) |
-| 附則（平成二九年二月一七日経済産業省令第七号） | [suppl/h29-0217-m7.md](suppl/h29-0217-m7.md) |
-| 附則（平成二九年三月一四日経済産業省令第一三号） | [suppl/h29-0314-m13.md](suppl/h29-0314-m13.md) |
-| 附則（平成二九年九月二六日経済産業省令第七五号） | [suppl/h29-0926-m75.md](suppl/h29-0926-m75.md) |
-| 附則（平成二九年九月二八日経済産業省令第七七号） | [suppl/h29-0928-m77.md](suppl/h29-0928-m77.md) |
-| 附則（平成三〇年三月三〇日経済産業省令第一五号） | [suppl/h30-0330-m15.md](suppl/h30-0330-m15.md) |
-| 附則（平成三〇年五月一日経済産業省令第二六号） | [suppl/h30-0501-m26.md](suppl/h30-0501-m26.md) |
-| 附則（平成三一年三月二九日経済産業省令第三〇号） | [suppl/h31-0329-m30.md](suppl/h31-0329-m30.md) |
-| 附則（令和二年三月三一日経済産業省令第二八号） | [suppl/r2-0331-m28.md](suppl/r2-0331-m28.md) |
-| 附則（令和二年六月一日経済産業省令第五四号） | [suppl/r2-0601-m54.md](suppl/r2-0601-m54.md) |
-| 附則（令和二年六月三〇日経済産業省令第六一号） | [suppl/r2-0630-m61.md](suppl/r2-0630-m61.md) |
-| 附則（令和二年九月七日経済産業省令第七二号） | [suppl/r2-0907-m72.md](suppl/r2-0907-m72.md) |
-| 附則（令和三年三月一〇日経済産業省令第一二号） | [suppl/r3-0310-m12.md](suppl/r3-0310-m12.md) |
-| 附則（令和三年三月三一日経済産業省令第二二号） | [suppl/r3-0331-m22.md](suppl/r3-0331-m22.md) |
-| 附則（令和三年六月一六日経済産業省令第五一号） | [suppl/r3-0616-m51.md](suppl/r3-0616-m51.md) |
-| 附則（令和四年三月三一日経済産業省令第二四号） | [suppl/r4-0331-m24.md](suppl/r4-0331-m24.md) |
-| 附則（令和四年三月三一日経済産業省令第二五号） | [suppl/r4-0331-m25.md](suppl/r4-0331-m25.md) |
-| 附則（令和四年三月三一日経済産業省令第二七号） | [suppl/r4-0331-m27.md](suppl/r4-0331-m27.md) |
-| 附則（令和四年一一月一日経済産業省令第八二号） | [suppl/r4-1101-m82.md](suppl/r4-1101-m82.md) |
-| 附則（令和五年三月二八日経済産業省令第一一号） | [suppl/r5-0328-m11.md](suppl/r5-0328-m11.md) |
-| 附則（令和五年一一月六日経済産業省令第四八号） | [suppl/r5-1106-m48.md](suppl/r5-1106-m48.md) |
-| 附則（令和七年三月三一日経済産業省令第二一号） | [suppl/r7-0331-m21.md](suppl/r7-0331-m21.md) |
-| 附則（令和七年五月三〇日経済産業省令第四六号） | [suppl/r7-0530-m46.md](suppl/r7-0530-m46.md) |
-| 附則（令和八年三月三一日経済産業省令第二七号） | [suppl/r8-0331-m27.md](suppl/r8-0331-m27.md) |
-| 附則（令和八年五月二九日経済産業省令第五四号） | [suppl/r8-0529-m54.md](suppl/r8-0529-m54.md) |
-| 附則（令和八年九月三〇日経済産業省令第七四号） | [suppl/r8-0930-m74.md](suppl/r8-0930-m74.md) |
-| 様式第３ | [appdx/style-1.md](appdx/style-1.md) |
-| 様式第４ | [appdx/style-2.md](appdx/style-2.md) |
-| 様式第５ | [appdx/style-3.md](appdx/style-3.md) |
-| 様式第５の２ | [appdx/style-4.md](appdx/style-4.md) |
-| 様式第５の３ | [appdx/style-5.md](appdx/style-5.md) |
-| 様式第６ | [appdx/style-6.md](appdx/style-6.md) |
-| 様式第７ | [appdx/style-7.md](appdx/style-7.md) |
-| 様式第７の２ | [appdx/style-8.md](appdx/style-8.md) |
-| 様式第８ | [appdx/style-9.md](appdx/style-9.md) |
-| 様式第９ | [appdx/style-10.md](appdx/style-10.md) |
-| 様式第１０ | [appdx/style-11.md](appdx/style-11.md) |
-| 様式第１１ | [appdx/style-12.md](appdx/style-12.md) |
-| 様式第１２ | [appdx/style-13.md](appdx/style-13.md) |
-| 様式１３ | [appdx/style-14.md](appdx/style-14.md) |
-| 様式第１３の２ | [appdx/style-15.md](appdx/style-15.md) |
-| 様式第１３の３ | [appdx/style-16.md](appdx/style-16.md) |
-| 様式第１３の４ | [appdx/style-17.md](appdx/style-17.md) |
-| 様式第１３の５ | [appdx/style-18.md](appdx/style-18.md) |
-| 様式第１３の６ | [appdx/style-19.md](appdx/style-19.md) |
-| 様式第１３の７ | [appdx/style-20.md](appdx/style-20.md) |
-| 様式第１３の８ | [appdx/style-21.md](appdx/style-21.md) |
-| 様式第１３の９ | [appdx/style-22.md](appdx/style-22.md) |
-| 様式第１３の１０ | [appdx/style-23.md](appdx/style-23.md) |
-| 様式第１３の１１ | [appdx/style-24.md](appdx/style-24.md) |
-| 様式第１３の１２ | [appdx/style-25.md](appdx/style-25.md) |
-| 別表第１ | [appdx/table-1.md](appdx/table-1.md) |
-| 別表第２ | [appdx/table-2.md](appdx/table-2.md) |
-| 別表第３ | [appdx/table-3.md](appdx/table-3.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 目次 | [toc.md](toc.md) | 2 | 2022-11-01 |
+| 第一条 | [art-001.md](art-001.md) | 5 | 2023-11-13 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条から第七条まで | [art-003-to-007.md](art-003-to-007.md) | 1 | 2022-11-01 |
+| 第八条 | [art-008.md](art-008.md) | 6 | 2026-03-31 |
+| 第九条 | [art-009.md](art-009.md) | 8 | 2026-03-31 |
+| 第十条 | [art-010.md](art-010.md) | 4 | 2026-05-29 |
+| 第十一条 | [art-011.md](art-011.md) | 6 | 2026-03-31 |
+| 第十一条の二 | [art-011-2.md](art-011-2.md) | 1 | 2023-11-13 |
+| 第十一条の三 | [art-011-3.md](art-011-3.md) | 1 | 2023-11-13 |
+| 第十二条 | [art-012.md](art-012.md) | 3 | 2023-11-13 |
+| 第十三条 | [art-013.md](art-013.md) | 2 | 2023-11-13 |
+| 第十四条 | [art-014.md](art-014.md) | 1 | 2022-11-01 |
+| 第十五条 | [art-015.md](art-015.md) | 3 | 2022-11-01 |
+| 第十六条 | [art-016.md](art-016.md) | 3 | 2023-11-13 |
+| 第十七条 | [art-017.md](art-017.md) | 1 | 2022-11-01 |
+| 第十八条 | [art-018.md](art-018.md) | 1 | 2023-11-13 |
+| 第十九条 | [art-019.md](art-019.md) | 4 | 2023-11-13 |
+| 第二十条 | [art-020.md](art-020.md) | 4 | 2025-03-31 |
+| 第二十一条 | [art-021.md](art-021.md) | 7 | 2023-11-13 |
+| 第二十二条 | [art-022.md](art-022.md) | 4 | 2023-11-13 |
+| 第二十二条の二 | [art-022-2.md](art-022-2.md) | 2 | 2023-11-13 |
+| 第二十三条 | [art-023.md](art-023.md) | 0 |  |
+| 第二十四条 | [art-024.md](art-024.md) | 1 | 2023-11-13 |
+| 第二十五条 | [art-025.md](art-025.md) | 2 | 2023-11-13 |
+| 第二十六条から第二十六条の三まで | [art-026-to-026-3.md](art-026-to-026-3.md) | 1 | 2022-11-01 |
+| 第二十七条 | [art-027.md](art-027.md) | 10 | 2026-10-01 |
+| 第二十七条の二 | [art-027-2.md](art-027-2.md) | 2 | 2026-10-01 |
+| 第二十八条 | [art-028.md](art-028.md) | 2 | 2022-11-01 |
+| 第二十九条 | [art-029.md](art-029.md) | 2 | 2023-11-13 |
+| 第三十条 | [art-030.md](art-030.md) | 5 | 2026-03-31 |
+| 第三十条の二 | [art-030-2.md](art-030-2.md) | 2 | 2023-11-13 |
+| 第三十一条 | [art-031.md](art-031.md) | 8 | 2026-05-29 |
+| 第三十一条の二 | [art-031-2.md](art-031-2.md) | 7 | 2026-05-29 |
+| 第三十一条の三 | [art-031-3.md](art-031-3.md) | 1 | 2026-03-31 |
+| 第三十二条 | [art-032.md](art-032.md) | 2 | 2023-11-13 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二八年九月三〇日経済産業省令第九四号） | [suppl/h28-0930-m94.md](suppl/h28-0930-m94.md) | 0 |  |
+| 附則（平成二九年二月一七日経済産業省令第七号） | [suppl/h29-0217-m7.md](suppl/h29-0217-m7.md) | 2 | 2023-11-13 |
+| 附則（平成二九年三月一四日経済産業省令第一三号） | [suppl/h29-0314-m13.md](suppl/h29-0314-m13.md) | 0 |  |
+| 附則（平成二九年九月二六日経済産業省令第七五号） | [suppl/h29-0926-m75.md](suppl/h29-0926-m75.md) | 1 | 2017-10-01 |
+| 附則（平成二九年九月二八日経済産業省令第七七号） | [suppl/h29-0928-m77.md](suppl/h29-0928-m77.md) | 3 | 2022-04-01 |
+| 附則（平成三〇年三月三〇日経済産業省令第一五号） | [suppl/h30-0330-m15.md](suppl/h30-0330-m15.md) | 1 | 2018-03-30 |
+| 附則（平成三〇年五月一日経済産業省令第二六号） | [suppl/h30-0501-m26.md](suppl/h30-0501-m26.md) | 1 | 2018-05-01 |
+| 附則（平成三一年三月二九日経済産業省令第三〇号） | [suppl/h31-0329-m30.md](suppl/h31-0329-m30.md) | 1 | 2019-04-01 |
+| 附則（令和二年三月三一日経済産業省令第二八号） | [suppl/r2-0331-m28.md](suppl/r2-0331-m28.md) | 1 | 2020-04-01 |
+| 附則（令和二年六月一日経済産業省令第五四号） | [suppl/r2-0601-m54.md](suppl/r2-0601-m54.md) | 1 | 2020-06-01 |
+| 附則（令和二年六月三〇日経済産業省令第六一号） | [suppl/r2-0630-m61.md](suppl/r2-0630-m61.md) | 1 | 2020-07-01 |
+| 附則（令和二年九月七日経済産業省令第七二号） | [suppl/r2-0907-m72.md](suppl/r2-0907-m72.md) | 1 | 2020-09-07 |
+| 附則（令和三年三月一〇日経済産業省令第一二号） | [suppl/r3-0310-m12.md](suppl/r3-0310-m12.md) | 1 | 2021-04-01 |
+| 附則（令和三年三月三一日経済産業省令第二二号） | [suppl/r3-0331-m22.md](suppl/r3-0331-m22.md) | 1 | 2021-04-01 |
+| 附則（令和三年六月一六日経済産業省令第五一号） | [suppl/r3-0616-m51.md](suppl/r3-0616-m51.md) | 1 | 2021-07-01 |
+| 附則（令和四年三月三一日経済産業省令第二四号） | [suppl/r4-0331-m24.md](suppl/r4-0331-m24.md) | 1 | 2022-04-01 |
+| 附則（令和四年三月三一日経済産業省令第二五号） | [suppl/r4-0331-m25.md](suppl/r4-0331-m25.md) | 1 | 2022-04-01 |
+| 附則（令和四年三月三一日経済産業省令第二七号） | [suppl/r4-0331-m27.md](suppl/r4-0331-m27.md) | 1 | 2022-04-01 |
+| 附則（令和四年一一月一日経済産業省令第八二号） | [suppl/r4-1101-m82.md](suppl/r4-1101-m82.md) | 1 | 2022-11-01 |
+| 附則（令和五年三月二八日経済産業省令第一一号） | [suppl/r5-0328-m11.md](suppl/r5-0328-m11.md) | 1 | 2023-04-01 |
+| 附則（令和五年一一月六日経済産業省令第四八号） | [suppl/r5-1106-m48.md](suppl/r5-1106-m48.md) | 1 | 2023-11-13 |
+| 附則（令和七年三月三一日経済産業省令第二一号） | [suppl/r7-0331-m21.md](suppl/r7-0331-m21.md) | 1 | 2025-03-31 |
+| 附則（令和七年五月三〇日経済産業省令第四六号） | [suppl/r7-0530-m46.md](suppl/r7-0530-m46.md) | 1 | 2025-06-06 |
+| 附則（令和八年三月三一日経済産業省令第二七号） | [suppl/r8-0331-m27.md](suppl/r8-0331-m27.md) | 1 | 2026-03-31 |
+| 附則（令和八年五月二九日経済産業省令第五四号） | [suppl/r8-0529-m54.md](suppl/r8-0529-m54.md) | 1 | 2026-05-29 |
+| 附則（令和八年九月三〇日経済産業省令第七四号） | [suppl/r8-0930-m74.md](suppl/r8-0930-m74.md) | 1 | 2026-10-01 |
+| 別表第１ | [appdx/table-1.md](appdx/table-1.md) | 7 | 2022-11-01 |
+| 別表第２ | [appdx/table-2.md](appdx/table-2.md) | 6 | 2025-03-31 |
+| 別表第３ | [appdx/table-3.md](appdx/table-3.md) | 4 | 2023-11-13 |
+| 様式第３ | [appdx/style-1.md](appdx/style-1.md) | 1 | 2022-11-01 |
+| 様式第４ | [appdx/style-2.md](appdx/style-2.md) | 1 | 2022-11-01 |
+| 様式第５ | [appdx/style-3.md](appdx/style-3.md) | 1 | 2022-11-01 |
+| 様式第５の２ | [appdx/style-4.md](appdx/style-4.md) | 2 | 2023-11-13 |
+| 様式第５の３ | [appdx/style-5.md](appdx/style-5.md) | 2 | 2023-11-13 |
+| 様式第６ | [appdx/style-6.md](appdx/style-6.md) | 2 | 2023-11-13 |
+| 様式第７ | [appdx/style-7.md](appdx/style-7.md) | 2 | 2023-11-13 |
+| 様式第７の２ | [appdx/style-8.md](appdx/style-8.md) | 2 | 2023-11-13 |
+| 様式第８ | [appdx/style-9.md](appdx/style-9.md) | 4 | 2023-11-13 |
+| 様式第９ | [appdx/style-10.md](appdx/style-10.md) | 4 | 2023-11-13 |
+| 様式第１０ | [appdx/style-11.md](appdx/style-11.md) | 4 | 2023-11-13 |
+| 様式第１１ | [appdx/style-12.md](appdx/style-12.md) | 4 | 2023-11-13 |
+| 様式第１２ | [appdx/style-13.md](appdx/style-13.md) | 4 | 2023-11-13 |
+| 様式１３ | [appdx/style-14.md](appdx/style-14.md) | 4 | 2026-03-31 |
+| 様式第１３の２ | [appdx/style-15.md](appdx/style-15.md) | 3 | 2023-11-13 |
+| 様式第１３の３ | [appdx/style-16.md](appdx/style-16.md) | 3 | 2023-11-13 |
+| 様式第１３の４ | [appdx/style-17.md](appdx/style-17.md) | 3 | 2023-11-13 |
+| 様式第１３の５ | [appdx/style-18.md](appdx/style-18.md) | 4 | 2026-03-31 |
+| 様式第１３の６ | [appdx/style-19.md](appdx/style-19.md) | 1 | 2023-11-13 |
+| 様式第１３の７ | [appdx/style-20.md](appdx/style-20.md) | 1 | 2026-03-31 |
+| 様式第１３の８ | [appdx/style-21.md](appdx/style-21.md) | 1 | 2026-03-31 |
+| 様式第１３の９ | [appdx/style-22.md](appdx/style-22.md) | 1 | 2026-03-31 |
+| 様式第１３の１０ | [appdx/style-23.md](appdx/style-23.md) | 1 | 2026-03-31 |
+| 様式第１３の１１ | [appdx/style-24.md](appdx/style-24.md) | 1 | 2026-03-31 |
+| 様式第１３の１２ | [appdx/style-25.md](appdx/style-25.md) | 1 | 2026-03-31 |

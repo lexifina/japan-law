@@ -2,24 +2,24 @@
 
 平成二十年農林水産省・経済産業省令第四号 · <https://laws.e-gov.go.jp/law/420M60000600004>
 
-2026-11-03 現在の本文（2020-12-28 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2012-08-30 施行から）。2026-11-06 現在の本文は 2020-12-28 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2020-12-28: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2012-08-30; the text in force on 2026-11-06 is the revision of 2020-12-28.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第一条の二 | [art-001-2.md](art-001-2.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二一年四月一日農林水産省・経済産業省令第三号） | [suppl/h21-0401-m3.md](suppl/h21-0401-m3.md) |
-| 附則（平成二四年八月三〇日農林水産省・経済産業省令第三号） | [suppl/h24-0830-m3.md](suppl/h24-0830-m3.md) |
-| 附則（令和元年七月一日農林水産省・経済産業省令第三号） | [suppl/r1-0701-m3.md](suppl/r1-0701-m3.md) |
-| 附則（令和元年七月一九日農林水産省・経済産業省令第四号） | [suppl/r1-0719-m4.md](suppl/r1-0719-m4.md) |
-| 附則（令和二年一二月二八日農林水産省・経済産業省令第八号） | [suppl/r2-1228-m8.md](suppl/r2-1228-m8.md) |
-| 様式第１ | [appdx/style-1.md](appdx/style-1.md) |
-| 様式第２ | [appdx/style-2.md](appdx/style-2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第一条の二 | [art-001-2.md](art-001-2.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二一年四月一日農林水産省・経済産業省令第三号） | [suppl/h21-0401-m3.md](suppl/h21-0401-m3.md) | 0 |  |
+| 附則（平成二四年八月三〇日農林水産省・経済産業省令第三号） | [suppl/h24-0830-m3.md](suppl/h24-0830-m3.md) | 0 |  |
+| 附則（令和元年七月一日農林水産省・経済産業省令第三号） | [suppl/r1-0701-m3.md](suppl/r1-0701-m3.md) | 1 | 2019-07-01 |
+| 附則（令和元年七月一九日農林水産省・経済産業省令第四号） | [suppl/r1-0719-m4.md](suppl/r1-0719-m4.md) | 1 | 2019-07-19 |
+| 附則（令和二年一二月二八日農林水産省・経済産業省令第八号） | [suppl/r2-1228-m8.md](suppl/r2-1228-m8.md) | 1 | 2020-12-28 |
+| 様式第１ | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
+| 様式第２ | [appdx/style-2.md](appdx/style-2.md) | 0 |  |

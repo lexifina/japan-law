@@ -2,59 +2,59 @@
 
 平成二十二年厚生労働省令第六十七号 · <https://laws.e-gov.go.jp/law/422M60000100067>
 
-2026-11-03 現在の本文（2025-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 9 件（2016-04-01 施行から）。2026-11-06 現在の本文は 2025-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-04-01: the oldest version available; its revision history is not yet added.
+9 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-06 is the revision of 2025-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 第十六条 | [art-016.md](art-016.md) |
-| 第十七条 | [art-017.md](art-017.md) |
-| 第十八条 | [art-018.md](art-018.md) |
-| 第十九条 | [art-019.md](art-019.md) |
-| 第二十条 | [art-020.md](art-020.md) |
-| 第二十一条 | [art-021.md](art-021.md) |
-| 第二十二条 | [art-022.md](art-022.md) |
-| 第二十三条 | [art-023.md](art-023.md) |
-| 第二十四条 | [art-024.md](art-024.md) |
-| 第二十五条 | [art-025.md](art-025.md) |
-| 第二十六条 | [art-026.md](art-026.md) |
-| 第二十七条 | [art-027.md](art-027.md) |
-| 第二十八条 | [art-028.md](art-028.md) |
-| 第二十九条 | [art-029.md](art-029.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二三年一一月一八日厚生労働省令第一三六号） | [suppl/h23-1118-m136.md](suppl/h23-1118-m136.md) |
-| 附則（平成二四年九月二八日厚生労働省令第一三五号） | [suppl/h24-0928-m135.md](suppl/h24-0928-m135.md) |
-| 附則（平成二七年三月三一日厚生労働省令第七三号） | [suppl/h27-0331-m73.md](suppl/h27-0331-m73.md) |
-| 附則（平成二七年一二月九日厚生労働省令第一六八号） | [suppl/h27-1209-m168.md](suppl/h27-1209-m168.md) |
-| 附則（平成三一年三月二二日厚生労働省令第二八号） | [suppl/h31-0322-m28.md](suppl/h31-0322-m28.md) |
-| 附則（令和元年五月七日厚生労働省令第一号） | [suppl/r1-0507-m1.md](suppl/r1-0507-m1.md) |
-| 附則（令和元年六月二八日厚生労働省令第二〇号） | [suppl/r1-0628-m20.md](suppl/r1-0628-m20.md) |
-| 附則（令和二年一〇月二六日厚生労働省令第一七七号） | [suppl/r2-1026-m177.md](suppl/r2-1026-m177.md) |
-| 附則（令和二年一二月二五日厚生労働省令第二〇八号） | [suppl/r2-1225-m208.md](suppl/r2-1225-m208.md) |
-| 附則（令和四年九月八日厚生労働省令第一二六号） | [suppl/r4-0908-m126.md](suppl/r4-0908-m126.md) |
-| 附則（令和六年五月二四日厚生労働省令第八九号） | [suppl/r6-0524-m89.md](suppl/r6-0524-m89.md) |
-| 附則（令和六年一二月二七日厚生労働省令第一六三号） | [suppl/r6-1227-m163.md](suppl/r6-1227-m163.md) |
-| 様式第一号 | [appdx/style-1.md](appdx/style-1.md) |
-| 様式第二号 | [appdx/style-2.md](appdx/style-2.md) |
-| 様式第三号 | [appdx/style-3.md](appdx/style-3.md) |
-| 様式第四号 | [appdx/style-4.md](appdx/style-4.md) |
-| 様式第五号 | [appdx/style-5.md](appdx/style-5.md) |
-| 様式第六号 | [appdx/style-6.md](appdx/style-6.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 0 |  |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 第九条 | [art-009.md](art-009.md) | 2 | 2024-05-27 |
+| 第十条 | [art-010.md](art-010.md) | 0 |  |
+| 第十一条 | [art-011.md](art-011.md) | 0 |  |
+| 第十二条 | [art-012.md](art-012.md) | 0 |  |
+| 第十三条 | [art-013.md](art-013.md) | 0 |  |
+| 第十四条 | [art-014.md](art-014.md) | 0 |  |
+| 第十五条 | [art-015.md](art-015.md) | 0 |  |
+| 第十六条 | [art-016.md](art-016.md) | 0 |  |
+| 第十七条 | [art-017.md](art-017.md) | 0 |  |
+| 第十八条 | [art-018.md](art-018.md) | 0 |  |
+| 第十九条 | [art-019.md](art-019.md) | 0 |  |
+| 第二十条 | [art-020.md](art-020.md) | 0 |  |
+| 第二十一条 | [art-021.md](art-021.md) | 0 |  |
+| 第二十二条 | [art-022.md](art-022.md) | 0 |  |
+| 第二十三条 | [art-023.md](art-023.md) | 0 |  |
+| 第二十四条 | [art-024.md](art-024.md) | 0 |  |
+| 第二十五条 | [art-025.md](art-025.md) | 3 | 2022-10-01 |
+| 第二十六条 | [art-026.md](art-026.md) | 3 | 2022-10-01 |
+| 第二十七条 | [art-027.md](art-027.md) | 3 | 2022-10-01 |
+| 第二十八条 | [art-028.md](art-028.md) | 1 | 2020-12-25 |
+| 第二十九条 | [art-029.md](art-029.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二三年一一月一八日厚生労働省令第一三六号） | [suppl/h23-1118-m136.md](suppl/h23-1118-m136.md) | 0 |  |
+| 附則（平成二四年九月二八日厚生労働省令第一三五号） | [suppl/h24-0928-m135.md](suppl/h24-0928-m135.md) | 0 |  |
+| 附則（平成二七年三月三一日厚生労働省令第七三号） | [suppl/h27-0331-m73.md](suppl/h27-0331-m73.md) | 0 |  |
+| 附則（平成二七年一二月九日厚生労働省令第一六八号） | [suppl/h27-1209-m168.md](suppl/h27-1209-m168.md) | 0 |  |
+| 附則（平成三一年三月二二日厚生労働省令第二八号） | [suppl/h31-0322-m28.md](suppl/h31-0322-m28.md) | 1 | 2019-04-15 |
+| 附則（令和元年五月七日厚生労働省令第一号） | [suppl/r1-0507-m1.md](suppl/r1-0507-m1.md) | 1 | 2019-05-07 |
+| 附則（令和元年六月二八日厚生労働省令第二〇号） | [suppl/r1-0628-m20.md](suppl/r1-0628-m20.md) | 1 | 2019-07-01 |
+| 附則（令和二年一〇月二六日厚生労働省令第一七七号） | [suppl/r2-1026-m177.md](suppl/r2-1026-m177.md) | 1 | 2020-10-26 |
+| 附則（令和二年一二月二五日厚生労働省令第二〇八号） | [suppl/r2-1225-m208.md](suppl/r2-1225-m208.md) | 1 | 2020-12-25 |
+| 附則（令和四年九月八日厚生労働省令第一二六号） | [suppl/r4-0908-m126.md](suppl/r4-0908-m126.md) | 1 | 2022-10-01 |
+| 附則（令和六年五月二四日厚生労働省令第八九号） | [suppl/r6-0524-m89.md](suppl/r6-0524-m89.md) | 1 | 2024-05-27 |
+| 附則（令和六年一二月二七日厚生労働省令第一六三号） | [suppl/r6-1227-m163.md](suppl/r6-1227-m163.md) | 1 | 2025-04-01 |
+| 様式第一号 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
+| 様式第二号 | [appdx/style-2.md](appdx/style-2.md) | 0 |  |
+| 様式第三号 | [appdx/style-3.md](appdx/style-3.md) | 0 |  |
+| 様式第四号 | [appdx/style-4.md](appdx/style-4.md) | 0 |  |
+| 様式第五号 | [appdx/style-5.md](appdx/style-5.md) | 0 |  |
+| 様式第六号 | [appdx/style-6.md](appdx/style-6.md) | 0 |  |

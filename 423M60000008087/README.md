@@ -2,240 +2,240 @@
 
 平成二十三年総務省令第八十七号 · <https://laws.e-gov.go.jp/law/423M60000008087>
 
-2026-11-03 現在の本文（2024-05-23 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2016-07-29 施行から）。2026-11-06 現在の本文は 2024-05-23 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-05-23: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2016-07-29; the text in force on 2026-11-06 is the revision of 2024-05-23.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 目次 | [toc.md](toc.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 第十六条 | [art-016.md](art-016.md) |
-| 第十七条 | [art-017.md](art-017.md) |
-| 第十八条 | [art-018.md](art-018.md) |
-| 第十九条 | [art-019.md](art-019.md) |
-| 第二十条 | [art-020.md](art-020.md) |
-| 第二十一条 | [art-021.md](art-021.md) |
-| 第二十二条 | [art-022.md](art-022.md) |
-| 第二十三条 | [art-023.md](art-023.md) |
-| 第二十三条の二 | [art-023-2.md](art-023-2.md) |
-| 第二十三条の三 | [art-023-3.md](art-023-3.md) |
-| 第二十三条の四 | [art-023-4.md](art-023-4.md) |
-| 第二十三条の五 | [art-023-5.md](art-023-5.md) |
-| 第二十三条の六 | [art-023-6.md](art-023-6.md) |
-| 第二十三条の七 | [art-023-7.md](art-023-7.md) |
-| 第二十三条の八 | [art-023-8.md](art-023-8.md) |
-| 第二十三条の九 | [art-023-9.md](art-023-9.md) |
-| 第二十三条の十 | [art-023-10.md](art-023-10.md) |
-| 第二十三条の十一 | [art-023-11.md](art-023-11.md) |
-| 第二十三条の十二 | [art-023-12.md](art-023-12.md) |
-| 第二十三条の十三 | [art-023-13.md](art-023-13.md) |
-| 第二十三条の十四 | [art-023-14.md](art-023-14.md) |
-| 第二十三条の十五 | [art-023-15.md](art-023-15.md) |
-| 第二十三条の十六 | [art-023-16.md](art-023-16.md) |
-| 第二十三条の十七 | [art-023-17.md](art-023-17.md) |
-| 第二十三条の十八 | [art-023-18.md](art-023-18.md) |
-| 第二十三条の十九 | [art-023-19.md](art-023-19.md) |
-| 第二十三条の二十 | [art-023-20.md](art-023-20.md) |
-| 第二十三条の二十一 | [art-023-21.md](art-023-21.md) |
-| 第二十三条の二十二 | [art-023-22.md](art-023-22.md) |
-| 第二十三条の二十三 | [art-023-23.md](art-023-23.md) |
-| 第二十三条の二十四 | [art-023-24.md](art-023-24.md) |
-| 第二十三条の二十五 | [art-023-25.md](art-023-25.md) |
-| 第二十三条の二十六 | [art-023-26.md](art-023-26.md) |
-| 第二十三条の二十七 | [art-023-27.md](art-023-27.md) |
-| 第二十三条の二十八 | [art-023-28.md](art-023-28.md) |
-| 第二十三条の二十九 | [art-023-29.md](art-023-29.md) |
-| 第二十四条 | [art-024.md](art-024.md) |
-| 第二十四条の二 | [art-024-2.md](art-024-2.md) |
-| 第二十四条の三 | [art-024-3.md](art-024-3.md) |
-| 第二十四条の四 | [art-024-4.md](art-024-4.md) |
-| 第二十四条の四の二 | [art-024-4-2.md](art-024-4-2.md) |
-| 第二十四条の五 | [art-024-5.md](art-024-5.md) |
-| 第二十四条の六 | [art-024-6.md](art-024-6.md) |
-| 第二十四条の七 | [art-024-7.md](art-024-7.md) |
-| 第二十四条の八 | [art-024-8.md](art-024-8.md) |
-| 第二十四条の九 | [art-024-9.md](art-024-9.md) |
-| 第二十五条 | [art-025.md](art-025.md) |
-| 第二十六条 | [art-026.md](art-026.md) |
-| 第二十七条 | [art-027.md](art-027.md) |
-| 第二十八条 | [art-028.md](art-028.md) |
-| 第二十九条 | [art-029.md](art-029.md) |
-| 第三十条 | [art-030.md](art-030.md) |
-| 第三十一条 | [art-031.md](art-031.md) |
-| 第三十二条 | [art-032.md](art-032.md) |
-| 第三十三条 | [art-033.md](art-033.md) |
-| 第三十四条 | [art-034.md](art-034.md) |
-| 第三十五条 | [art-035.md](art-035.md) |
-| 第三十六条 | [art-036.md](art-036.md) |
-| 第三十七条 | [art-037.md](art-037.md) |
-| 第三十八条 | [art-038.md](art-038.md) |
-| 第三十九条 | [art-039.md](art-039.md) |
-| 第四十条 | [art-040.md](art-040.md) |
-| 第四十一条 | [art-041.md](art-041.md) |
-| 第四十二条 | [art-042.md](art-042.md) |
-| 第四十三条 | [art-043.md](art-043.md) |
-| 第四十四条 | [art-044.md](art-044.md) |
-| 第四十五条 | [art-045.md](art-045.md) |
-| 第四十六条 | [art-046.md](art-046.md) |
-| 第四十七条 | [art-047.md](art-047.md) |
-| 第四十八条 | [art-048.md](art-048.md) |
-| 第四十九条 | [art-049.md](art-049.md) |
-| 第五十条 | [art-050.md](art-050.md) |
-| 第五十一条 | [art-051.md](art-051.md) |
-| 第五十二条 | [art-052.md](art-052.md) |
-| 第五十三条 | [art-053.md](art-053.md) |
-| 第五十四条 | [art-054.md](art-054.md) |
-| 第五十五条 | [art-055.md](art-055.md) |
-| 第五十六条 | [art-056.md](art-056.md) |
-| 第五十七条 | [art-057.md](art-057.md) |
-| 第五十八条 | [art-058.md](art-058.md) |
-| 第五十九条 | [art-059.md](art-059.md) |
-| 第六十条 | [art-060.md](art-060.md) |
-| 第六十一条 | [art-061.md](art-061.md) |
-| 第六十二条 | [art-062.md](art-062.md) |
-| 第六十三条 | [art-063.md](art-063.md) |
-| 第六十四条 | [art-064.md](art-064.md) |
-| 第六十五条 | [art-065.md](art-065.md) |
-| 第六十五条の二 | [art-065-2.md](art-065-2.md) |
-| 第六十六条 | [art-066.md](art-066.md) |
-| 第六十七条 | [art-067.md](art-067.md) |
-| 第六十八条 | [art-068.md](art-068.md) |
-| 第六十九条 | [art-069.md](art-069.md) |
-| 第七十条 | [art-070.md](art-070.md) |
-| 第七十一条 | [art-071.md](art-071.md) |
-| 第七十二条 | [art-072.md](art-072.md) |
-| 第七十三条 | [art-073.md](art-073.md) |
-| 第七十四条 | [art-074.md](art-074.md) |
-| 第七十五条 | [art-075.md](art-075.md) |
-| 第七十六条 | [art-076.md](art-076.md) |
-| 第七十七条 | [art-077.md](art-077.md) |
-| 第七十八条 | [art-078.md](art-078.md) |
-| 第七十九条 | [art-079.md](art-079.md) |
-| 第八十条 | [art-080.md](art-080.md) |
-| 第八十一条 | [art-081.md](art-081.md) |
-| 第八十一条の二 | [art-081-2.md](art-081-2.md) |
-| 第八十一条の三 | [art-081-3.md](art-081-3.md) |
-| 第八十一条の四 | [art-081-4.md](art-081-4.md) |
-| 第八十二条 | [art-082.md](art-082.md) |
-| 第八十三条 | [art-083.md](art-083.md) |
-| 第八十四条 | [art-084.md](art-084.md) |
-| 第八十五条 | [art-085.md](art-085.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二五年二月二〇日総務省令第七号） | [suppl/h25-0220-m7.md](suppl/h25-0220-m7.md) |
-| 附則（平成二五年一二月一〇日総務省令第一一一号） | [suppl/h25-1210-m111.md](suppl/h25-1210-m111.md) |
-| 附則（平成二六年七月三日総務省令第五九号） | [suppl/h26-0703-m59.md](suppl/h26-0703-m59.md) |
-| 附則（平成二六年一〇月二一日総務省令第八一号） | [suppl/h26-1021-m81.md](suppl/h26-1021-m81.md) |
-| 附則（平成二八年七月二九日総務省令第七七号） | [suppl/h28-0729-m77.md](suppl/h28-0729-m77.md) |
-| 附則（令和六年五月二三日総務省令第四七号） | [suppl/r6-0523-m47.md](suppl/r6-0523-m47.md) |
-| 別表第一号　ＰＥＳパケット及びセクション形式の構成 | [appdx/tablex-1.md](appdx/tablex-1.md) |
-| 別表第二号　ＴＳパケットの構成 | [appdx/tablex-2.md](appdx/tablex-2.md) |
-| 別表第三号　各識別子とその機能 | [appdx/tablex-3.md](appdx/tablex-3.md) |
-| 別表第四号　使用する周波数帯幅 | [appdx/tablex-4.md](appdx/tablex-4.md) |
-| 別表第五号　ガードインターバルの付加 | [appdx/style-1.md](appdx/style-1.md) |
-| 別表第六号　搬送波を変調する信号を求める方程式 | [appdx/tablex-5.md](appdx/tablex-5.md) |
-| 別表第七号　ＯＦＤＭセグメントにおける伝送主シンボル、ＳＰシンボル及びＣＰシンボルの配置 | [appdx/style-2.md](appdx/style-2.md) |
-| 別表第八号　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/tablex-6.md](appdx/tablex-6.md) |
-| 別表第九号　搬送波を変調する信号の通信速度 | [appdx/tablex-7.md](appdx/tablex-7.md) |
-| 別表第十号　データセグメントの送出手順 | [appdx/style-3.md](appdx/style-3.md) |
-| 別表第十一号　ＴＭＣＣ信号の構成 | [appdx/style-4.md](appdx/style-4.md) |
-| 別表第十二号　地上基幹放送局を用いて行うデジタル放送の誤り訂正方式 | [appdx/tablex-8.md](appdx/tablex-8.md) |
-| 別表第十三号　ＴＭＣＣシンボル及びＡＣシンボルの構成 | [appdx/style-5.md](appdx/style-5.md) |
-| 別表第十四号　ＳＰシンボル及びＣＰシンボルの構成 | [appdx/tablex-9.md](appdx/tablex-9.md) |
-| 別表第十五号　伝送主信号の構成及び送出手順等 | [appdx/tablex-10.md](appdx/tablex-10.md) |
-| 別表第十六号　搬送波を変調する信号を求める方程式 | [appdx/tablex-11.md](appdx/tablex-11.md) |
-| 別表第十七号　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/style-6.md](appdx/style-6.md) |
-| 別表第十八号　セグメント番号０に配置されるＡＣシンボルを生成するＡＣ信号の構成 | [appdx/tablex-12.md](appdx/tablex-12.md) |
-| 別表第十九号　地上基幹放送局、１１．７ＧＨｚを超え１２．２ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局及び１２．２ＧＨｚを超え１２．７５ＧＨｚ以下の周波数の電波を使用する高度狭帯域伝送デジタル放送を行うための衛星基幹放送局を用いて行う標準テレビジョン放送、高精細度テレビジョン放送及び超高精細度テレビジョン放送のうちデジタル放送の輝度信号及び色差信号の方程式 | [appdx/style-7.md](appdx/style-7.md) |
-| 別表第二十号　映像信号の各パラメータ | [appdx/tablex-13.md](appdx/tablex-13.md) |
-| 別表第二十号の二　サブフレーム区間におけるサブフレームの配置 | [appdx/style-8.md](appdx/style-8.md) |
-| 別表第二十号の三　フレーム同期信号の送出手順 | [appdx/style-9.md](appdx/style-9.md) |
-| 別表第二十号の四　搬送波を変調する信号の通信速度 | [appdx/style-10.md](appdx/style-10.md) |
-| 別表第二十号の五　伝送主シンボル、ＴＭＣＣシンボル、ＳＰシンボル、ＣＰシンボル及びＢＰシンボルの配置 | [appdx/style-11.md](appdx/style-11.md) |
-| 別表第二十号の六　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/style-12.md](appdx/style-12.md) |
-| 別表第二十号の七　ガードインターバル比 | [appdx/style-13.md](appdx/style-13.md) |
-| 別表第二十号の八　伝送主シンボルのデータセグメントの送出手順 | [appdx/style-14.md](appdx/style-14.md) |
-| 別表第二十号の九　サブ階層の構成手順 | [appdx/style-15.md](appdx/style-15.md) |
-| 別表第二十号の十　ＴＭＣＣセグメントの送出手順 | [appdx/style-16.md](appdx/style-16.md) |
-| 別表第二十号の十一　ＳＰシンボル、ＣＰシンボル及びＢＰシンボルの構成 | [appdx/style-17.md](appdx/style-17.md) |
-| 別表第二十号の十二　Ｌ　ｃｈシンボルの構成 | [appdx/style-18.md](appdx/style-18.md) |
-| 別表第二十号の十三　伝送主信号の構成及び送出手順 | [appdx/style-19.md](appdx/style-19.md) |
-| 別表第二十号の十四　伝送主信号の誤り訂正 | [appdx/style-20.md](appdx/style-20.md) |
-| 別表第二十号の十五　ＴＭＣＣ信号の構成及び送出手順 | [appdx/style-21.md](appdx/style-21.md) |
-| 別表第二十号の十六　ＴＭＣＣ信号の誤り訂正 | [appdx/style-22.md](appdx/style-22.md) |
-| 別表第二十号の十七　映像信号の各パラメータ | [appdx/style-23.md](appdx/style-23.md) |
-| 別表第二十号の十八　伝送主信号の構成及び送出手順等 | [appdx/style-24.md](appdx/style-24.md) |
-| 別表第二十号の十九　データセグメントの送出手順 | [appdx/style-25.md](appdx/style-25.md) |
-| 別表第二十号の二十　伝送主信号の構成及び送出手順等 | [appdx/style-26.md](appdx/style-26.md) |
-| 別表第二十号の二十一　ＴＭＣＣ情報をＡＣ信号により伝送する場合の誤り訂正方式 | [appdx/style-27.md](appdx/style-27.md) |
-| 別表第二十一号　使用する周波数帯幅 | [appdx/tablex-14.md](appdx/tablex-14.md) |
-| 別表第二十二号　ＩＰパケットの構成 | [appdx/style-28.md](appdx/style-28.md) |
-| 別表第二十三号　ＵＬＥパケットの構成 | [appdx/tablex-15.md](appdx/tablex-15.md) |
-| 別表第二十三号の二　ＡＣシンボルを生成するＡＣ信号の構成 | [appdx/tablex-16.md](appdx/tablex-16.md) |
-| 別表第二十四号　搬送波を変調する信号を求める方程式 | [appdx/tablex-17.md](appdx/tablex-17.md) |
-| 別表第二十五号　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/tablex-18.md](appdx/tablex-18.md) |
-| 別表第二十六号　映像信号の符号化パラメータ | [appdx/tablex-19.md](appdx/tablex-19.md) |
-| 別表第二十七号　同期パケット及びファイル伝送パケットの構成 | [appdx/tablex-20.md](appdx/tablex-20.md) |
-| 別表第二十八号　トランスポートフレームの構成 | [appdx/tablex-21.md](appdx/tablex-21.md) |
-| 別表第二十九号　データチャネルＭＡＣプロトコルカプセルの構成 | [appdx/tablex-22.md](appdx/tablex-22.md) |
-| 別表第三十号　物理層パケットの構成 | [appdx/tablex-23.md](appdx/tablex-23.md) |
-| 別表第三十一号　コントロールプロトコルパケットの構成 | [appdx/tablex-24.md](appdx/tablex-24.md) |
-| 別表第三十二号　コントロールチャネルＭＡＣプロトコルカプセルの構成 | [appdx/tablex-25.md](appdx/tablex-25.md) |
-| 別表第三十三号　ガードインターバルの付加 | [appdx/tablex-26.md](appdx/tablex-26.md) |
-| 別表第三十四号　搬送波を変調する信号を求める方程式 | [appdx/tablex-27.md](appdx/tablex-27.md) |
-| 別表第三十五号　スーパーフレームにおける各シンボルの配置 | [appdx/tablex-28.md](appdx/tablex-28.md) |
-| 別表第三十六号　キャリア変調マッピング | [appdx/tablex-29.md](appdx/tablex-29.md) |
-| 別表第三十七号　伝送主信号の構成及び送出手順 | [appdx/tablex-30.md](appdx/tablex-30.md) |
-| 別表第三十八号　ＴＤＭパイロット１信号の構成及び送出手順 | [appdx/tablex-31.md](appdx/tablex-31.md) |
-| 別表第三十九号　ＷＩＣ信号、ＬＩＣ信号、ＴＤＭパイロット２信号及びＦＤＭパイロット信号の構成及び送出手順 | [appdx/tablex-32.md](appdx/tablex-32.md) |
-| 別表第四十号　ＴＰＣ信号の構成及び送出手順 | [appdx/tablex-33.md](appdx/tablex-33.md) |
-| 別表第四十一号　スタッフ信号の構成及び送出手順 | [appdx/tablex-34.md](appdx/tablex-34.md) |
-| 別表第四十二号　ＰＰＣ信号の構成及び送出手順 | [appdx/tablex-35.md](appdx/tablex-35.md) |
-| 別表第四十三号　ＳＰＣ信号の構成及び送出手順 | [appdx/tablex-36.md](appdx/tablex-36.md) |
-| 別表第四十四号　伝送ＯＩＳ信号の送出手順 | [appdx/tablex-37.md](appdx/tablex-37.md) |
-| 別表第四十五号　搬送波を変調する信号の構成 | [appdx/tablex-38.md](appdx/tablex-38.md) |
-| 別表第四十六号　搬送波の絶対位相偏位 | [appdx/tablex-39.md](appdx/tablex-39.md) |
-| 別表第四十七号　１１．７ＧＨｚを超え１２．２ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局を用いて行うデジタル放送及び広帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-40.md](appdx/tablex-40.md) |
-| 別表第四十八号　伝送主信号の構成 | [appdx/tablex-41.md](appdx/tablex-41.md) |
-| 別表第四十九号　１１．７ＧＨｚを超え１２．２ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局を用いて行うデジタル放送及び広帯域伝送デジタル放送の誤り訂正方式 | [appdx/tablex-42.md](appdx/tablex-42.md) |
-| 別表第五十号　ＴＭＣＣ信号の構成及び送出手順並びにフレーム同期信号の構成及び送出手順 | [appdx/tablex-43.md](appdx/tablex-43.md) |
-| 別表第五十一号　位相基準バースト信号の構成 | [appdx/tablex-44.md](appdx/tablex-44.md) |
-| 別表第五十二号　狭帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-45.md](appdx/tablex-45.md) |
-| 別表第五十三号　伝送信号の構成 | [appdx/tablex-46.md](appdx/tablex-46.md) |
-| 別表第五十四号　狭帯域伝送デジタル放送の誤り訂正方式 | [appdx/tablex-47.md](appdx/tablex-47.md) |
-| 別表第五十五号　１２．２ＧＨｚを超え１２．７５ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局を用いて行う狭帯域伝送方式による標準テレビジョン放送及び高精細度テレビジョン放送のうちデジタル放送の輝度信号及び色差信号の方程式 | [appdx/tablex-48.md](appdx/tablex-48.md) |
-| 別表第五十六号　搬送波の絶対位相偏位 | [appdx/tablex-49.md](appdx/tablex-49.md) |
-| 別表第五十七号　高度狭帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-50.md](appdx/tablex-50.md) |
-| 別表第五十八号　伝送信号の構成 | [appdx/tablex-51.md](appdx/tablex-51.md) |
-| 別表第五十九号　高度狭帯域伝送デジタル放送の誤り訂正方式 | [appdx/tablex-52.md](appdx/tablex-52.md) |
-| 別表第五十九号の二　ＭＭＴＰパケット | [appdx/tablex-53.md](appdx/tablex-53.md) |
-| 別表第六十号　圧縮ＩＰパケットの構成 | [appdx/tablex-54.md](appdx/tablex-54.md) |
-| 別表第六十一号　ＴＬＶパケットの構成 | [appdx/tablex-55.md](appdx/tablex-55.md) |
-| 別表第六十一号の二　各識別子 | [appdx/tablex-56.md](appdx/tablex-56.md) |
-| 別表第六十二号　搬送波を変調する信号の構成 | [appdx/tablex-57.md](appdx/tablex-57.md) |
-| 別表第六十三号　搬送波の絶対位相偏位 | [appdx/tablex-58.md](appdx/tablex-58.md) |
-| 別表第六十四号　高度広帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-59.md](appdx/tablex-59.md) |
-| 別表第六十五号　伝送主信号の構成 | [appdx/tablex-60.md](appdx/tablex-60.md) |
-| 別表第六十六号　高度広帯域衛星デジタル放送方式の主信号に関する誤り訂正方式 | [appdx/tablex-61.md](appdx/tablex-61.md) |
-| 別表第六十七号　伝送ＴＭＣＣ信号の構成及び送出手順（第６１条第１項） | [appdx/tablex-62.md](appdx/tablex-62.md) |
-| 別表第六十八号　高度広帯域デジタル放送方式のＴＭＣＣ信号に関する誤り訂正方式 | [appdx/tablex-63.md](appdx/tablex-63.md) |
-| 別表第六十九号　輝度信号及び色差信号の方程式 | [appdx/tablex-64.md](appdx/tablex-64.md) |
-| 別表第六十九号の二　輝度信号及び色差信号の方程式 | [appdx/style-29.md](appdx/style-29.md) |
-| 別表第七十号　映像信号の各パラメータ | [appdx/tablex-65.md](appdx/tablex-65.md) |
-| 別表第七十一号　映像信号の各パラメータ | [appdx/tablex-66.md](appdx/tablex-66.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 目次 | [toc.md](toc.md) | 1 | 2024-05-23 |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2024-05-23 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 0 |  |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 0 |  |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 第九条 | [art-009.md](art-009.md) | 0 |  |
+| 第十条 | [art-010.md](art-010.md) | 0 |  |
+| 第十一条 | [art-011.md](art-011.md) | 0 |  |
+| 第十二条 | [art-012.md](art-012.md) | 0 |  |
+| 第十三条 | [art-013.md](art-013.md) | 0 |  |
+| 第十四条 | [art-014.md](art-014.md) | 0 |  |
+| 第十五条 | [art-015.md](art-015.md) | 0 |  |
+| 第十六条 | [art-016.md](art-016.md) | 0 |  |
+| 第十七条 | [art-017.md](art-017.md) | 0 |  |
+| 第十八条 | [art-018.md](art-018.md) | 1 | 2024-05-23 |
+| 第十九条 | [art-019.md](art-019.md) | 0 |  |
+| 第二十条 | [art-020.md](art-020.md) | 0 |  |
+| 第二十一条 | [art-021.md](art-021.md) | 0 |  |
+| 第二十二条 | [art-022.md](art-022.md) | 0 |  |
+| 第二十三条 | [art-023.md](art-023.md) | 0 |  |
+| 第二十三条の二 | [art-023-2.md](art-023-2.md) | 1 | 2024-05-23 |
+| 第二十三条の三 | [art-023-3.md](art-023-3.md) | 1 | 2024-05-23 |
+| 第二十三条の四 | [art-023-4.md](art-023-4.md) | 1 | 2024-05-23 |
+| 第二十三条の五 | [art-023-5.md](art-023-5.md) | 1 | 2024-05-23 |
+| 第二十三条の六 | [art-023-6.md](art-023-6.md) | 1 | 2024-05-23 |
+| 第二十三条の七 | [art-023-7.md](art-023-7.md) | 1 | 2024-05-23 |
+| 第二十三条の八 | [art-023-8.md](art-023-8.md) | 1 | 2024-05-23 |
+| 第二十三条の九 | [art-023-9.md](art-023-9.md) | 1 | 2024-05-23 |
+| 第二十三条の十 | [art-023-10.md](art-023-10.md) | 1 | 2024-05-23 |
+| 第二十三条の十一 | [art-023-11.md](art-023-11.md) | 1 | 2024-05-23 |
+| 第二十三条の十二 | [art-023-12.md](art-023-12.md) | 1 | 2024-05-23 |
+| 第二十三条の十三 | [art-023-13.md](art-023-13.md) | 1 | 2024-05-23 |
+| 第二十三条の十四 | [art-023-14.md](art-023-14.md) | 1 | 2024-05-23 |
+| 第二十三条の十五 | [art-023-15.md](art-023-15.md) | 1 | 2024-05-23 |
+| 第二十三条の十六 | [art-023-16.md](art-023-16.md) | 1 | 2024-05-23 |
+| 第二十三条の十七 | [art-023-17.md](art-023-17.md) | 1 | 2024-05-23 |
+| 第二十三条の十八 | [art-023-18.md](art-023-18.md) | 1 | 2024-05-23 |
+| 第二十三条の十九 | [art-023-19.md](art-023-19.md) | 1 | 2024-05-23 |
+| 第二十三条の二十 | [art-023-20.md](art-023-20.md) | 1 | 2024-05-23 |
+| 第二十三条の二十一 | [art-023-21.md](art-023-21.md) | 1 | 2024-05-23 |
+| 第二十三条の二十二 | [art-023-22.md](art-023-22.md) | 1 | 2024-05-23 |
+| 第二十三条の二十三 | [art-023-23.md](art-023-23.md) | 1 | 2024-05-23 |
+| 第二十三条の二十四 | [art-023-24.md](art-023-24.md) | 1 | 2024-05-23 |
+| 第二十三条の二十五 | [art-023-25.md](art-023-25.md) | 1 | 2024-05-23 |
+| 第二十三条の二十六 | [art-023-26.md](art-023-26.md) | 1 | 2024-05-23 |
+| 第二十三条の二十七 | [art-023-27.md](art-023-27.md) | 1 | 2024-05-23 |
+| 第二十三条の二十八 | [art-023-28.md](art-023-28.md) | 1 | 2024-05-23 |
+| 第二十三条の二十九 | [art-023-29.md](art-023-29.md) | 1 | 2024-05-23 |
+| 第二十四条 | [art-024.md](art-024.md) | 1 | 2024-05-23 |
+| 第二十四条の二 | [art-024-2.md](art-024-2.md) | 0 |  |
+| 第二十四条の三 | [art-024-3.md](art-024-3.md) | 0 |  |
+| 第二十四条の四 | [art-024-4.md](art-024-4.md) | 0 |  |
+| 第二十四条の四の二 | [art-024-4-2.md](art-024-4-2.md) | 0 |  |
+| 第二十四条の五 | [art-024-5.md](art-024-5.md) | 0 |  |
+| 第二十四条の六 | [art-024-6.md](art-024-6.md) | 0 |  |
+| 第二十四条の七 | [art-024-7.md](art-024-7.md) | 0 |  |
+| 第二十四条の八 | [art-024-8.md](art-024-8.md) | 0 |  |
+| 第二十四条の九 | [art-024-9.md](art-024-9.md) | 0 |  |
+| 第二十五条 | [art-025.md](art-025.md) | 0 |  |
+| 第二十六条 | [art-026.md](art-026.md) | 0 |  |
+| 第二十七条 | [art-027.md](art-027.md) | 0 |  |
+| 第二十八条 | [art-028.md](art-028.md) | 0 |  |
+| 第二十九条 | [art-029.md](art-029.md) | 0 |  |
+| 第三十条 | [art-030.md](art-030.md) | 0 |  |
+| 第三十一条 | [art-031.md](art-031.md) | 0 |  |
+| 第三十二条 | [art-032.md](art-032.md) | 0 |  |
+| 第三十三条 | [art-033.md](art-033.md) | 0 |  |
+| 第三十四条 | [art-034.md](art-034.md) | 0 |  |
+| 第三十五条 | [art-035.md](art-035.md) | 0 |  |
+| 第三十六条 | [art-036.md](art-036.md) | 0 |  |
+| 第三十七条 | [art-037.md](art-037.md) | 0 |  |
+| 第三十八条 | [art-038.md](art-038.md) | 0 |  |
+| 第三十九条 | [art-039.md](art-039.md) | 0 |  |
+| 第四十条 | [art-040.md](art-040.md) | 0 |  |
+| 第四十一条 | [art-041.md](art-041.md) | 0 |  |
+| 第四十二条 | [art-042.md](art-042.md) | 0 |  |
+| 第四十三条 | [art-043.md](art-043.md) | 0 |  |
+| 第四十四条 | [art-044.md](art-044.md) | 0 |  |
+| 第四十五条 | [art-045.md](art-045.md) | 0 |  |
+| 第四十六条 | [art-046.md](art-046.md) | 0 |  |
+| 第四十七条 | [art-047.md](art-047.md) | 0 |  |
+| 第四十八条 | [art-048.md](art-048.md) | 0 |  |
+| 第四十九条 | [art-049.md](art-049.md) | 0 |  |
+| 第五十条 | [art-050.md](art-050.md) | 0 |  |
+| 第五十一条 | [art-051.md](art-051.md) | 0 |  |
+| 第五十二条 | [art-052.md](art-052.md) | 0 |  |
+| 第五十三条 | [art-053.md](art-053.md) | 0 |  |
+| 第五十四条 | [art-054.md](art-054.md) | 0 |  |
+| 第五十五条 | [art-055.md](art-055.md) | 0 |  |
+| 第五十六条 | [art-056.md](art-056.md) | 0 |  |
+| 第五十七条 | [art-057.md](art-057.md) | 0 |  |
+| 第五十八条 | [art-058.md](art-058.md) | 1 | 2024-05-23 |
+| 第五十九条 | [art-059.md](art-059.md) | 0 |  |
+| 第六十条 | [art-060.md](art-060.md) | 0 |  |
+| 第六十一条 | [art-061.md](art-061.md) | 0 |  |
+| 第六十二条 | [art-062.md](art-062.md) | 1 | 2024-05-23 |
+| 第六十三条 | [art-063.md](art-063.md) | 0 |  |
+| 第六十四条 | [art-064.md](art-064.md) | 0 |  |
+| 第六十五条 | [art-065.md](art-065.md) | 0 |  |
+| 第六十五条の二 | [art-065-2.md](art-065-2.md) | 0 |  |
+| 第六十六条 | [art-066.md](art-066.md) | 0 |  |
+| 第六十七条 | [art-067.md](art-067.md) | 0 |  |
+| 第六十八条 | [art-068.md](art-068.md) | 0 |  |
+| 第六十九条 | [art-069.md](art-069.md) | 0 |  |
+| 第七十条 | [art-070.md](art-070.md) | 0 |  |
+| 第七十一条 | [art-071.md](art-071.md) | 0 |  |
+| 第七十二条 | [art-072.md](art-072.md) | 0 |  |
+| 第七十三条 | [art-073.md](art-073.md) | 0 |  |
+| 第七十四条 | [art-074.md](art-074.md) | 0 |  |
+| 第七十五条 | [art-075.md](art-075.md) | 0 |  |
+| 第七十六条 | [art-076.md](art-076.md) | 0 |  |
+| 第七十七条 | [art-077.md](art-077.md) | 0 |  |
+| 第七十八条 | [art-078.md](art-078.md) | 0 |  |
+| 第七十九条 | [art-079.md](art-079.md) | 0 |  |
+| 第八十条 | [art-080.md](art-080.md) | 0 |  |
+| 第八十一条 | [art-081.md](art-081.md) | 0 |  |
+| 第八十一条の二 | [art-081-2.md](art-081-2.md) | 0 |  |
+| 第八十一条の三 | [art-081-3.md](art-081-3.md) | 0 |  |
+| 第八十一条の四 | [art-081-4.md](art-081-4.md) | 0 |  |
+| 第八十二条 | [art-082.md](art-082.md) | 0 |  |
+| 第八十三条 | [art-083.md](art-083.md) | 0 |  |
+| 第八十四条 | [art-084.md](art-084.md) | 0 |  |
+| 第八十五条 | [art-085.md](art-085.md) | 1 | 2024-05-23 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二五年二月二〇日総務省令第七号） | [suppl/h25-0220-m7.md](suppl/h25-0220-m7.md) | 0 |  |
+| 附則（平成二五年一二月一〇日総務省令第一一一号） | [suppl/h25-1210-m111.md](suppl/h25-1210-m111.md) | 0 |  |
+| 附則（平成二六年七月三日総務省令第五九号） | [suppl/h26-0703-m59.md](suppl/h26-0703-m59.md) | 0 |  |
+| 附則（平成二六年一〇月二一日総務省令第八一号） | [suppl/h26-1021-m81.md](suppl/h26-1021-m81.md) | 0 |  |
+| 附則（平成二八年七月二九日総務省令第七七号） | [suppl/h28-0729-m77.md](suppl/h28-0729-m77.md) | 0 |  |
+| 附則（令和六年五月二三日総務省令第四七号） | [suppl/r6-0523-m47.md](suppl/r6-0523-m47.md) | 1 | 2024-05-23 |
+| 別表第五号　ガードインターバルの付加 | [appdx/style-1.md](appdx/style-1.md) | 1 | 2024-05-23 |
+| 別表第七号　ＯＦＤＭセグメントにおける伝送主シンボル、ＳＰシンボル及びＣＰシンボルの配置 | [appdx/style-2.md](appdx/style-2.md) | 1 | 2024-05-23 |
+| 別表第十号　データセグメントの送出手順 | [appdx/style-3.md](appdx/style-3.md) | 1 | 2024-05-23 |
+| 別表第十一号　ＴＭＣＣ信号の構成 | [appdx/style-4.md](appdx/style-4.md) | 1 | 2024-05-23 |
+| 別表第十三号　ＴＭＣＣシンボル及びＡＣシンボルの構成 | [appdx/style-5.md](appdx/style-5.md) | 1 | 2024-05-23 |
+| 別表第十七号　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/style-6.md](appdx/style-6.md) | 1 | 2024-05-23 |
+| 別表第十九号　地上基幹放送局、１１．７ＧＨｚを超え１２．２ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局及び１２．２ＧＨｚを超え１２．７５ＧＨｚ以下の周波数の電波を使用する高度狭帯域伝送デジタル放送を行うための衛星基幹放送局を用いて行う標準テレビジョン放送、高精細度テレビジョン放送及び超高精細度テレビジョン放送のうちデジタル放送の輝度信号及び色差信号の方程式 | [appdx/style-7.md](appdx/style-7.md) | 1 | 2024-05-23 |
+| 別表第二十号の二　サブフレーム区間におけるサブフレームの配置 | [appdx/style-8.md](appdx/style-8.md) | 1 | 2024-05-23 |
+| 別表第二十号の三　フレーム同期信号の送出手順 | [appdx/style-9.md](appdx/style-9.md) | 1 | 2024-05-23 |
+| 別表第二十号の四　搬送波を変調する信号の通信速度 | [appdx/style-10.md](appdx/style-10.md) | 1 | 2024-05-23 |
+| 別表第二十号の五　伝送主シンボル、ＴＭＣＣシンボル、ＳＰシンボル、ＣＰシンボル及びＢＰシンボルの配置 | [appdx/style-11.md](appdx/style-11.md) | 1 | 2024-05-23 |
+| 別表第二十号の六　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/style-12.md](appdx/style-12.md) | 1 | 2024-05-23 |
+| 別表第二十号の七　ガードインターバル比 | [appdx/style-13.md](appdx/style-13.md) | 1 | 2024-05-23 |
+| 別表第二十号の八　伝送主シンボルのデータセグメントの送出手順 | [appdx/style-14.md](appdx/style-14.md) | 1 | 2024-05-23 |
+| 別表第二十号の九　サブ階層の構成手順 | [appdx/style-15.md](appdx/style-15.md) | 1 | 2024-05-23 |
+| 別表第二十号の十　ＴＭＣＣセグメントの送出手順 | [appdx/style-16.md](appdx/style-16.md) | 1 | 2024-05-23 |
+| 別表第二十号の十一　ＳＰシンボル、ＣＰシンボル及びＢＰシンボルの構成 | [appdx/style-17.md](appdx/style-17.md) | 1 | 2024-05-23 |
+| 別表第二十号の十二　Ｌ　ｃｈシンボルの構成 | [appdx/style-18.md](appdx/style-18.md) | 1 | 2024-05-23 |
+| 別表第二十号の十三　伝送主信号の構成及び送出手順 | [appdx/style-19.md](appdx/style-19.md) | 1 | 2024-05-23 |
+| 別表第二十号の十四　伝送主信号の誤り訂正 | [appdx/style-20.md](appdx/style-20.md) | 1 | 2024-05-23 |
+| 別表第二十号の十五　ＴＭＣＣ信号の構成及び送出手順 | [appdx/style-21.md](appdx/style-21.md) | 1 | 2024-05-23 |
+| 別表第二十号の十六　ＴＭＣＣ信号の誤り訂正 | [appdx/style-22.md](appdx/style-22.md) | 1 | 2024-05-23 |
+| 別表第二十号の十七　映像信号の各パラメータ | [appdx/style-23.md](appdx/style-23.md) | 1 | 2024-05-23 |
+| 別表第二十号の十八　伝送主信号の構成及び送出手順等 | [appdx/style-24.md](appdx/style-24.md) | 1 | 2024-05-23 |
+| 別表第二十号の十九　データセグメントの送出手順 | [appdx/style-25.md](appdx/style-25.md) | 1 | 2024-05-23 |
+| 別表第二十号の二十　伝送主信号の構成及び送出手順等 | [appdx/style-26.md](appdx/style-26.md) | 1 | 2024-05-23 |
+| 別表第二十号の二十一　ＴＭＣＣ情報をＡＣ信号により伝送する場合の誤り訂正方式 | [appdx/style-27.md](appdx/style-27.md) | 1 | 2024-05-23 |
+| 別表第二十二号　ＩＰパケットの構成 | [appdx/style-28.md](appdx/style-28.md) | 1 | 2024-05-23 |
+| 別表第六十九号の二　輝度信号及び色差信号の方程式 | [appdx/style-29.md](appdx/style-29.md) | 1 | 2024-05-23 |
+| 別表第一号　ＰＥＳパケット及びセクション形式の構成 | [appdx/tablex-1.md](appdx/tablex-1.md) | 0 |  |
+| 別表第二号　ＴＳパケットの構成 | [appdx/tablex-2.md](appdx/tablex-2.md) | 0 |  |
+| 別表第三号　各識別子とその機能 | [appdx/tablex-3.md](appdx/tablex-3.md) | 0 |  |
+| 別表第四号　使用する周波数帯幅 | [appdx/tablex-4.md](appdx/tablex-4.md) | 0 |  |
+| 別表第六号　搬送波を変調する信号を求める方程式 | [appdx/tablex-5.md](appdx/tablex-5.md) | 1 | 2024-05-23 |
+| 別表第八号　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/tablex-6.md](appdx/tablex-6.md) | 1 | 2024-05-23 |
+| 別表第九号　搬送波を変調する信号の通信速度 | [appdx/tablex-7.md](appdx/tablex-7.md) | 1 | 2024-05-23 |
+| 別表第十二号　地上基幹放送局を用いて行うデジタル放送の誤り訂正方式 | [appdx/tablex-8.md](appdx/tablex-8.md) | 1 | 2024-05-23 |
+| 別表第十四号　ＳＰシンボル及びＣＰシンボルの構成 | [appdx/tablex-9.md](appdx/tablex-9.md) | 1 | 2024-05-23 |
+| 別表第十五号　伝送主信号の構成及び送出手順等 | [appdx/tablex-10.md](appdx/tablex-10.md) | 1 | 2024-05-23 |
+| 別表第十六号　搬送波を変調する信号を求める方程式 | [appdx/tablex-11.md](appdx/tablex-11.md) | 1 | 2024-05-23 |
+| 別表第十八号　セグメント番号０に配置されるＡＣシンボルを生成するＡＣ信号の構成 | [appdx/tablex-12.md](appdx/tablex-12.md) | 1 | 2024-05-23 |
+| 別表第二十号　映像信号の各パラメータ | [appdx/tablex-13.md](appdx/tablex-13.md) | 1 | 2024-05-23 |
+| 別表第二十一号　使用する周波数帯幅 | [appdx/tablex-14.md](appdx/tablex-14.md) | 1 | 2024-05-23 |
+| 別表第二十三号　ＵＬＥパケットの構成 | [appdx/tablex-15.md](appdx/tablex-15.md) | 1 | 2024-05-23 |
+| 別表第二十三号の二　ＡＣシンボルを生成するＡＣ信号の構成 | [appdx/tablex-16.md](appdx/tablex-16.md) | 1 | 2024-05-23 |
+| 別表第二十四号　搬送波を変調する信号を求める方程式 | [appdx/tablex-17.md](appdx/tablex-17.md) | 1 | 2024-05-23 |
+| 別表第二十五号　ＯＦＤＭフレームの変調波スペクトルの配置 | [appdx/tablex-18.md](appdx/tablex-18.md) | 1 | 2024-05-23 |
+| 別表第二十六号　映像信号の符号化パラメータ | [appdx/tablex-19.md](appdx/tablex-19.md) | 1 | 2024-05-23 |
+| 別表第二十七号　同期パケット及びファイル伝送パケットの構成 | [appdx/tablex-20.md](appdx/tablex-20.md) | 1 | 2024-05-23 |
+| 別表第二十八号　トランスポートフレームの構成 | [appdx/tablex-21.md](appdx/tablex-21.md) | 1 | 2024-05-23 |
+| 別表第二十九号　データチャネルＭＡＣプロトコルカプセルの構成 | [appdx/tablex-22.md](appdx/tablex-22.md) | 1 | 2024-05-23 |
+| 別表第三十号　物理層パケットの構成 | [appdx/tablex-23.md](appdx/tablex-23.md) | 1 | 2024-05-23 |
+| 別表第三十一号　コントロールプロトコルパケットの構成 | [appdx/tablex-24.md](appdx/tablex-24.md) | 1 | 2024-05-23 |
+| 別表第三十二号　コントロールチャネルＭＡＣプロトコルカプセルの構成 | [appdx/tablex-25.md](appdx/tablex-25.md) | 1 | 2024-05-23 |
+| 別表第三十三号　ガードインターバルの付加 | [appdx/tablex-26.md](appdx/tablex-26.md) | 1 | 2024-05-23 |
+| 別表第三十四号　搬送波を変調する信号を求める方程式 | [appdx/tablex-27.md](appdx/tablex-27.md) | 1 | 2024-05-23 |
+| 別表第三十五号　スーパーフレームにおける各シンボルの配置 | [appdx/tablex-28.md](appdx/tablex-28.md) | 1 | 2024-05-23 |
+| 別表第三十六号　キャリア変調マッピング | [appdx/tablex-29.md](appdx/tablex-29.md) | 1 | 2024-05-23 |
+| 別表第三十七号　伝送主信号の構成及び送出手順 | [appdx/tablex-30.md](appdx/tablex-30.md) | 1 | 2024-05-23 |
+| 別表第三十八号　ＴＤＭパイロット１信号の構成及び送出手順 | [appdx/tablex-31.md](appdx/tablex-31.md) | 1 | 2024-05-23 |
+| 別表第三十九号　ＷＩＣ信号、ＬＩＣ信号、ＴＤＭパイロット２信号及びＦＤＭパイロット信号の構成及び送出手順 | [appdx/tablex-32.md](appdx/tablex-32.md) | 1 | 2024-05-23 |
+| 別表第四十号　ＴＰＣ信号の構成及び送出手順 | [appdx/tablex-33.md](appdx/tablex-33.md) | 1 | 2024-05-23 |
+| 別表第四十一号　スタッフ信号の構成及び送出手順 | [appdx/tablex-34.md](appdx/tablex-34.md) | 1 | 2024-05-23 |
+| 別表第四十二号　ＰＰＣ信号の構成及び送出手順 | [appdx/tablex-35.md](appdx/tablex-35.md) | 1 | 2024-05-23 |
+| 別表第四十三号　ＳＰＣ信号の構成及び送出手順 | [appdx/tablex-36.md](appdx/tablex-36.md) | 1 | 2024-05-23 |
+| 別表第四十四号　伝送ＯＩＳ信号の送出手順 | [appdx/tablex-37.md](appdx/tablex-37.md) | 1 | 2024-05-23 |
+| 別表第四十五号　搬送波を変調する信号の構成 | [appdx/tablex-38.md](appdx/tablex-38.md) | 1 | 2024-05-23 |
+| 別表第四十六号　搬送波の絶対位相偏位 | [appdx/tablex-39.md](appdx/tablex-39.md) | 1 | 2024-05-23 |
+| 別表第四十七号　１１．７ＧＨｚを超え１２．２ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局を用いて行うデジタル放送及び広帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-40.md](appdx/tablex-40.md) | 1 | 2024-05-23 |
+| 別表第四十八号　伝送主信号の構成 | [appdx/tablex-41.md](appdx/tablex-41.md) | 1 | 2024-05-23 |
+| 別表第四十九号　１１．７ＧＨｚを超え１２．２ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局を用いて行うデジタル放送及び広帯域伝送デジタル放送の誤り訂正方式 | [appdx/tablex-42.md](appdx/tablex-42.md) | 1 | 2024-05-23 |
+| 別表第五十号　ＴＭＣＣ信号の構成及び送出手順並びにフレーム同期信号の構成及び送出手順 | [appdx/tablex-43.md](appdx/tablex-43.md) | 1 | 2024-05-23 |
+| 別表第五十一号　位相基準バースト信号の構成 | [appdx/tablex-44.md](appdx/tablex-44.md) | 1 | 2024-05-23 |
+| 別表第五十二号　狭帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-45.md](appdx/tablex-45.md) | 1 | 2024-05-23 |
+| 別表第五十三号　伝送信号の構成 | [appdx/tablex-46.md](appdx/tablex-46.md) | 1 | 2024-05-23 |
+| 別表第五十四号　狭帯域伝送デジタル放送の誤り訂正方式 | [appdx/tablex-47.md](appdx/tablex-47.md) | 1 | 2024-05-23 |
+| 別表第五十五号　１２．２ＧＨｚを超え１２．７５ＧＨｚ以下の周波数の電波を使用する衛星基幹放送局を用いて行う狭帯域伝送方式による標準テレビジョン放送及び高精細度テレビジョン放送のうちデジタル放送の輝度信号及び色差信号の方程式 | [appdx/tablex-48.md](appdx/tablex-48.md) | 1 | 2024-05-23 |
+| 別表第五十六号　搬送波の絶対位相偏位 | [appdx/tablex-49.md](appdx/tablex-49.md) | 1 | 2024-05-23 |
+| 別表第五十七号　高度狭帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-50.md](appdx/tablex-50.md) | 1 | 2024-05-23 |
+| 別表第五十八号　伝送信号の構成 | [appdx/tablex-51.md](appdx/tablex-51.md) | 1 | 2024-05-23 |
+| 別表第五十九号　高度狭帯域伝送デジタル放送の誤り訂正方式 | [appdx/tablex-52.md](appdx/tablex-52.md) | 1 | 2024-05-23 |
+| 別表第五十九号の二　ＭＭＴＰパケット | [appdx/tablex-53.md](appdx/tablex-53.md) | 1 | 2024-05-23 |
+| 別表第六十号　圧縮ＩＰパケットの構成 | [appdx/tablex-54.md](appdx/tablex-54.md) | 1 | 2024-05-23 |
+| 別表第六十一号　ＴＬＶパケットの構成 | [appdx/tablex-55.md](appdx/tablex-55.md) | 1 | 2024-05-23 |
+| 別表第六十一号の二　各識別子 | [appdx/tablex-56.md](appdx/tablex-56.md) | 1 | 2024-05-23 |
+| 別表第六十二号　搬送波を変調する信号の構成 | [appdx/tablex-57.md](appdx/tablex-57.md) | 1 | 2024-05-23 |
+| 別表第六十三号　搬送波の絶対位相偏位 | [appdx/tablex-58.md](appdx/tablex-58.md) | 1 | 2024-05-23 |
+| 別表第六十四号　高度広帯域伝送デジタル放送のろ波器の周波数特性 | [appdx/tablex-59.md](appdx/tablex-59.md) | 1 | 2024-05-23 |
+| 別表第六十五号　伝送主信号の構成 | [appdx/tablex-60.md](appdx/tablex-60.md) | 1 | 2024-05-23 |
+| 別表第六十六号　高度広帯域衛星デジタル放送方式の主信号に関する誤り訂正方式 | [appdx/tablex-61.md](appdx/tablex-61.md) | 1 | 2024-05-23 |
+| 別表第六十七号　伝送ＴＭＣＣ信号の構成及び送出手順（第６１条第１項） | [appdx/tablex-62.md](appdx/tablex-62.md) | 1 | 2024-05-23 |
+| 別表第六十八号　高度広帯域デジタル放送方式のＴＭＣＣ信号に関する誤り訂正方式 | [appdx/tablex-63.md](appdx/tablex-63.md) | 1 | 2024-05-23 |
+| 別表第六十九号　輝度信号及び色差信号の方程式 | [appdx/tablex-64.md](appdx/tablex-64.md) | 1 | 2024-05-23 |
+| 別表第七十号　映像信号の各パラメータ | [appdx/tablex-65.md](appdx/tablex-65.md) | 1 | 2024-05-23 |
+| 別表第七十一号　映像信号の各パラメータ | [appdx/tablex-66.md](appdx/tablex-66.md) | 1 | 2024-05-23 |
