@@ -2,17 +2,17 @@
 
 平成十年農林水産省令第五十九号 · <https://laws.e-gov.go.jp/law/410M50000200059>
 
-2026-11-03 現在の本文（2025-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2001-01-06 施行から）。2026-11-06 現在の本文は 2025-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-04-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2001-01-06; the text in force on 2026-11-06 is the revision of 2025-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一二年九月一日農林水産省令第八二号） | [suppl/h12-0901-m82.md](suppl/h12-0901-m82.md) |
-| 附則（平成二九年九月二五日農林水産省令第五六号） | [suppl/h29-0925-m56.md](suppl/h29-0925-m56.md) |
-| 附則（令和七年三月三一日農林水産省令第一六号） | [suppl/r7-0331-m16.md](suppl/r7-0331-m16.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2025-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一二年九月一日農林水産省令第八二号） | [suppl/h12-0901-m82.md](suppl/h12-0901-m82.md) | 0 |  |
+| 附則（平成二九年九月二五日農林水産省令第五六号） | [suppl/h29-0925-m56.md](suppl/h29-0925-m56.md) | 1 | 2017-09-25 |
+| 附則（令和七年三月三一日農林水産省令第一六号） | [suppl/r7-0331-m16.md](suppl/r7-0331-m16.md) | 1 | 2025-04-01 |

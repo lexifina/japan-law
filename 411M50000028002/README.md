@@ -2,17 +2,17 @@
 
 平成十一年外務省・自治省令第二号 · <https://laws.e-gov.go.jp/law/411M50000028002>
 
-2026-11-03 現在の本文（2021-09-18 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2017-01-01 施行から）。2026-11-06 現在の本文は 2021-09-18 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2021-09-18: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2017-01-01; the text in force on 2026-11-06 is the revision of 2021-09-18.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一二年九月一四日外務省・自治省令第一号） | [suppl/h12-0914-m1.md](suppl/h12-0914-m1.md) |
-| 附則（平成二〇年一一月二八日総務省・外務省令第三号） | [suppl/h20-1128-m3.md](suppl/h20-1128-m3.md) |
-| 附則（平成二八年一二月二八日総務省・外務省令第三号） | [suppl/h28-1228-m3.md](suppl/h28-1228-m3.md) |
-| 附則（令和三年九月一七日総務省・外務省令第二号） | [suppl/r3-0917-m2.md](suppl/r3-0917-m2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2021-09-18 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 1 | 2021-09-18 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一二年九月一四日外務省・自治省令第一号） | [suppl/h12-0914-m1.md](suppl/h12-0914-m1.md) | 0 |  |
+| 附則（平成二〇年一一月二八日総務省・外務省令第三号） | [suppl/h20-1128-m3.md](suppl/h20-1128-m3.md) | 0 |  |
+| 附則（平成二八年一二月二八日総務省・外務省令第三号） | [suppl/h28-1228-m3.md](suppl/h28-1228-m3.md) | 0 |  |
+| 附則（令和三年九月一七日総務省・外務省令第二号） | [suppl/r3-0917-m2.md](suppl/r3-0917-m2.md) | 1 | 2021-09-18 |

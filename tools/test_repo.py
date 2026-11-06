@@ -27,6 +27,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 LAW = re.compile(r'^(明治|大正|昭和|平成|令和)\S+年\S*第\S+号 \([A-Za-z ]+ No\. \d+ of \d{4}\)$|^日本国憲法 \(The Constitution of Japan\)$')
+LAW_ANY = re.compile(r'^(?:明治|大正|昭和|平成|令和)\S+ \([A-Za-z ]+ No\. (\d+) of \d{4}\)$')
 PUBLISHER = 'e-Gov 法令検索 (デジタル庁)'
 
 
@@ -155,7 +156,15 @@ class Smoke:
             f'{len(pub)} publisher commits, or one not labelled'
         laws = [r for r in rows if r[1] != 'Lexifina']
         authors = {r[1] for r in laws}
-        assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {sorted(authors - {PUBLISHER})[:5]}'
+
+        def named(name, email):
+            # build.author_of: e-Gov's own LawNum, verbatim (some lack 第 or 号, e.g. 内閣総理大臣決定), then
+            # '(<kind> No. <last six digits of the law ID> of <year>)', at '<law ID>@e-gov.invalid'.
+            m = LAW_ANY.match(name)
+            law_id = email.split('@')[0]
+            return bool(m) and law_id[-6:].isdigit() and int(m.group(1)) == int(law_id[-6:])
+        bad = sorted({r[1] for r in laws if not (LAW.match(r[1]) or r[1] == PUBLISHER or named(r[1], r[2]))})
+        assert not bad, f'unexpected authors {bad[:5]}'
         assert all(r[2].endswith('.invalid') for r in laws), 'an author address that is not .invalid'
         return (f'{len(by_lex)} documentation commits by Lexifina, the last one on top; {len(pub)} labelled baselines; '
                 f'{len(authors)} authors')

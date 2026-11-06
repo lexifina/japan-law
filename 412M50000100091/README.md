@@ -2,17 +2,17 @@
 
 平成十二年厚生省令第九十一号 · <https://laws.e-gov.go.jp/law/412M50000100091>
 
-2026-11-03 現在の本文（2023-07-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2008-12-01 施行から）。2026-11-06 現在の本文は 2023-07-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2023-07-01: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2008-12-01; the text in force on 2026-11-06 is the revision of 2023-07-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一二年五月二九日厚生省令第九七号） | [suppl/h12-0529-m97.md](suppl/h12-0529-m97.md) |
-| 附則（平成二〇年五月二二日厚生労働省令第一一〇号） | [suppl/h20-0522-m110.md](suppl/h20-0522-m110.md) |
-| 附則（平成二〇年一一月二八日厚生労働省令第一六三号） | [suppl/h20-1128-m163.md](suppl/h20-1128-m163.md) |
-| 附則（令和五年六月三〇日厚生労働省令第九二号） | [suppl/r5-0630-m92.md](suppl/r5-0630-m92.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 1 | 2023-07-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一二年五月二九日厚生省令第九七号） | [suppl/h12-0529-m97.md](suppl/h12-0529-m97.md) | 0 |  |
+| 附則（平成二〇年五月二二日厚生労働省令第一一〇号） | [suppl/h20-0522-m110.md](suppl/h20-0522-m110.md) | 0 |  |
+| 附則（平成二〇年一一月二八日厚生労働省令第一六三号） | [suppl/h20-1128-m163.md](suppl/h20-1128-m163.md) | 0 |  |
+| 附則（令和五年六月三〇日厚生労働省令第九二号） | [suppl/r5-0630-m92.md](suppl/r5-0630-m92.md) | 1 | 2023-07-01 |

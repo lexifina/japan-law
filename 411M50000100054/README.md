@@ -2,18 +2,18 @@
 
 平成十一年厚生省令第五十四号 · <https://laws.e-gov.go.jp/law/411M50000100054>
 
-2026-11-03 現在の本文（2022-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2012-10-01 施行から）。2026-11-06 現在の本文は 2022-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-04-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2012-10-01; the text in force on 2026-11-06 is the revision of 2022-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一九年九月二五日厚生労働省令第一一二号） | [suppl/h19-0925-m112.md](suppl/h19-0925-m112.md) |
-| 附則（平成二一年一二月二八日厚生労働省令第一六七号） | [suppl/h21-1228-m167.md](suppl/h21-1228-m167.md) |
-| 附則（平成二四年九月二八日厚生労働省令第一三五号） | [suppl/h24-0928-m135.md](suppl/h24-0928-m135.md) |
-| 附則（令和二年一二月二五日厚生労働省令第二〇八号） | [suppl/r2-1225-m208.md](suppl/r2-1225-m208.md) |
-| 附則（令和三年六月三〇日厚生労働省令第一一五号） | [suppl/r3-0630-m115.md](suppl/r3-0630-m115.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2022-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一九年九月二五日厚生労働省令第一一二号） | [suppl/h19-0925-m112.md](suppl/h19-0925-m112.md) | 0 |  |
+| 附則（平成二一年一二月二八日厚生労働省令第一六七号） | [suppl/h21-1228-m167.md](suppl/h21-1228-m167.md) | 0 |  |
+| 附則（平成二四年九月二八日厚生労働省令第一三五号） | [suppl/h24-0928-m135.md](suppl/h24-0928-m135.md) | 0 |  |
+| 附則（令和二年一二月二五日厚生労働省令第二〇八号） | [suppl/r2-1225-m208.md](suppl/r2-1225-m208.md) | 1 | 2020-12-25 |
+| 附則（令和三年六月三〇日厚生労働省令第一一五号） | [suppl/r3-0630-m115.md](suppl/r3-0630-m115.md) | 1 | 2022-04-01 |
