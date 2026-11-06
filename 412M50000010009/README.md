@@ -2,19 +2,19 @@
 
 平成十二年法務省令第九号 · <https://laws.e-gov.go.jp/law/412M50000010009>
 
-2026-11-03 現在の本文（2025-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2001-03-01 施行から）。2026-11-06 現在の本文は 2025-10-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-10-01: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2001-03-01; the text in force on 2026-11-06 is the revision of 2025-10-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一三年二月二二日法務省令第二二号） | [suppl/h13-0222-m22.md](suppl/h13-0222-m22.md) |
-| 附則（平成三〇年三月一六日法務省令第二号） | [suppl/h30-0316-m2.md](suppl/h30-0316-m2.md) |
-| 附則（令和元年一二月一六日法務省令第五一号） | [suppl/r1-1216-m51.md](suppl/r1-1216-m51.md) |
-| 附則（令和七年八月一五日法務省令第四〇号） | [suppl/r7-0815-m40.md](suppl/r7-0815-m40.md) |
-| 付録第１号様式 | [appdx/style-1.md](appdx/style-1.md) |
-| 付録第２号様式 | [appdx/style-2.md](appdx/style-2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2025-10-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2025-10-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一三年二月二二日法務省令第二二号） | [suppl/h13-0222-m22.md](suppl/h13-0222-m22.md) | 0 |  |
+| 附則（平成三〇年三月一六日法務省令第二号） | [suppl/h30-0316-m2.md](suppl/h30-0316-m2.md) | 1 | 2018-03-16 |
+| 附則（令和元年一二月一六日法務省令第五一号） | [suppl/r1-1216-m51.md](suppl/r1-1216-m51.md) | 1 | 2019-12-16 |
+| 附則（令和七年八月一五日法務省令第四〇号） | [suppl/r7-0815-m40.md](suppl/r7-0815-m40.md) | 1 | 2025-10-01 |
+| 付録第１号様式 | [appdx/style-1.md](appdx/style-1.md) | 1 | 2025-10-01 |
+| 付録第２号様式 | [appdx/style-2.md](appdx/style-2.md) | 1 | 2025-10-01 |
