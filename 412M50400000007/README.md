@@ -2,17 +2,17 @@
 
 平成十二年国家公安委員会規則第七号 · <https://laws.e-gov.go.jp/law/412M50400000007>
 
-2026-11-03 現在の本文（2025-03-24 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2005-04-01 施行から）。2026-11-06 現在の本文は 2025-03-24 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-03-24: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2005-04-01; the text in force on 2026-11-06 is the revision of 2025-03-24.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一四年八月二〇日国家公安委員会規則第一九号） | [suppl/h14-0820-r19.md](suppl/h14-0820-r19.md) |
-| 附則（平成一七年四月一日国家公安委員会規則第一〇号） | [suppl/h17-0401-r10.md](suppl/h17-0401-r10.md) |
-| 附則（令和六年一一月一日国家公安委員会規則第一六号） | [suppl/r6-1101-r16.md](suppl/r6-1101-r16.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2025-03-24 |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一四年八月二〇日国家公安委員会規則第一九号） | [suppl/h14-0820-r19.md](suppl/h14-0820-r19.md) | 0 |  |
+| 附則（平成一七年四月一日国家公安委員会規則第一〇号） | [suppl/h17-0401-r10.md](suppl/h17-0401-r10.md) | 0 |  |
+| 附則（令和六年一一月一日国家公安委員会規則第一六号） | [suppl/r6-1101-r16.md](suppl/r6-1101-r16.md) | 1 | 2025-03-24 |

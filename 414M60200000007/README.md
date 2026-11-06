@@ -2,20 +2,20 @@
 
 平成十四年公正取引委員会規則第七号 · <https://laws.e-gov.go.jp/law/414M60200000007>
 
-2026-11-03 現在の本文（2021-11-22 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2014-11-28 施行から）。2026-11-06 現在の本文は 2021-11-22 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2021-11-22: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2014-11-28; the text in force on 2026-11-06 is the revision of 2021-11-22.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一六年一二月二八日公正取引委員会規則第四号） | [suppl/h16-1228-r4.md](suppl/h16-1228-r4.md) |
-| 附則（平成一八年三月二八日公正取引委員会規則第二号） | [suppl/h18-0328-r2.md](suppl/h18-0328-r2.md) |
-| 附則（平成二一年一〇月二八日公正取引委員会規則第八号） | [suppl/h21-1028-r8.md](suppl/h21-1028-r8.md) |
-| 附則（平成二二年三月三一日公正取引委員会規則第一号） | [suppl/h22-0331-r1.md](suppl/h22-0331-r1.md) |
-| 附則（平成二四年七月一九日公正取引委員会規則第二号） | [suppl/h24-0719-r2.md](suppl/h24-0719-r2.md) |
-| 附則（平成二六年一一月二七日公正取引委員会規則第三号） | [suppl/h26-1127-r3.md](suppl/h26-1127-r3.md) |
-| 附則（令和三年八月二五日公正取引委員会規則第三号） | [suppl/r3-0825-r3.md](suppl/r3-0825-r3.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2021-11-22 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一六年一二月二八日公正取引委員会規則第四号） | [suppl/h16-1228-r4.md](suppl/h16-1228-r4.md) | 0 |  |
+| 附則（平成一八年三月二八日公正取引委員会規則第二号） | [suppl/h18-0328-r2.md](suppl/h18-0328-r2.md) | 0 |  |
+| 附則（平成二一年一〇月二八日公正取引委員会規則第八号） | [suppl/h21-1028-r8.md](suppl/h21-1028-r8.md) | 0 |  |
+| 附則（平成二二年三月三一日公正取引委員会規則第一号） | [suppl/h22-0331-r1.md](suppl/h22-0331-r1.md) | 0 |  |
+| 附則（平成二四年七月一九日公正取引委員会規則第二号） | [suppl/h24-0719-r2.md](suppl/h24-0719-r2.md) | 0 |  |
+| 附則（平成二六年一一月二七日公正取引委員会規則第三号） | [suppl/h26-1127-r3.md](suppl/h26-1127-r3.md) | 0 |  |
+| 附則（令和三年八月二五日公正取引委員会規則第三号） | [suppl/r3-0825-r3.md](suppl/r3-0825-r3.md) | 1 | 2021-11-01 |

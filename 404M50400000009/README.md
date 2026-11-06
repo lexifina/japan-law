@@ -2,34 +2,34 @@
 
 平成四年国家公安委員会規則第九号 · <https://laws.e-gov.go.jp/law/404M50400000009>
 
-2026-11-03 現在の本文（2025-06-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2008-12-01 施行から）。2026-11-06 現在の本文は 2025-06-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-06-01: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2008-12-01; the text in force on 2026-11-06 is the revision of 2025-06-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第一条の二 | [art-001-2.md](art-001-2.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成六年九月二六日国家公安委員会規則第二五号） | [suppl/h6-0926-r25.md](suppl/h6-0926-r25.md) |
-| 附則（平成一〇年三月六日国家公安委員会規則第五号） | [suppl/h10-0306-r5.md](suppl/h10-0306-r5.md) |
-| 附則（平成一一年三月三一日国家公安委員会規則第七号） | [suppl/h11-0331-r7.md](suppl/h11-0331-r7.md) |
-| 附則（平成一七年三月四日国家公安委員会規則第二号） | [suppl/h17-0304-r2.md](suppl/h17-0304-r2.md) |
-| 附則（平成二〇年八月一日国家公安委員会規則第一六号） | [suppl/h20-0801-r16.md](suppl/h20-0801-r16.md) |
-| 附則（平成二〇年八月一日国家公安委員会規則第一七号） | [suppl/h20-0801-r17.md](suppl/h20-0801-r17.md) |
-| 附則（令和元年六月二一日国家公安委員会規則第三号） | [suppl/r1-0621-r3.md](suppl/r1-0621-r3.md) |
-| 附則（令和四年一二月二三日国家公安委員会規則第二一号） | [suppl/r4-1223-r21.md](suppl/r4-1223-r21.md) |
-| 附則（令和五年一二月二五日国家公安委員会規則第一五号） | [suppl/r5-1225-r15.md](suppl/r5-1225-r15.md) |
-| 附則（令和七年五月二六日国家公安委員会規則第一〇号） | [suppl/r7-0526-r10.md](suppl/r7-0526-r10.md) |
-| 別記様式第１号 | [appdx/style-1.md](appdx/style-1.md) |
-| 別記様式第２号 | [appdx/style-2.md](appdx/style-2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第一条の二 | [art-001-2.md](art-001-2.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2025-06-01 |
+| 第三条 | [art-003.md](art-003.md) | 0 |  |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2023-04-01 |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 第六条 | [art-006.md](art-006.md) | 0 |  |
+| 第七条 | [art-007.md](art-007.md) | 0 |  |
+| 第八条 | [art-008.md](art-008.md) | 0 |  |
+| 第九条 | [art-009.md](art-009.md) | 2 | 2023-12-25 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成六年九月二六日国家公安委員会規則第二五号） | [suppl/h6-0926-r25.md](suppl/h6-0926-r25.md) | 0 |  |
+| 附則（平成一〇年三月六日国家公安委員会規則第五号） | [suppl/h10-0306-r5.md](suppl/h10-0306-r5.md) | 0 |  |
+| 附則（平成一一年三月三一日国家公安委員会規則第七号） | [suppl/h11-0331-r7.md](suppl/h11-0331-r7.md) | 0 |  |
+| 附則（平成一七年三月四日国家公安委員会規則第二号） | [suppl/h17-0304-r2.md](suppl/h17-0304-r2.md) | 0 |  |
+| 附則（平成二〇年八月一日国家公安委員会規則第一六号） | [suppl/h20-0801-r16.md](suppl/h20-0801-r16.md) | 0 |  |
+| 附則（平成二〇年八月一日国家公安委員会規則第一七号） | [suppl/h20-0801-r17.md](suppl/h20-0801-r17.md) | 0 |  |
+| 附則（令和元年六月二一日国家公安委員会規則第三号） | [suppl/r1-0621-r3.md](suppl/r1-0621-r3.md) | 1 | 2019-07-01 |
+| 附則（令和四年一二月二三日国家公安委員会規則第二一号） | [suppl/r4-1223-r21.md](suppl/r4-1223-r21.md) | 1 | 2023-04-01 |
+| 附則（令和五年一二月二五日国家公安委員会規則第一五号） | [suppl/r5-1225-r15.md](suppl/r5-1225-r15.md) | 1 | 2023-12-25 |
+| 附則（令和七年五月二六日国家公安委員会規則第一〇号） | [suppl/r7-0526-r10.md](suppl/r7-0526-r10.md) | 1 | 2025-06-01 |
+| 別記様式第１号 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
+| 別記様式第２号 | [appdx/style-2.md](appdx/style-2.md) | 0 |  |
