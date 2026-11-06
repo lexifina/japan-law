@@ -2,16 +2,16 @@
 
 平成十九年総務省令第百五十二号 · <https://laws.e-gov.go.jp/law/419M60000008152>
 
-2026-11-03 現在の本文（2022-08-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2012-10-25 施行から）。2026-11-06 現在の本文は 2022-08-31 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-08-31: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2012-10-25; the text in force on 2026-11-06 is the revision of 2022-08-31.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二三年一一月三〇日総務省令第一五一号） | [suppl/h23-1130-m151.md](suppl/h23-1130-m151.md) |
-| 附則（平成二四年一〇月二五日総務省令第九二号） | [suppl/h24-1025-m92.md](suppl/h24-1025-m92.md) |
-| 附則（令和四年八月二六日総務省令第五七号） | [suppl/r4-0826-m57.md](suppl/r4-0826-m57.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2022-08-31 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二三年一一月三〇日総務省令第一五一号） | [suppl/h23-1130-m151.md](suppl/h23-1130-m151.md) | 0 |  |
+| 附則（平成二四年一〇月二五日総務省令第九二号） | [suppl/h24-1025-m92.md](suppl/h24-1025-m92.md) | 0 |  |
+| 附則（令和四年八月二六日総務省令第五七号） | [suppl/r4-0826-m57.md](suppl/r4-0826-m57.md) | 1 | 2022-08-31 |

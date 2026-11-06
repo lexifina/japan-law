@@ -2,19 +2,19 @@
 
 平成十八年総務省令第九十九号 · <https://laws.e-gov.go.jp/law/418M60000008099>
 
-2026-11-03 現在の本文（2024-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2016-04-01 施行から）。2026-11-06 現在の本文は 2024-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-04-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-06 is the revision of 2024-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二四年七月三日総務省令第六四号） | [suppl/h24-0703-m64.md](suppl/h24-0703-m64.md) |
-| 附則（平成二七年一月三〇日総務省令第三号） | [suppl/h27-0130-m3.md](suppl/h27-0130-m3.md) |
-| 附則（令和元年六月一二日総務省令第一四号） | [suppl/r1-0612-m14.md](suppl/r1-0612-m14.md) |
-| 附則（令和五年一二月二八日総務省令第一〇六号） | [suppl/r5-1228-m106.md](suppl/r5-1228-m106.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2019-06-20 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2024-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2019-06-20 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2019-06-20 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二四年七月三日総務省令第六四号） | [suppl/h24-0703-m64.md](suppl/h24-0703-m64.md) | 0 |  |
+| 附則（平成二七年一月三〇日総務省令第三号） | [suppl/h27-0130-m3.md](suppl/h27-0130-m3.md) | 0 |  |
+| 附則（令和元年六月一二日総務省令第一四号） | [suppl/r1-0612-m14.md](suppl/r1-0612-m14.md) | 1 | 2019-06-20 |
+| 附則（令和五年一二月二八日総務省令第一〇六号） | [suppl/r5-1228-m106.md](suppl/r5-1228-m106.md) | 1 | 2024-04-01 |

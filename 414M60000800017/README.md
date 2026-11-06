@@ -2,31 +2,31 @@
 
 平成十四年国土交通省令第十七号 · <https://laws.e-gov.go.jp/law/414M60000800017>
 
-2026-11-03 現在の本文（2023-12-28 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（2010-04-01 施行から）。2026-11-06 現在の本文は 2023-12-28 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2023-12-28: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 2010-04-01; the text in force on 2026-11-06 is the revision of 2023-12-28.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 第七条 | [art-007.md](art-007.md) |
-| 第八条 | [art-008.md](art-008.md) |
-| 第九条 | [art-009.md](art-009.md) |
-| 第十条 | [art-010.md](art-010.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二二年二月九日国土交通省令第三号） | [suppl/h22-0209-m3.md](suppl/h22-0209-m3.md) |
-| 附則（令和元年五月七日国土交通省令第一号） | [suppl/r1-0507-m1.md](suppl/r1-0507-m1.md) |
-| 附則（令和二年一二月二三日国土交通省令第九八号） | [suppl/r2-1223-m98.md](suppl/r2-1223-m98.md) |
-| 附則（令和三年二月三日国土交通省令第四号） | [suppl/r3-0203-m4.md](suppl/r3-0203-m4.md) |
-| 附則（令和三年八月三一日国土交通省令第五三号） | [suppl/r3-0831-m53.md](suppl/r3-0831-m53.md) |
-| 附則（令和五年一二月二八日国土交通省令第九八号） | [suppl/r5-1228-m98.md](suppl/r5-1228-m98.md) |
-| （様式第一号） | [appdx/style-1.md](appdx/style-1.md) |
-| （様式第二号） | [appdx/style-2.md](appdx/style-2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 2 | 2023-12-28 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2021-09-01 |
+| 第五条 | [art-005.md](art-005.md) | 2 | 2023-12-28 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2021-09-01 |
+| 第七条 | [art-007.md](art-007.md) | 1 | 2021-09-01 |
+| 第八条 | [art-008.md](art-008.md) | 2 | 2023-12-28 |
+| 第九条 | [art-009.md](art-009.md) | 1 | 2021-09-01 |
+| 第十条 | [art-010.md](art-010.md) | 2 | 2023-12-28 |
+| 第十一条 | [art-011.md](art-011.md) | 1 | 2021-09-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二二年二月九日国土交通省令第三号） | [suppl/h22-0209-m3.md](suppl/h22-0209-m3.md) | 0 |  |
+| 附則（令和元年五月七日国土交通省令第一号） | [suppl/r1-0507-m1.md](suppl/r1-0507-m1.md) | 1 | 2019-05-07 |
+| 附則（令和二年一二月二三日国土交通省令第九八号） | [suppl/r2-1223-m98.md](suppl/r2-1223-m98.md) | 1 | 2021-01-01 |
+| 附則（令和三年二月三日国土交通省令第四号） | [suppl/r3-0203-m4.md](suppl/r3-0203-m4.md) | 1 | 2021-04-01 |
+| 附則（令和三年八月三一日国土交通省令第五三号） | [suppl/r3-0831-m53.md](suppl/r3-0831-m53.md) | 1 | 2021-09-01 |
+| 附則（令和五年一二月二八日国土交通省令第九八号） | [suppl/r5-1228-m98.md](suppl/r5-1228-m98.md) | 1 | 2023-12-28 |
+| （様式第一号） | [appdx/style-1.md](appdx/style-1.md) | 1 | 2019-05-07 |
+| （様式第二号） | [appdx/style-2.md](appdx/style-2.md) | 1 | 2019-05-07 |

@@ -2,21 +2,21 @@
 
 平成十五年内閣府令第六十六号 · <https://laws.e-gov.go.jp/law/415M60000002066>
 
-2026-11-03 現在の本文（2025-05-09 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2015-11-26 施行から）。2026-11-06 現在の本文は 2025-05-09 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-05-09: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2015-11-26; the text in force on 2026-11-06 is the revision of 2025-05-09.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一七年一月四日内閣府令第一号） | [suppl/h17-0104-m1.md](suppl/h17-0104-m1.md) |
-| 附則（平成一七年三月二五日内閣府令第二四号） | [suppl/h17-0325-m24.md](suppl/h17-0325-m24.md) |
-| 附則（平成一八年五月二六日内閣府令第六五号） | [suppl/h18-0526-m65.md](suppl/h18-0526-m65.md) |
-| 附則（平成二一年八月二八日内閣府令第四四号） | [suppl/h21-0828-m44.md](suppl/h21-0828-m44.md) |
-| 附則（平成二五年六月二六日内閣府令第四〇号） | [suppl/h25-0626-m40.md](suppl/h25-0626-m40.md) |
-| 附則（平成二七年一一月二六日内閣府令第六六号） | [suppl/h27-1126-m66.md](suppl/h27-1126-m66.md) |
-| 附則（平成三〇年一一月三〇日内閣府令第五三号） | [suppl/h30-1130-m53.md](suppl/h30-1130-m53.md) |
-| 附則（令和七年五月九日内閣府令第四五号） | [suppl/r7-0509-m45.md](suppl/r7-0509-m45.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2025-05-09 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一七年一月四日内閣府令第一号） | [suppl/h17-0104-m1.md](suppl/h17-0104-m1.md) | 0 |  |
+| 附則（平成一七年三月二五日内閣府令第二四号） | [suppl/h17-0325-m24.md](suppl/h17-0325-m24.md) | 0 |  |
+| 附則（平成一八年五月二六日内閣府令第六五号） | [suppl/h18-0526-m65.md](suppl/h18-0526-m65.md) | 0 |  |
+| 附則（平成二一年八月二八日内閣府令第四四号） | [suppl/h21-0828-m44.md](suppl/h21-0828-m44.md) | 0 |  |
+| 附則（平成二五年六月二六日内閣府令第四〇号） | [suppl/h25-0626-m40.md](suppl/h25-0626-m40.md) | 0 |  |
+| 附則（平成二七年一一月二六日内閣府令第六六号） | [suppl/h27-1126-m66.md](suppl/h27-1126-m66.md) | 0 |  |
+| 附則（平成三〇年一一月三〇日内閣府令第五三号） | [suppl/h30-1130-m53.md](suppl/h30-1130-m53.md) | 1 | 2018-12-01 |
+| 附則（令和七年五月九日内閣府令第四五号） | [suppl/r7-0509-m45.md](suppl/r7-0509-m45.md) | 1 | 2025-05-09 |

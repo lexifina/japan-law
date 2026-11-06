@@ -2,22 +2,22 @@
 
 平成十五年農林水産省令第八十二号 · <https://laws.e-gov.go.jp/law/415M60000200082>
 
-2026-11-03 現在の本文（2022-08-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2014-04-01 施行から）。2026-11-06 現在の本文は 2022-08-31 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-08-31: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2014-04-01; the text in force on 2026-11-06 is the revision of 2022-08-31.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一六年三月二六日農林水産省令第二五号） | [suppl/h16-0326-m25.md](suppl/h16-0326-m25.md) |
-| 附則（平成一六年八月三〇日農林水産省令第六四号） | [suppl/h16-0830-m64.md](suppl/h16-0830-m64.md) |
-| 附則（平成一六年一二月二七日農林水産省令第一〇八号） | [suppl/h16-1227-m108.md](suppl/h16-1227-m108.md) |
-| 附則（平成一七年八月一九日農林水産省令第九三号） | [suppl/h17-0819-m93.md](suppl/h17-0819-m93.md) |
-| 附則（平成二三年九月一六日農林水産省令第五四号） | [suppl/h23-0916-m54.md](suppl/h23-0916-m54.md) |
-| 附則（平成二三年一一月二九日農林水産省令第六二号） | [suppl/h23-1129-m62.md](suppl/h23-1129-m62.md) |
-| 附則（平成二四年九月五日農林水産省令第四七号） | [suppl/h24-0905-m47.md](suppl/h24-0905-m47.md) |
-| 附則（平成二六年二月一八日農林水産省令第一一号） | [suppl/h26-0218-m11.md](suppl/h26-0218-m11.md) |
-| 附則（令和四年八月二九日農林水産省令第四八号） | [suppl/r4-0829-m48.md](suppl/r4-0829-m48.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2022-08-31 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一六年三月二六日農林水産省令第二五号） | [suppl/h16-0326-m25.md](suppl/h16-0326-m25.md) | 0 |  |
+| 附則（平成一六年八月三〇日農林水産省令第六四号） | [suppl/h16-0830-m64.md](suppl/h16-0830-m64.md) | 0 |  |
+| 附則（平成一六年一二月二七日農林水産省令第一〇八号） | [suppl/h16-1227-m108.md](suppl/h16-1227-m108.md) | 0 |  |
+| 附則（平成一七年八月一九日農林水産省令第九三号） | [suppl/h17-0819-m93.md](suppl/h17-0819-m93.md) | 0 |  |
+| 附則（平成二三年九月一六日農林水産省令第五四号） | [suppl/h23-0916-m54.md](suppl/h23-0916-m54.md) | 0 |  |
+| 附則（平成二三年一一月二九日農林水産省令第六二号） | [suppl/h23-1129-m62.md](suppl/h23-1129-m62.md) | 0 |  |
+| 附則（平成二四年九月五日農林水産省令第四七号） | [suppl/h24-0905-m47.md](suppl/h24-0905-m47.md) | 0 |  |
+| 附則（平成二六年二月一八日農林水産省令第一一号） | [suppl/h26-0218-m11.md](suppl/h26-0218-m11.md) | 0 |  |
+| 附則（令和四年八月二九日農林水産省令第四八号） | [suppl/r4-0829-m48.md](suppl/r4-0829-m48.md) | 1 | 2022-08-31 |

@@ -2,21 +2,21 @@
 
 平成十四年財務省・農林水産省令第二号 · <https://laws.e-gov.go.jp/law/414M60000240002>
 
-2026-11-03 現在の本文（2024-09-02 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2014-03-01 施行から）。2026-11-06 現在の本文は 2024-09-02 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-09-02: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2014-03-01; the text in force on 2026-11-06 is the revision of 2024-09-02.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二〇年九月三〇日財務省・農林水産省令第五号） | [suppl/h20-0930-m5.md](suppl/h20-0930-m5.md) |
-| 附則（平成二四年三月二六日財務省・農林水産省令第一号） | [suppl/h24-0326-m1.md](suppl/h24-0326-m1.md) |
-| 附則（平成二六年二月二八日財務省・農林水産省令第一号） | [suppl/h26-0228-m1.md](suppl/h26-0228-m1.md) |
-| 附則（令和元年六月二一日財務省・農林水産省令第二号） | [suppl/r1-0621-m2.md](suppl/r1-0621-m2.md) |
-| 附則（令和三年七月三〇日財務省・農林水産省令第一号） | [suppl/r3-0730-m1.md](suppl/r3-0730-m1.md) |
-| 附則（令和六年九月二日財務省・農林水産省令第一号） | [suppl/r6-0902-m1.md](suppl/r6-0902-m1.md) |
-| 別記様式 | [appdx/style-1.md](appdx/style-1.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2021-08-02 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2024-09-02 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二〇年九月三〇日財務省・農林水産省令第五号） | [suppl/h20-0930-m5.md](suppl/h20-0930-m5.md) | 0 |  |
+| 附則（平成二四年三月二六日財務省・農林水産省令第一号） | [suppl/h24-0326-m1.md](suppl/h24-0326-m1.md) | 0 |  |
+| 附則（平成二六年二月二八日財務省・農林水産省令第一号） | [suppl/h26-0228-m1.md](suppl/h26-0228-m1.md) | 0 |  |
+| 附則（令和元年六月二一日財務省・農林水産省令第二号） | [suppl/r1-0621-m2.md](suppl/r1-0621-m2.md) | 1 | 2019-07-01 |
+| 附則（令和三年七月三〇日財務省・農林水産省令第一号） | [suppl/r3-0730-m1.md](suppl/r3-0730-m1.md) | 1 | 2021-08-02 |
+| 附則（令和六年九月二日財務省・農林水産省令第一号） | [suppl/r6-0902-m1.md](suppl/r6-0902-m1.md) | 1 | 2024-09-02 |
+| 別記様式 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |

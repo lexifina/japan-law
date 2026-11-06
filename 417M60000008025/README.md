@@ -2,17 +2,17 @@
 
 平成十七年総務省令第二十五号 · <https://laws.e-gov.go.jp/law/417M60000008025>
 
-2026-11-03 現在の本文（2025-03-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2014-05-30 施行から）。2026-11-06 現在の本文は 2025-03-31 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-03-31: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2014-05-30; the text in force on 2026-11-06 is the revision of 2025-03-31.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一七年三月一〇日総務省令第二七号） | [suppl/h17-0310-m27.md](suppl/h17-0310-m27.md) |
-| 附則（平成二六年五月二九日総務省令第五二号） | [suppl/h26-0529-m52.md](suppl/h26-0529-m52.md) |
-| 附則（平成三一年三月二九日総務省令第三四号） | [suppl/h31-0329-m34.md](suppl/h31-0329-m34.md) |
-| 附則（令和七年三月三一日総務省令第二三号） | [suppl/r7-0331-m23.md](suppl/r7-0331-m23.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2025-03-31 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一七年三月一〇日総務省令第二七号） | [suppl/h17-0310-m27.md](suppl/h17-0310-m27.md) | 0 |  |
+| 附則（平成二六年五月二九日総務省令第五二号） | [suppl/h26-0529-m52.md](suppl/h26-0529-m52.md) | 0 |  |
+| 附則（平成三一年三月二九日総務省令第三四号） | [suppl/h31-0329-m34.md](suppl/h31-0329-m34.md) | 1 | 2019-04-01 |
+| 附則（令和七年三月三一日総務省令第二三号） | [suppl/r7-0331-m23.md](suppl/r7-0331-m23.md) | 1 | 2025-03-31 |

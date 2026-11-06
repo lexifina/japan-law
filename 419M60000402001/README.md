@@ -2,17 +2,17 @@
 
 平成十九年内閣府・経済産業省令第一号 · <https://laws.e-gov.go.jp/law/419M60000402001>
 
-2026-11-03 現在の本文（2026-06-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2008-10-01 施行から）。2026-11-06 現在の本文は 2026-06-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-06-01: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2008-10-01; the text in force on 2026-11-06 is the revision of 2026-06-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二〇年九月三〇日内閣府・経済産業省令第四号） | [suppl/h20-0930-m4.md](suppl/h20-0930-m4.md) |
-| 附則（令和二年四月三日内閣府・経済産業省令第三号） | [suppl/r2-0403-m3.md](suppl/r2-0403-m3.md) |
-| 附則（令和五年五月二六日内閣府・経済産業省令第三号） | [suppl/r5-0526-m3.md](suppl/r5-0526-m3.md) |
-| 附則（令和八年五月二二日内閣府・経済産業省令第三号） | [suppl/r8-0522-m3.md](suppl/r8-0522-m3.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 3 | 2026-06-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二〇年九月三〇日内閣府・経済産業省令第四号） | [suppl/h20-0930-m4.md](suppl/h20-0930-m4.md) | 0 |  |
+| 附則（令和二年四月三日内閣府・経済産業省令第三号） | [suppl/r2-0403-m3.md](suppl/r2-0403-m3.md) | 1 | 2020-05-01 |
+| 附則（令和五年五月二六日内閣府・経済産業省令第三号） | [suppl/r5-0526-m3.md](suppl/r5-0526-m3.md) | 1 | 2023-06-01 |
+| 附則（令和八年五月二二日内閣府・経済産業省令第三号） | [suppl/r8-0522-m3.md](suppl/r8-0522-m3.md) | 1 | 2026-06-01 |

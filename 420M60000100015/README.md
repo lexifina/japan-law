@@ -2,15 +2,15 @@
 
 平成二十年厚生労働省令第十五号 · <https://laws.e-gov.go.jp/law/420M60000100015>
 
-2026-11-03 現在の本文（2026-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2008-04-01 施行から）。2026-11-06 現在の本文は 2026-10-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-10-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2008-04-01; the text in force on 2026-11-06 is the revision of 2026-10-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和六年一月一七日厚生労働省令第四号） | [suppl/r6-0117-m4.md](suppl/r6-0117-m4.md) |
-| 附則（令和八年九月三〇日厚生労働省令第一四四号） | [suppl/r8-0930-m144.md](suppl/r8-0930-m144.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2026-10-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 2 | 2026-10-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 1 | 2026-10-01 |
+| 附則（令和六年一月一七日厚生労働省令第四号） | [suppl/r6-0117-m4.md](suppl/r6-0117-m4.md) | 1 | 2024-04-01 |
+| 附則（令和八年九月三〇日厚生労働省令第一四四号） | [suppl/r8-0930-m144.md](suppl/r8-0930-m144.md) | 1 | 2026-10-01 |

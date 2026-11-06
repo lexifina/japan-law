@@ -2,19 +2,19 @@
 
 平成十五年内閣府令第三号 · <https://laws.e-gov.go.jp/law/415M60000002003>
 
-2026-11-03 現在の本文（2023-06-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2012-05-19 施行から）。2026-11-06 現在の本文は 2023-06-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2023-06-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2012-05-19; the text in force on 2026-11-06 is the revision of 2023-06-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一八年三月三一日内閣府令第三七号） | [suppl/h18-0331-m37.md](suppl/h18-0331-m37.md) |
-| 附則（平成一九年九月二〇日内閣府令第七三号） | [suppl/h19-0920-m73.md](suppl/h19-0920-m73.md) |
-| 附則（平成二三年一〇月二八日内閣府令第五六号） | [suppl/h23-1028-m56.md](suppl/h23-1028-m56.md) |
-| 附則（令和三年一一月一〇日内閣府令第六九号） | [suppl/r3-1110-m69.md](suppl/r3-1110-m69.md) |
-| 附則（令和五年五月二六日内閣府令第五〇号） | [suppl/r5-0526-m50.md](suppl/r5-0526-m50.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2023-06-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2023-06-01 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2023-06-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一八年三月三一日内閣府令第三七号） | [suppl/h18-0331-m37.md](suppl/h18-0331-m37.md) | 0 |  |
+| 附則（平成一九年九月二〇日内閣府令第七三号） | [suppl/h19-0920-m73.md](suppl/h19-0920-m73.md) | 0 |  |
+| 附則（平成二三年一〇月二八日内閣府令第五六号） | [suppl/h23-1028-m56.md](suppl/h23-1028-m56.md) | 0 |  |
+| 附則（令和三年一一月一〇日内閣府令第六九号） | [suppl/r3-1110-m69.md](suppl/r3-1110-m69.md) | 1 | 2021-11-22 |
+| 附則（令和五年五月二六日内閣府令第五〇号） | [suppl/r5-0526-m50.md](suppl/r5-0526-m50.md) | 1 | 2023-06-01 |

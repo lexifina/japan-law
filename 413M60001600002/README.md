@@ -2,19 +2,19 @@
 
 平成十三年農林水産省・経済産業省・環境省令第二号 · <https://laws.e-gov.go.jp/law/413M60001600002>
 
-2026-11-03 現在の本文（2026-07-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2015-10-01 施行から）。2026-11-06 現在の本文は 2026-07-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-07-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2015-10-01; the text in force on 2026-11-06 is the revision of 2026-07-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成一七年九月二〇日農林水産省・経済産業省・環境省令第二号） | [suppl/h17-0920-m2.md](suppl/h17-0920-m2.md) |
-| 附則（平成一九年一一月三〇日農林水産省・経済産業省・環境省令第二号） | [suppl/h19-1130-m2.md](suppl/h19-1130-m2.md) |
-| 附則（平成二七年九月三〇日農林水産省・経済産業省・環境省令第二号） | [suppl/h27-0930-m2.md](suppl/h27-0930-m2.md) |
-| 附則（令和元年七月一日農林水産省・経済産業省・環境省令第三号） | [suppl/r1-0701-m3.md](suppl/r1-0701-m3.md) |
-| 附則（令和八年六月三〇日農林水産省・経済産業省・環境省令第一号） | [suppl/r8-0630-m1.md](suppl/r8-0630-m1.md) |
-| 別記様式 | [appdx/style-1.md](appdx/style-1.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成一七年九月二〇日農林水産省・経済産業省・環境省令第二号） | [suppl/h17-0920-m2.md](suppl/h17-0920-m2.md) | 0 |  |
+| 附則（平成一九年一一月三〇日農林水産省・経済産業省・環境省令第二号） | [suppl/h19-1130-m2.md](suppl/h19-1130-m2.md) | 0 |  |
+| 附則（平成二七年九月三〇日農林水産省・経済産業省・環境省令第二号） | [suppl/h27-0930-m2.md](suppl/h27-0930-m2.md) | 0 |  |
+| 附則（令和元年七月一日農林水産省・経済産業省・環境省令第三号） | [suppl/r1-0701-m3.md](suppl/r1-0701-m3.md) | 1 | 2019-07-01 |
+| 附則（令和八年六月三〇日農林水産省・経済産業省・環境省令第一号） | [suppl/r8-0630-m1.md](suppl/r8-0630-m1.md) | 1 | 2026-07-01 |
+| 別記様式 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |

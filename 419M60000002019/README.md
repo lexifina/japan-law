@@ -2,32 +2,32 @@
 
 平成十九年内閣府令第十九号 · <https://laws.e-gov.go.jp/law/419M60000002019>
 
-2026-11-03 現在の本文（2024-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 7 件（2012-07-09 施行から）。2026-11-06 現在の本文は 2024-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-04-01: the oldest version available; its revision history is not yet added.
+7 revisions in e-Gov, from 2012-07-09; the text in force on 2026-11-06 is the revision of 2024-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第一条の二 | [art-001-2.md](art-001-2.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二四年三月一六日内閣府令第七号） | [suppl/h24-0316-m7.md](suppl/h24-0316-m7.md) |
-| 附則（平成二四年三月二一日内閣府令第八号） | [suppl/h24-0321-m8.md](suppl/h24-0321-m8.md) |
-| 附則（平成二四年六月一八日内閣府令第三九号） | [suppl/h24-0618-m39.md](suppl/h24-0618-m39.md) |
-| 附則（令和元年五月二四日内閣府令第五号） | [suppl/r1-0524-m5.md](suppl/r1-0524-m5.md) |
-| 附則（令和元年六月二一日内閣府令第一二号） | [suppl/r1-0621-m12.md](suppl/r1-0621-m12.md) |
-| 附則（令和元年一〇月二四日内閣府令第三六号） | [suppl/r1-1024-m36.md](suppl/r1-1024-m36.md) |
-| 附則（令和二年一二月二八日内閣府令第八五号） | [suppl/r2-1228-m85.md](suppl/r2-1228-m85.md) |
-| 附則（令和三年一二月一七日内閣府令第七五号） | [suppl/r3-1217-m75.md](suppl/r3-1217-m75.md) |
-| 附則（令和六年一月三一日内閣府令第六号） | [suppl/r6-0131-m6.md](suppl/r6-0131-m6.md) |
-| 別記様式第１号 | [appdx/style-1.md](appdx/style-1.md) |
-| 別記様式第２号 | [appdx/style-2.md](appdx/style-2.md) |
-| 別記様式第３号 | [appdx/style-3.md](appdx/style-3.md) |
-| 別記様式第４号 | [appdx/style-4.md](appdx/style-4.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2019-12-14 |
+| 第一条の二 | [art-001-2.md](art-001-2.md) | 1 | 2019-12-14 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2022-04-01 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2024-04-01 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2024-04-01 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2024-04-01 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2024-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二四年三月一六日内閣府令第七号） | [suppl/h24-0316-m7.md](suppl/h24-0316-m7.md) | 0 |  |
+| 附則（平成二四年三月二一日内閣府令第八号） | [suppl/h24-0321-m8.md](suppl/h24-0321-m8.md) | 0 |  |
+| 附則（平成二四年六月一八日内閣府令第三九号） | [suppl/h24-0618-m39.md](suppl/h24-0618-m39.md) | 0 |  |
+| 附則（令和元年五月二四日内閣府令第五号） | [suppl/r1-0524-m5.md](suppl/r1-0524-m5.md) | 1 | 2019-05-24 |
+| 附則（令和元年六月二一日内閣府令第一二号） | [suppl/r1-0621-m12.md](suppl/r1-0621-m12.md) | 1 | 2019-07-01 |
+| 附則（令和元年一〇月二四日内閣府令第三六号） | [suppl/r1-1024-m36.md](suppl/r1-1024-m36.md) | 1 | 2019-12-14 |
+| 附則（令和二年一二月二八日内閣府令第八五号） | [suppl/r2-1228-m85.md](suppl/r2-1228-m85.md) | 1 | 2020-12-28 |
+| 附則（令和三年一二月一七日内閣府令第七五号） | [suppl/r3-1217-m75.md](suppl/r3-1217-m75.md) | 1 | 2022-04-01 |
+| 附則（令和六年一月三一日内閣府令第六号） | [suppl/r6-0131-m6.md](suppl/r6-0131-m6.md) | 1 | 2024-04-01 |
+| 別記様式第１号 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
+| 別記様式第２号 | [appdx/style-2.md](appdx/style-2.md) | 0 |  |
+| 別記様式第３号 | [appdx/style-3.md](appdx/style-3.md) | 0 |  |
+| 別記様式第４号 | [appdx/style-4.md](appdx/style-4.md) | 1 | 2024-04-01 |
