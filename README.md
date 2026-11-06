@@ -1,5 +1,7 @@
 # Japanese law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Japan's national law, which global-law reads at `japan/national/acts/`.
+
 8982 Japanese laws and regulations in force as a git repository (4094 Ministerial Ordinances (府省令), 2311 Cabinet Orders (政令), 2101 Acts (法律), 409 Rules (規則), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)). Each amending law is one commit for each
 day it took effect, credited to that law and dated that day (施行日), at noon in Tokyo. The text is the consolidated text
 published by the Digital Agency (デジタル庁) in [e-Gov 法令検索](https://laws.e-gov.go.jp): its XML bulk download
