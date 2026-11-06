@@ -2,17 +2,17 @@
 
 平成二十七年防衛省令第六号 · <https://laws.e-gov.go.jp/law/427M60002000006>
 
-2026-11-03 現在の本文（2021-01-29 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2015-04-01 施行から）。2026-11-06 現在の本文は 2021-01-29 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2021-01-29: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2015-04-01; the text in force on 2026-11-06 is the revision of 2021-01-29.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和三年一月二九日防衛省令第一号） | [suppl/r3-0129-m1.md](suppl/r3-0129-m1.md) |
-| 別記様式第１ | [appdx/style-1.md](appdx/style-1.md) |
-| 別記様式第２ | [appdx/style-2.md](appdx/style-2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和三年一月二九日防衛省令第一号） | [suppl/r3-0129-m1.md](suppl/r3-0129-m1.md) | 1 | 2021-01-29 |
+| 別記様式第１ | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
+| 別記様式第２ | [appdx/style-2.md](appdx/style-2.md) | 0 |  |

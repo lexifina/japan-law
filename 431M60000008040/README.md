@@ -2,26 +2,26 @@
 
 平成三十一年総務省令第四十号 · <https://laws.e-gov.go.jp/law/431M60000008040>
 
-2026-11-03 現在の本文（2026-10-21 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 8 件（2019-04-01 施行から）。2026-11-06 現在の本文は 2026-10-21 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-10-21: the oldest version available; its revision history is not yet added.
+8 revisions in e-Gov, from 2019-04-01; the text in force on 2026-11-06 is the revision of 2026-10-21.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第一条の二 | [art-001-2.md](art-001-2.md) |
-| 第一条の三 | [art-001-3.md](art-001-3.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和二年三月三一日総務省令第二一号） | [suppl/r2-0331-m21.md](suppl/r2-0331-m21.md) |
-| 附則（令和三年七月一三日総務省令第六九号） | [suppl/r3-0713-m69.md](suppl/r3-0713-m69.md) |
-| 附則（令和四年一月一四日総務省令第一号） | [suppl/r4-0114-m1.md](suppl/r4-0114-m1.md) |
-| 附則（令和四年九月三〇日総務省令第六七号） | [suppl/r4-0930-m67.md](suppl/r4-0930-m67.md) |
-| 附則（令和五年三月三一日総務省令第三六号） | [suppl/r5-0331-m36.md](suppl/r5-0331-m36.md) |
-| 附則（令和八年七月一日総務省令第八七号） | [suppl/r8-0701-m87.md](suppl/r8-0701-m87.md) |
-| 附則（令和八年一〇月二一日総務省令第一一九号） | [suppl/r8-1021-m119.md](suppl/r8-1021-m119.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2024-01-01 |
+| 第一条の二 | [art-001-2.md](art-001-2.md) | 3 | 2026-07-01 |
+| 第一条の三 | [art-001-3.md](art-001-3.md) | 2 | 2026-07-01 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2022-09-30 |
+| 第三条 | [art-003.md](art-003.md) | 2 | 2026-10-21 |
+| 第四条 | [art-004.md](art-004.md) | 2 | 2024-01-01 |
+| 第五条 | [art-005.md](art-005.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 6 | 2026-10-21 |
+| 附則（令和二年三月三一日総務省令第二一号） | [suppl/r2-0331-m21.md](suppl/r2-0331-m21.md) | 1 | 2020-04-01 |
+| 附則（令和三年七月一三日総務省令第六九号） | [suppl/r3-0713-m69.md](suppl/r3-0713-m69.md) | 1 | 2021-07-13 |
+| 附則（令和四年一月一四日総務省令第一号） | [suppl/r4-0114-m1.md](suppl/r4-0114-m1.md) | 1 | 2022-01-14 |
+| 附則（令和四年九月三〇日総務省令第六七号） | [suppl/r4-0930-m67.md](suppl/r4-0930-m67.md) | 1 | 2022-09-30 |
+| 附則（令和五年三月三一日総務省令第三六号） | [suppl/r5-0331-m36.md](suppl/r5-0331-m36.md) | 1 | 2024-01-01 |
+| 附則（令和八年七月一日総務省令第八七号） | [suppl/r8-0701-m87.md](suppl/r8-0701-m87.md) | 1 | 2026-07-01 |
+| 附則（令和八年一〇月二一日総務省令第一一九号） | [suppl/r8-1021-m119.md](suppl/r8-1021-m119.md) | 1 | 2026-10-21 |

@@ -2,20 +2,20 @@
 
 平成二十七年厚生労働省令第百四十九号 · <https://laws.e-gov.go.jp/law/427M60000100149>
 
-2026-11-03 現在の本文（2019-09-14 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2016-04-01 施行から）。2026-11-06 現在の本文は 2019-09-14 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2019-09-14: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-06 is the revision of 2019-09-14.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 目次 | [toc.md](toc.md) |
-| 第十一条 | [art-011.md](art-011.md) |
-| 第十二条 | [art-012.md](art-012.md) |
-| 第十三条 | [art-013.md](art-013.md) |
-| 第十四条 | [art-014.md](art-014.md) |
-| 第十五条 | [art-015.md](art-015.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二八年三月三一日厚生労働省令第七三号） | [suppl/h28-0331-m73.md](suppl/h28-0331-m73.md) |
-| 附則（令和元年九月一三日厚生労働省令第四六号） | [suppl/r1-0913-m46.md](suppl/r1-0913-m46.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 目次 | [toc.md](toc.md) | 0 |  |
+| 第十一条 | [art-011.md](art-011.md) | 0 |  |
+| 第十二条 | [art-012.md](art-012.md) | 0 |  |
+| 第十三条 | [art-013.md](art-013.md) | 0 |  |
+| 第十四条 | [art-014.md](art-014.md) | 1 | 2019-09-14 |
+| 第十五条 | [art-015.md](art-015.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二八年三月三一日厚生労働省令第七三号） | [suppl/h28-0331-m73.md](suppl/h28-0331-m73.md) | 0 |  |
+| 附則（令和元年九月一三日厚生労働省令第四六号） | [suppl/r1-0913-m46.md](suppl/r1-0913-m46.md) | 1 | 2019-09-14 |

@@ -2,17 +2,17 @@
 
 平成三十一年法務省令第六号 · <https://laws.e-gov.go.jp/law/431M60000010006>
 
-2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2019-04-01 施行から）。2026-11-06 現在の本文は 2026-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2019-04-01; the text in force on 2026-11-06 is the revision of 2026-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和四年五月二五日法務省令第三〇号） | [suppl/r4-0525-m30.md](suppl/r4-0525-m30.md) |
-| 附則（令和五年八月三一日法務省令第三五号） | [suppl/r5-0831-m35.md](suppl/r5-0831-m35.md) |
-| 附則（令和六年九月三〇日法務省令第四六号） | [suppl/r6-0930-m46.md](suppl/r6-0930-m46.md) |
-| 附則（令和八年三月三一日法務省令第二二号） | [suppl/r8-0331-m22.md](suppl/r8-0331-m22.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 4 | 2026-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和四年五月二五日法務省令第三〇号） | [suppl/r4-0525-m30.md](suppl/r4-0525-m30.md) | 1 | 2022-05-25 |
+| 附則（令和五年八月三一日法務省令第三五号） | [suppl/r5-0831-m35.md](suppl/r5-0831-m35.md) | 1 | 2023-08-31 |
+| 附則（令和六年九月三〇日法務省令第四六号） | [suppl/r6-0930-m46.md](suppl/r6-0930-m46.md) | 1 | 2024-09-30 |
+| 附則（令和八年三月三一日法務省令第二二号） | [suppl/r8-0331-m22.md](suppl/r8-0331-m22.md) | 1 | 2026-04-01 |

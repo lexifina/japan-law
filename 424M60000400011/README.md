@@ -2,21 +2,21 @@
 
 平成二十四年経済産業省令第十一号 · <https://laws.e-gov.go.jp/law/424M60000400011>
 
-2026-11-03 現在の本文（2026-07-31 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 7 件（2014-01-20 施行から）。2026-11-06 現在の本文は 2026-07-31 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-07-31: the oldest version available; its revision history is not yet added.
+7 revisions in e-Gov, from 2014-01-20; the text in force on 2026-11-06 is the revision of 2026-07-31.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二六年一月一七日経済産業省令第二号） | [suppl/h26-0117-m2.md](suppl/h26-0117-m2.md) |
-| 附則（平成三〇年四月二日経済産業省令第二二号） | [suppl/h30-0402-m22.md](suppl/h30-0402-m22.md) |
-| 附則（平成三〇年九月二五日経済産業省令第五九号） | [suppl/h30-0925-m59.md](suppl/h30-0925-m59.md) |
-| 附則（令和三年六月一六日経済産業省令第五三号） | [suppl/r3-0616-m53.md](suppl/r3-0616-m53.md) |
-| 附則（令和三年七月三〇日経済産業省令第六五号） | [suppl/r3-0730-m65.md](suppl/r3-0730-m65.md) |
-| 附則（令和六年九月二日経済産業省令第五七号） | [suppl/r6-0902-m57.md](suppl/r6-0902-m57.md) |
-| 附則（令和八年七月三一日経済産業省令第六三号） | [suppl/r8-0731-m63.md](suppl/r8-0731-m63.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 4 | 2026-07-31 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2018-09-25 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二六年一月一七日経済産業省令第二号） | [suppl/h26-0117-m2.md](suppl/h26-0117-m2.md) | 0 |  |
+| 附則（平成三〇年四月二日経済産業省令第二二号） | [suppl/h30-0402-m22.md](suppl/h30-0402-m22.md) | 1 | 2018-04-02 |
+| 附則（平成三〇年九月二五日経済産業省令第五九号） | [suppl/h30-0925-m59.md](suppl/h30-0925-m59.md) | 1 | 2018-09-25 |
+| 附則（令和三年六月一六日経済産業省令第五三号） | [suppl/r3-0616-m53.md](suppl/r3-0616-m53.md) | 1 | 2021-06-16 |
+| 附則（令和三年七月三〇日経済産業省令第六五号） | [suppl/r3-0730-m65.md](suppl/r3-0730-m65.md) | 1 | 2021-08-02 |
+| 附則（令和六年九月二日経済産業省令第五七号） | [suppl/r6-0902-m57.md](suppl/r6-0902-m57.md) | 1 | 2024-09-02 |
+| 附則（令和八年七月三一日経済産業省令第六三号） | [suppl/r8-0731-m63.md](suppl/r8-0731-m63.md) | 1 | 2026-07-31 |

@@ -2,18 +2,18 @@
 
 平成二十九年総務省令第三十号 · <https://laws.e-gov.go.jp/law/429M60000008030>
 
-2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 5 件（2017-04-01 施行から）。2026-11-06 現在の本文は 2026-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+5 revisions in e-Gov, from 2017-04-01; the text in force on 2026-11-06 is the revision of 2026-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成三一年三月二九日総務省令第三八号） | [suppl/h31-0329-m38.md](suppl/h31-0329-m38.md) |
-| 附則（平成三一年三月二九日総務省令第四〇号） | [suppl/h31-0329-m40.md](suppl/h31-0329-m40.md) |
-| 附則（令和二年三月三一日総務省令第二一号） | [suppl/r2-0331-m21.md](suppl/r2-0331-m21.md) |
-| 附則（令和八年三月三一日総務省令第四八号） | [suppl/r8-0331-m48.md](suppl/r8-0331-m48.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2019-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2026-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 1 | 2026-04-01 |
+| 附則（平成三一年三月二九日総務省令第三八号） | [suppl/h31-0329-m38.md](suppl/h31-0329-m38.md) | 1 | 2019-04-01 |
+| 附則（平成三一年三月二九日総務省令第四〇号） | [suppl/h31-0329-m40.md](suppl/h31-0329-m40.md) | 2 | 2020-04-01 |
+| 附則（令和二年三月三一日総務省令第二一号） | [suppl/r2-0331-m21.md](suppl/r2-0331-m21.md) | 1 | 2020-04-01 |
+| 附則（令和八年三月三一日総務省令第四八号） | [suppl/r8-0331-m48.md](suppl/r8-0331-m48.md) | 1 | 2026-04-01 |

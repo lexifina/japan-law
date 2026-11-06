@@ -2,17 +2,17 @@
 
 平成二十七年内閣府令第七十四号 · <https://laws.e-gov.go.jp/law/427M60000002074>
 
-2026-11-03 現在の本文（2022-01-11 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2016-01-01 施行から）。2026-11-06 現在の本文は 2022-01-11 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2022-01-11: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2016-01-01; the text in force on 2026-11-06 is the revision of 2022-01-11.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和二年五月二一日内閣府令第四一号） | [suppl/r2-0521-m41.md](suppl/r2-0521-m41.md) |
-| 附則（令和三年八月二七日内閣府令第五八号） | [suppl/r3-0827-m58.md](suppl/r3-0827-m58.md) |
-| 附則（令和三年一一月三〇日デジタル庁令第九号） | [suppl/r3-1130-m9.md](suppl/r3-1130-m9.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 1 | 2022-01-11 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2021-09-01 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2022-01-11 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和二年五月二一日内閣府令第四一号） | [suppl/r2-0521-m41.md](suppl/r2-0521-m41.md) | 1 | 2020-05-25 |
+| 附則（令和三年八月二七日内閣府令第五八号） | [suppl/r3-0827-m58.md](suppl/r3-0827-m58.md) | 1 | 2021-09-01 |
+| 附則（令和三年一一月三〇日デジタル庁令第九号） | [suppl/r3-1130-m9.md](suppl/r3-1130-m9.md) | 1 | 2022-01-11 |

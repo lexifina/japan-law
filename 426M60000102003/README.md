@@ -2,17 +2,17 @@
 
 平成二十六年内閣府・厚生労働省令第三号 · <https://laws.e-gov.go.jp/law/426M60000102003>
 
-2026-11-03 現在の本文（2024-03-29 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2014-04-01 施行から）。2026-11-06 現在の本文は 2024-03-29 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-03-29: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2014-04-01; the text in force on 2026-11-06 is the revision of 2024-03-29.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二九年一一月一七日内閣府・厚生労働省令第五号） | [suppl/h29-1117-m5.md](suppl/h29-1117-m5.md) |
-| 附則（平成三〇年二月六日内閣府・厚生労働省令第一号） | [suppl/h30-0206-m1.md](suppl/h30-0206-m1.md) |
-| 附則（令和六年三月二九日内閣府・厚生労働省令第八号） | [suppl/r6-0329-m8.md](suppl/r6-0329-m8.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 3 | 2024-03-29 |
+| 第二条 | [art-002.md](art-002.md) | 3 | 2024-03-29 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二九年一一月一七日内閣府・厚生労働省令第五号） | [suppl/h29-1117-m5.md](suppl/h29-1117-m5.md) | 1 | 2017-11-17 |
+| 附則（平成三〇年二月六日内閣府・厚生労働省令第一号） | [suppl/h30-0206-m1.md](suppl/h30-0206-m1.md) | 1 | 2018-06-15 |
+| 附則（令和六年三月二九日内閣府・厚生労働省令第八号） | [suppl/r6-0329-m8.md](suppl/r6-0329-m8.md) | 1 | 2024-03-29 |

@@ -2,21 +2,21 @@
 
 令和二年経済産業省令第三十六号 · <https://laws.e-gov.go.jp/law/502M60000400036>
 
-2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 6 件（2020-04-01 施行から）。2026-11-06 現在の本文は 2026-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+6 revisions in e-Gov, from 2020-04-01; the text in force on 2026-11-06 is the revision of 2026-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和二年四月二七日経済産業省令第四〇号） | [suppl/r2-0427-m40.md](suppl/r2-0427-m40.md) |
-| 附則（令和三年七月三〇日経済産業省令第六五号） | [suppl/r3-0730-m65.md](suppl/r3-0730-m65.md) |
-| 附則（令和四年三月三一日経済産業省令第三〇号） | [suppl/r4-0331-m30.md](suppl/r4-0331-m30.md) |
-| 附則（令和五年三月三一日経済産業省令第二〇号） | [suppl/r5-0331-m20.md](suppl/r5-0331-m20.md) |
-| 附則（令和八年三月三一日経済産業省令第三五号） | [suppl/r8-0331-m35.md](suppl/r8-0331-m35.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2021-08-02 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2023-04-01 |
+| 第三条 | [art-003.md](art-003.md) | 5 | 2026-04-01 |
+| 第四条 | [art-004.md](art-004.md) | 3 | 2026-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和二年四月二七日経済産業省令第四〇号） | [suppl/r2-0427-m40.md](suppl/r2-0427-m40.md) | 1 | 2020-04-27 |
+| 附則（令和三年七月三〇日経済産業省令第六五号） | [suppl/r3-0730-m65.md](suppl/r3-0730-m65.md) | 1 | 2021-08-02 |
+| 附則（令和四年三月三一日経済産業省令第三〇号） | [suppl/r4-0331-m30.md](suppl/r4-0331-m30.md) | 1 | 2022-04-01 |
+| 附則（令和五年三月三一日経済産業省令第二〇号） | [suppl/r5-0331-m20.md](suppl/r5-0331-m20.md) | 1 | 2023-04-01 |
+| 附則（令和八年三月三一日経済産業省令第三五号） | [suppl/r8-0331-m35.md](suppl/r8-0331-m35.md) | 1 | 2026-04-01 |

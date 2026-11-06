@@ -2,21 +2,21 @@
 
 平成二十六年法務省令第三十七号 · <https://laws.e-gov.go.jp/law/426M60000010037>
 
-2026-11-03 現在の本文（2024-06-10 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 9 件（2015-04-01 施行から）。2026-11-06 現在の本文は 2024-06-10 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-06-10: the oldest version available; its revision history is not yet added.
+9 revisions in e-Gov, from 2015-04-01; the text in force on 2026-11-06 is the revision of 2024-06-10.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二九年四月二六日法務省令第二一号） | [suppl/h29-0426-m21.md](suppl/h29-0426-m21.md) |
-| 附則（平成二九年七月三一日法務省令第二九号） | [suppl/h29-0731-m29.md](suppl/h29-0731-m29.md) |
-| 附則（平成三一年一月一七日法務省令第一号） | [suppl/h31-0117-m1.md](suppl/h31-0117-m1.md) |
-| 附則（令和三年七月三〇日法務省令第三七号） | [suppl/r3-0730-m37.md](suppl/r3-0730-m37.md) |
-| 附則（令和五年三月二九日法務省令第八号） | [suppl/r5-0329-m8.md](suppl/r5-0329-m8.md) |
-| 附則（令和五年四月一四日法務省令第二四号） | [suppl/r5-0414-m24.md](suppl/r5-0414-m24.md) |
-| 附則（令和六年五月二九日法務省令第三七号） | [suppl/r6-0529-m37.md](suppl/r6-0529-m37.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 7 | 2024-06-10 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2023-04-21 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二九年四月二六日法務省令第二一号） | [suppl/h29-0426-m21.md](suppl/h29-0426-m21.md) | 1 | 2017-04-26 |
+| 附則（平成二九年七月三一日法務省令第二九号） | [suppl/h29-0731-m29.md](suppl/h29-0731-m29.md) | 1 | 2017-07-31 |
+| 附則（平成三一年一月一七日法務省令第一号） | [suppl/h31-0117-m1.md](suppl/h31-0117-m1.md) | 1 | 2019-01-17 |
+| 附則（令和三年七月三〇日法務省令第三七号） | [suppl/r3-0730-m37.md](suppl/r3-0730-m37.md) | 1 | 2021-07-30 |
+| 附則（令和五年三月二九日法務省令第八号） | [suppl/r5-0329-m8.md](suppl/r5-0329-m8.md) | 1 | 2023-03-31 |
+| 附則（令和五年四月一四日法務省令第二四号） | [suppl/r5-0414-m24.md](suppl/r5-0414-m24.md) | 1 | 2023-04-21 |
+| 附則（令和六年五月二九日法務省令第三七号） | [suppl/r6-0529-m37.md](suppl/r6-0529-m37.md) | 1 | 2024-06-10 |

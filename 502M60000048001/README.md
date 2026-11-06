@@ -2,20 +2,20 @@
 
 令和二年総務省・財務省令第一号 · <https://laws.e-gov.go.jp/law/502M60000048001>
 
-2026-11-03 現在の本文（2024-12-23 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 8 件（2020-04-01 施行から）。2026-11-06 現在の本文は 2024-12-23 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-12-23: the oldest version available; its revision history is not yet added.
+8 revisions in e-Gov, from 2020-04-01; the text in force on 2026-11-06 is the revision of 2024-12-23.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和三年三月三一日総務省・財務省令第一号） | [suppl/r3-0331-m1.md](suppl/r3-0331-m1.md) |
-| 附則（令和三年一二月二四日総務省・財務省令第四号） | [suppl/r3-1224-m4.md](suppl/r3-1224-m4.md) |
-| 附則（令和四年三月三一日総務省・財務省令第二号） | [suppl/r4-0331-m2.md](suppl/r4-0331-m2.md) |
-| 附則（令和五年三月三一日総務省・財務省令第一号） | [suppl/r5-0331-m1.md](suppl/r5-0331-m1.md) |
-| 附則（令和五年一二月六日総務省・財務省令第三号） | [suppl/r5-1206-m3.md](suppl/r5-1206-m3.md) |
-| 附則（令和六年三月三〇日総務省・財務省令第二号） | [suppl/r6-0330-m2.md](suppl/r6-0330-m2.md) |
-| 附則（令和六年一二月二三日総務省・財務省令第六号） | [suppl/r6-1223-m6.md](suppl/r6-1223-m6.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 4 | 2024-04-01 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 7 | 2024-12-23 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和三年三月三一日総務省・財務省令第一号） | [suppl/r3-0331-m1.md](suppl/r3-0331-m1.md) | 1 | 2021-04-01 |
+| 附則（令和三年一二月二四日総務省・財務省令第四号） | [suppl/r3-1224-m4.md](suppl/r3-1224-m4.md) | 1 | 2021-12-24 |
+| 附則（令和四年三月三一日総務省・財務省令第二号） | [suppl/r4-0331-m2.md](suppl/r4-0331-m2.md) | 1 | 2022-04-01 |
+| 附則（令和五年三月三一日総務省・財務省令第一号） | [suppl/r5-0331-m1.md](suppl/r5-0331-m1.md) | 1 | 2023-04-01 |
+| 附則（令和五年一二月六日総務省・財務省令第三号） | [suppl/r5-1206-m3.md](suppl/r5-1206-m3.md) | 1 | 2023-12-06 |
+| 附則（令和六年三月三〇日総務省・財務省令第二号） | [suppl/r6-0330-m2.md](suppl/r6-0330-m2.md) | 1 | 2024-04-01 |
+| 附則（令和六年一二月二三日総務省・財務省令第六号） | [suppl/r6-1223-m6.md](suppl/r6-1223-m6.md) | 1 | 2024-12-23 |

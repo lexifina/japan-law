@@ -2,18 +2,18 @@
 
 平成二十四年総務省・法務省令第一号 · <https://laws.e-gov.go.jp/law/424M60000018001>
 
-2026-11-03 現在の本文（2024-06-10 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 4 件（2016-01-01 施行から）。2026-11-06 現在の本文は 2024-06-10 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2024-06-10: the oldest version available; its revision history is not yet added.
+4 revisions in e-Gov, from 2016-01-01; the text in force on 2026-11-06 is the revision of 2024-06-10.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二七年一二月二五日総務省・法務省令第二号） | [suppl/h27-1225-m2.md](suppl/h27-1225-m2.md) |
-| 附則（平成三一年三月一五日総務省・法務省令第一号） | [suppl/h31-0315-m1.md](suppl/h31-0315-m1.md) |
-| 附則（令和元年五月一五日総務省・法務省令第一号） | [suppl/r1-0515-m1.md](suppl/r1-0515-m1.md) |
-| 附則（令和六年五月三〇日総務省・法務省令第二号） | [suppl/r6-0530-m2.md](suppl/r6-0530-m2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 3 | 2024-06-10 |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 2 | 2019-11-05 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2024-06-10 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二七年一二月二五日総務省・法務省令第二号） | [suppl/h27-1225-m2.md](suppl/h27-1225-m2.md) | 0 |  |
+| 附則（平成三一年三月一五日総務省・法務省令第一号） | [suppl/h31-0315-m1.md](suppl/h31-0315-m1.md) | 1 | 2019-04-01 |
+| 附則（令和元年五月一五日総務省・法務省令第一号） | [suppl/r1-0515-m1.md](suppl/r1-0515-m1.md) | 1 | 2019-11-05 |
+| 附則（令和六年五月三〇日総務省・法務省令第二号） | [suppl/r6-0530-m2.md](suppl/r6-0530-m2.md) | 1 | 2024-06-10 |
