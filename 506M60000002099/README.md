@@ -2,16 +2,16 @@
 
 令和六年内閣府令第九十九号 · <https://laws.e-gov.go.jp/law/506M60000002099>
 
-2026-11-03 現在の本文（2026-04-22 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2024-11-18 施行から）。2026-11-06 現在の本文は 2026-04-22 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-04-22: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2024-11-18; the text in force on 2026-11-06 is the revision of 2026-04-22.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（令和八年二月二七日内閣府令第六号） | [suppl/r8-0227-m6.md](suppl/r8-0227-m6.md) |
-| 附則（令和八年四月二一日内閣府令第四五号） | [suppl/r8-0421-m45.md](suppl/r8-0421-m45.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2026-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 1 | 2026-04-22 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（令和八年二月二七日内閣府令第六号） | [suppl/r8-0227-m6.md](suppl/r8-0227-m6.md) | 1 | 2026-04-01 |
+| 附則（令和八年四月二一日内閣府令第四五号） | [suppl/r8-0421-m45.md](suppl/r8-0421-m45.md) | 1 | 2026-04-22 |
