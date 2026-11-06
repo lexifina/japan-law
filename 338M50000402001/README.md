@@ -2,22 +2,22 @@
 
 昭和三十八年総理府・通商産業省令第一号 · <https://laws.e-gov.go.jp/law/338M50000402001>
 
-2026-11-03 現在の本文（2019-07-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2013-07-08 施行から）。2026-11-06 現在の本文は 2019-07-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2019-07-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2013-07-08; the text in force on 2026-11-06 is the revision of 2019-07-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和四二年八月一日総理府・通商産業省令第三号） | [suppl/s42-0801-m3.md](suppl/s42-0801-m3.md) |
-| 附則（昭和四三年七月二〇日総理府・通商産業省令第三号） | [suppl/s43-0720-m3.md](suppl/s43-0720-m3.md) |
-| 附則（昭和五三年一二月二八日総理府・通商産業省令第六号） | [suppl/s53-1228-m6.md](suppl/s53-1228-m6.md) |
-| 附則（平成一二年一一月七日総理府・通商産業省令第一五号） | [suppl/h12-1107-m15.md](suppl/h12-1107-m15.md) |
-| 附則（平成二四年九月一四日文部科学省・経済産業省令第一号） | [suppl/h24-0914-m1.md](suppl/h24-0914-m1.md) |
-| 附則（平成二五年六月二八日原子力規制委員会規則第四号） | [suppl/h25-0628-r4.md](suppl/h25-0628-r4.md) |
-| 附則（令和元年六月二八日原子力規制委員会規則第二号） | [suppl/r1-0628-r2.md](suppl/r1-0628-r2.md) |
-| 附則（令和元年七月一日原子力規制委員会規則第三号） | [suppl/r1-0701-r3.md](suppl/r1-0701-r3.md) |
-| 別記様式 | [appdx/style-1.md](appdx/style-1.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和四二年八月一日総理府・通商産業省令第三号） | [suppl/s42-0801-m3.md](suppl/s42-0801-m3.md) | 0 |  |
+| 附則（昭和四三年七月二〇日総理府・通商産業省令第三号） | [suppl/s43-0720-m3.md](suppl/s43-0720-m3.md) | 0 |  |
+| 附則（昭和五三年一二月二八日総理府・通商産業省令第六号） | [suppl/s53-1228-m6.md](suppl/s53-1228-m6.md) | 0 |  |
+| 附則（平成一二年一一月七日総理府・通商産業省令第一五号） | [suppl/h12-1107-m15.md](suppl/h12-1107-m15.md) | 0 |  |
+| 附則（平成二四年九月一四日文部科学省・経済産業省令第一号） | [suppl/h24-0914-m1.md](suppl/h24-0914-m1.md) | 0 |  |
+| 附則（平成二五年六月二八日原子力規制委員会規則第四号） | [suppl/h25-0628-r4.md](suppl/h25-0628-r4.md) | 0 |  |
+| 附則（令和元年六月二八日原子力規制委員会規則第二号） | [suppl/r1-0628-r2.md](suppl/r1-0628-r2.md) | 1 | 2019-07-01 |
+| 附則（令和元年七月一日原子力規制委員会規則第三号） | [suppl/r1-0701-r3.md](suppl/r1-0701-r3.md) | 1 | 2019-07-01 |
+| 別記様式 | [appdx/style-1.md](appdx/style-1.md) | 0 |  |
