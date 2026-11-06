@@ -2,20 +2,20 @@
 
 昭和四十四年大蔵省令第三十六号 · <https://laws.e-gov.go.jp/law/344M50000040036>
 
-2026-11-03 現在の本文（2025-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2016-01-01 施行から）。2026-11-06 現在の本文は 2025-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2025-04-01: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2016-01-01; the text in force on 2026-11-06 is the revision of 2025-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（昭和四八年三月三一日大蔵省令第二一号） | [suppl/s48-0331-m21.md](suppl/s48-0331-m21.md) |
-| 附則（平成一二年三月三一日大蔵省令第三六号） | [suppl/h12-0331-m36.md](suppl/h12-0331-m36.md) |
-| 附則（平成二三年六月三〇日財務省令第三九号） | [suppl/h23-0630-m39.md](suppl/h23-0630-m39.md) |
-| 附則（平成二六年七月九日財務省令第五七号） | [suppl/h26-0709-m57.md](suppl/h26-0709-m57.md) |
-| 附則（令和七年三月三一日財務省令第三四号） | [suppl/r7-0331-m34.md](suppl/r7-0331-m34.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 0 |  |
+| 第二条 | [art-002.md](art-002.md) | 0 |  |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2025-04-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（昭和四八年三月三一日大蔵省令第二一号） | [suppl/s48-0331-m21.md](suppl/s48-0331-m21.md) | 0 |  |
+| 附則（平成一二年三月三一日大蔵省令第三六号） | [suppl/h12-0331-m36.md](suppl/h12-0331-m36.md) | 0 |  |
+| 附則（平成二三年六月三〇日財務省令第三九号） | [suppl/h23-0630-m39.md](suppl/h23-0630-m39.md) | 0 |  |
+| 附則（平成二六年七月九日財務省令第五七号） | [suppl/h26-0709-m57.md](suppl/h26-0709-m57.md) | 0 |  |
+| 附則（令和七年三月三一日財務省令第三四号） | [suppl/r7-0331-m34.md](suppl/r7-0331-m34.md) | 1 | 2025-04-01 |
