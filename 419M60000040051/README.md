@@ -2,23 +2,23 @@
 
 平成十九年財務省令第五十一号 · <https://laws.e-gov.go.jp/law/419M60000040051>
 
-2026-11-03 現在の本文（2023-10-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 3 件（2012-10-01 施行から）。2026-11-06 現在の本文は 2023-10-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2023-10-01: the oldest version available; its revision history is not yet added.
+3 revisions in e-Gov, from 2012-10-01; the text in force on 2026-11-06 is the revision of 2023-10-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 第一条 | [art-001.md](art-001.md) |
-| 第二条 | [art-002.md](art-002.md) |
-| 第三条 | [art-003.md](art-003.md) |
-| 第四条 | [art-004.md](art-004.md) |
-| 第五条 | [art-005.md](art-005.md) |
-| 第六条 | [art-006.md](art-006.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二〇年九月一九日財務省令第五六号） | [suppl/h20-0919-m56.md](suppl/h20-0919-m56.md) |
-| 附則（平成二三年六月三〇日財務省令第四七号） | [suppl/h23-0630-m47.md](suppl/h23-0630-m47.md) |
-| 附則（平成二四年九月一九日財務省令第五五号） | [suppl/h24-0919-m55.md](suppl/h24-0919-m55.md) |
-| 附則（令和四年三月三一日財務省令第二五号） | [suppl/r4-0331-m25.md](suppl/r4-0331-m25.md) |
-| 附則（令和五年五月一二日財務省令第三八号） | [suppl/r5-0512-m38.md](suppl/r5-0512-m38.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 第一条 | [art-001.md](art-001.md) | 1 | 2022-04-01 |
+| 第二条 | [art-002.md](art-002.md) | 2 | 2023-10-01 |
+| 第三条 | [art-003.md](art-003.md) | 1 | 2022-04-01 |
+| 第四条 | [art-004.md](art-004.md) | 1 | 2022-04-01 |
+| 第五条 | [art-005.md](art-005.md) | 1 | 2023-10-01 |
+| 第六条 | [art-006.md](art-006.md) | 1 | 2023-10-01 |
+| 附則 | [suppl/original.md](suppl/original.md) | 0 |  |
+| 附則（平成二〇年九月一九日財務省令第五六号） | [suppl/h20-0919-m56.md](suppl/h20-0919-m56.md) | 0 |  |
+| 附則（平成二三年六月三〇日財務省令第四七号） | [suppl/h23-0630-m47.md](suppl/h23-0630-m47.md) | 0 |  |
+| 附則（平成二四年九月一九日財務省令第五五号） | [suppl/h24-0919-m55.md](suppl/h24-0919-m55.md) | 0 |  |
+| 附則（令和四年三月三一日財務省令第二五号） | [suppl/r4-0331-m25.md](suppl/r4-0331-m25.md) | 1 | 2022-04-01 |
+| 附則（令和五年五月一二日財務省令第三八号） | [suppl/r5-0512-m38.md](suppl/r5-0512-m38.md) | 1 | 2023-10-01 |

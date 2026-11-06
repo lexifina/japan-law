@@ -2,18 +2,18 @@
 
 平成十八年総務省・財務省令第一号 · <https://laws.e-gov.go.jp/law/418M60000048001>
 
-2026-11-03 現在の本文（2026-04-01 施行）。利用可能な最古の版（oldest version available）で、改正履歴はまだ追加していない。
+e-Gov の改正履歴 2 件（2016-04-01 施行から）。2026-11-06 現在の本文は 2026-04-01 施行の改正履歴。
 
-The text in force on 2026-11-03, in force from 2026-04-01: the oldest version available; its revision history is not yet added.
+2 revisions in e-Gov, from 2016-04-01; the text in force on 2026-11-06 is the revision of 2026-04-01.
 
-| 規定 | ファイル |
-| --- | --- |
-| 題名 | [title.md](title.md) |
-| 制定文 | [enact.md](enact.md) |
-| 本則 | [main.md](main.md) |
-| 附則 | [suppl/original.md](suppl/original.md) |
-| 附則（平成二一年三月三一日総務省・財務省令第二号） | [suppl/h21-0331-m2.md](suppl/h21-0331-m2.md) |
-| 附則（平成二四年一月二七日総務省・財務省令第一号） | [suppl/h24-0127-m1.md](suppl/h24-0127-m1.md) |
-| 附則（平成二六年三月三一日総務省・財務省令第一号） | [suppl/h26-0331-m1.md](suppl/h26-0331-m1.md) |
-| 附則（平成二八年三月三一日総務省・財務省令第二号） | [suppl/h28-0331-m2.md](suppl/h28-0331-m2.md) |
-| 附則（令和八年三月三一日総務省・財務省令第二号） | [suppl/r8-0331-m2.md](suppl/r8-0331-m2.md) |
+| 規定 | ファイル | 改正回数 | 最終改正 |
+| --- | --- | ---: | --- |
+| 題名 | [title.md](title.md) | 0 |  |
+| 制定文 | [enact.md](enact.md) | 0 |  |
+| 本則 | [main.md](main.md) | 0 |  |
+| 附則 | [suppl/original.md](suppl/original.md) | 1 | 2026-04-01 |
+| 附則（平成二一年三月三一日総務省・財務省令第二号） | [suppl/h21-0331-m2.md](suppl/h21-0331-m2.md) | 0 |  |
+| 附則（平成二四年一月二七日総務省・財務省令第一号） | [suppl/h24-0127-m1.md](suppl/h24-0127-m1.md) | 0 |  |
+| 附則（平成二六年三月三一日総務省・財務省令第一号） | [suppl/h26-0331-m1.md](suppl/h26-0331-m1.md) | 0 |  |
+| 附則（平成二八年三月三一日総務省・財務省令第二号） | [suppl/h28-0331-m2.md](suppl/h28-0331-m2.md) | 0 |  |
+| 附則（令和八年三月三一日総務省・財務省令第二号） | [suppl/r8-0331-m2.md](suppl/r8-0331-m2.md) | 1 | 2026-04-01 |
