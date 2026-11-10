@@ -1,5 +1,7 @@
 # Japanese law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Japan's national law, which global-law reads at `japan/national/acts/`.
+
 8982 Japanese laws and regulations in force as a git repository (4094 Ministerial Ordinances (府省令), 2311 Cabinet Orders (政令), 2101 Acts (法律), 409 Rules (規則), 66 Imperial Ordinances (勅令), 1 the Constitution (憲法)). Each amending law is one commit for each
 day it took effect, credited to that law and dated that day (施行日), at noon in Tokyo. The text is the consolidated text
 published by the Digital Agency (デジタル庁) in [e-Gov 法令検索](https://laws.e-gov.go.jp): its XML bulk download
@@ -37,11 +39,11 @@ most-cited laws, then the rest of the 法律, then 政令, then 府省令.
 | The whole APPI as it stood on 1 January 2020 | `python tools/jiten.py 2020-01-01 kojin-joho` |
 | 第九条 of the Constitution | `python tools/jiten.py 2000-01-01 kenpo 9` |
 | 第七百九条 of the Civil Code (民法) today | `python tools/jiten.py 2026-11-06 minpo 709` |
-| Every change to the Civil Code's 第五条 (minors), with the law and the day | `git log --format="%as %an" -- minpo/art-005.md` |
+| Every change to the Civil Code's 第五条 (minors), with the law and the day | `git log --format="%as %an" -- act/1896/089/art-005.md` |
 | 第百七十六条 of the Penal Code (刑法) on 13 July 2023 | `python tools/jiten.py 2023-07-13 keiho 176` |
-| Which law wrote each line of the Companies Act's 第二条 (definitions)? | `git blame kaisha/art-002.md` |
-| Which law wrote each line of the APPI's 第二条 (definitions)? | `git blame kojin-joho/art-002.md` |
-| Every change to the APPI's 第二条, with the law and the day | `git log --follow kojin-joho/art-002.md` |
+| Which law wrote each line of the Companies Act's 第二条 (definitions)? | `git blame act/2005/086/art-002.md` |
+| Which law wrote each line of the APPI's 第二条 (definitions)? | `git blame act/2003/057/art-002.md` |
+| Every change to the APPI's 第二条, with the law and the day | `git log --follow act/2003/057/art-002.md` |
 | Everything one law changed on one day (first two laws) | `git show --stat ac/2021-37/2022-04-01` |
 | What changed in the APPI on one day | `git show --stat kojin-joho/2022-04-01` |
 | Everything 令和二年法律第四十四号 (the 2020 reform) did, act by act and stage by stage | `git log --format="%as %s" --author="Act No. 44 of 2020"` |
@@ -50,7 +52,7 @@ most-cited laws, then the rest of the 法律, then 政令, then 府省令.
 | The baselines: the first text e-Gov holds of each law amended before its record begins | `git log --format="%as %an %s" --grep="Kind: baseline"` |
 | The laws held as current text only, so far | `git log --format="%as %s" --grep="^Label: oldest version available"` |
 | The earlier versions added behind a current text (correction commits) | `git log --format="%as %s" --grep="^Kind: correction"` |
-| Which folder is which law | [`data/laws.json`](data/laws.json) |
+| Which folder is which law (by kind, year and number) | [`ACTS.md`](ACTS.md), [`data/paths.json`](data/paths.json) |
 | The amending laws with all their dates | [`laws.csv`](laws.csv) |
 | Amendments promulgated but not yet in force | `git log --format="%as %s" main..mishiko` |
 

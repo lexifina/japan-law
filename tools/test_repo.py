@@ -37,6 +37,15 @@ def default_repo() -> Path:
     return HERE.parents[2] / 'japan-law'
 
 
+def here(repo, path: str) -> str:
+    """A path as named on main: after the layout move (data/paths.json) kojin-joho/art-002.md is act/2003/057/art-002.md."""
+    out = subprocess.run(['git', 'show', 'main:data/paths.json'], cwd=repo, capture_output=True, text=True, encoding='utf-8')
+    if out.returncode:
+        return path
+    head, _, rest = path.partition('/')
+    return json.loads(out.stdout).get('paths', {}).get(head, head) + '/' + rest
+
+
 class Smoke:
     def __init__(self, repo: Path, since: str = ''):
         self.repo = repo
@@ -67,7 +76,7 @@ class Smoke:
 
     # 1
     def blame(self):
-        out = self.git('blame', '--line-porcelain', 'main', '--', 'kojin-joho/art-002.md')
+        out = self.git('blame', '--line-porcelain', 'main', '--', here(self.repo, 'kojin-joho/art-002.md'))
         authors = {l[7:] for l in out.splitlines() if l.startswith('author ')}
         assert authors, 'no blame output'
         assert all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors}'
@@ -98,7 +107,7 @@ class Smoke:
     def follow(self):
         checked = []
         for path in ('kojin-joho/art-002.md', 'kojin-joho/art-027.md', 'kojin-joho/appdx/table-1.md'):
-            out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
+            out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', here(self.repo, path))
             rows = [l.split('\t') for l in out.splitlines() if l]
             assert len(rows) >= 2, f'{path}: {len(rows)} commits'
             days = [d.strip() for _, d in rows]
