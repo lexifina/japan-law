@@ -71,9 +71,10 @@ def official_order(commit: str, act: str, files: list[str]) -> list[str]:
     try:
         listed = git('show', f'{commit}:{act}/order.txt').split()
     except subprocess.CalledProcessError:
-        return sorted(files, key=order)
+        return sorted(files, key=lambda f: order('x/' + f[len(act) + 1:]))
     rank = {f'{act}/{name}': i for i, name in enumerate(listed)}
-    return sorted(files, key=lambda f: (rank.get(f, len(rank)), order(f)))
+    # order() reads the name after the act's folder, which may be nested (act/1896/089/art-001.md)
+    return sorted(files, key=lambda f: (rank.get(f, len(rank)), order('x/' + f[len(act) + 1:])))
 
 
 def file_for(key: str) -> str:
@@ -85,13 +86,35 @@ def file_for(key: str) -> str:
     return key if key.endswith('.md') else f'{key}.md'
 
 
+def folders_of(act: str) -> list[str]:
+    """The act's folder now and its name before the layout move (data/paths.json maps law IDs and short names such as
+    kojin-joho or 415AC0000000057 to act/2003/057): either form may be given."""
+    import json
+    try:
+        paths = json.loads(git('show', 'main:data/paths.json')).get('paths', {})
+    except subprocess.CalledProcessError:
+        return [act]
+    if act in paths:
+        return [paths[act], act]
+    old = [k for k, v in paths.items() if v == act]
+    return [act] + old
+
+
+def at(commit: str, names: list[str], tail: str) -> str:
+    """The folder of the act as it was named at that commit (before or after the layout move)."""
+    for n in names:
+        if subprocess.run(['git', 'cat-file', '-e', f'{commit}:{n}'], capture_output=True).returncode == 0:
+            return n
+    return names[0]
+
+
 def commit_on(day: str, act: str) -> str:
     future = day > dt.date.today().isoformat() and git('branch', '--list', 'mishiko').strip()
     branch = 'mishiko' if future else 'main'
     # Documentation commits (Kind: documentation) change no law text: they are skipped, so that on the branch
     # mishiko, whose merge of main's documentation is dated the build day, a later day still finds its own law commit.
     out = git('log', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09'
-              '%(trailers:key=Kind,valueonly,separator=)', branch, '--', act)
+              '%(trailers:key=Kind,valueonly,separator=)', branch, '--', *folders_of(act))
     for line in out.splitlines():
         h, d, kind = (line.split('\t') + ['', ''])[:3]
         if kind.strip() == 'documentation':
@@ -110,6 +133,7 @@ def main():
     commit = commit_on(day, act)
     if not commit:
         sys.exit(f'{act} is not in the record on {day}.')
+    act = at(commit, folders_of(act), '')
     if len(sys.argv) > 3:
         name = file_for(sys.argv[3])
         try:
