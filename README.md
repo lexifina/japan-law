@@ -26,7 +26,8 @@ The text is in Japanese, as e-Gov publishes it, with ruby readings left out. An 
 
 - **[Ask Claude about Japanese law](https://global-law.lexifina.com/v1/try_claude?country=japan)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=japan)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%E5%B9%B4%E6%AC%A1%E6%9C%89%E7%B5%A6%E4%BC%91%E6%9A%87&jurisdictions=japan)**: a search of Japanese law for "年次有給休暇" (annual paid leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Japanese law on our site](https://lexifina.com/law?country=japan&q=%E5%B9%B4%E6%AC%A1%E6%9C%89%E7%B5%A6%E4%BC%91%E6%9A%87)**: a search for "年次有給休暇" (annual paid leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%E5%B9%B4%E6%AC%A1%E6%9C%89%E7%B5%A6%E4%BC%91%E6%9A%87&jurisdiction=japan)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Japanese or in English.
 
