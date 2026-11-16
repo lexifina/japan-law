@@ -87,6 +87,10 @@ AI モデルが法令の本文を書いたり変更したりしたことはな�
 
 本書は英語版（[README.en.md](README.en.md)）の翻訳です。両者が異なる場合は、英語版が優先します。
 
+## 可視化
+
+- [visualisations/](visualisations/): このリポジトリから描いたグラフ。まだ描いていません。
+
 ## 詳細情報
 
 [lexifina/global-law](https://github.com/lexifina/global-law) リポジトリより（英語のページ）:

@@ -85,6 +85,10 @@ See [`LICENSE`](LICENSE). Laws and regulations are not protected by copyright in
 
 No AI model wrote or changed legal text, and none is called when the history is built or checked; an AI model wrote the code and the documentation (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
