@@ -62,6 +62,7 @@ Each change is credited to the law that made it, as e-Gov's revision record name
 - e-Gov's bulk download and its Law API serve the same XML (identical after canonicalisation for every revision compared); [`data/revisions.json`](data/revisions.json) gives each text's source and sha256.
 - `tools/test_repo.py` checks that `git blame` names amending laws, that `tools/jiten.py` gives the text before and after a known amendment, that every commit's trailers parse, and that `mishiko` holds only changes not yet in force. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: each append keeps the previous `main` and `mishiko` as ancestors and every tag where it was.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Japanese law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

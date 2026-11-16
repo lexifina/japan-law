@@ -1,0 +1,10 @@
+category,category_ja,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
+Lapsed time limits,経過した期限,13882,13881,40,1,1
+Repeal gaps,削られた後の空白,1294,1294,40,2,2
+Same-day conflicts,同日施行の改正,36,36,36,3,3
+Retroactive or pre-publication dates,公布前の施行,1,1,1,0,0
+Empty periods,空白期間,1484,1484,161,120,97
+Stale amounts,改正されていない金額,874,874,40,17,16
+References to deleted provisions,削られた規定の引用,40,40,40,7,7
+References to repealed placeholders,「削除」とされた規定の引用,326,326,0,0,0
+Dead fines,構成要件のない罰則,3,3,0,0,0

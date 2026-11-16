@@ -1,0 +1,4 @@
+{"repo": "japan-law", "lang": "ja",
+ "cats": {"lapsed_limit": "経過した期限", "repeal_gap": "削られた後の空白", "same_day_conflict": "同日施行の改正", "retroactive_date": "公布前の施行", "late_extension": "空白期間", "stale_amount": "改正されていない金額", "dangling_ref": "削られた規定の引用", "placeholder_ref": "「削除」とされた規定の引用", "dead_fine": "構成要件のない罰則", "dup_label": "番号の重複", "dead_currency": "廃止された通貨", "publisher_flag": "公開元の注記"},
+ "not_law": ["data/", "tools/", "README", "ACTS.md", "REPRODUCE.md", "LICENSE", "laws.csv", "corpus.json"],
+ "chart": {"title": "{k}つの区分で{n}件のフラグ", "words": {"2": "二", "3": "三", "4": "四", "5": "五", "6": "六", "7": "七", "8": "八", "9": "九", "10": "十"}, "law": "法令の本文", "other": "リポジトリの資料", "other_en": "In the repository's documentation", "sep": ",", "tip": "{cat}: {n}件（うち法令の本文 {law}件）", "short": {}}}

@@ -62,6 +62,7 @@ Claude Code、Cursor、VS Code または Codex で開くと、このクローン
 - e-Gov の一括ダウンロードと法令 API は同じ XML を提供しています（比較したすべての改正について、正規化後に同一）。[`data/revisions.json`](data/revisions.json) は各本文の出典と sha256 を示しています。
 - `tools/test_repo.py` は、`git blame` が改正法令を示すこと、`tools/jiten.py` が既知の改正の前後の本文を返すこと、すべてのコミットのトレーラーが解析できること、`mishiko` が未施行の変更だけを含むことを確認しています。結果は [`REPRODUCE.md`](REPRODUCE.md) にあります。
 - 履歴は追記のみです。追記のたびに、それまでの `main` と `mishiko` を祖先として残し、すべてのタグを元の位置に保ちます。
+- [vulnerabilities/](vulnerabilities/)：global-law の検出器が見つけ、手で確かめた、日本の法令における立案上の誤りの可能性。
 
 ## 示していないもの
 
