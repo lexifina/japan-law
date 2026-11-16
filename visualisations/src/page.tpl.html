@@ -1,0 +1,1482 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>20のグラフで見る日本の法令</title>
+<meta name="description" content="japan-law リポジトリのデータから描いた日本の法令の20のグラフ / Twenty charts on Japanese law from the japan-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+JP:wght@400;500;600&family=Noto+Serif+JP:wght@500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --sans: Inter, "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Yu Gothic", Meiryo, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --serif: "Source Serif 4", "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+html[lang="ja"] body { line-height: 1.75; line-break: strict; }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+html[lang="ja"] h1 { letter-spacing: .02em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+html[lang="ja"] .lede { font-size: 16px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; line-height: 1.5; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.3 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.45 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid var(--text); border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.5; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; line-height: 1.6; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="言語 / Language"><button data-lang="ja">日本語</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="表示 / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+const LANGS = ['ja', 'en'];
+let LANG = 'ja';
+try { const q = new URLSearchParams(location.search).get('lang'); if (LANGS.includes(q)) LANG = q; else { const s = localStorage.getItem('jp-viz-lang'); if (LANGS.includes(s)) LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const tt = localStorage.getItem('jp-viz-theme'); if (tt === 'light' || tt === 'dark') THEME = tt; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const GL = '<a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>';
+const S = {
+ja: {
+  title: '20のグラフで見る日本の法令',
+  lede: 'このリポジトリのデータだけから描いた20のグラフです。e-Gov 法令検索の現行法令{laws}件（憲法、法律、政令、府省令など）を条ごとのファイルにし、e-Gov が保有する改正履歴の各版を施行日付のコミットにした記録と、改正法令が各法令に残した附則から作りました。',
+  profile_h: 'データの概要：何を使い、どこまで揃っているか',
+  tbl: 'データの表', src: 'リポジトリ内の出典', n: '件数', cover: '範囲', caveat: '限界',
+  ds: 'データ', foot: 'lexifina/japan-law リポジトリから作成（{built}）。法令の本文と改正履歴は e-Gov 法令検索（デジタル庁）のもので、公共データ利用規約（PDL1.0）に基づき利用しています（データは{record}時点）。数値は visualisations/src/prep.py が git の履歴、ファイルの構成、附則などから計算し、build.py がページを組み立てています。どのグラフも記録の内容を示すもので、その理由を示すものではありません。',
+  year: '年', total: '計', share: '割合', count: '件数', partial: '途中まで',
+  gl: 'すべての国の法令のグラフは global-law 全体から：' + GL + '。ここでは日本のグラフだけを掲載しています。',
+},
+en: {
+  title: 'Japanese law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the {laws} laws in force in e-Gov 法令検索 (the Constitution, Acts, Cabinet Orders, ministerial ordinances and more), one file per article; each revision e-Gov holds as a commit dated the day it took effect; and the supplementary provisions that amending laws have left in the laws they amended.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/japan-law repository ({built}). The legal text and its revisions are from e-Gov 法令検索 (Digital Agency), used under the Public Data License 1.0 (PDL1.0); data as of {record}. The numbers are computed by visualisations/src/prep.py from the git history, the files of each law and their supplementary provisions; build.py assembles the page. All charts are descriptive: they show what the record holds, not why.',
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial',
+  gl: 'Charts on every country’s law, from the whole of global-law: ' + GL + '. These are the charts on Japan alone.',
+}};
+const t = k => S[LANG][k];
+const L = (ja, en) => LANG === 'ja' ? ja : en;
+const LA = a => Array.isArray(a) ? L(a[0], a[1]) : a;
+const grp = s => s.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d); const [a, b] = s.split('.'); return (+v < 0 && +s !== 0 ? '−' : '') + grp(a) + (b ? '.' + b : ''); };
+const fmt = n => (n == null ? '–' : Number.isInteger(+n) ? (+n < 0 ? '−' : '') + grp(String(Math.abs(Math.round(+n)))) : dec(+n, 1));
+const pv = (v, d = 0) => dec(v, d) + '%';
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MON = { ja: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const DOW = { ja: ['月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日', '日曜日'], en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'] };
+const DOW1 = { ja: ['月', '火', '水', '木', '金', '土', '日'], en: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'] };
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'ja' ? `${y}年${m}月${d}日` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'ja' ? `${y}年${m}月${d}日` : `${d} ${MON.en[m - 1]} ${y}`; };
+const monthTxt = s => { const [y, m] = s.split('-').map(Number); return LANG === 'ja' ? `${y}年${m}月` : `${MEN[m - 1]} ${y}`; };
+const dayMonth = (m, d) => LANG === 'ja' ? `${m}月${d}日` : `${d} ${MEN[m - 1]}`;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const DAYS = (a, b) => Math.round((PD(b) - PD(a)) / 864e5);
+const Cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+// a count with its noun: nn(5, '件', ['law', 'laws'])
+const nn = (n, ja, en) => LANG === 'ja' ? `${fmt(n)}${ja}` : `${fmt(n)} ${n === 1 ? en[0] : en[1]}`;
+const andList = a => a.length < 2 ? a.join('') : LANG === 'ja' ? a.join('、') : a.slice(0, -1).join(', ') + ' and ' + a[a.length - 1];
+const times = v => LANG === 'ja' ? `${dec(v, v < 10 ? 1 : 0)}倍` : `${dec(v, v < 10 ? 1 : 0)} times`;
+
+// ------------------------------------------------------------------ eras and law numbers
+const ERA = { m: [1868, '明治', 'Meiji'], t: [1912, '大正', 'Taishō'], s: [1926, '昭和', 'Shōwa'], h: [1989, '平成', 'Heisei'], r: [2019, '令和', 'Reiwa'] };
+const eraName = e => L(ERA[e][1], ERA[e][2]);
+// the eras on a time axis: [key, first day, last day]
+const ERAS = [['m', 1868, 1912.58], ['t', 1912.58, 1926.98], ['s', 1926.98, 1989.02], ['h', 1989.02, 2019.33], ['r', 2019.33, 2027]];
+const KD = '〇一二三四五六七八九';
+function kanjiNum(s) {
+  if (s === '元') return 1;
+  if ([...s].every(c => KD.includes(c))) return +[...s].map(c => KD.indexOf(c)).join('');
+  let tot = 0, cur = 0;
+  for (const c of s) { if (KD.includes(c)) cur = KD.indexOf(c); else if ('十百千'.includes(c)) { tot += (cur || 1) * { '十': 10, '百': 100, '千': 1000 }[c]; cur = 0; } }
+  return tot + cur;
+}
+const NUMRE = /^(明治|大正|昭和|平成|令和)([元〇一二三四五六七八九十]+)年(.*?)第([〇一二三四五六七八九十百千]+)号$/;
+const ERAJ = { 明治: 'm', 大正: 't', 昭和: 's', 平成: 'h', 令和: 'r' };
+// "令和四年法律第六十八号" -> "令和4年法律第68号" (ja) / "Act No. 68 of 2022" (en)
+const KINDEN = [['法律', 'Act'], ['政令', 'Cabinet Order'], ['勅令', 'Imperial Ordinance'], ['太政官布告', 'Dajōkan Proclamation'], ['太政官達', 'Dajōkan Notice'], ['閣令', 'Cabinet Ordinance'], ['憲法', 'Constitution']];
+function lawNum(s) {
+  const m = (s || '').match(NUMRE);
+  if (!m) return s || '';
+  const e = ERAJ[m[1]], y = kanjiNum(m[2]), n = kanjiNum(m[4]), wy = ERA[e][0] + y - 1;
+  if (LANG === 'ja') return `${m[1]}${y === 1 ? '元' : y}年${m[3]}第${n}号`;
+  const k = KINDEN.find(q => q[0] === m[3]);
+  if (k) return `${k[1]} No. ${n} of ${wy}`;
+  const iss = m[3].replace(/(令|規則|規程)$/, '');
+  const mi = Object.entries(MIN).find(([, v]) => v[0] === iss);
+  return mi ? `${mi[1][1]} ${/規則$/.test(m[3]) ? 'Rule' : 'Ordinance'} No. ${n} of ${wy}` : `${m[3]} No. ${n} of ${wy}`;
+}
+// an Act named by era, year and number
+const actNo = (e, y, n) => LANG === 'ja' ? `${ERA[e][1]}${y === 1 ? '元' : y}年法律第${n}号` : `Act No. ${n} of ${ERA[e][0] + y - 1}`;
+// 1234 -> 千二百三十四 (as the laws write their article numbers)
+const toKanji = n => { if (!n) return '〇'; let s = ''; [[1000, '千'], [100, '百'], [10, '十']].forEach(([u, c]) => { const q = Math.floor(n / u); if (q) { s += (q > 1 ? KD[q] : '') + c; n -= q * u; } }); return s + (n ? KD[n] : ''); };
+const kanjiArt = k => { // "014-2-2-2" -> 第十四条の二の二の二 / Art. 14-2-2-2 ; "038-to-084" -> 第三十八条から第八十四条まで
+  const [a, b] = k.split('-to-'); const f = x => x.split('-').map(Number); const p = f(a);
+  const one = q => LANG === 'ja' ? `第${toKanji(q[0])}条${q.slice(1).map(v => 'の' + toKanji(v)).join('')}` : `Art. ${q.join('-')}`;
+  return b ? (LANG === 'ja' ? `${one(p)}から${one(f(b))}まで` : `Arts. ${p.join('-')}–${f(b).join('-')}`) : one(p); };
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+function subTable(el, heading, head, rows, numeric) {
+  const nd = el.select('details.tbl:last-of-type .scroll');
+  nd.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.4 var(--sans)').text(heading);
+  const tb = nd.append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => numeric && numeric[i] ? 'n' : null).text(x => x);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => numeric && numeric[i] ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+const PH = { '<KIND>': ['<種類>', '<kind>'], '<YEAR>': ['<年>', '<year>'], '<NUMBER>': ['<番号>', '<number>'], '<ISSUER>': ['<発令者>', '<issuer>'], '<ACT>': ['<改正法>', '<act>'], '<LAW>': ['<法令>', '<law>'] };
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  const co = L('：', ':'), sep = L('　', ' · ');
+  p.html(`<b>${t('src')}${co}</b>${LANG === 'en' ? ' ' : ''}${src.map(s => `<code>${esc(tr(s))}</code>`).join(' ')}${sep}<b>${t('n')}${co}</b>${LANG === 'en' ? ' ' : ''}${n}${extra ? sep + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const WR = el => Math.max(120, el.node().getBoundingClientRect().width || 300);
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34, m = { t: 4, r: nw ? (opt.rn || 58) : (opt.r || 86), b: 22, l: nw ? (opt.ln || 52) : (opt.l || 90) };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// horizontal bars split into segments, label on the left, total on the right
+function splitBars(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 26, m = { t: 2, r: nw ? (opt.rrn || opt.rr || 44) : (opt.rr || 44), b: 4, l: nw ? (opt.ln || 120) : (opt.l || 230) };
+  const svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const tot = r => sum(keys, k => r[k] || 0);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).range([0, iw]);
+  rows.forEach((r, i) => {
+    const cy = i * rowH, bh = Math.min(15, rowH - 9);
+    g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, nw));
+    let acc = 0; const segs = keys.map((k, j) => ({ k, j, v: r[k] || 0 })).filter(s => s.v);
+    segs.forEach((s, q) => {
+      const x0 = x(acc), x1 = x(acc + s.v); acc += s.v;
+      const last = q === segs.length - 1;
+      g.append('path').attr('d', last ? barPath(x0, cy + (rowH - bh) / 2, x1, bh, 3) : `M${x0},${cy + (rowH - bh) / 2}h${Math.max(0, x1 - x0 - 1)}v${bh}h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', colors[s.j]);
+    });
+    g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', cy + rowH / 2 + 4).text(opt.right ? opt.right(r, nw) : fmt(tot(r)));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + (opt.tipHead ? opt.tipHead(d) : '') + keys.map((k, j) => d[k] ? trow(colors[j], names[j], fmt(d[k])) : '').join('') + trow(null, t('total'), fmt(tot(d))) + (opt.tipExtra ? opt.tipExtra(d) : ''));
+  });
+  return { svg, g, x, iw };
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const grad = (svg, id, color, a = .3) => { const lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', '0%').attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', '100%').attr('stop-color', color).attr('stop-opacity', .02); return `url(#${id})`; };
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.4 var(--sans)').text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// shaded era bands on a time axis, with the era's name at the top
+function eraBands(g, x, ih, x0, x1, opt = {}) {
+  const gg = g.append('g');
+  ERAS.forEach(([e, a, b], i) => {
+    const xa = Math.max(x(Math.max(a, x0)), x(x0)), xb = Math.min(x(Math.min(b, x1)), x(x1));
+    if (xb - xa < 1) return;
+    gg.append('rect').attr('x', xa).attr('y', opt.top || 0).attr('width', xb - xa).attr('height', ih - (opt.top || 0)).attr('fill', i % 2 ? css('--surface-2') : 'transparent').attr('opacity', i % 2 ? .9 : 0);
+    if (xb - xa > (opt.minLabel || 26)) gg.append('text').attr('class', 'lbl mut').attr('x', (xa + xb) / 2).attr('y', (opt.top || 0) + 12).attr('text-anchor', 'middle').text(eraName(e));
+  });
+  return gg;
+}
+
+// ------------------------------------------------------------------ names
+// the kinds of law (folders)
+const KN = { 'act': ['法律', 'Acts'], 'cabinet-order': ['政令', 'Cabinet Orders'], 'ministerial-ordinance': ['府省令', 'Ministerial Ordinances'], 'rule': ['規則', 'Rules'],
+  'imperial-ordinance': ['勅令', 'Imperial Ordinances'], 'dajokan': ['太政官布告・達', 'Dajōkan proclamations and notices'], 'pm-decision': ['内閣総理大臣決定', 'Prime Minister decisions'],
+  'regulation': ['規程', 'Regulations'], 'constitution': ['憲法', 'Constitution'], 'other': ['その他', 'Other'] };
+const KN1 = { 'act': ['法律', 'Act'], 'cabinet-order': ['政令', 'Cabinet Order'], 'ministerial-ordinance': ['府省令', 'Ministerial Ordinance'], 'rule': ['規則', 'Rule'], 'imperial-ordinance': ['勅令', 'Imperial Ordinance'],
+  'dajokan': ['太政官布告・達', 'Dajōkan proclamation or notice'], 'pm-decision': ['内閣総理大臣決定', 'Prime Minister decision'], 'regulation': ['規程', 'Regulation'], 'constitution': ['憲法', 'Constitution'] };
+const kn = k => LA(KN[k] || [k, k]);
+const kindOf = fo => { const k = fo.split('/')[0]; return k.startsWith('dajokan') ? 'dajokan' : k; };
+const KCOL = { 'act': '--s1', 'cabinet-order': '--s3', 'ministerial-ordinance': '--s4', 'rule': '--s7', 'imperial-ordinance': '--s5', 'dajokan': '--s2', 'pm-decision': '--s8', 'regulation': '--s8', 'constitution': '--s6', 'other': '--muted-mark' };
+const kcol = k => css(KCOL[k] || '--muted-mark');
+// laws named on the page: folder -> [Japanese name as shown, English name]
+const NM = {
+  'constitution/1946': ['日本国憲法', 'Constitution of Japan'],
+  'act/1896/089': ['民法', 'Civil Code'], 'act/1899/048': ['商法', 'Commercial Code'], 'act/1907/045': ['刑法', 'Penal Code'],
+  'act/1948/131': ['刑事訴訟法', 'Code of Criminal Procedure'], 'act/1996/109': ['民事訴訟法', 'Code of Civil Procedure'], 'act/2005/086': ['会社法', 'Companies Act'],
+  'act/1950/226': ['地方税法', 'Local Tax Act'], 'act/1948/025': ['金融商品取引法', 'Financial Instruments and Exchange Act'], 'act/1995/105': ['保険業法', 'Insurance Business Act'],
+  'act/1996/095': ['金融機関等の更生手続の特例等に関する法律', 'Act on Special Measures for the Reorganization Proceedings of Financial Institutions'],
+  'act/1947/067': ['地方自治法', 'Local Autonomy Act'], 'act/1950/239': ['商品先物取引法', 'Commodity Derivatives Act'], 'act/1957/026': ['租税特別措置法', 'Act on Special Measures Concerning Taxation'],
+  'act/1950/100': ['公職選挙法', 'Public Offices Election Act'], 'act/1997/123': ['介護保険法', 'Long-Term Care Insurance Act'], 'act/1947/164': ['児童福祉法', 'Child Welfare Act'],
+  'act/1964/170': ['電気事業法', 'Electricity Business Act'], 'act/1997/049': ['密集市街地整備法', 'Act on Disaster Control Districts in Densely Inhabited Areas'],
+  'act/1967/035': ['登録免許税法', 'Registration and License Tax Act'], 'act/1965/033': ['所得税法', 'Income Tax Act'], 'act/1965/034': ['法人税法', 'Corporation Tax Act'],
+  'act/1958/128': ['国家公務員共済組合法', 'National Public Service Mutual Aid Association Act'], 'act/1967/023': ['印紙税法', 'Stamp Tax Act'], 'act/1967/081': ['住民基本台帳法', 'Basic Resident Registration Act'],
+  'act/1950/211': ['地方交付税法', 'Local Allocation Tax Act'], 'act/1939/073': ['船員保険法', 'Mariners Insurance Act'], 'act/1948/109': ['地方財政法', 'Local Finance Act'],
+  'act/1962/152': ['地方公務員等共済組合法', 'Local Public Officers Mutual Aid Association Act'], 'act/1949/252': ['特別職の職員の給与に関する法律', 'Act on Remuneration of Special Service Officials'],
+  'act/1954/165': ['自衛隊法', 'Self-Defense Forces Act'], 'act/1952/266': ['防衛省の職員の給与等に関する法律', 'Act on Remuneration of Ministry of Defense Personnel'], 'act/1988/108': ['消費税法', 'Consumption Tax Act'],
+  'act/1959/141': ['国民年金法', 'National Pension Act'], 'act/1922/070': ['健康保険法', 'Health Insurance Act'], 'act/1948/186': ['消防法', 'Fire Service Act'],
+  'act/1970/137': ['廃棄物の処理及び清掃に関する法律', 'Waste Management and Public Cleansing Act'], 'act/1951/004': ['行政書士法', 'Certified Administrative Procedures Specialist Act'],
+  'act/1948/103': ['公認会計士法', 'Certified Public Accountants Act'], 'act/1960/145': ['医薬品医療機器等法', 'Pharmaceuticals and Medical Devices Act'], 'act/1961/159': ['割賦販売法', 'Installment Sales Act'],
+  'act/1967/104': ['国家公務員共済の年金額改定法（昭和42年度以後）', 'Act on Revising Public Service Pension Amounts (from fiscal 1967)'],
+  'act/1889/034': ['決闘罪ニ関スル件', 'Act on Duelling'], 'act/1899/040': ['失火ノ責任ニ関スル法律', 'Act on Liability for Fire Caused by Negligence'],
+  'act/1898/011': ['民法施行法', 'Act on the Enforcement of the Civil Code'], 'act/1896/005': ['国債証券買入銷却法', 'Act on the Purchase and Cancellation of Government Bond Certificates'],
+  'dajokan-proclamation/1884/032': ['爆発物取締罰則', 'Explosives Control Penal Regulations'], 'dajokan-proclamation/1872/337': ['改暦ノ布告', 'Calendar Reform Proclamation'],
+  'act/1908/050': ['水害予防組合法', 'Flood Prevention Associations Act'], 'act/1937/025': ['森林保険法', 'Forest Insurance Act'], 'act/1931/042': ['無尽業法', 'Mujin Business Act'],
+  'act/1897/029': ['砂防法', 'Erosion Control Act'], 'act/1910/054': ['関税定率法', 'Customs Tariff Act'], 'act/1898/014': ['外国法人の登記及び夫婦財産契約の登記に関する法律', 'Act on the Registration of Foreign Corporations and Matrimonial Property Contracts'],
+  'act/2006/078': ['法の適用に関する通則法', 'Act on General Rules for Application of Laws'], 'act/1979/043': ['元号法', 'Era Name Act'],
+  'cabinet-order/1989-s64/001': ['元号を改める政令（昭和64年）', 'Cabinet Order changing the era name (1989)'], 'cabinet-order/2019-h31/143': ['元号を改める政令（平成31年）', 'Cabinet Order changing the era name (2019)'],
+  'cabinet-order/1950/245': ['地方税法施行令', 'Order for Enforcement of the Local Tax Act'], 'ministerial-ordinance/labour/1972/032': ['労働安全衛生規則', 'Ordinance on Industrial Safety and Health'],
+  'ministerial-ordinance/health-welfare/1961/001': ['医薬品医療機器等法施行規則', 'Regulation for Enforcement of the Pharmaceuticals and Medical Devices Act'],
+  'ministerial-ordinance/transport/1952/056': ['航空法施行規則', 'Regulation for Enforcement of the Civil Aeronautics Act'],
+  'ministerial-ordinance/agriculture-forestry-fisheries/2004/107': ['動物用医薬品等取締規則', 'Rules for the Control of Veterinary Drugs'] };
+const SHORTN = {"act/1996/095": ["更生特例法", "Reorganization Act"], "act/1997/049": ["密集市街地整備法", "Dense Urban Areas Act"], "act/1957/026": ["租税特別措置法", "Special Taxation Act"], "act/1948/025": ["金融商品取引法", "Financial Instruments Act"], "act/1960/145": ["医薬品医療機器等法", "Pharmaceuticals Act"], "act/1949/252": ["特別職給与法", "Special Service Pay"], "act/1952/266": ["防衛省職員給与法", "Defense Pay Act"], "act/1962/152": ["地方公務員共済法", "Local Mutual Aid Act"], "act/1958/128": ["国家公務員共済法", "NPS Mutual Aid Act"], "act/1967/104": ["共済年金額改定法", "Pension Revision Act"], "act/1970/137": ["廃棄物処理法", "Waste Management Act"], "act/1898/014": ["外国法人登記法", "Foreign Corporations Registration Act"], "act/1997/123": ["介護保険法", "Long-Term Care Act"], "act/1967/035": ["登録免許税法", "Registration Tax Act"], "act/1967/081": ["住民基本台帳法", "Resident Register Act"], "act/1951/004": ["行政書士法", "Administrative Scriveners Act"], "act/1948/103": ["公認会計士法", "CPA Act"], "act/1996/109": ["民事訴訟法", "Civ. Procedure"], "act/1948/131": ["刑事訴訟法", "Crim. Procedure"], "act/1896/005": ["国債証券買入銷却法", "Government Bond Cancellation Act"], "cabinet-order/1950/245": ["地方税法施行令", "Local Tax Order"], "ministerial-ordinance/labour/1972/032": ["労働安全衛生規則", "Industrial Safety Ordinance"], "ministerial-ordinance/health-welfare/1961/001": ["医薬品医療機器等法施行規則", "Pharmaceuticals Act Regulation"], "ministerial-ordinance/transport/1952/056": ["航空法施行規則", "Civil Aeronautics Regulation"], "ministerial-ordinance/agriculture-forestry-fisheries/2004/107": ["動物用医薬品等取締規則", "Veterinary Drugs Rules"], "act/1899/040": ["失火責任法", "Fire Liability Act"], "constitution/1946": ["日本国憲法", "Constitution"], "act/1899/048": ["商法", "Commercial"], "act/1896/089": ["民法", "Civil Code"], "act/1907/045": ["刑法", "Penal Code"], "act/2005/086": ["会社法", "Companies"], "act/1950/211": ["地方交付税法", "Local Allocation Tax"], "act/1939/073": ["船員保険法", "Mariners Insurance"], "act/1950/100": ["公職選挙法", "Elections Act"], "act/1954/165": ["自衛隊法", "SDF Act"], "act/1950/239": ["商品先物取引法", "Commodities Act"], "act/1964/170": ["電気事業法", "Electricity Act"], "act/1995/105": ["保険業法", "Insurance Act"]};
+const nmOf = (fo, fallback, short) => short && SHORTN[fo] ? LA(SHORTN[fo]) : NM[fo] ? LA(NM[fo]) : (fallback || fo);
+// row labels that fit their column: each law's full name, or its short form when the full one is wider than the cap
+function fitNames(el, rows, fo, fallback, cap) {
+  const m = new Map(rows.map(r => { const full = nmOf(fo(r), fallback(r)); return [r, textW(el, [full]) <= cap ? full : nmOf(fo(r), fallback(r), true)]; }));
+  return { lab: r => m.get(r), lw: Math.min(cap, textW(el, [...m.values()])) + 14 };
+}
+// the ministries and other issuers of ordinances (folder names): [Japanese, English]
+const MIN = {
+  'agriculture-commerce': ['農商務省', 'Ministry of Agriculture and Commerce'], 'agriculture-forestry': ['農林省', 'Ministry of Agriculture and Forestry'],
+  'agriculture-forestry-fisheries': ['農林水産省', 'Ministry of Agriculture, Forestry and Fisheries'], 'attorney-general': ['法務庁', 'Attorney General’s Agency'],
+  'attorney-generals-office': ['法務府', 'Attorney General’s Office'], 'cabinet': ['内閣', 'Cabinet'], 'cabinet-office': ['内閣府', 'Cabinet Office'],
+  'cabinet-secretariat': ['内閣官房', 'Cabinet Secretariat'], 'coast-guard': ['海上保安庁', 'Japan Coast Guard'], 'communications-teishin': ['逓信省', 'Ministry of Communications'],
+  'construction': ['建設省', 'Ministry of Construction'], 'defense': ['防衛省', 'Ministry of Defense'], 'digital-agency': ['デジタル庁', 'Digital Agency'],
+  'economy-trade-industry': ['経済産業省', 'Ministry of Economy, Trade and Industry'], 'education': ['文部省', 'Ministry of Education'],
+  'education-science': ['文部科学省', 'Ministry of Education, Culture, Sports, Science and Technology'], 'environment': ['環境省', 'Ministry of the Environment'],
+  'finance': ['財務省', 'Ministry of Finance'], 'finance-okurasho': ['大蔵省', 'Ministry of Finance (Ōkurashō)'], 'first-demobilization': ['第一復員省', 'First Demobilization Ministry'],
+  'foreign-affairs': ['外務省', 'Ministry of Foreign Affairs'], 'health-labour-welfare': ['厚生労働省', 'Ministry of Health, Labour and Welfare'],
+  'health-welfare': ['厚生省', 'Ministry of Health and Welfare'], 'home-affairs-jichi': ['自治省', 'Ministry of Home Affairs (Jichishō)'], 'home-ministry-naimu': ['内務省', 'Home Ministry (Naimushō)'],
+  'internal-affairs': ['総務省', 'Ministry of Internal Affairs and Communications'], 'international-trade-industry': ['通商産業省', 'Ministry of International Trade and Industry'],
+  'justice': ['法務省', 'Ministry of Justice'], 'justice-shiho': ['司法省', 'Ministry of Justice (Shihōshō)'], 'labour': ['労働省', 'Ministry of Labour'],
+  'land-infrastructure-transport': ['国土交通省', 'Ministry of Land, Infrastructure, Transport and Tourism'], 'posts-telecommunications': ['郵政省', 'Ministry of Posts and Telecommunications'],
+  'prime-ministers-agency': ['総理庁', 'Prime Minister’s Agency'], 'prime-ministers-office': ['総理府', 'Prime Minister’s Office'], 'railways': ['鉄道省', 'Ministry of Railways'],
+  'reconstruction-agency': ['復興庁', 'Reconstruction Agency'], 'second-demobilization': ['第二復員省', 'Second Demobilization Ministry'],
+  'transport': ['運輸省', 'Ministry of Transport'], 'transport-communications': ['運輸通信省', 'Ministry of Transport and Communications'] };
+const MINS = { 'agriculture-forestry-fisheries': 'MAFF', 'economy-trade-industry': 'METI', 'education-science': 'MEXT', 'health-labour-welfare': 'MHLW', 'internal-affairs': 'MIC',
+  'international-trade-industry': 'MITI', 'land-infrastructure-transport': 'MLIT', 'posts-telecommunications': 'Posts and Telecom.', 'home-affairs-jichi': 'Home Affairs (Jichishō)',
+  'finance-okurasho': 'Finance (Ōkurashō)', 'health-welfare': 'Health and Welfare', 'prime-ministers-office': 'Prime Minister’s Office', 'agriculture-forestry': 'Agriculture and Forestry',
+  'communications-teishin': 'Communications', 'justice-shiho': 'Justice (Shihōshō)', 'home-ministry-naimu': 'Home Ministry', 'transport-communications': 'Transport and Comms.',
+  'attorney-generals-office': 'Attorney General’s Office', 'second-demobilization': '2nd Demobilization', 'first-demobilization': '1st Demobilization', 'agriculture-commerce': 'Agriculture and Commerce' };
+const minName = (k, short) => MIN[k] ? (short && LANG === 'en' && MINS[k] ? MINS[k] : LA(MIN[k])) : k;
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, ja, en, dja, den) => CH.push({ part: true, id, ja, en, dja, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. 現行の法令', 'I. The law in force',
+  'e-Gov 法令検索が2026年11月2日時点で現行とする法令：種類と条の数、番号の年と元号、戦前の片仮名の文語体、条の枝番号、題名に現れる災害。一つの法令が一つのフォルダ、一つの条が一つのファイルです。',
+  'The laws e-Gov 法令検索 held to be in force on 2 November 2026: their kinds and articles, the year and era of their numbers, the pre-war katakana style, branch-numbered articles, and the disasters their titles name. One law is one folder, one article one file.');
+
+const KORD = ['act', 'cabinet-order', 'ministerial-ordinance', 'rule', 'imperial-ordinance', 'dajokan', 'constitution', 'other'];
+chart('c01', el => {
+  const K = { ...D.c01.kinds };
+  K.other = ['pm-decision', 'regulation'].reduce((o, k) => ({ laws: o.laws + K[k].laws, art: o.art + K[k].art, hist: o.hist + K[k].hist, main: o.main + K[k].main }), { laws: 0, art: 0, hist: 0, main: 0 });
+  const N = sum(KORD, k => K[k].laws), A = sum(KORD, k => K[k].art), act = K.act, co = K['cabinet-order'], mo = K['ministerial-ordinance'];
+  const one = sum(KORD, k => K[k].main), big = D.c01.longest.find(r => r[0].startsWith('act/'));
+  const knm = k => k === 'other' ? L('その他（内閣総理大臣決定・規程）', 'Other (Prime Minister decisions, a regulation)') : kn(k);
+  return {
+    title: L(`現行法令${fmt(N)}件：法律${fmt(act.laws)}件に対し、政令と府省令は合わせて${fmt(co.laws + mo.laws)}件`,
+      `${fmt(N)} laws in force: ${fmt(act.laws)} Acts, and ${fmt(co.laws + mo.laws)} Cabinet Orders and ministerial ordinances`),
+    dek: L(`e-Gov 法令検索が現行とする法令を種類ごとに数え、条の数を添えました。国会が制定する法律は${fmt(act.laws)}件、内閣が制定する政令と各府省が発する府省令は合わせて${fmt(co.laws + mo.laws)}件で、法律の${times((co.laws + mo.laws) / act.laws)}です。条で数えると府省令が${fmt(mo.art)}条（${pct(mo.art, A)}）で最も多く、法律は${fmt(act.art)}条（${pct(act.art, A)}）。条の最も多い法律は${nmOf(big[0])}の${fmt(big[2])}条です。本則が条に分かれていない法令も${fmt(one)}件あります。`,
+      `Each kind of law e-Gov 法令検索 holds to be in force, with its articles. The Diet makes Acts: ${fmt(act.laws)} of them. The Cabinet makes Cabinet Orders and the ministries make ministerial ordinances: ${fmt(co.laws + mo.laws)} together, ${times((co.laws + mo.laws) / act.laws)} as many. Counted in articles, ministerial ordinances lead with ${fmt(mo.art)} (${pct(mo.art, A)}); Acts have ${fmt(act.art)} (${pct(act.art, A)}). The Act with the most articles is the ${nmOf(big[0])}, with ${fmt(big[2])}. ${fmt(one)} laws have a body that is not divided into articles at all.`),
+    draw(el) {
+      const cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${narrow(W(el)) ? 2 : 4}, minmax(0, 1fr))`);
+      KORD.forEach(k => {
+        const r = K[k], col = kcol(k), d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').html(`<i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${col}"></i>${esc(knm(k))}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(r.laws)}</b>${L('件', r.laws === 1 ? ' law' : ' laws')} · <span style="white-space:nowrap">${fmt(r.art)}${L('条', ' articles')}</span>`);
+        d.append('div').attr('class', 'ps').text(L(`うち過去の版あり${fmt(r.hist)}件`, `${fmt(r.hist)} with earlier versions held`));
+        const bar = d.append('div').attr('class', 'pbar');
+        if (r.hist) bar.append('i').style('flex', r.hist).style('background', col);
+        if (r.laws > r.hist) bar.append('i').style('flex', r.laws - r.hist).style('background', col).style('opacity', .25);
+      });
+      legend(el, KORD.map(k => ({ c: kcol(k), l: knm(k) })));
+      const row = { lbl: L('条', 'Articles') }; KORD.forEach(k => row[k] = K[k].art);
+      bands(el, [row], KORD, KORD.map(kcol), KORD.map(knm), { rowH: 44, l: 56, ln: 50, r: 90, rn: 66, minIn: 34, label: r => r.lbl, right: () => fmt(A) });
+      h4(el, L('条の最も多い法令', 'The laws with the most articles'), 16);
+      const rows = D.c01.longest.slice(0, 10), w = W(el), nw = narrow(w), fit = fitNames(el, rows, r => r[0], r => r[1], nw ? 176 : 506), lab = fit.lab, lw = fit.lw;
+      const rowH = 24, m = { t: 4, r: 52, b: 4, l: lw }, svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const x = d3.scaleLinear().domain([0, d3.max(rows, r => r[2])]).range([0, w - m.l - m.r]);
+      rows.forEach((r, i) => {
+        const cy = i * rowH, k = kindOf(r[0]);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(r));
+        g.append('path').attr('d', barPath(0, cy + 5, x(r[2]), rowH - 10, 3)).attr('fill', kcol(k));
+        g.append('text').attr('class', 'lbl').attr('x', x(r[2]) + 6).attr('y', cy + rowH / 2 + 4).text(fmt(r[2]));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${esc(nmOf(d[0], d[1]))}</b><div class="q">${esc(d[1])}</div>` + trow(kcol(k), lawNum(d[3]), `${fmt(d[2])}${L('条', ' articles')}`));
+      });
+      note(el, ['<KIND>/<YEAR>/<NUMBER>/art-*.md', 'data/paths.json', 'laws.csv'], `${fmt(N)}${L('件の法令、', ' laws, ')}${fmt(A)}${L('条', ' articles')}`,
+        L('条は条ごとのファイル（art-*.md）で数え、削除された条の範囲を示すファイル（「第三十八条から第八十四条まで　削除」）は数えない。府省令と規則は発令者ごとのフォルダ、複数の府省の共同省令は joint/。「過去の版あり」は e-Gov の改正履歴から過去の版を保有する法令。国会・内閣・各府省の権限は日本国憲法第四十一条・第七十三条第六号、国家行政組織法第十二条による。',
+          'articles are counted as files (art-*.md); the files that stand for a range of deleted articles ("第三十八条から第八十四条まで　削除") are not counted. Ministerial ordinances and rules sit in a folder per issuer, joint ordinances of several ministries under joint/. "Earlier versions held": laws whose earlier versions the repository holds from e-Gov’s revision record. The Diet, the Cabinet and the ministries make these under the Constitution, articles 41 and 73(6), and the National Government Organization Act, article 12.'));
+      table(el, [L('種類', 'Kind'), L('法令', 'Laws'), L('条', 'Articles'), t('share'), L('過去の版あり', 'Earlier versions held'), L('条のない法令', 'No articles')],
+        KORD.map(k => [knm(k), K[k].laws, K[k].art, pct(K[k].art, A, 1), K[k].hist, K[k].main]));
+      subTable(el, L('条の最も多い法令', 'The laws with the most articles'), [L('法令', 'Law'), L('番号', 'Number'), L('条', 'Articles')], D.c01.longest.map(r => [nmOf(r[0], r[1]), lawNum(r[3]), r[2]]), [0, 0, 1]);
+    }
+  };
+});
+
+// 2. the eras
+const KG = ['act', 'cabinet-order', 'ministerial-ordinance', 'rest'];
+const kgName = k => k === 'rest' ? L('その他（規則、勅令、太政官布告など）', 'Other (rules, Imperial Ordinances, Dajōkan proclamations…)') : kn(k);
+const kgCol = k => k === 'rest' ? css('--s7') : kcol(k);
+const kgOf = k => KG.includes(k) ? k : 'rest';
+chart('c02', el => {
+  const Y = D.c02.years, E = D.c02.eras, tot = o => sum(Object.values(o || {})), N = sum(Object.values(E), tot);
+  const ys = Object.keys(Y).map(Number), peak = ys.reduce((a, y) => tot(Y[y]) > tot(Y[a]) ? y : a, ys[0]);
+  const old = D.c02.oldest[0], mt = tot(E.m) + tot(E.t), pre47 = sum(ys.filter(y => y < 1947), y => tot(Y[y]));
+  const ec = D.c02.era_change.filter(r => r[1] === '元号を改める政令').sort((a, b) => a[0] < b[0] ? -1 : 1);
+  return {
+    title: L(`明治から令和まで：現行法令の${pct(tot(E.h), N)}は平成、${pct(tot(E.r), N)}は令和の番号。明治・大正の番号の法令も${fmt(mt)}件が現行`,
+      `From Meiji to Reiwa: ${pct(tot(E.h), N)} of the laws in force carry a Heisei number and ${pct(tot(E.r), N)} a Reiwa one; ${fmt(mt)} numbered in the Meiji and Taishō eras remain`),
+    dek: L(`法令の番号は元号の年ごとに振られます（令和4年法律第68号）。現行法令を番号の年ごとに数え、元号ごとに色の帯で区切りました。最も多いのは${peak}年の${fmt(tot(Y[peak]))}件。1947年より前の番号を持つ法令は${fmt(pre47)}件で、最も古いのは1872年の${nmOf(old[0], old[1])}（${lawNum(old[2])}）です。元号を改める政令は、${lawNum(ec[0][2])}と${lawNum(ec[1][2])}の2件が現行です。`,
+      `A law’s number counts within a year of an era (Act No. 68 of 2022 is 令和4年法律第68号). The laws in force by the year of their number, with each era shaded. The most come from ${peak} (${fmt(tot(Y[peak]))}). ${fmt(pre47)} laws in force are numbered before 1947; the oldest is the ${nmOf(old[0], old[1])} of 1872 (${lawNum(old[2])}). Two Cabinet Orders changing the era name are in force: ${lawNum(ec[0][2])} and ${lawNum(ec[1][2])}.`),
+    draw(el) {
+      const cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${narrow(W(el)) ? 2 : 5}, minmax(0, 1fr))`);
+      const span = { m: '1868–1912', t: '1912–1926', s: '1926–1989', h: '1989–2019', r: L('2019–', '2019–') };
+      ['m', 't', 's', 'h', 'r'].forEach(e => {
+        const o = E[e], n = tot(o), d = cards.append('div').attr('class', 'ptile'), g_ = {};
+        Object.entries(o).forEach(([k, v]) => { g_[kgOf(k)] = (g_[kgOf(k)] || 0) + v; });
+        d.append('div').attr('class', 'pn').text(`${eraName(e)} · ${span[e]}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(n)}</b>${L('件', ' laws')} · ${pct(n, N, n / N < .01 ? 1 : 0)}`);
+        d.append('div').attr('class', 'ps').text(L(`うち法律${fmt(o.act || 0)}件`, `${fmt(o.act || 0)} Acts`));
+        const bar = d.append('div').attr('class', 'pbar');
+        KG.forEach(k => { if (g_[k]) bar.append('i').style('flex', g_[k]).style('background', kgCol(k)); });
+      });
+      legend(el, KG.map(k => ({ c: kgCol(k), l: kgName(k) })));
+      const w = W(el), nw = narrow(w), h = nw ? 240 : 290, m = { t: 22, r: 8, b: 22, l: nw ? 34 : 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([1868, 2027]).range([0, iw]), bw = Math.max(1, x(1869) - x(1868) - (nw ? 0.3 : 1));
+      const y = d3.scaleLinear().domain([0, d3.max(ys, yy => tot(Y[yy]))]).nice().range([ih, 0]);
+      eraBands(g, x, ih, 1868, 2027, { top: -m.t + 2 });
+      yAxis(g, y, iw, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      ys.forEach(yy => {
+        const o = Y[yy], segs = KG.map(k => [k, sum(Object.entries(o).filter(([kk]) => kgOf(kk) === k), q => q[1])]).filter(s => s[1]);
+        let acc = 0;
+        segs.forEach(([k, v], q) => { const y0 = y(acc) - (q ? .5 : 0), y1 = y(acc + v); acc += v;
+          g.append('path').attr('d', q === segs.length - 1 ? colPath(x(yy), y0, bw, y1, Math.min(2, bw / 2)) : `M${x(yy)},${y0}V${y1 + .5}H${x(yy) + bw}V${y0}Z`).attr('fill', kgCol(k)).attr('opacity', yy === 2026 ? .5 : 1); });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(yy) - .5).attr('width', Math.max(2, x(yy + 1) - x(yy))).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + KG.map(k => { const v = sum(Object.entries(Y[d]).filter(([kk]) => kgOf(kk) === k), q => q[1]); return v ? trow(kgCol(k), kgName(k), fmt(v)) : ''; }).join('') + trow(null, t('total'), fmt(tot(Y[d]))));
+      });
+      [1872, 1900, 1925, 1950, 1975, 2000, 2026].forEach(yy => { if (!nw || yy % 50 === 0 || yy === 2026 || yy === 1872) g.append('text').attr('class', 'lbl').attr('x', x(yy) + bw / 2).attr('y', ih + 15).attr('text-anchor', yy === 2026 ? 'end' : yy === 1872 ? 'start' : 'middle').text(yy); });
+      // the oldest law and the peak year, labelled; the two era-change orders marked
+      const lab = (yy, txt, anchor, dy = -8) => halo(g, x(yy) + bw / 2, y(tot(Y[yy])) + dy, txt, anchor, 'lbl strong');
+      halo(g, x(peak) + bw + 4, y(tot(Y[peak])) + 4, `${peak}: ${fmt(tot(Y[peak]))}`.replace(': ', L('年：', ': ')), 'start', 'lbl strong');
+      if (!nw) {
+        halo(g, x(1872) + 4, y(8) - 4, L(`1872年 ${nmOf(old[0], old[1])}`, `1872: ${nmOf(old[0], old[1])}`), 'start', 'lbl');
+        g.append('line').attr('x1', x(1872) + bw / 2).attr('x2', x(1872) + bw / 2).attr('y1', y(tot(Y[1872])) - 2).attr('y2', y(8)).attr('stroke', css('--text-3'));
+      }
+      note(el, ['<KIND>/<YEAR>/<NUMBER>/', 'data/paths.json'], `${fmt(N)}${L('件', ' laws')}`,
+        L('番号の年は、法令番号の元号の年を西暦にしたもの（フォルダ名の年）。元号の区切りは改元の日（1912年7月30日、1926年12月25日、1989年1月8日、2019年5月1日）。廃止された法令は数えない。2026年は11月2日まで（薄い色）。',
+          'the year is the era year of the law’s number, in the Western calendar (the folder’s year). Eras change on 30 July 1912, 25 December 1926, 8 January 1989 and 1 May 2019. Repealed laws are not counted. 2026 stops on 2 November (lighter).'));
+      table(el, [t('year'), ...KG.map(kgName), t('total')], ys.map(yy => [String(yy), ...KG.map(k => sum(Object.entries(Y[yy]).filter(([kk]) => kgOf(kk) === k), q => q[1])), tot(Y[yy])]));
+      subTable(el, L('最も古い現行法令', 'The oldest laws in force'), [L('法令', 'Law'), L('番号', 'Number'), t('year')], D.c02.oldest.map(r => [nmOf(r[0], r[1]), lawNum(r[2]), String(r[3])]), [0, 0, 1]);
+    }
+  };
+});
+
+// 3. katakana
+const STY = ['kata', 'mixed', 'hira'];
+const styName = k => LA({ kata: ['片仮名の文語体', 'katakana style'], mixed: ['片仮名と平仮名が混在', 'katakana and hiragana mixed'], hira: ['平仮名', 'hiragana'], none: ['判定できない', 'not judged'] }[k]);
+const styCol = k => ({ kata: css('--s4'), mixed: css('--s5'), hira: css('--s1'), none: css('--muted-mark') }[k]);
+chart('c03', el => {
+  const c = D.c03, n = c.n, kat = n.kata + n.mixed, acts = c.kata_acts.length, duel = c.kata_acts.find(r => r[0] === 'act/1889/034');
+  const duelText = (c.dots.find(r => r[0] === 'act/1889/034') || [])[6] || '';
+  const hiraCodes = ['act/1896/089', 'act/1907/045', 'act/1899/048'].filter(fo => c.hira_acts.some(r => r[0] === fo)).map(fo => nmOf(fo));
+  return {
+    title: L(`文語の法令：1947年より前の番号の現行法令${fmt(c.pre47)}件のうち${fmt(kat)}件に今も片仮名書きの条、うち法律${fmt(acts)}件`,
+      `Katakana law: ${fmt(kat)} of the ${fmt(c.pre47)} laws in force numbered before 1947 still have articles written in katakana, ${fmt(acts)} of them Acts`),
+    dek: L(`戦前の法令は、助詞や送り仮名を片仮名で書く文語体で書かれました。1947年より前の番号を持つ現行法令のすべての条を読み、どちらの書き方かを調べました。点の一つが一つの法令で、番号の年に積み上げています。${andList(hiraCodes)}のように平仮名に書き改められた法令がある一方、片仮名のままの法令も多く、決闘罪ニ関スル件（明治22年）の第一条は「${duelText.replace(/^第一条\s*/, '')}」と今も片仮名で、${duel ? dateTxt(duel[4]) : ''}に改正されています。`,
+      `Before the war, laws were written in a literary style that spells particles and inflections in katakana. Every article of the laws in force numbered before 1947 was read to see which style it uses; each dot is one law, stacked on the year of its number. Some have been rewritten in hiragana, like the ${andList(hiraCodes)}; many have not. Article 1 of the Act on Duelling of 1889 still reads, in katakana, "${duelText.replace(/^第一条\s*/, '')}", and was amended on ${duel ? dateTxt(duel[4]) : ''}.`),
+    draw(el) {
+      legend(el, STY.map(k => ({ c: styCol(k), l: styName(k), shape: 'dot' })));
+      const w = W(el), nw = narrow(w), dots = c.dots, byY = d3.group(dots, r => r[1]), maxN = d3.max([...byY.values()], v => v.length);
+      const m = { t: 22, r: 8, b: 22, l: 8 }, iw = w - m.l - m.r, x = d3.scaleLinear().domain([1868, 1947]).range([0, iw]), step = x(1869) - x(1868);
+      const r_ = Math.max(1.6, Math.min(step / 2 - .4, 5)), dy = 2 * r_ + .8, ih = maxN * dy + 8, h = ih + m.t + m.b;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      eraBands(g, x, ih, 1868, 1947, { top: -m.t + 2 });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const ord = { kata: 0, mixed: 1, hira: 2, none: 3 };
+      byY.forEach((v, yy) => {
+        v.sort((a, b) => ord[a[3]] - ord[b[3]] || (a[2] === 'act' ? -1 : 1));
+        bindTip(g.append('g').selectAll('circle').data(v).join('circle').attr('cx', x(yy) + step / 2).attr('cy', (d, i) => ih - r_ - 1 - i * dy).attr('r', r_)
+          .attr('fill', d => styCol(d[3])).attr('stroke', d => d[2] === 'act' || d[2] === 'constitution' ? css('--text') : 'none').attr('stroke-width', d => d[2] === 'act' || d[2] === 'constitution' ? .8 : 0),
+          d => `<b>${esc(nmOf(d[0], d[4]))}</b><div class="q">${esc(lawNum(d[5]))} · ${esc(LA(KN1[d[2]] || [d[2], d[2]]))}</div>` + trow(styCol(d[3]), L('書き方', 'Style'), styName(d[3])) + (d[7] ? trow(null, L('最後の改正', 'Last amended'), dateTxt(d[7])) : '') + (d[6] ? `<div class="q">${esc(d[6])}…</div>` : ''));
+      });
+      [1870, 1880, 1890, 1900, 1910, 1920, 1930, 1940].forEach(yy => { if (!nw || (yy % 20 === 0 && yy < 1940)) g.append('text').attr('class', 'lbl').attr('x', x(yy) + step / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy); });
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 15).attr('text-anchor', 'end').text('1946');
+      h4(el, L('元号ごと：片仮名、混在、平仮名', 'By era: katakana, mixed, hiragana'), 14);
+      const rows = [['m', 'act'], ['m', 'other'], ['t', 'act'], ['t', 'other'], ['s', 'act'], ['s', 'other']].map(([e, k]) => ({ e, k, ...(c.grid[`${e}|${k}`] || {}) }))
+        .filter(r => sum(STY, k => r[k] || 0));
+      const lab = (r, n_) => `${eraName(r.e)}${r.e === 's' && !n_ ? L('（1946年まで）', ' (to 1946)') : ''} · ${r.k === 'act' ? (r.e === 's' ? L('法律と憲法', n_ ? 'Acts, Const.' : 'Acts and the Constitution') : L('法律', 'Acts')) : L('その他', 'other')}`;
+      const l = Math.min(nw ? 170 : 300, textW(el, rows.map(r => lab(r, nw))) + 16);
+      bands(el, rows, STY, STY.map(styCol), STY.map(styName), { rowH: 30, l, ln: l, r: 64, rn: 46, minIn: 30, label: lab, right: r => nn(sum(STY, k => r[k] || 0), '件', ['law', 'laws']) });
+      note(el, ['<KIND>/<YEAR>/<NUMBER>/art-*.md', 'main.md'], `${fmt(c.pre47)}${L('件の法令、', ' laws, ')}${fmt(c.files_kata + c.files_hira)}${L('ファイル', ' files')}`,
+        L(`漢字の間に置かれた助詞（ノ ヲ ニ ハ ト モ ヘ テ）が片仮名か平仮名かで、ファイルごとに判定（src/prep.py。エボラ出血熱のような片仮名の外来語は数えない。助詞が二つに満たない「削除」や表は判定しない）。片仮名のファイルと平仮名のファイルが両方ある法令が「混在」。1947〜1951年の番号の法令は各4ファイルを調べ、すべて平仮名だった（${fmt(c.late_checked)}件）。輪郭のある点は法律と憲法。`,
+          `a file is judged by whether the particles between kanji (ノ ヲ ニ ハ ト モ ヘ テ) are in katakana or hiragana (src/prep.py; katakana loanwords such as エボラ出血熱 do not count; files with fewer than two particles, "削除" or tables, are not judged). A law with files of both kinds is "mixed". Four files of each law numbered 1947–1951 were checked: all hiragana (${fmt(c.late_checked)} laws). Outlined dots are Acts and the Constitution.`));
+      table(el, [L('法令', 'Law'), L('番号', 'Number'), t('year'), L('書き方', 'Style'), L('最後の改正', 'Last amended')],
+        c.dots.map(r => [nmOf(r[0], r[4]), lawNum(r[5]), String(r[1]), styName(r[3]), r[7] ? dateTxt(r[7]) : '–']));
+    }
+  };
+});
+
+// 4. branch numbers
+const BRK = ['b0', 'b1', 'b2', 'b3'];
+const brName = k => LA({ b0: ['枝番号なし（第十四条）', 'no branch (Art. 14)'], b1: ['枝番号1段（第十四条の二）', 'one branch (Art. 14-2)'], b2: ['2段（第十四条の二の二）', 'two (Art. 14-2-2)'], b3: ['3段（第十四条の二の二の二）', 'three (Art. 14-2-2-2)'] }[k]);
+const brCols = () => { const r = seqRamp(); return [r(.22), r(.5), r(.76), css('--s2')]; };
+chart('c04', el => {
+  const c = D.c04, ka = c.kinds.act, totA = sum(ka), brA = totA - ka[0];
+  const fie = c.long.find(r => r[0] === 'act/1948/025'), tsm = c.long.find(r => r[0] === 'act/1957/026') || c.top_share.find(r => r[0] === 'act/1957/026');
+  const dl = c.deep, dlLaw = dl.length ? dl[0][0] : '';
+  return {
+    title: L(`枝番号：法律の条の${pct(brA, totA)}は「第十四条の二」のような枝番号の条、金融商品取引法では${fmt(sum(fie[3]))}条のうち${fmt(sum(fie[3]) - fie[3][0])}条`,
+      `Branch numbers: ${pct(brA, totA)} of the articles of Acts carry a branch number like "Article 14-2"; in the Financial Instruments and Exchange Act, ${fmt(sum(fie[3]) - fie[3][0])} of ${fmt(sum(fie[3]))}`),
+    dek: L(`「第十四条の二」は第十四条と第十五条の間に置かれた条の番号で、枝番号の条の間にもさらに枝番号の条が置かれます（第十四条の二の二）。条の多い16の法律で、枝番号のない条と枝番号の条を数えました。租税特別措置法では${pct(sum(tsm[3]) - tsm[3][0], sum(tsm[3]))}が枝番号の条です。3段の枝番号を持つ条は、法律では${nmOf(dlLaw)}の${fmt(dl.length)}条だけです（${dl.map(r => kanjiArt(r[2])).slice(0, 2).join('、')}など）。条の多い法律（100条以上、${fmt(c.acts100)}件）のうち${fmt(c.acts100_half)}件は、条の半分以上が枝番号の条です。`,
+      `"Article 14-2" (第十四条の二) is the number of an article placed between Articles 14 and 15, and more articles can be placed between those (Article 14-2-2). Plain and branch-numbered articles in the 16 Acts with the most articles. In the Act on Special Measures Concerning Taxation, ${pct(sum(tsm[3]) - tsm[3][0], sum(tsm[3]))} of the articles carry a branch number. Three levels of branches occur in Acts only in the ${nmOf(dlLaw)}: ${fmt(dl.length)} articles (${dl.map(r => kanjiArt(r[2])).slice(0, 2).join(', ')}…). Of the ${fmt(c.acts100)} Acts with at least 100 articles, ${fmt(c.acts100_half)} have branch numbers on half their articles or more.`),
+    draw(el) {
+      const colors = brCols(), names = BRK.map(brName);
+      legend(el, BRK.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const rows = c.long.map(r => ({ fo: r[0], t: r[1], b0: r[3][0], b1: r[3][1], b2: r[3][2], b3: r[3][3] }));
+      const nw = narrow(W(el)), fit = fitNames(el, rows, r => r.fo, r => r.t, nw ? 136 : 426), lab = fit.lab, l = fit.lw;
+      splitBars(el, rows, BRK, colors, names, { rowH: 24, l, ln: l, rr: nw ? 92 : 112, label: lab,
+        right: (r, n_) => { const n = sum(BRK, k => r[k]); return L(`${fmt(n)}条 · 枝${pct(n - r.b0, n)}`, n_ ? `${fmt(n)} · ${pct(n - r.b0, n)}` : `${fmt(n)} · ${pct(n - r.b0, n)} branched`); } });
+      h4(el, L('種類ごとの枝番号の条の割合', 'Share of branch-numbered articles by kind'), 16);
+      const kr = ['act', 'cabinet-order', 'ministerial-ordinance', 'rule'].map(k => ({ k, b0: c.kinds[k][0], b1: c.kinds[k][1], b2: c.kinds[k][2], b3: c.kinds[k][3] }));
+      const l2 = Math.min(nw ? 100 : 180, textW(el, kr.map(r => kn(r.k))) + 16);
+      bands(el, kr, BRK, colors, names, { rowH: 30, l: l2, ln: l2, r: 80, rn: 60, minIn: 30, label: r => kn(r.k), right: r => `${fmt(sum(BRK, k => r[k]))}${L('条', '')}` });
+      note(el, ['<KIND>/<YEAR>/<NUMBER>/art-<N>-<M>.md'], `${fmt(totA)}${L('条（法律）', ' articles of Acts')}`,
+        L('枝番号はファイル名から読む（art-014-2.md が第十四条の二）。削除された条の範囲のファイルは数えない。', 'branches are read from the file name (art-014-2.md is Article 14-2). Files of ranges of deleted articles are not counted.'));
+      table(el, [L('法律', 'Act'), ...names, t('total')], rows.map(r => [lab(r), r.b0, r.b1, r.b2, r.b3, sum(BRK, k => r[k])]));
+      subTable(el, L('枝番号の条の割合が最も高い法律（100条以上）', 'The Acts with the highest share of branch-numbered articles (100 articles or more)'), [L('法律', 'Act'), L('条', 'Articles'), L('枝番号の条', 'Branch-numbered')],
+        c.top_share.map(r => [nmOf(r[0], r[1]), sum(r[3]), pct(sum(r[3]) - r[3][0], sum(r[3]))]), [0, 1, 1]);
+      subTable(el, L('3段の枝番号を持つ条（法律）', 'Articles with three levels of branches (Acts)'), [L('法律', 'Act'), L('条', 'Article')], dl.map(r => [nmOf(r[0], r[1]), kanjiArt(r[2])]), [0, 0]);
+    }
+  };
+});
+
+// 5. disasters named in titles
+const DK = ['higashi', 'genpatsu', 'hanshin', 'kumamoto', 'noto', 'corona', 'other'];
+const dkName = k => LA({ higashi: ['東日本大震災', 'Great East Japan Earthquake'], genpatsu: ['原子力事故・原子力損害', 'nuclear accidents and damage'], hanshin: ['阪神・淡路大震災', 'Great Hanshin-Awaji Earthquake'],
+  kumamoto: ['熊本地震', 'Kumamoto Earthquake'], noto: ['能登半島地震', 'Noto Peninsula Earthquake'], corona: ['新型コロナウイルス感染症', 'COVID-19'], other: ['その他の災害・防災', 'other disasters and disaster prevention'] }[k]);
+const dkCol = k => ({ higashi: css('--s8'), genpatsu: css('--s4'), hanshin: css('--s7'), kumamoto: css('--s3'), noto: css('--s1'), corona: css('--s5'), other: css('--muted-mark') }[k]);
+chart('c17', el => {
+  const c = D.c17, Y = c.years, n = c.n, ki = c.kinds.higashi || {}, y11 = (Y['2011'] || {}).higashi || 0;
+  return {
+    title: L(`災害と法令：題名に東日本大震災を含む現行法令は${fmt(n.higashi)}件、うち${fmt(y11)}件は2011年の番号`,
+      `Disasters in law titles: ${fmt(n.higashi)} laws in force name the Great East Japan Earthquake, ${fmt(y11)} of them numbered in 2011`),
+    dek: L(`題名に災害の名や「震災」「地震」「豪雨」「災害」などを含む現行法令を、番号の年ごとに数えました。東日本大震災（東北地方太平洋沖地震を含む）の名を持つ法令は${fmt(n.higashi)}件で、法律${fmt(ki.act || 0)}件、政令${fmt(ki['cabinet-order'] || 0)}件、府省令${fmt(ki['ministerial-ordinance'] || 0)}件です。阪神・淡路大震災は${fmt(n.hanshin)}件、熊本地震${fmt(n.kumamoto)}件、能登半島地震${fmt(n.noto)}件、新型コロナウイルス感染症${fmt(n.corona)}件。`,
+      `The laws in force whose title names a disaster, or words such as 震災 (earthquake disaster), 地震, 豪雨 (torrential rain) or 災害 (disaster), by the year of their number. ${fmt(n.higashi)} name the Great East Japan Earthquake (or the 2011 Tōhoku earthquake): ${fmt(ki.act || 0)} Acts, ${fmt(ki['cabinet-order'] || 0)} Cabinet Orders and ${fmt(ki['ministerial-ordinance'] || 0)} ministerial ordinances. The Great Hanshin-Awaji Earthquake: ${fmt(n.hanshin)}; the Kumamoto Earthquake: ${fmt(n.kumamoto)}; the Noto Peninsula Earthquake: ${fmt(n.noto)}; COVID-19: ${fmt(n.corona)}.`),
+    draw(el) {
+      legend(el, DK.map(k => ({ c: dkCol(k), l: `${dkName(k)} · ${fmt(n[k] || 0)}` })));
+      const YS = d3.range(1947, 2027), w = W(el), nw = narrow(w), h = nw ? 220 : 260, m = { t: 26, r: 8, b: 22, l: 30 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(YS).range([0, iw]).padding(0.16), tot = yy => sum(DK, k => (Y[yy] || {})[k] || 0);
+      const y = d3.scaleLinear().domain([0, d3.max(YS, tot)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      YS.forEach(yy => {
+        const o = Y[yy] || {}, segs = DK.map(k => [k, o[k] || 0]).filter(s => s[1]);
+        let acc = 0; const bx = x(yy), bw = x.bandwidth();
+        segs.forEach(([k, v], q) => { const y0 = y(acc) - (q ? .6 : 0), y1 = y(acc + v); acc += v;
+          g.append('path').attr('d', q === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(2.5, bw / 3)) : `M${bx},${y0}V${y1 + .6}H${bx + bw}V${y0}Z`).attr('fill', dkCol(k)).attr('opacity', yy === 2026 ? .5 : 1); });
+        if (yy % (nw ? 20 : 10) === 0) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(yy),
+          d => `<b>${d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + DK.map(k => (Y[d] || {})[k] ? trow(dkCol(k), dkName(k), fmt(Y[d][k])) : '').join('') + trow(null, t('total'), fmt(tot(d))));
+      });
+      const ann = [[1995, 'hanshin'], [2011, 'higashi'], [2016, 'kumamoto'], [2020, 'corona'], [2024, 'noto']];
+      ann.forEach(([yy, k], i) => { if (nw && i % 2) return; halo(g, x(yy) + x.bandwidth() / 2, y(tot(yy)) - 6, `${yy}`, 'middle', 'lbl strong'); });
+      if (!nw) halo(g, x(2011) - 6, y(((Y['2011'] || {}).higashi || 0) / 2) + 4, `${dkName('higashi')} ${fmt((Y['2011'] || {}).higashi || 0)}`, 'end', 'lbl strong', dkCol('higashi'));
+      note(el, ['<KIND>/<YEAR>/<NUMBER>/title.md', 'data/laws.json'], `${fmt(sum(DK, k => n[k] || 0))}${L('件', ' laws')}`,
+        L('題名の語で分類（src/prep.py）。一つの法令は最初に当てはまる分類だけに数える。「災害補償」「公務災害」「労働災害」のように業務上の事故を指す「災害」は数えない。2026年は11月2日まで（薄い色）。',
+          'classified by the words of the title (src/prep.py); a law counts once, in the first class it matches. 災害 meaning an accident at work (災害補償, 公務災害, 労働災害) is not counted. 2026 stops on 2 November (lighter).'));
+      table(el, [t('year'), ...DK.map(dkName), t('total')], YS.filter(yy => tot(yy)).map(yy => [String(yy), ...DK.map(k => (Y[yy] || {})[k] || 0), tot(yy)]));
+      DK.slice(0, 6).forEach(k => subTable(el, dkName(k), [L('法令', 'Law'), t('year'), L('種類', 'Kind')], (c.list[k] || []).map(r => [nmOf(r[0], r[1]), String(r[2]), LA(KN1[kindOf(r[0])] || ['', ''])]), [0, 1, 0]));
+    }
+  };
+});
+
+part('p2', 'II. 改正の百年', 'II. A century of amendments',
+  '改正法令は、改正したそれぞれの法令の本文に自らの附則を残し、e-Gov の現行法令はそれを保っています。現行法令に残る附則のファイル（suppl/）は、1900年からの改正の索引になります：年ごとの数、一度に多くの法令を改正した法律、改正の多い法律、施行日の決め方。',
+  'An amending law leaves its supplementary provisions (附則) in the text of each law it amends, and e-Gov’s laws in force keep them. The files of those provisions (suppl/) are an index of amendment back to 1900: how many each year, the Acts that amended many laws at once, the most amended Acts, and how an Act sets its start.');
+
+const PK = ['act', 'co', 'mo', 'rule', 'old'];
+const pkName = k => LA({ act: ['法律', 'Acts'], co: ['政令', 'Cabinet Orders'], mo: ['府省令', 'Ministerial Ordinances'], rule: ['規則など', 'Rules and others'], old: ['勅令・太政官布告など', 'Imperial Ordinances, Dajōkan proclamations'] }[k]);
+const pkCol = k => ({ act: css('--s1'), co: css('--s3'), mo: css('--s4'), rule: css('--s7'), old: css('--s5') }[k]);
+const OMNI = {
+  'h11-160': ['2001年1月6日施行', 'in force 6 January 2001'], 'r4-68': ['刑法等改正法の施行に伴う関係法律の整理', 'related Acts on the Penal Code amendment'],
+  'h11-87': ['2000年4月1日施行', 'in force 1 April 2000'], 'h26-69': ['行政不服審査法の施行に伴う整備', 'related Acts on the Administrative Complaint Review Act'],
+  'h5-89': ['行政手続法の施行の日に施行', 'in force with the Administrative Procedure Act'], 'h23-74': ['公布から20日後に施行', 'in force 20 days after promulgation'],
+  'h17-87': ['会社法の施行に伴う整備', 'related Acts on the Companies Act'], 'h18-50': ['一般社団・財団法人法の施行に伴う整備', 'related Acts on the associations and foundations Acts'],
+  'h29-45': ['民法改正法の施行に伴う整備', 'related Acts on the Civil Code amendment'], 'h23-105': ['公布の日に施行', 'in force on promulgation'],
+  'h26-67': ['独立行政法人通則法改正法の施行の日に施行', 'with the amended Administrative Agencies Act'],
+  'r1-37': ['成年被後見人等の権利の制限に係る措置の適正化', 'restrictions on the rights of adult wards'], 's37-161': ['1962年10月1日施行', 'in force 1 October 1962'],
+  'h17-102': ['郵政民営化法の施行の日に施行', 'in force with the Postal Privatization Act'], 'h11-102': ['内閣法改正法の施行の日に施行', 'in force with the amended Cabinet Act'],
+  'h11-151': ['2000年4月1日施行', 'in force 1 April 2000'] };
+chart('c05', el => {
+  const c = D.c05, Y = c.years, tot = i => sum(PK, k => c.pairs[k][i]), ix = Y.map((_, i) => i).sort((a, b) => tot(b) - tot(a));
+  const p1 = ix[0], p2 = ix[1], h160 = (D.c06.rows.find(r => r.k === 'h11-160') || {}).n || 0, ma = Y.map((_, i) => i).reduce((a, i) => c.acts[i] > c.acts[a] ? i : a, 0);
+  return {
+    title: L(`改正の記録：現行法令に残る改正法令の附則は${fmt(c.n)}件、最多は${Y[p1]}年の${fmt(tot(p1))}件`,
+      `The record of amendment: ${fmt(c.n)} supplementary provisions of amending laws in the laws in force; the most from ${Y[p1]}, ${fmt(tot(p1))}`),
+    dek: L(`改正法令は、改正した法令それぞれに自らの附則を残します（民法のフォルダの suppl/h29-44.md は平成29年法律第44号の附則）。現行法令の本文に残るこの附則を、改正法令の年ごとに、改正された法令の種類別に数えました。山は${Y[p1]}年と${Y[p2]}年で、平成11年法律第160号（2001年1月6日施行）の附則だけで${fmt(h160)}件あります。下段は、その年に附則を残した改正法律の数です（最多は${Y[ma]}年の${fmt(c.acts[ma])}件）。`,
+      `An amending law leaves its supplementary provisions in each law it amends (suppl/h29-44.md in the Civil Code’s folder holds those of Act No. 44 of 2017). Those kept in the laws in force, by the year of the amending law and the kind of law amended. The peaks are ${Y[p1]} and ${Y[p2]}; Act No. 160 of 1999 (in force on 6 January 2001) alone left ${fmt(h160)}. Below: how many amending Acts of each year left supplementary provisions (the most in ${Y[ma]}: ${fmt(c.acts[ma])}).`),
+    draw(el) {
+      legend(el, PK.map(k => ({ c: pkCol(k), l: pkName(k) })));
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 280, m = { t: 20, r: 8, b: 22, l: nw ? 36 : 44 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.16);
+      const y = d3.scaleLinear().domain([0, d3.max(Y, (_, i) => tot(i))]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5, v => v >= 1000 ? fmt(v / 1000) + L('千', 'k') : fmt(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      Y.forEach((yy, i) => {
+        let acc = 0; const bx = x(yy), bw = x.bandwidth(), segs = PK.map(k => [k, c.pairs[k][i]]).filter(s => s[1]), gg = g.append('g').attr('opacity', yy === 2026 ? .5 : 1);
+        segs.forEach(([k, v], q) => { const y0 = y(acc) - (q ? .6 : 0), y1 = y(acc + v); acc += v; gg.append('path').attr('d', q === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(2.5, bw / 3)) : `M${bx},${y0}V${y1 + .6}H${bx + bw}V${y0}Z`).attr('fill', pkCol(k)); });
+        if (yy % (nw ? 20 : 10) === 0) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(i),
+          d => `<b>${Y[d]}${Y[d] === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + PK.map(k => c.pairs[k][d] ? trow(pkCol(k), pkName(k), fmt(c.pairs[k][d])) : '').join('') + trow(null, t('total'), fmt(tot(d))) + trow(null, L('附則を残した改正法律', 'Amending Acts'), fmt(c.acts[d])));
+      });
+      [p1, p2].forEach(i => halo(g, x(Y[i]) + x.bandwidth() / 2, y(tot(i)) - 6, `${Y[i]}: ${fmt(tot(i))}`.replace(': ', L('年：', ': ')), i === p1 ? 'start' : 'end', 'lbl strong').attr('dx', i === p1 ? -x.bandwidth() / 2 : x.bandwidth() / 2));
+      h4(el, L('附則を残した改正法律の数', 'Amending Acts that left supplementary provisions'), 12);
+      const h2 = nw ? 110 : 120, svg2 = svgIn(el, w, h2), g2 = svg2.append('g').attr('transform', `translate(${m.l},8)`), ih2 = h2 - 30;
+      const y2 = d3.scaleLinear().domain([0, d3.max(c.acts)]).nice().range([ih2, 0]);
+      yAxis(g2, y2, iw, 3);
+      Y.forEach((yy, i) => { const bx = x(yy), bw = x.bandwidth();
+        g2.append('path').attr('d', colPath(bx, ih2, bw, y2(c.acts[i]), Math.min(2, bw / 3))).attr('fill', css('--s1')).attr('opacity', yy === 2026 ? .4 : .75);
+        if (yy % (nw ? 20 : 10) === 0) g2.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih2 + 15).attr('text-anchor', 'middle').text(yy);
+        bindTip(g2.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih2).datum(i), d => `<b>${Y[d]}</b>` + trow(css('--s1'), L('改正法律', 'Amending Acts'), fmt(c.acts[d])));
+      });
+      g2.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih2).attr('y2', ih2);
+      note(el, ['<LAW>/suppl/<ACT>.md'], `${fmt(c.n)}${L('件の附則（法令と改正法令の組）', ' supplementary provisions (law and amending law pairs)')}`,
+        L(`改正法令の年は附則のファイル名から読む（h29-44 は平成29年、r1-0507-m1 は令和元年5月7日の府省令）。現行法令に残る附則だけで、廃止された法令の改正や、e-Gov の本文に附則のない改正は数えない。1947年より前の改正法令の附則は${fmt(c.before)}件（最も古いのは${c.first}年）。2026年は11月2日まで（薄い色）。`,
+          `the amending law’s year is read from the file name (h29-44 is 2017, Heisei 29; r1-0507-m1 an ordinance of 7 May 2019). Only provisions kept in laws in force count: amendments of repealed laws, and amendments whose provisions e-Gov does not keep, are missing. ${fmt(c.before)} provisions come from amending laws before 1947 (the oldest from ${c.first}). 2026 stops on 2 November (lighter).`));
+      table(el, [t('year'), ...PK.map(pkName), t('total'), L('改正法律', 'Amending Acts')], Y.map((yy, i) => [String(yy), ...PK.map(k => c.pairs[k][i]), tot(i), c.acts[i]]));
+    }
+  };
+});
+
+chart('c06', el => {
+  const c = D.c06, R = c.rows.slice(0, 15).map(r => ({ ...r, era_: r.eras })), r160 = R.find(r => r.k === 'h11-160'), r68 = R.find(r => r.k === 'r4-68');
+  const desc = r => OMNI[r.k] ? LA(OMNI[r.k]) : r.title || r.start;
+  return {
+    title: L(`束ね法：平成11年法律第160号は${fmt(r160.n)}件、令和4年法律第68号は${fmt(r68.n)}件の現行法令に附則を残す`,
+      `Omnibus Acts: Act No. 160 of 1999 left its supplementary provisions in ${fmt(r160.n)} laws in force, Act No. 68 of 2022 in ${fmt(r68.n)}`),
+    dek: L(`一つの法律が多くの法令をまとめて改正することがあります。附則を残した現行法令の多い15の法律です。令和4年法律第68号（${r68.title}）は法律${fmt(r68.by.act)}件に附則を残し、これは現行の法律の${pct(r68.by.act, c.acts_in_force)}にあたります。改正した最も古い法令は${r68.oldest[2]}年の${nmOf(r68.oldest[0], r68.oldest[1])}です。平成11年法律第160号の附則は、自らの第千三百四十四条まで引いています。100件以上の現行法令に附則を残した改正法律は${fmt(c.over100)}件。題名がこのリポジトリにない法律は、附則が定める施行日で示しました。`,
+      `One Act can amend many laws at once. The 15 Acts whose supplementary provisions sit in the most laws in force. Act No. 68 of 2022, the Act on the Arrangement of Related Acts upon the Enforcement of the Act Partially Amending the Penal Code, left them in ${fmt(r68.by.act)} Acts, ${pct(r68.by.act, c.acts_in_force)} of the Acts in force; the oldest law it amended is the ${nmOf(r68.oldest[0], r68.oldest[1])} of ${r68.oldest[2]}. The supplementary provisions of Act No. 160 of 1999 cite its own Article 1,344. ${fmt(c.over100)} amending Acts left supplementary provisions in 100 laws in force or more. An Act whose title the repository does not hold is described by the start its provisions set.`),
+    draw(el) {
+      const EK = ['m', 't', 's', 'h', 'r'], rmp = seqRamp(), ecol = [css('--s4'), css('--s5'), rmp(.45), rmp(.75), rmp(1)], enm = EK.map(e => L(`${eraName(e)}の法令`, `laws numbered in ${eraName(e)}`));
+      legend(el, EK.map((e, i) => ({ c: ecol[i], l: enm[i] })));
+      const nw = narrow(W(el)), lab = (r, n_) => n_ ? actNo(r.era, r.ey, r.no) : `${actNo(r.era, r.ey, r.no)} · ${desc(r)}`;
+      const l = Math.min(nw ? 140 : 470, textW(el, R.map(r => lab(r, nw))) + 14);
+      const rows = R.map(r => ({ ...r, ...Object.fromEntries(EK.map(e => ['e_' + e, (r.era_ || {})[e] || 0])) }));
+      splitBars(el, rows, EK.map(e => 'e_' + e), ecol, enm, { rowH: 25, l, ln: l, rr: 50, label: lab,
+        tipHead: r => `<div class="q">${esc(r.title || L('（題名はこのリポジトリにない）', '(title not in the repository)'))}</div>` + (r.date ? trow(null, L('公布', 'Promulgated'), dateTxt(r.date)) : '') + `<div class="q">${esc(r.start)}</div>`,
+        tipExtra: r => trow(null, L('改正した最も古い法令', 'Oldest law amended'), `${nmOf(r.oldest[0], r.oldest[1])} (${r.oldest[2]})`) });
+      note(el, ['<LAW>/suppl/<ACT>.md', 'laws.csv', 'data/laws.json'], `${fmt(c.n)}${L('件の改正法律', ' amending Acts')}`,
+        L('改正法律は附則のファイル名（r4-68）で特定し、題名は data/laws.json と laws.csv から。公布日と施行日は附則の見出しと第一条（公布の日、20日後、日付、他の法律の施行の日）から読む。同じ法律の附則でも、e-Gov の本文に残っていない法令は数えない。',
+          'an amending Act is identified by the file name of its provisions (r4-68); titles come from data/laws.json and laws.csv. The day of promulgation and the start are read from the heading and the first provision of its supplementary provisions. Laws whose text in e-Gov does not keep the Act’s provisions are not counted.'));
+      table(el, [L('法律', 'Act'), L('題名', 'Title'), L('公布', 'Promulgated'), ...PK.map(pkName), t('total')], R.map(r => [actNo(r.era, r.ey, r.no), r.title || '–', r.date ? dateTxt(r.date) : '–', ...PK.map(k => r.by[k] || 0), r.n]));
+      subTable(el, L('改正した法令の元号', 'The era of the laws amended'), [L('法律', 'Act'), ...EK.map(eraName)], R.map(r => [actNo(r.era, r.ey, r.no), ...EK.map(e => (r.era_ || {})[e] || 0)]), [0, 1, 1, 1, 1, 1]);
+    }
+  };
+});
+
+chart('c07', el => {
+  const c = D.c07, R = c.rows, decs = c.decs, top = R[0], mx = d3.max(R, r => d3.max(r.v)), d = c.dist;
+  const TAX = ['act/1950/226', 'act/1967/035', 'act/1957/026', 'act/1965/033', 'act/1965/034', 'act/1967/023', 'act/1988/108'];
+  const tax10 = R.slice(0, 10).filter(r => TAX.includes(r.fo));
+  return {
+    title: L(`改正の多い法律：地方税法には${fmt(top.n)}の改正法令の附則、現行の法律の中央値は${fmt(c.median)}`,
+      `The most amended Acts: the Local Tax Act keeps the supplementary provisions of ${fmt(top.n)} amending laws; the median Act, ${fmt(c.median)}`),
+    dek: L(`現行の法律ごとに、本文に残る改正法令の附則を、改正法令の年代別に数えました。附則の多い20の法律で、${nmOf(top.fo)}（${top.year}年）は${fmt(top.n)}、${nmOf(R[1].fo)}（${R[1].year}年）は${fmt(R[1].n)}。上位10件のうち${tax10.length}件は税の法律です（${andList(tax10.map(r => nmOf(r.fo)))}）。現行の法律${fmt(c.acts)}件のうち、改正法令の附則が一つもない法律は${fmt(d[0])}件、100以上ある法律は${fmt(d[4])}件です。`,
+      `For each Act in force, the supplementary provisions of amending laws its text keeps, by the decade of the amending law. The 20 Acts with the most: the ${nmOf(top.fo)} (${top.year}) has ${fmt(top.n)}, the ${nmOf(R[1].fo)} (${R[1].year}) ${fmt(R[1].n)}. ${tax10.length} of the top 10 are tax Acts (${andList(tax10.map(r => nmOf(r.fo)))}). Of the ${fmt(c.acts)} Acts in force, ${fmt(d[0])} keep none and ${fmt(d[4])} keep 100 or more.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), fit = fitNames(el, R, r => r.fo, r => r.t, nw ? 118 : 318), lab = fit.lab, lw = fit.lw, rr = nw ? 34 : 110, rowH = nw ? 18 : 21;
+      const iw = w - lw - rr, cw = iw / decs.length, ramp = seqRamp(), col = n => ramp(0.12 + 0.88 * Math.sqrt(n / mx));
+      legend(el, [5, 25, 75, mx].map(n => ({ c: col(n), l: n === mx ? L(`${fmt(n)}（10年間）`, `${fmt(n)} in a decade`) : fmt(n) })).concat([{ c: css('--surface-2'), l: L('なし', 'none') }]));
+      const svg = svgIn(el, w, 18 + rowH * R.length + 4), g = svg.append('g').attr('transform', `translate(${lw},16)`);
+      decs.forEach((dd, i) => g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', -5).attr('text-anchor', 'middle').text(nw ? `’${String(dd).slice(2)}` : L(`${dd}年代`, `${dd}s`)));
+      const xb = d3.scaleLinear().domain([0, top.n]).range([0, rr - (nw ? 0 : 46)]);
+      R.forEach((r, ri) => {
+        const cy = ri * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -6).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(lab(r));
+        decs.forEach((dd, i) => {
+          const v = r.v[i];
+          bindTip(g.append('rect').attr('x', i * cw + .8).attr('y', cy + .8).attr('width', cw - 1.6).attr('height', rowH - 1.6).attr('rx', 3).attr('fill', v ? col(v) : css('--surface-2')).attr('opacity', dd === 2020 ? .85 : 1).datum({ r, dd, v }),
+            q => `<b>${esc(lab(q.r))} · ${L(`${q.dd}年代`, `${q.dd}s`)}</b>` + trow(null, L('改正法令の附則', 'Supplementary provisions of amending laws'), fmt(q.v)));
+          if (!nw && v >= 40) g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(col(v))).style('font-size', '10px').style('pointer-events', 'none').text(v);
+        });
+        if (!nw) g.append('path').attr('d', barPath(iw + 8, cy + 4, iw + 8 + xb(r.n), rowH - 8, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', iw + (nw ? 4 : 14 + xb(r.n))).attr('y', cy + rowH / 2 + 4).style('font-size', nw ? '10px' : null).text(fmt(r.n));
+      });
+      h4(el, L('現行の法律を、附則の数で分けると', 'All Acts in force, by the number of amending laws’ provisions they keep'), 16);
+      const DK_ = ['0', '1', '5', '20', '100'], dn = [L('なし', 'none'), '1–4', '5–19', '20–99', L('100以上', '100 or more')], rmp = seqRamp(), dc = [css('--surface-2'), rmp(.25), rmp(.45), rmp(.7), rmp(1)];
+      const row = { lbl: L('法律', 'Acts') }; DK_.forEach((k, i) => row[k] = d[i]);
+      legend(el, DK_.map((k, i) => ({ c: dc[i], l: dn[i] })));
+      bands(el, [row], DK_, dc, dn, { rowH: 40, l: 56, ln: 50, r: 70, rn: 56, minIn: 30, label: r => r.lbl, right: () => fmt(c.acts) });
+      note(el, ['act/<YEAR>/<NUMBER>/suppl/'], `${fmt(c.acts)}${L('件の法律', ' Acts')}`,
+        L('附則のファイル名の年で年代を分ける。自らの附則（original.md）は数えない。現行の法律の本文に e-Gov が残している附則だけを数え、古い改正の附則が本文にない法律もある（民法の附則は1926年の改正のものから）。2020年代は2026年11月2日まで。',
+          'decades are read from the year in the file name; a law’s own supplementary provisions (original.md) do not count. Only the provisions e-Gov keeps in the text in force count, and some laws do not keep those of old amendments (the Civil Code’s start in 1926). The 2020s run to 2 November 2026.'));
+      table(el, [L('法律', 'Act'), t('year'), ...decs.map(dd => L(`${dd}年代`, `${dd}s`)), L('1940年より前', 'before 1940'), t('total')], R.map(r => [lab(r), String(r.year), ...r.v, r.before, r.n]));
+    }
+  };
+});
+
+const SK8 = ['prom', 'd20', 'period', 'fixed', 'cab', 'linked', 'other'];
+const s8Name = k => LA({ prom: ['公布の日', 'on promulgation'], d20: ['公布の日から起算して20日を経過した日', '20 days after promulgation'], period: ['その他の一定の期間の後', 'another fixed period'],
+  fixed: ['日付を指定', 'a named date'], cab: ['政令で定める日', 'a day set by Cabinet Order'], linked: ['他の法律や条約の施行・発効の日', 'when another law or a treaty takes effect'], other: ['その他', 'other'] }[k]);
+const s8Cols = () => [css('--s1'), css('--s6'), css('--s7'), css('--s4'), css('--s2'), css('--s5'), css('--muted-mark')];
+chart('c08', el => {
+  const c = D.c08, rows = c.decs.map(dd => { const o = { dd, ...c.rules[dd] }; o.other = (o.other || 0) + (o.none || 0); return o; });
+  const tot = r => sum(SK8, k => r[k] || 0), first = rows[0], last = rows[rows.length - 1];
+  const decLab = dd => dd === 1950 ? '1947–1959' : dd === 2020 ? '2020–2026' : L(`${dd}年代`, `${dd}s`);
+  return {
+    title: L(`施行日の決め方：2020年以降の改正法律の${pct(last.cab, tot(last))}は施行日を政令に委ね、1947〜1959年は${pct(first.cab, tot(first))}`,
+      `How Acts set their start: ${pct(last.cab, tot(last))} of the amending Acts since 2020 leave the day to a Cabinet Order, against ${pct(first.cab, tot(first))} in 1947–1959`),
+    dek: L(`改正法律の附則の第一条は、その法律がいつ施行されるかを定めます。「公布の日から施行する」、「公布の日から起算して二十日を経過した日から施行する」（法の適用に関する通則法第二条が定める原則と同じ日）、日付の指定、「…を超えない範囲内において政令で定める日」、他の法律の施行の日など。1947年以降の改正法律${fmt(sum(rows, tot))}件を、その年代ごとに分類しました。公布の日に施行する法律は1947〜1959年の${pct(first.prom, tot(first))}から、2020年以降は${pct(last.prom, tot(last))}に減っています。`,
+      `The first provision of an amending Act’s supplementary provisions sets when it takes effect: "from the day of promulgation", "from the day on which 20 days have passed from promulgation" (the same day as the general rule in article 2 of the Act on General Rules for Application of Laws), a named date, "a day set by Cabinet Order within … from promulgation", the day another law takes effect, and so on. The ${fmt(sum(rows, tot))} amending Acts since 1947, by decade. Acts that take effect on promulgation fell from ${pct(first.prom, tot(first))} in 1947–1959 to ${pct(last.prom, tot(last))} since 2020.`),
+    draw(el) {
+      const colors = s8Cols(), names = SK8.map(s8Name);
+      legend(el, SK8.map((k, i) => ({ c: colors[i], l: names[i] })));
+      bands(el, rows, SK8, colors, names, { rowH: 34, l: 96, ln: 78, r: 74, rn: 56, minIn: 30, label: r => decLab(r.dd), right: r => nn(tot(r), '件', ['Act', 'Acts']), partial: r => r.dd === 2020 && false });
+      note(el, ['<LAW>/suppl/<ACT>.md', 'act/2006/078/art-002.md'], `${fmt(sum(rows, tot))}${L('件の改正法律', ' amending Acts')}`,
+        L(`一つの改正法律につき、附則のファイル一つの第一条を読む（括弧の中と「ただし」以下を除いた最初の文。規則は src/prep.py）。段階的に施行する法律は、本則の施行日で分類。1947年より前の改正法律（${fmt(sum(Object.values(c.pre1947)))}件）は含めない。`,
+          `one file of each amending Act’s supplementary provisions is read: the first sentence that sets the start, without its parentheses or the part after ただし ("however"); rules in src/prep.py. An Act that takes effect in stages is classed by the start of its main part. Amending Acts before 1947 (${fmt(sum(Object.values(c.pre1947)))}) are left out.`));
+      table(el, [L('年代', 'Decade'), ...names, t('total')], rows.map(r => [decLab(r.dd), ...SK8.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+part('p3', 'III. 施行の暦', 'III. When law takes effect',
+  'e-Gov の改正履歴は、各法令の版がいつ施行されたかを示します（多くの法令で2016〜2017年から）。法令の本文を改めた版の施行日、公布から施行までの日数、毎年3月末の税制改正、公布済みでまだ施行されていない版。',
+  'e-Gov’s revision record gives the day each version of a law took effect (from 2016–2017 for most laws). The days on which versions that change a law’s text took effect, the time from promulgation, the tax Act of every end of March, and the versions promulgated but not yet in force.');
+
+chart('c09', el => {
+  const c = D.c09, cal = new Map(c.cal.map(([m, d, n]) => [m + '-' + d, n])), at = (m, d) => cal.get(m + '-' + d) || 0, TOT = c.n;
+  const a1 = at(4, 1), first = sum(d3.range(1, 13), m => at(m, 1)), top = c.cal.filter(r => !(r[0] === 4 && r[1] === 1)).sort((a, b) => b[2] - a[2]).slice(0, 3);
+  const YR = new Map(c.years.map(r => [r[0], r])), sh = y => YR.get(y)[2] / YR.get(y)[1];
+  const wdp = c.wd_pub, fri = wdp[4], TP = sum(wdp);
+  return {
+    title: L(`4月1日：2018〜2025年に施行された版の${pct(a1, TOT, 1)}がこの日`, `1 April: ${pct(a1, TOT, 1)} of the versions that took effect in 2018–2025`),
+    dek: L(`カレンダーの各マスが一年の各日で、色が濃いほど、2018〜2025年のその日に多くの版が施行されました（法令の本文を改めた版。改正法令の附則が加わっただけの版は除く）。4月1日だけで${pct(a1, TOT, 1)}、各月の1日を合わせると${pct(first, TOT)}です。4月1日に次いで多いのは${andList(top.map(r => dayMonth(r[0], r[1])))}。下段は、版を書いた改正法令が公布された曜日（金曜日が${pct(fri, TP)}）、版が施行された曜日、年ごとの4月1日の割合です。`,
+      `Each square is a day of the year: the darker, the more versions took effect on that day in 2018–2025 (versions that change a law’s text; versions that only add an amending law’s supplementary provisions are left out). 1 April alone carries ${pct(a1, TOT, 1)}, the first day of each month ${pct(first, TOT)} together. After 1 April come ${andList(top.map(r => dayMonth(r[0], r[1])))}. Below: the weekday on which the amending law was promulgated (Friday: ${pct(fri, TP)}), the weekday on which the version took effect, and the share of 1 April each year.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lw = nw ? 34 : 42, cw = (w - lw - 2) / 31, rh = nw ? 18 : 24, mx = d3.max(c.cal, r => r[2]);
+      const ramp = seqRamp(), col = n => ramp(0.06 + 0.94 * Math.sqrt(n / mx));
+      legend(el, [10, 100, 500].map(n => ({ c: col(n), l: fmt(n) })).concat([{ c: col(mx), l: L(`${fmt(mx)}版（4月1日）`, `${fmt(mx)} versions (1 April)`) }]));
+      const svg = svgIn(el, w, 12 * rh + 22), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      d3.range(1, 32).forEach(d => { if (!nw || d === 1 || d % 5 === 0) g.append('text').attr('class', 'lbl mut').attr('x', (d - 1) * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(d); });
+      const dim = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+      d3.range(1, 13).forEach(m => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -6).attr('y', (m - 1) * rh + rh / 2 + 4).attr('text-anchor', 'end').text(MON[LANG][m - 1]);
+        d3.range(1, dim[m - 1] + 1).forEach(d => {
+          const n = at(m, d);
+          bindTip(g.append('rect').attr('x', (d - 1) * cw + 1).attr('y', (m - 1) * rh + 1).attr('width', cw - 2).attr('height', rh - 2).attr('rx', 3).attr('fill', n ? col(n) : css('--surface-2')).datum({ m, d, n }),
+            q => `<b>${dayMonth(q.m, q.d)}</b>` + trow(null, L('施行された版（2018〜2025年）', 'Versions that took effect, 2018–2025'), fmt(q.n)) + trow(null, t('share'), pct(q.n, TOT, 2)));
+        });
+      });
+      if (!nw) [[4, 1], ...top.map(r => [r[0], r[1]])].forEach(([m, d]) => g.append('text').attr('class', 'lbl').attr('x', (d - 1) * cw + cw / 2).attr('y', (m - 1) * rh + rh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(col(at(m, d)))).style('font-size', '9px').style('pointer-events', 'none').text(pct(at(m, d), TOT, 1)));
+      const box = el.append('div').attr('class', 'mini').style('margin-top', '14px').style('grid-template-columns', nw ? 'repeat(1, minmax(0, 1fr))' : 'repeat(3, minmax(0, 1fr))');
+      const P = [[L('改正法令が公布された曜日', 'Weekday the amending law was promulgated'), L('版、2018〜2025年', 'versions, 2018–2025'), c.wd_pub], [L('版が施行された曜日', 'Weekday the version took effect'), L('版、2018〜2025年', 'versions, 2018–2025'), c.wd_in]]
+        .map(([h, s_, vals]) => { const p = box.append('div'); p.append('h4').text(h); p.append('p').text(s_); return [p, vals]; });
+      const p3 = box.append('div'); p3.append('h4').text(L('その年に施行された版のうち4月1日の割合', 'Share of the year’s versions on 1 April')); p3.append('p').text(L('2017〜2026年', '2017–2026'));
+      P.forEach(([p, vals]) => {
+        const pw = WR(p), ph = 120, m = { t: 14, r: 4, b: 18, l: 4 }, sv = svgIn(p, pw, ph), gg = sv.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = pw - m.l - m.r, ih = ph - m.t - m.b, x = d3.scaleBand().domain(d3.range(7)).range([0, iw]).padding(0.22), y = d3.scaleLinear().domain([0, d3.max(vals)]).range([ih, 0]), T = sum(vals);
+        d3.range(7).forEach(i => {
+          const hi = vals[i] === d3.max(vals), cl = hi ? css('--s2') : css('--s1');
+          gg.append('path').attr('d', colPath(x(i), ih, x.bandwidth(), y(vals[i]), 3)).attr('fill', cl).attr('opacity', hi ? 1 : .8);
+          gg.append('text').attr('class', 'lbl').attr('x', x(i) + x.bandwidth() / 2).attr('y', y(vals[i]) - 4).attr('text-anchor', 'middle').style('font-size', '10px').text(pct(vals[i], T));
+          gg.append('text').attr('class', 'lbl mut').attr('x', x(i) + x.bandwidth() / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(DOW1[LANG][i]);
+          bindTip(gg.append('rect').attr('class', 'hit').attr('x', x(i)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih).datum(i), d => `<b>${DOW[LANG][d]}</b>` + trow(cl, t('count'), fmt(vals[d])) + trow(null, t('share'), pct(vals[d], T, 1)));
+        });
+      });
+      {
+        const pw = WR(p3), ph = 120, m = { t: 14, r: 4, b: 18, l: 34 }, sv = svgIn(p3, pw, ph), gg = sv.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const YS = c.years.map(r => r[0]), iw = pw - m.l - m.r, ih = ph - m.t - m.b, x = d3.scaleBand().domain(YS).range([0, iw]).padding(0.18), y = d3.scaleLinear().domain([0, d3.max(YS, sh)]).nice().range([ih, 0]);
+        yAxis(gg, y, iw, 3, v => pv(100 * v));
+        YS.forEach(yy => {
+          gg.append('path').attr('d', colPath(x(yy), ih, x.bandwidth(), y(sh(yy)), 2)).attr('fill', css('--s1')).attr('opacity', yy === 2026 ? .45 : .85);
+          if (yy % 2 === 0) gg.append('text').attr('class', 'lbl mut').attr('x', x(yy) + x.bandwidth() / 2).attr('y', ih + 13).attr('text-anchor', 'middle').text(`’${String(yy).slice(2)}`);
+          bindTip(gg.append('rect').attr('class', 'hit').attr('x', x(yy)).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(yy), d => `<b>${d}${d === 2026 ? ' (' + t('partial') + ')' : ''}</b>` + trow(null, L('4月1日の版', 'Versions of 1 April'), fmt(YR.get(d)[2])) + trow(null, L('その年の版', 'Versions of the year'), fmt(YR.get(d)[1])) + trow(null, t('share'), pct(YR.get(d)[2], YR.get(d)[1], 1)));
+        });
+        const best = YS.filter(yy => yy < 2026).reduce((a, yy) => sh(yy) > sh(a) ? yy : a, YS[0]);
+        halo(gg, x(best) + x.bandwidth() / 2, y(sh(best)) - 4, pv(100 * sh(best)), 'middle', 'lbl strong').style('font-size', '10px');
+      }
+      note(el, ['laws.csv (in_force, promulgated)', 'git log (In-force:)'], `${fmt(TOT)}${L('版（2018〜2025年）', ' versions (2018–2025)')}`,
+        L('版は、法令の本文（附則以外のファイル）を書いたコミットに対応する e-Gov の改正履歴。同じ日に同じ法令を改めた改正が二つあれば、一つの版と数える。e-Gov の改正履歴は多くの法令で2016〜2017年からのため、2017年は少なく、2026年は11月2日まで（薄い色）。',
+          'a version is a revision in e-Gov’s record whose commit writes the law’s text (a file outside suppl/). Two amendments of one law on one day make one version. e-Gov’s record starts in 2016–2017 for most laws, so 2017 counts fewer; 2026 stops on 2 November (lighter).'));
+      table(el, [L('月', 'Month'), ...d3.range(1, 32).map(String), t('total')], d3.range(1, 13).map(m => [MON[LANG][m - 1], ...d3.range(1, 32).map(d => d > dim[m - 1] ? '' : at(m, d)), sum(d3.range(1, 32), d => at(m, d))]));
+      subTable(el, L('曜日', 'By weekday'), [L('曜日', 'Day'), L('公布', 'Promulgated'), L('施行', 'Took effect')], d3.range(7).map(i => [DOW[LANG][i], c.wd_pub[i], c.wd_in[i]]), [0, 1, 1]);
+      subTable(el, L('版の最も多い日', 'The days with the most versions'), [L('日', 'Day'), L('版', 'Versions'), L('法令', 'Laws'), L('最も多く書いた改正法令', 'Amending law with the most')], c.top.map(r => [dateTxt(r[0]), r[1], r[2][r[2].length - 1], `${lawNum(r[2][0][0])} (${fmt(r[2][0][2])})`]), [0, 1, 1, 0]);
+    }
+  };
+});
+
+const BKN = () => [L('公布の日', 'same day'), L('1〜30日', '1–30 days'), L('31〜91日', '31–91 days'), L('92〜182日', '3–6 months'), L('183〜365日', '6–12 months'), L('1〜2年', '1–2 years'), L('2年超', 'over 2 years')];
+const bkCols = () => { const r = seqRamp(); return [css('--s3'), r(.18), r(.32), r(.48), r(.64), r(.82), r(1)]; };
+const AK4 = ['act', 'cabinet-order', 'ministerial-ordinance', 'rule'];
+chart('c10', el => {
+  const c = D.c10, B = c.buckets, n = c.n, sp = c.spikes, s1080 = sp.find(s => s[0] === 1080), st = c.stages, multi = c.acts - (st['1'] || 0);
+  const r68 = D.c06.rows.find(r => r.k === 'r4-68');
+  return {
+    title: L(`公布から施行まで：法律による版は中央値${fmt(c.med.act)}日、政令${fmt(c.med['cabinet-order'])}日、府省令${fmt(c.med['ministerial-ordinance'])}日`,
+      `From promulgation to entry into force: a median of ${fmt(c.med.act)} days for versions written by Acts, ${fmt(c.med['cabinet-order'])} for Cabinet Orders and ${fmt(c.med['ministerial-ordinance'])} for ministerial ordinances`),
+    dek: L(`版ごとに、それを書いた改正法令の公布から施行までの日数を数え、改正法令の種類別に比べました。府省令による版の${pct(B['ministerial-ordinance'][0], n['ministerial-ordinance'])}は公布の日に施行され、法律による版で公布の日に施行されたのは${pct(B.act[0], n.act)}です。法律による版の${pct(B.act[6], n.act)}は2年を超えて施行されました。最も多いのは公布から${fmt(s1080[0])}日後で、${lawNum(s1080[2][0])}の${fmt(s1080[2][1])}版が${r68 ? dateTxt(r68.date) : ''}に公布され2025年6月1日に施行されています。改正法律の${pct(multi, c.acts)}は、二つ以上の日に分けて施行されています。`,
+      `For each version, the days from the promulgation of the amending law that wrote it to the day it took effect, by kind of amending law. ${pct(B['ministerial-ordinance'][0], n['ministerial-ordinance'])} of the versions written by ministerial ordinances took effect on the day of promulgation; of those written by Acts, ${pct(B.act[0], n.act)}. ${pct(B.act[6], n.act)} of the Acts’ versions took effect more than two years later. The most common single wait is ${fmt(s1080[0])} days: ${fmt(s1080[2][1])} versions of ${lawNum(s1080[2][0])}, promulgated on ${r68 ? dateTxt(r68.date) : ''}, took effect on 1 June 2025. ${pct(multi, c.acts)} of amending Acts take effect on two days or more.`),
+    draw(el) {
+      const colors = bkCols(), names = BKN(), KEYS = names.map((_, i) => 'b' + i);
+      legend(el, names.map((nm, i) => ({ c: colors[i], l: nm })));
+      const rows = AK4.map(k => { const o = { k }; B[k].forEach((v, i) => o['b' + i] = v); return o; });
+      const lk = textW(el, AK4.map(kn)) + 16;
+      bands(el, rows, KEYS, colors, names, { rowH: 36, l: lk, ln: lk, r: 112, rn: 54, minIn: 30, label: r => kn(r.k), right: (r, nw_) => nw_ ? `${fmt(c.med[r.k])}${L('日', 'd')}` : L(`中央値${fmt(c.med[r.k])}日`, `median ${fmt(c.med[r.k])} d`),
+        tipExtra: q => trow(null, L('版', 'Versions'), fmt(n[q.k])) + trow(null, L('中央値', 'Median'), `${fmt(c.med[q.k])}${L('日', ' days')}`) });
+      h4(el, L('法律による版：公布から施行までの日数（2週間ごと）', 'Versions written by Acts: days from promulgation to entry into force (two-week bins)'), 16);
+      // day 0 is a bar of its own; then two-week bins from day 1
+      const w = W(el), nw = narrow(w), H = new Map(c.acthist), bins = [0, ...d3.range(1, 1219, 14)], bv = bins.map((b, i) => i ? sum(d3.range(b, b + 14), d => H.get(d) || 0) : (H.get(0) || 0));
+      const h = nw ? 200 : 230, m = { t: 34, r: 10, b: 28, l: 40 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([-10, 1219]).range([0, iw]), y = d3.scaleLinear().domain([0, d3.max(bv)]).nice().range([ih, 0]), bw = x(14) - x(0) - 1;
+      yAxis(g, y, iw, 4);
+      const bx = (b, i) => i ? x(b) + .5 : x(-10) + .5, bW = i => i ? Math.max(1, bw) : Math.max(2, x(0) - x(-10) - 1);
+      bins.forEach((b, i) => {
+        g.append('path').attr('d', colPath(bx(b, i), ih, bW(i), y(bv[i]), 1.5)).attr('fill', i ? css('--s1') : css('--s3')).attr('opacity', .85);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx(b, i) - .5).attr('width', bW(i) + 1).attr('y', 0).attr('height', ih).datum(i), d => `<b>${d ? `${fmt(bins[d])}–${fmt(bins[d] + 13)}${L('日', ' days')}` : L('公布の日', 'Day of promulgation')}</b>` + trow(null, L('版', 'Versions'), fmt(bv[d])));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      [182, 365, 730, 1095].filter(d => !nw || d !== 182).forEach(d => g.append('text').attr('class', 'lbl').attr('x', x(d)).attr('y', ih + 15).attr('text-anchor', 'middle').text(d === 182 ? L('半年', '6 mo') : L(`${d / 365}年`, `${d / 365} yr`)));
+      g.append('text').attr('class', 'lbl').attr('x', x(-10)).attr('y', ih + 15).attr('text-anchor', 'start').text(L('公布の日', 'day 0'));
+      // labels with a leader line from the top of their bar, stacked so they never touch
+      const binOf = d => d === 0 ? 0 : 1 + Math.floor((d - 1) / 14);
+      const s1034 = sp.find(s => s[0] === 1034), ann = [[0, `${L('公布の日', 'same day')}: ${fmt(H.get(0) || 0)}`, 'start', 0]];
+      ann.push([1080, `${fmt(s1080[0])}${L('日', ' days')}: ${lawNum(s1080[2][0])} · ${fmt(s1080[2][1])}`, 'end', 0]);
+      if (s1034 && !nw) ann.push([1034, `${fmt(1034)}${L('日', ' days')}: ${lawNum(s1034[2][0])} · ${fmt(s1034[2][1])}`, 'end', 22]);
+      // each label beside the top of its bar: left of it for the late spikes, right of it for day 0
+      ann.forEach(([d, txt, an]) => {
+        const bi = binOf(d), cx = bx(bins[bi], bi) + bW(bi) / 2;
+        halo(g, d ? cx - bW(bi) / 2 - 5 : cx + bW(bi) / 2 + 5, y(bv[bi]) + 4, txt, d ? 'end' : 'start', 'lbl strong');
+      });
+      h4(el, L('改正法律ごとの施行の日の数', 'Number of days on which each amending Act takes effect'), 14);
+      const SK = d3.range(1, 11), sv = SK.map(k => st[String(k)] || 0), h3 = 120, svg3 = svgIn(el, w, h3), g3 = svg3.append('g').attr('transform', `translate(${m.l},12)`), ih3 = h3 - 32;
+      const x3 = d3.scaleBand().domain(SK).range([0, Math.min(iw, 520)]).padding(0.22), y3 = d3.scaleLinear().domain([0, d3.max(sv)]).nice().range([ih3, 0]);
+      SK.forEach((k, i) => {
+        g3.append('path').attr('d', colPath(x3(k), ih3, x3.bandwidth(), y3(sv[i]), 3)).attr('fill', k === 1 ? css('--muted-mark') : css('--s7'));
+        g3.append('text').attr('class', 'lbl').attr('x', x3(k) + x3.bandwidth() / 2).attr('y', y3(sv[i]) - 4).attr('text-anchor', 'middle').style('font-size', '10px').text(fmt(sv[i]));
+        g3.append('text').attr('class', 'lbl mut').attr('x', x3(k) + x3.bandwidth() / 2).attr('y', ih3 + 13).attr('text-anchor', 'middle').text(k === 10 ? (nw ? '10+' : L('10日以上', '10+')) : nw ? k : L(`${k}日`, k));
+      });
+      g3.append('line').attr('class', 'base').attr('x1', 0).attr('x2', x3.range()[1]).attr('y1', ih3).attr('y2', ih3);
+      note(el, ['laws.csv (promulgated, in_force, stage)', 'git log (Promulgated:, In-force:)'], `${fmt(sum(AK4, k => n[k]))}${L('版、', ' versions, ')}${fmt(c.acts)}${L('件の改正法律', ' amending Acts')}`,
+        L(`版は法令の本文を書いたもの（改正法令の附則が加わっただけの版は除く）。改正法令の種類は e-Gov の法令ID から読む。「規則」は委員会などの規則と人事院規則。施行の日の数は、改正法律が本文を改めた日と未施行の予定日（日付未定のものを除く）。最も多くの施行日を持つのは${lawNum(c.maxstage[3])}（${c.maxstage[2]}）の${fmt(c.maxstage[0])}日。`,
+          `a version is one that writes the law’s text (versions that only add the amending law’s supplementary provisions are left out). The kind of amending law is read from its e-Gov law ID; "rules" are those of commissions and the National Personnel Authority. The days of an amending Act are those on which it changed a law’s text, plus its scheduled days not yet reached (undated ones left out). The most: ${lawNum(c.maxstage[3])}, on ${fmt(c.maxstage[0])} days.`));
+      table(el, [L('改正法令の種類', 'Amending law'), ...names, L('版', 'Versions'), L('中央値（日）', 'Median (days)')], AK4.map(k => [kn(k), ...B[k], n[k], c.med[k]]));
+      subTable(el, L('法律による版で多い日数', 'The most common waits, versions written by Acts'), [L('日数', 'Days'), L('版', 'Versions'), L('最も多い改正法律', 'Main amending Act')], c.spikes.map(s => [s[0], s[1], `${lawNum(s[2][0])} (${fmt(s[2][1])})`]), [1, 1, 0]);
+    }
+  };
+});
+
+chart('c11', el => {
+  const R = D.c11.rows, days = r => r.prom.slice(8), dmin = d3.min(R, r => +days(r)), dmax = d3.max(R, r => +days(r));
+  const apr = r => sum(r.days.filter(d => d[0] === r.prom.slice(0, 4) + '-04-01'), d => d[1]), T = sum(R, r => r.n), A = sum(R, apr);
+  const lastOf = r => r.days[r.days.length - 1][0], far = R.reduce((a, r) => lastOf(r) > lastOf(a) ? r : a), most = R.reduce((a, r) => r.laws > a.laws ? r : a);
+  return {
+    title: L(`毎年3月末の税制改正：所得税法等の一部を改正する法律は9年とも3月${dmin}〜${dmax}日に公布、版の${pct(A, T)}が4月1日に施行`,
+      `The tax Act of every end of March: each year from 2018 to 2026 the Act Partially Amending the Income Tax Act etc. was promulgated between ${dmin} and ${dmax} March; ${pct(A, T)} of its versions took effect on 1 April`),
+    dek: L(`「所得税法等の一部を改正する法律」という題名の法律は、2018年から2026年まで毎年一本ずつ公布されています。各図は一年分の法律で、公布の日から、その法律が改める法令の版が施行されていく割合を積み上げたものです。9本とも3月${dmin}日から${dmax}日に公布され、版の${pct(A, T)}は翌月の4月1日に施行されました。残りは段階的に施行され、最も遅いのは${lawNum(far.num)}の${dateTxt(lastOf(far))}です。改める法令が最も多いのは${lawNum(most.num)}（${fmt(most.laws)}件）。`,
+      `An Act titled "Act Partially Amending the Income Tax Act etc." (所得税法等の一部を改正する法律) has been promulgated once a year from 2018 to 2026. Each panel is one year’s Act: from its promulgation, the share of the versions it writes that have taken effect. All nine were promulgated between ${dmin} and ${dmax} March, and ${pct(A, T)} of their versions took effect on 1 April. The rest take effect in stages; the latest is ${lawNum(far.num)}’s, on ${dateTxt(lastOf(far))}. ${lawNum(most.num)} changed the most laws (${fmt(most.laws)}).`),
+    draw(el) {
+      const nw = narrow(W(el)), box = el.append('div').attr('class', 'multi').style('grid-template-columns', nw ? 'repeat(1, minmax(0, 1fr))' : 'repeat(3, minmax(0, 1fr))');
+      const col = css('--s1'), SPAN = 1100;
+      R.forEach((r, pi) => {
+        const p = box.append('div');
+        p.append('h4').text(`${lawNum(r.num)} · ${dateShort(r.prom)}`);
+        p.append('p').text(L(`${fmt(r.laws)}法令 · ${fmt(r.n)}版 · 施行日${fmt(r.days.length)}`, `${fmt(r.laws)} laws · ${fmt(r.n)} versions · ${fmt(r.days.length)} days`));
+        const w = WR(p), h = 118, m = { t: 14, r: 34, b: 18, l: 46 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([0, SPAN]).range([0, iw]), y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+        yAxis(g, y, iw, 2, v => pv(100 * v));
+        [0, 365, 730, 1095].forEach(d => g.append('text').attr('class', 'lbl mut').attr('x', x(d)).attr('y', ih + 13).attr('text-anchor', d ? 'middle' : 'start').text(d ? L(`${d / 365}年`, `${d / 365} yr`) : L('公布', 'prom.')));
+        let acc = 0; const pts = [[0, 0]];
+        const tot = r.n, later = [];
+        r.days.forEach(([d, v]) => { const dd = DAYS(r.prom, d); if (dd > SPAN) { later.push([d, v]); return; } acc += v; pts.push([dd, acc / tot]); });
+        pts.push([SPAN, acc / tot]);
+        g.append('path').attr('d', d3.area().curve(d3.curveStepAfter).x(d => x(d[0])).y0(ih).y1(d => y(d[1]))(pts)).attr('fill', grad(svg, 'c11g' + pi, col, .32));
+        g.append('path').attr('d', d3.line().curve(d3.curveStepAfter).x(d => x(d[0])).y(d => y(d[1]))(pts)).attr('fill', 'none').attr('stroke', col).attr('stroke-width', 1.8);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        const a = apr(r) / tot, xa = x(DAYS(r.prom, r.prom.slice(0, 4) + '-04-01'));
+        g.append('circle').attr('cx', xa).attr('cy', y(a)).attr('r', 3.2).attr('fill', css('--surface')).attr('stroke', col).attr('stroke-width', 1.6);
+        halo(g, xa + 6, y(a) + 12, L(`4月1日 ${pv(100 * a)}`, `1 April ${pv(100 * a)}`), 'start', 'lbl strong');
+        if (later.length) {
+          const lv = sum(later, q => q[1]);
+          halo(g, iw + 4, y(acc / tot) + 4, `+${fmt(lv)}`, 'start', 'lbl mut');
+          halo(g, iw, y(acc / tot) - 8, L(`〜${later[later.length - 1][0].slice(0, 4)}年`, `to ${later[later.length - 1][0].slice(0, 4)}`), 'end', 'lbl mut');
+        }
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', 0).attr('width', iw).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${esc(lawNum(d.num))}</b><div class="q">${L('公布', 'Promulgated')} ${dateTxt(d.prom)}</div>` + d.days.slice(0, 8).map(([dd, v]) => trow(null, dateShort(dd), fmt(v))).join('') + (d.days.length > 8 ? trow(null, L(`ほか${d.days.length - 8}日`, `${d.days.length - 8} more days`), '') : '') + (d.fut ? trow(null, L('うち未施行の版', 'Not yet in force'), fmt(d.fut)) : ''));
+      });
+      note(el, ['laws.csv (title, promulgated, in_force)'], `${fmt(R.length)}${L('本の法律、', ' Acts, ')}${fmt(T)}${L('版', ' versions')}`,
+        L('題名が「所得税法等の一部を改正する法律」の法律。版は法令の本文を改めたもので、未施行の版を含む（2026年11月2日時点の予定日）。横軸は公布からの日数で、3年を超える分は右端に件数で示す。',
+          'the Acts titled 所得税法等の一部を改正する法律. Versions are those that change a law’s text, including those not yet in force (on their scheduled days as of 2 November 2026). The axis counts days from promulgation; what comes after three years is shown at the right edge as a count.'));
+      table(el, [L('法律', 'Act'), L('公布', 'Promulgated'), L('法令', 'Laws'), L('版', 'Versions'), L('4月1日', '1 April'), L('施行日', 'Days'), L('最後', 'Last')], R.map(r => [lawNum(r.num), dateTxt(r.prom), r.laws, r.n, apr(r), r.days.length, dateTxt(lastOf(r))]));
+    }
+  };
+});
+
+chart('c12', el => {
+  const c = D.c12, M = c.months, keys = Object.keys(M).filter(k => k !== 'none').sort(), top = c.top, nd = M.none ? (M.none.fixed || 0) + (M.none.latest || 0) : 0;
+  const lat = sum(Object.values(M), o => o.latest || 0), o0 = c.oldest[0];
+  return {
+    title: L(`公布済み・未施行：${fmt(c.n)}の版が施行を待ち、2027年4月1日だけで${fmt(top[0][1])}`,
+      `Promulgated, not yet in force: ${fmt(c.n)} versions are waiting, ${fmt(top[0][1])} of them for 1 April 2027`),
+    dek: L(`公布されてもまだ施行されていない改正は、リポジトリの別のブランチ mishiko にあり、laws.csv がその施行予定日を示します（2026年11月2日時点、${fmt(c.laws)}件の法令）。施行日が「政令で定める日」でまだ決まっていないものは、法律が認める最も遅い日で記録されています（${fmt(lat)}版、薄い色）。最も多いのは${dateTxt(top[0][0])}の${fmt(top[0][1])}版、次いで${dateTxt(top[1][0])}の${fmt(top[1][1])}版です。e-Gov の記録で施行日が定まっていない版も${fmt(nd)}あり、最も古いものは${o0[2].slice(0, 4)}年公布の${lawNum(o0[0])}（${o0[1]}）の規定です。`,
+      `Amendments promulgated but not yet in force sit on a separate branch, mishiko, and laws.csv gives the day each is due (as of 2 November 2026; ${fmt(c.laws)} laws). Where the day is "a day set by Cabinet Order" and not yet set, the latest day the law allows is recorded (${fmt(lat)} versions, lighter). The most are due on ${dateTxt(top[0][0])} (${fmt(top[0][1])}), then ${dateTxt(top[1][0])} (${fmt(top[1][1])}). ${fmt(nd)} versions have no day at all in e-Gov’s record; the oldest are provisions of ${lawNum(o0[0])}, promulgated in ${o0[2].slice(0, 4)}, on joining an OECD financial support fund.`),
+    draw(el) {
+      const cF = css('--s1'), cL = d3.color(css('--s1')).copy({ opacity: .4 }).formatRgb();
+      legend(el, [{ c: cF, l: L('施行日が決まっている', 'day fixed') }, { c: cL, l: L('政令で定める日（法律が認める最も遅い日で記録）', 'a day to be set by Cabinet Order (recorded at the latest day allowed)') }, { c: css('--muted-mark'), l: L('日付が定まっていない', 'no day'), shape: 'hatch' }]);
+      const first = keys[0], lastK = keys[keys.length - 1], mons = [];
+      for (let [y, m] = first.split('-').map(Number); `${y}-${String(m).padStart(2, '0')}` <= lastK; m === 12 ? (y++, m = 1) : m++) mons.push(`${y}-${String(m).padStart(2, '0')}`);
+      const w = W(el), nw = narrow(w), h = nw ? 230 : 270, m = { t: 26, r: 8, b: 24, l: 38 }, gapW = nw ? 26 : 40;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), hp = hatch(svg);
+      const iw = w - m.l - m.r - gapW, ih = h - m.t - m.b, x = d3.scaleBand().domain(mons).range([0, iw]).padding(0.12), tot = k => (M[k] ? (M[k].fixed || 0) + (M[k].latest || 0) : 0);
+      const y = d3.scaleLinear().domain([0, d3.max(mons, tot)]).nice().range([ih, 0]);
+      yAxis(g, y, iw + gapW, 4);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      mons.forEach(k => {
+        const bx = x(k), bw = x.bandwidth(), f = (M[k] || {}).fixed || 0, l_ = (M[k] || {}).latest || 0;
+        if (f) g.append('path').attr('d', l_ ? `M${bx},${ih}V${y(f) + .5}H${bx + bw}V${ih}Z` : colPath(bx, ih, bw, y(f), Math.min(2, bw / 3))).attr('fill', cF);
+        if (l_) g.append('path').attr('d', colPath(bx, y(f) - (f ? .5 : 0), bw, y(f + l_), Math.min(2, bw / 3))).attr('fill', cL);
+        if (k.endsWith('-01')) g.append('text').attr('class', 'lbl').attr('x', bx).attr('y', ih + 15).attr('text-anchor', 'start').text(nw && +k.slice(0, 4) % 2 ? '' : k.slice(0, 4));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(k),
+          d => `<b>${monthTxt(d)}</b>` + trow(cF, L('施行日が決まっている', 'Day fixed'), fmt((M[d] || {}).fixed || 0)) + trow(cL, L('政令で定める日', 'Day to be set'), fmt((M[d] || {}).latest || 0)));
+      });
+      // no day: a separate column at the right
+      const nx = iw + gapW / 2 - 7;
+      if (nd) { g.append('path').attr('d', colPath(nx, ih, 14, y(nd), 2)).attr('fill', hp).attr('stroke', css('--muted-mark'));
+        g.append('text').attr('class', 'lbl mut').attr('x', nx + 7).attr('y', ih + 15).attr('text-anchor', 'middle').text(L('未定', 'none'));
+        halo(g, nx + 7, y(nd) - 5, fmt(nd), 'middle', 'lbl'); }
+      // the three busiest months, labelled at the right of their column (never over the axis on the left)
+      // the busiest month, and the next busiest at least six months away (labelled at the right of its column, where the next months are lower)
+      const srt = mons.slice().sort((a, b) => tot(b) - tot(a)), mi_ = k => mons.indexOf(k), topM = [srt[0]];
+      const second = srt.find(k => Math.abs(mi_(k) - mi_(srt[0])) >= 6 && mons.slice(mi_(k) + 1, mi_(k) + 8).every(q => tot(q) < tot(k) * .5));
+      if (second && !nw) topM.push(second);
+      topM.forEach((k, i) => halo(g, x(k) + x.bandwidth() + 4, y(tot(k)) + 4, `${monthTxt(k)}: ${fmt(tot(k))}`, 'start', i ? 'lbl' : 'lbl strong'));
+      h4(el, L('施行を最も長く待つ規定', 'The provisions waiting longest'), 16);
+      const rows = c.oldest.slice(0, 6), lw = nw ? 0 : 1;
+      const tb = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${nw ? 1 : 3}, minmax(0, 1fr))`);
+      rows.forEach(r => { const d = tb.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(lawNum(r[0]));
+        d.append('div').attr('class', 'ps').style('color', 'var(--text-2)').text(LANG === 'ja' ? r[1] : L('', `promulgated ${dateTxt(r[2])}`));
+        d.append('div').attr('class', 'ps').text(L(`${dateTxt(r[2])}公布 · ${r[3] >= '2100' ? '施行日未定' : dateTxt(r[3]) + 'まで'}`, r[3] >= '2100' ? 'no day set' : `by ${dateTxt(r[3])}`)); });
+      note(el, ['laws.csv (status: not yet in force, scheduled)', 'origin/mishiko'], `${fmt(c.n)}${L('版', ' versions')}`,
+        L('「施行日が決まっている」は laws.csv の状態 not yet in force、「政令で定める日」は scheduled (not yet fixed)。e-Gov の記録が2117年12月31日としているものは、日付が定まっていないものとして右端に別に示す。2026年11月2日のデータのため、その後に施行されたものを含む。',
+          '"day fixed" is the status not yet in force in laws.csv, "a day to be set" the status scheduled (not yet fixed). Those e-Gov records on 31 December 2117 are shown apart, at the right, as having no day. The data is of 2 November 2026, so it includes versions that have taken effect since.'));
+      table(el, [L('月', 'Month'), L('施行日が決まっている', 'Day fixed'), L('政令で定める日', 'Day to be set'), t('total')], keys.map(k => [monthTxt(k), (M[k].fixed || 0), (M[k].latest || 0), tot(k)]).concat(nd ? [[L('日付なし', 'No day'), (M.none.fixed || 0), (M.none.latest || 0), nd]] : []));
+      subTable(el, L('施行を最も長く待つ改正法令', 'The amending laws waiting longest'), [L('改正法令', 'Amending law'), L('題名', 'Title'), L('公布', 'Promulgated'), L('施行予定', 'Due'), L('版', 'Versions')], c.oldest.map(r => [lawNum(r[0]), r[1], dateTxt(r[2]), r[3] >= '2100' ? L('未定', 'none') : dateTxt(r[3]), r[5]]), [0, 0, 0, 0, 1]);
+    }
+  };
+});
+
+part('p4', 'IV. 国会・内閣・府省', 'IV. The Diet, the Cabinet and the ministries',
+  '法律の番号と公布の月、法律案を提出したのが内閣か議員か、府省令を発した府省。法令ID、法令番号、附則の見出しから読みます。',
+  'Act numbers and the month of promulgation, whether a bill came from the Cabinet or from members, and which ministry made each ministerial ordinance. Read from the law IDs, the law numbers and the headings of supplementary provisions.');
+
+chart('c13', el => {
+  const R = D.c13.rows.map(r => ({ wy: r[0], e: r[1], ey: r[2], max: r[3], seen: r[4], inf: r[5], k: `${r[0]}${r[1]}` }));
+  const at = (wy, e) => R.find(r => r.wy === wy && (!e || r.e === e)), y47 = at(1947), y52 = at(1952), last = R.filter(r => r.wy === 2025)[0], h31 = at(2019, 'h'), r1 = at(2019, 'r');
+  const full = D.c13.full_years.filter((v, i, a) => a.indexOf(v) === i);
+  return {
+    title: L(`法律番号：1952年は第${fmt(y52.max)}号まで、2025年は第${fmt(last.max)}号まで。2019年は平成31年第1〜${h31.max}号と令和元年第1〜${r1.max}号`,
+      `Act numbers: up to No. ${fmt(y52.max)} in 1952 and No. ${fmt(last.max)} in 2025; in 2019, Nos. 1–${h31.max} of Heisei 31 and 1–${r1.max} of Reiwa 1`),
+    dek: L(`法律は元号の年ごとに第1号から番号が付けられます。年ごとに、このリポジトリに現れる最大の番号（柱の高さ）と、そのうち現行の法律として収録されているもの（濃い色）を示しました。斜線は、最大の番号までのうちリポジトリに現れない番号です。2000年以降はどの年も番号の${pct(D.c13.min_cover_2000, 1)}以上が現れ、${andList(full.filter(y => y >= 2000).map(String))}年はすべてが現れます。2019年は、平成31年政令第143号が「元号を令和に改める」とした5月1日を境に、平成31年と令和元年の二つの番号の列があります。1947年の法律で現行なのは${fmt(y47.inf)}件です。`,
+      `Acts are numbered from No. 1 in each year of an era. For each year: the highest Act number the repository names (the column’s height) and how many of those Acts are in force as laws here (dark). Hatched: the numbers up to the highest that the repository never names. Since 2000, at least ${pct(D.c13.min_cover_2000, 1)} of each year’s numbers appear, and all of them in ${andList(full.filter(y => y >= 2000).map(String))}. In 2019 there are two series, Heisei 31 and Reiwa 1, split on 1 May, the day Cabinet Order No. 143 of 2019 "changes the era name to Reiwa". ${fmt(y47.inf)} Acts of 1947 are in force.`),
+    draw(el) {
+      const cIn = css('--s1'), cNm = d3.color(css('--s1')).copy({ opacity: .32 }).formatRgb();
+      legend(el, [{ c: cIn, l: L('現行の法律', 'Acts in force') }, { c: cNm, l: L('リポジトリに現れる番号（改正法令などとして）', 'numbers the repository names (as amending laws and others)') }, { c: css('--muted-mark'), l: L('現れない番号', 'numbers not named'), shape: 'hatch' }]);
+      const w = W(el), nw = narrow(w), h = nw ? 240 : 290, m = { t: 26, r: 8, b: 22, l: 38 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), hp = hatch(svg);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(R.map(r => r.k)).range([0, iw]).padding(0.14), y = d3.scaleLinear().domain([0, d3.max(R, r => r.max)]).nice().range([ih, 0]);
+      // era bands behind the columns
+      const xs = k => x(k), eraSpan = e => { const ks = R.filter(r => r.e === e).map(r => r.k); return [xs(ks[0]), xs(ks[ks.length - 1]) + x.bandwidth()]; };
+      ['s', 'h', 'r'].forEach((e, i) => { const [a, b] = eraSpan(e); if (i % 2 === 1) g.append('rect').attr('x', a - 1).attr('y', -m.t + 2).attr('width', b - a + 2).attr('height', ih + m.t - 2).attr('fill', css('--surface-2')).attr('opacity', .9);
+        g.append('text').attr('class', 'lbl mut').attr('x', (a + b) / 2).attr('y', -m.t + 14).attr('text-anchor', 'middle').text(eraName(e)); });
+      yAxis(g, y, iw, 4);
+      R.forEach(r => {
+        const bx = x(r.k), bw = x.bandwidth(), gc = g.append('g').attr('opacity', r.wy === 2026 ? .5 : 1);
+        gc.append('path').attr('d', colPath(bx, ih, bw, y(r.max), Math.min(2, bw / 3))).attr('fill', hp);
+        gc.append('path').attr('d', colPath(bx, ih, bw, y(r.seen), r.seen === r.max ? Math.min(2, bw / 3) : 0)).attr('fill', cNm);
+        gc.append('path').attr('d', `M${bx},${ih}V${y(r.inf)}H${bx + bw}V${ih}Z`).attr('fill', cIn);
+        if ((r.wy % (nw ? 20 : 10) === 0 && r.e !== 'r') || (r.wy === 2019 && r.e === 'h' && !nw)) g.append('text').attr('class', 'lbl').attr('x', bx + bw / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(r.wy);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', bx - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${d.wy} · ${eraName(d.e)}${d.ey === 1 ? L('元', ' 1') : L(d.ey, ' ' + d.ey)}${L('年', '')}</b>` + trow(null, L('最大の番号', 'Highest number'), L(`第${fmt(d.max)}号`, `No. ${fmt(d.max)}`)) + trow(cNm, L('現れる番号', 'Numbers named'), `${fmt(d.seen)} · ${pct(d.seen, d.max)}`) + trow(cIn, L('現行の法律', 'Acts in force'), `${fmt(d.inf)} · ${pct(d.inf, d.max)}`));
+      });
+      halo(g, x(y52.k) + x.bandwidth() + 3, y(y52.max) + 4, L(`1952年：第${fmt(y52.max)}号`, `1952: No. ${fmt(y52.max)}`), 'start', 'lbl strong');
+      if (!nw) {
+        // measured, then raised above every column under it, with a leader down to the 2019 columns
+        const lx = x(r1.k) + x.bandwidth() / 2, tl = halo(g, lx + 4, 0, L(`2019年：平成31年 第1〜${h31.max}号、令和元年 第1〜${r1.max}号`, `2019: Heisei 31 Nos. 1–${h31.max}, Reiwa 1 Nos. 1–${r1.max}`), 'end', 'lbl strong');
+        const bb = tl.node().getBBox(), under = R.filter(r => x(r.k) + x.bandwidth() >= bb.x && x(r.k) <= bb.x + bb.width), ly = y(d3.max(under, r => r.max)) - 8;
+        tl.attr('y', ly);
+        g.append('path').attr('d', `M${lx},${ly + 3}V${y(r1.max) - 3}`).attr('fill', 'none').attr('stroke', css('--text-3'));
+      }
+      note(el, ['<LAW>/suppl/<ACT>.md', 'data/laws.json (law_id)', 'laws.csv (law_id)', 'cabinet-order/2019-h31/143/'], `${fmt(sum(R, r => r.seen))}${L('の法律番号', ' Act numbers')}`,
+        L('番号が現れるのは、現行の法律、改正法令として附則を残した法律、e-Gov の改正履歴に名のある法律。現れない番号には、現行の法令を改正しなかった法律、廃止された法令だけを改正した法律などがある。2026年は11月2日まで（薄い色）。',
+          'a number appears if the Act is in force, left supplementary provisions as an amending law, or is named in e-Gov’s revision record. Numbers that never appear include Acts that amended no law in force and Acts that amended only repealed laws. 2026 stops on 2 November (lighter).'));
+      table(el, [t('year'), L('元号の年', 'Era year'), L('最大の番号', 'Highest number'), L('現れる番号', 'Numbers named'), L('現行の法律', 'Acts in force')], R.map(r => [String(r.wy), `${eraName(r.e)}${r.ey === 1 ? L('元', ' 1') : L(r.ey, ' ' + r.ey)}${L('年', '')}`, r.max, r.seen, r.inf]));
+    }
+  };
+});
+
+chart('c14', el => {
+  const c = D.c14, cells = new Map(c.cells.map(([y, m, n]) => [y + '-' + m, n])), at = (y, m) => cells.get(y + '-' + m) || 0, N = c.n;
+  const byM = d3.range(1, 13).map(m => sum(c.cells.filter(q => q[1] === m), q => q[2])), YS = d3.range(1947, 2027);
+  const mi = d3.range(12).sort((a, b) => byM[b] - byM[a]), lateSummer = byM[7] + byM[8] + byM[9];
+  const cov = new Map(c.cover.map(r => [r[0], r]));
+  return {
+    title: L(`法律が公布される月：1947年以降、公布日のわかる${fmt(N)}件のうち${pct(byM[5], N)}が6月、${pct(byM[4], N)}が5月`,
+      `The month Acts are promulgated: of the ${fmt(N)} Acts since 1947 whose day is known, ${pct(byM[5], N)} in June and ${pct(byM[4], N)} in May`),
+    dek: L(`法律の公布日を、附則の見出し（「附則（平成二九年六月二日法律第四四号）」）と e-Gov の改正履歴から読み、年と月ごとに数えました。各マスは一つの年の一つの月で、色が濃いほど多くの法律が公布されています。公布は6月、5月、3月、12月に集まり（合わせて${pct(byM[5] + byM[4] + byM[2] + byM[11], N)}）、8月から10月は${pct(lateSummer, N)}です。公布日がわかるのは、改正法令として附則を残したか e-Gov の改正履歴に名のある法律で、古い年ほど少なくなります（下の帯）。`,
+      `The day each Act was promulgated, read from the headings of supplementary provisions ("附則（平成二九年六月二日法律第四四号）") and e-Gov’s revision record, counted by year and month. Each square is one month of one year: the darker, the more Acts. Promulgation gathers in June, May, March and December (${pct(byM[5] + byM[4] + byM[2] + byM[11], N)} together); August to October hold ${pct(lateSummer, N)}. A day is known for the Acts that left supplementary provisions as amending laws or that e-Gov’s record names, fewer in the early years (the strip below).`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), lw = nw ? 40 : 42, rr = nw ? 34 : 96, cw = (w - lw - rr) / YS.length, rh = nw ? 15 : 19, mx = d3.max(c.cells, q => q[2]);
+      const ramp = seqRamp(), col = n => ramp(0.08 + 0.92 * Math.sqrt(n / mx));
+      legend(el, [1, 10, 30, mx].map(n => ({ c: col(n), l: n === mx ? L(`${fmt(n)}件（1か月）`, `${fmt(n)} in a month`) : fmt(n) })).concat([{ c: css('--surface-2'), l: L('なし', 'none') }]));
+      const svg = svgIn(el, w, 12 * rh + 70), g = svg.append('g').attr('transform', `translate(${lw},16)`);
+      YS.forEach((yy, i) => { if (yy % (nw ? 20 : 10) === 0) g.append('text').attr('class', 'lbl mut').attr('x', i * cw + cw / 2).attr('y', -5).attr('text-anchor', 'middle').text(yy); });
+      const xb = d3.scaleLinear().domain([0, d3.max(byM)]).range([0, rr - (nw ? 0 : 40)]);
+      d3.range(1, 13).forEach(m => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -6).attr('y', (m - 1) * rh + rh / 2 + 4).attr('text-anchor', 'end').text(MON[LANG][m - 1]);
+        YS.forEach((yy, i) => {
+          const n = at(yy, m);
+          bindTip(g.append('rect').attr('x', i * cw + .6).attr('y', (m - 1) * rh + .6).attr('width', Math.max(1, cw - 1.2)).attr('height', rh - 1.2).attr('rx', Math.min(2.5, cw / 4)).attr('fill', n ? col(n) : css('--surface-2')).attr('opacity', yy === 2026 ? .55 : 1).datum({ yy, m, n }),
+            q => `<b>${monthTxt(`${q.yy}-${String(q.m).padStart(2, '0')}`)}</b>` + trow(null, L('公布された法律', 'Acts promulgated'), fmt(q.n)));
+        });
+        if (!nw) g.append('path').attr('d', barPath(YS.length * cw + 8, (m - 1) * rh + 4, YS.length * cw + 8 + xb(byM[m - 1]), rh - 8, 2)).attr('fill', css('--s1'));
+        g.append('text').attr('class', 'lbl').attr('x', YS.length * cw + (nw ? 4 : 14 + xb(byM[m - 1]))).attr('y', (m - 1) * rh + rh / 2 + 4).style('font-size', nw ? '9.5px' : null).text(pct(byM[m - 1], N));
+      });
+      // coverage: the share of each year's Act numbers whose day is known
+      const cy = 12 * rh + 14, ch = 26;
+      g.append('text').attr('class', 'lbl mut').attr('x', -6).attr('y', cy + ch / 2 + 4).attr('text-anchor', 'end').text(L('日付', 'dated'));
+      YS.forEach((yy, i) => { const r = cov.get(yy), s = r && r[2] ? r[1] / r[2] : 0;
+        g.append('rect').attr('x', i * cw + .6).attr('y', cy + ch * (1 - s)).attr('width', Math.max(1, cw - 1.2)).attr('height', ch * s).attr('fill', css('--muted-mark'));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', i * cw).attr('width', cw).attr('y', cy).attr('height', ch).datum(yy), d => `<b>${d}</b>` + trow(null, L('公布日のわかる法律', 'Acts with a known day'), `${fmt((cov.get(d) || [])[1] || 0)} / ${fmt((cov.get(d) || [])[2] || 0)}`)); });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', YS.length * cw).attr('y1', cy + ch).attr('y2', cy + ch);
+      g.append('text').attr('class', 'lbl mut').attr('x', YS.length * cw + 6).attr('y', cy + ch / 2 + 4).text(L('番号に占める割合', 'share dated')).style('font-size', '10px').attr('display', nw ? 'none' : null);
+      note(el, ['<LAW>/suppl/<ACT>.md (附則の見出し)', 'laws.csv (promulgated)'], `${fmt(N)}${L('件の法律', ' Acts')}`,
+        L('公布日は、附則の見出しにある日付（一つの法律につき一つのファイルを読む）か、e-Gov の改正履歴の公布日。下の帯は、その年の最大の法律番号のうち公布日のわかる割合。2026年は11月2日まで（薄い色）。',
+          'the day is the date in the heading of the Act’s supplementary provisions (one file read per Act) or the promulgation day in e-Gov’s revision record. The strip below is the share of each year’s highest Act number with a known day. 2026 stops on 2 November (lighter).'));
+      table(el, [t('year'), ...MON[LANG], t('total')], YS.map(yy => [String(yy), ...d3.range(1, 13).map(m => at(yy, m)), sum(d3.range(1, 13), m => at(yy, m))]));
+    }
+  };
+});
+
+const WHO = ['cab', 'hr', 'hc'];
+const whoName = k => LA({ cab: ['内閣提出（閣法）', 'Cabinet bills'], hr: ['衆議院議員提出（衆法）', 'House of Representatives members’ bills'], hc: ['参議院議員提出（参法）', 'House of Councillors members’ bills'] }[k]);
+const whoCol = k => ({ cab: css('--s1'), hr: css('--s2'), hc: css('--s4') }[k]);
+chart('c15', el => {
+  const c = D.c15, dk = Object.keys(c.decs).map(Number), pre = dk.filter(d => d < 1940), DEC = ['pre', ...dk.filter(d => d >= 1940)];
+  const val = (d, k) => d === 'pre' ? sum(pre, q => c.decs[q][k] || 0) : (c.decs[d][k] || 0), tot = d => sum(WHO, k => val(d, k)), mem = d => val(d, 'hr') + val(d, 'hc');
+  const kb = c.tcls.kihon, kN = sum(WHO, k => kb[k] || 0), kM = (kb.hr || 0) + (kb.hc || 0), sb = c.tcls.suishin, sN = sum(WHO, k => sb[k] || 0);
+  const YS = Object.keys(c.years).map(Number).filter(y => y >= 2016), yt = y => sum(WHO, k => c.years[y][k] || 0), ym = y => (c.years[y].hr || 0) + (c.years[y].hc || 0);
+  const allY = sum(YS, yt), allM = sum(YS, ym);
+  return {
+    title: L(`議員立法：2010年代の番号を持つ現行の法律の${pct(mem(2010), tot(2010))}は議員提出、基本法では${fmt(kN)}件中${fmt(kM)}件`,
+      `Members’ bills: ${pct(mem(2010), tot(2010))} of the Acts in force numbered in the 2010s began as members’ bills, and ${fmt(kM)} of the ${fmt(kN)} Basic Acts`),
+    dek: L(`法律案は内閣か国会議員が提出します。e-Gov の法令ID はその区別を持ち（AC0000000 が内閣提出の閣法、AC1000000 が衆議院議員提出の衆法、AC0100000 が参議院議員提出の参法）、現行の法律を番号の年代ごとに分けました。議員提出の割合は1960年代の${pct(mem(1960), tot(1960))}から2010年代には${pct(mem(2010), tot(2010))}。ただし現行の法律は残った法律だけです：2016年以降に番号を付けられたすべての法律（改正法を含め、法令ID のわかる${fmt(allY)}件）では議員提出は${pct(allM, allY)}です。題名が「基本法」で終わる法律${fmt(kN)}件のうち${fmt(kM)}件、「推進法」「促進法」など${fmt(sN)}件のうち${fmt((sb.hr || 0) + (sb.hc || 0))}件が議員提出です。`,
+      `Bills are introduced by the Cabinet or by members of the Diet. e-Gov’s law ID records which (AC0000000 a Cabinet bill, 閣法; AC1000000 a bill of House of Representatives members, 衆法; AC0100000 a bill of House of Councillors members, 参法). The Acts in force by the decade of their number: members’ bills rose from ${pct(mem(1960), tot(1960))} in the 1960s to ${pct(mem(2010), tot(2010))} in the 2010s. Acts in force are only those that remain: of all Acts numbered since 2016 whose ID is known (${fmt(allY)}, amending Acts included), members’ bills are ${pct(allM, allY)}. ${fmt(kM)} of the ${fmt(kN)} Acts titled "Basic Act" (基本法) and ${fmt((sb.hr || 0) + (sb.hc || 0))} of the ${fmt(sN)} "promotion" Acts (推進法, 促進法) began as members’ bills.`),
+    draw(el) {
+      legend(el, WHO.map(k => ({ c: whoCol(k), l: whoName(k) })));
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', narrow(W(el)) ? 'repeat(1, minmax(0, 1fr))' : '3fr 2fr');
+      const P1 = box.append('div'), P2 = box.append('div');
+      P1.append('h4').text(L('現行の法律、番号の年代別', 'Acts in force, by decade of number')); P1.append('p').text(L('柱の上は議員提出の割合', 'members’ share above each column'));
+      P2.append('h4').text(L('2016年以降に番号を付けられた法律（法令ID のわかるもの）', 'Acts numbered since 2016 whose ID is known')); P2.append('p').text(L('改正法を含む', 'amending Acts included'));
+      const colChart = (p, keys, val_, tot_, lab, tip) => {
+        const w = WR(p), h = 200, m = { t: 18, r: 4, b: 20, l: 30 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(keys).range([0, iw]).padding(0.2), y = d3.scaleLinear().domain([0, d3.max(keys, tot_)]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        keys.forEach(k => {
+          let acc = 0; const bx = x(k), bw = x.bandwidth(), segs = WHO.map(q => [q, val_(k, q)]).filter(s => s[1]);
+          segs.forEach(([q, v], i) => { const y0 = y(acc) - (i ? .6 : 0), y1 = y(acc + v); acc += v; g.append('path').attr('d', i === segs.length - 1 ? colPath(bx, y0, bw, y1, Math.min(3, bw / 3)) : `M${bx},${y0}V${y1 + .6}H${bx + bw}V${y0}Z`).attr('fill', whoCol(q)).attr('opacity', k === 2026 ? .5 : 1); });
+          g.append('text').attr('class', 'lbl strong').attr('x', bx + bw / 2).attr('y', y(tot_(k)) - 5).attr('text-anchor', 'middle').style('font-size', '10px').text(pct(val_(k, 'hr') + val_(k, 'hc'), tot_(k)));
+          g.append('text').attr('class', 'lbl mut').attr('x', bx + bw / 2).attr('y', ih + 14).attr('text-anchor', 'middle').text(lab(k));
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', bx).attr('width', bw).attr('y', 0).attr('height', ih).datum(k), d => `<b>${tip(d)}</b>` + WHO.map(q => trow(whoCol(q), whoName(q), fmt(val_(d, q)))).join('') + trow(null, t('total'), fmt(tot_(d))));
+        });
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      };
+      colChart(P1, DEC, val, tot, d => d === 'pre' ? (narrow(W(el)) || WR(P1) < 420 ? L('〜’39', '–’39') : L('〜1939', '–1939')) : narrow(W(el)) || WR(P1) < 420 ? `’${String(d).slice(2)}` : L(`${d}年代`, `${d}s`), d => d === 'pre' ? L('1939年まで', 'to 1939') : L(`${d}年代`, `${d}s`));
+      colChart(P2, YS, (y, q) => c.years[y][q] || 0, yt, y => `’${String(y).slice(2)}`, y => `${y}${y === 2026 ? ' (' + t('partial') + ')' : ''}`);
+      h4(el, L('題名の形ごとの提出者（現行の法律）', 'Who introduced them, by the form of the title (Acts in force)'), 16);
+      const nw = narrow(W(el)), rows = [['kihon', L('「基本法」', '"Basic Act"')], ['suishin', nw ? L('推進・促進法', 'promotion') : L('「推進法」「促進法」など', '"promotion" Acts')], ['other', L('その他の法律', 'other Acts')]].map(([k, lb]) => ({ lb, ...c.tcls[k] }));
+      const lb_ = textW(el, rows.map(r => r.lb)) + 16;
+      bands(el, rows, WHO, WHO.map(whoCol), WHO.map(whoName), { rowH: 32, l: lb_, ln: lb_, r: 70, rn: 50, minIn: 30, label: r => r.lb, right: r => nn(sum(WHO, k => r[k] || 0), '件', ['Act', 'Acts']) });
+      note(el, ['data/laws.json (law_id)', 'laws.csv (law_id)'], `${fmt(sum(DEC, tot))}${L('件の現行の法律', ' Acts in force')}`,
+        L('内閣による法律案の提出は日本国憲法第七十二条、議員による発議は国会法第五十六条による。提出者は法令ID の「AC」に続く7桁で区別する。「推進法」「促進法」は題名が「推進法」「促進法」「推進に関する法律」「促進に関する法律」で終わるもの。2016年以降の法律は、現行の法律と e-Gov の改正履歴に名のある改正法令の法令ID から数え、同じ年の法律番号の最大値に届かない年もある。2026年は11月2日まで（薄い色）。',
+          'the Cabinet introduces bills under article 72 of the Constitution, members under article 56 of the Diet Act. The introducer is read from the seven digits after "AC" in the law ID. "Promotion" Acts are those whose title ends in 推進法, 促進法, 推進に関する法律 or 促進に関する法律. Acts since 2016 are counted from the IDs of Acts in force and of amending laws in e-Gov’s revision record; some years fall short of the year’s highest Act number. 2026 stops on 2 November (lighter).'));
+      table(el, [L('年代', 'Decade'), ...WHO.map(whoName), t('total'), L('議員提出の割合', 'Members’ share')], DEC.map(d => [d === 'pre' ? L('1939年まで', 'to 1939') : L(`${d}年代`, `${d}s`), ...WHO.map(k => val(d, k)), tot(d), pct(mem(d), tot(d))]));
+      subTable(el, L('2016年以降に番号を付けられた法律', 'Acts numbered since 2016'), [t('year'), ...WHO.map(whoName), t('total'), L('その年の最大の番号', 'Highest number')], YS.map(y => [String(y), ...WHO.map(k => c.years[y][k] || 0), yt(y), c.maxnum[y] || '–']), [0, 1, 1, 1, 1, 1]);
+      subTable(el, L('基本法', 'Basic Acts'), [L('法律', 'Act'), L('提出者', 'Introduced by'), t('year')], c.kihon.map(r => [r[0], whoName(r[1]), String(r[2])]), [0, 0, 1]);
+    }
+  };
+});
+
+const PER5 = () => [L('1946年まで', 'to 1946'), '1947–1988', '1989–2000', '2001–2018', L('2019年以降', 'from 2019')];
+const per5Cols = () => { const r = seqRamp(); return [css('--s4'), r(.3), r(.5), r(.75), r(1)]; };
+chart('c16', el => {
+  const c = D.c16, R = c.rows, cur = R.filter(r => r[5] >= 2001), gone = R.filter(r => r[5] <= 2000), G = sum(gone, r => r[1]);
+  const mn = r => MIN[r[0]] ? minName(r[0]) : r[6].replace(/令$/, '');
+  return {
+    title: L(`府省令の発令者：単独の府省が発した現行の府省令${fmt(c.n)}件のうち${fmt(G)}件（${pct(G, c.n)}）は、番号が2000年以前で終わる府省のもの`,
+      `Who made the ministerial ordinances: ${fmt(G)} of the ${fmt(c.n)} ordinances in force made by a single ministry (${pct(G, c.n)}) come from ministries whose ordinances stop by 2000`),
+    dek: L(`府省令の番号には発した府省の名が入ります（昭和47年労働省令第32号）。現行の府省令を発令者ごとに数え、番号の年で色分けしました。${andList(gone.slice(0, 5).map(r => `${mn(r)}（${fmt(r[1])}件）`))}など${gone.length}の発令者は、このリポジトリでは番号が2000年以前で終わり、${andList(cur.slice(0, 3).map(mn))}などの府省令は2001年以降の番号です。複数の府省による共同の府省令（${fmt(c.joint)}件）は含めていません。`,
+      `A ministerial ordinance’s number names the ministry that made it (昭和47年労働省令第32号, Ministry of Labour Ordinance No. 32 of 1972). The ordinances in force by issuer, coloured by the year of their number. ${gone.length} issuers, ${andList(gone.slice(0, 5).map(r => `the ${mn(r)} (${fmt(r[1])})`))} among them, have no number after 2000 here, while the ordinances of the ${andList(cur.slice(0, 3).map(mn))} and others are numbered from 2001. Joint ordinances of several ministries (${fmt(c.joint)}) are left out.`),
+    draw(el) {
+      const colors = per5Cols(), names = PER5(), keys = names.map((_, i) => 'p' + i);
+      legend(el, names.map((nm, i) => ({ c: colors[i], l: nm })));
+      const nw = narrow(W(el)), cap = nw ? 136 : 346, labOf = r => { const f = mn(r); return textW(el, [f]) <= cap ? f : (MIN[r[0]] ? minName(r[0], true) : f); };
+      const nSmall = R.filter(r => r[5] <= 2000 && r[1] < 10).length, lw = Math.min(cap, textW(el, R.map(labOf).concat([L(`その他${nSmall}の発令者`, `${nSmall} others`)]))) + 14;
+      const rows = rs => rs.map(r => ({ r, lab: labOf(r), ...Object.fromEntries(r[3].map((v, i) => ['p' + i, v])) }));
+      const mx = d3.max(R, r => r[1]);
+      h4(el, L(`2001年以降も府省令を発している発令者（${cur.length}）`, `Issuers with ordinances numbered from 2001 (${cur.length})`), 6);
+      splitBars(el, rows(cur), keys, colors, names, { rowH: 22, l: lw, ln: lw, rr: 48, max: mx, label: d => d.lab, tipExtra: d => trow(null, L('番号の年', 'Years numbered'), `${d.r[4]}–${d.r[5]}`) + trow(null, L('条', 'Articles'), fmt(d.r[2])) });
+      h4(el, L(`府省令の番号が2000年以前で終わる発令者（${gone.length}）`, `Issuers whose numbers end by 2000 (${gone.length})`), 14);
+      const big_ = gone.filter(r => r[1] >= 10), small = gone.filter(r => r[1] < 10);
+      const fold = rows(big_).concat(small.length ? [{ r: ['', sum(small, q => q[1]), sum(small, q => q[2]), [0, 1, 2, 3, 4].map(i => sum(small, q => q[3][i])), d3.min(small, q => q[4]), d3.max(small, q => q[5]), ''], lab: L(`その他${small.length}の発令者`, `${small.length} others`), ...Object.fromEntries([0, 1, 2, 3, 4].map(i => ['p' + i, sum(small, q => q[3][i])])) }] : []);
+      splitBars(el, fold, keys, colors, names, { rowH: 22, l: lw, ln: lw, rr: 48, max: mx, label: d => d.lab, labelFill: () => css('--text-2'), tipExtra: d => (d.r[0] ? '' : `<div class="q">${esc(small.map(q => mn(q)).join(L('、', ', ')))}</div>`) + trow(null, L('番号の年', 'Years numbered'), `${d.r[4]}–${d.r[5]}`) + trow(null, L('条', 'Articles'), fmt(d.r[2])) });
+      note(el, ['ministerial-ordinance/<ISSUER>/<YEAR>/<NUMBER>/', 'data/laws.json (num)'], `${fmt(c.n)}${L('件の府省令', ' ministerial ordinances')}`,
+        L('発令者は府省令のフォルダ名（番号の中の府省名）による。1947年より前の「省令」には、内閣の閣令などを含む。共同省令は ministerial-ordinance/joint/ にあり、ここでは数えない。',
+          'the issuer is the ordinance’s folder (the ministry named in its number). Before 1947 this includes Cabinet ordinances (閣令). Joint ordinances sit under ministerial-ordinance/joint/ and are not counted here.'));
+      table(el, [L('発令者', 'Issuer'), ...names, t('total'), L('条', 'Articles'), L('最初の番号', 'First'), L('最後の番号', 'Last')], R.map(r => [mn(r), ...r[3], r[1], r[2], String(r[4]), String(r[5])]));
+    }
+  };
+});
+
+part('p5', 'V. 憲法と六法', 'V. The Constitution and the codes',
+  '日本国憲法と、民法、商法、刑法、民事訴訟法、刑事訴訟法、会社法（e-Gov が名を挙げる六つの法典）。附則に残る改正の歴史、条ごとの最後の改正、e-Gov の記録の始まり以降に書き換えられた条。',
+  'The Constitution of Japan, and the Civil Code, Commercial Code, Penal Code, Code of Civil Procedure, Code of Criminal Procedure and Companies Act. Their history of amendment as their supplementary provisions keep it, the last change of each article, and the articles rewritten since e-Gov’s record began.');
+
+const CODES = ['constitution/1946', 'act/1896/089', 'act/1899/048', 'act/1907/045', 'act/1996/109', 'act/1948/131', 'act/2005/086'];
+chart('c18', el => {
+  const c = D.c18, K = fo => c[fo], civ = K('act/1896/089'), com = K('act/1899/048'), cr = K('act/1948/131'), pen = K('act/1907/045');
+  const allSup = sum(CODES, fo => K(fo).sup.length);
+  return {
+    title: L(`憲法と六法：日本国憲法は1947年5月3日の本文のまま、民法には${fmt(civ.sup.length)}、商法には${fmt(com.sup.length)}の改正法令の附則`,
+      `The Constitution and the codes: the Constitution keeps its text of 3 May 1947, while the Civil Code keeps the supplementary provisions of ${fmt(civ.sup.length)} amending laws and the Commercial Code ${fmt(com.sup.length)}`),
+    dek: L(`日本国憲法の本文は、e-Gov の記録で1947年5月3日の一つの版だけで、改正法令の附則もありません。六法の本文に残る改正法令の附則は合わせて${fmt(allSup)}件で、点の一つが一つの改正法令です。商法（1899年）の附則は${com.sup[0][0]}年の改正法から、民法（1896年）は${civ.sup[0][0]}年から、刑法（1907年）は${pen.sup[0][0]}年から残っています。刑事訴訟法（1948年）には${fmt(cr.sup.length)}件。`,
+      `In e-Gov’s record the Constitution of Japan has a single version, of 3 May 1947, and no amending law’s supplementary provisions. The six codes keep those of ${fmt(allSup)} amending laws between them; each dot is one amending law. The Commercial Code (1899) keeps them from an amending Act of ${com.sup[0][0]}, the Civil Code (1896) from ${civ.sup[0][0]}, the Penal Code (1907) from ${pen.sup[0][0]}. The Code of Criminal Procedure (1948) keeps ${fmt(cr.sup.length)}.`),
+    draw(el) {
+      const nw = narrow(W(el)), cards = el.append('div').attr('class', 'ptiles').style('grid-template-columns', `repeat(${nw ? 2 : 4}, minmax(0, 1fr))`);
+      CODES.forEach(fo => {
+        const r = K(fo), d = cards.append('div').attr('class', 'ptile'), col = fo.startsWith('constitution') ? css('--s6') : css('--s1');
+        d.append('div').attr('class', 'pn').html(`<i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${col}"></i>${esc(nmOf(fo))} · ${r.year}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(r.sup.length)}</b>${L('の改正法令の附則', r.sup.length === 1 ? ' amending law' : ' amending laws')}`);
+        d.append('div').attr('class', 'ps').text(L(`${fmt(r.art)}条 · 削除${fmt(r.del)} · e-Gov の版${fmt(r.versions)}`, `${fmt(r.art)} articles · ${fmt(r.del)} deleted · ${fmt(r.versions)} ${r.versions === 1 ? 'version' : 'versions'} in e-Gov`));
+        d.append('div').attr('class', 'ps').text(L(`最後の改正 ${dateTxt(r.last)}`, `last changed ${dateTxt(r.last)}`));
+      });
+      const w = W(el), fitC = fitNames(el, CODES, fo => fo, fo => fo, nw ? 84 : 190), lw = fitC.lw, rowH = nw ? 34 : 40, m = { t: 22, r: 8, b: 22, l: lw };
+      const h = m.t + m.b + rowH * CODES.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = rowH * CODES.length, x = d3.scaleLinear().domain([1890, 2027]).range([0, iw]), step = x(1891) - x(1890);
+      eraBands(g, x, ih, 1890, 2027, { top: -m.t + 2 });
+      const r_ = Math.max(1.4, Math.min(step / 2 - .3, 3.4)), dy = 2 * r_ + .6;
+      CODES.forEach((fo, i) => {
+        const r = K(fo), cy = i * rowH + rowH - 6, col = fo.startsWith('constitution') ? css('--s6') : css('--s1');
+        g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', cy + 3).attr('y2', cy + 3).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy).attr('text-anchor', 'end').text(fitC.lab(fo));
+        g.append('path').attr('d', `M${x(r.year) + step / 2},${cy + 3}v-8`).attr('stroke', css('--text-2')).attr('stroke-width', 1.4);
+        const byY = d3.group(r.sup, q => q[0]);
+        byY.forEach((v, yy) => bindTip(g.append('g').selectAll('circle').data(v).join('circle').attr('cx', x(yy) + step / 2).attr('cy', (q, j) => cy - r_ - j * dy).attr('r', r_).attr('fill', col),
+          q => `<b>${esc(nmOf(fo))}</b>` + trow(col, L('改正法令', 'Amending law'), q[2].match(/^[mtshr]\d+-\d+$/) ? actNo(q[2][0], +q[2].slice(1).split('-')[0], q[1]) : q[2]) + trow(null, t('year'), String(q[0]))));
+        if (!r.sup.length) halo(g, x(r.year) + step / 2 + 8, cy - 2, nw ? L('改正なし', 'never amended') : L('改正法令の附則なし（1947年5月3日の本文）', 'no amending law (the text of 3 May 1947)'), 'start', 'lbl', col);
+      });
+      [1900, 1925, 1950, 1975, 2000, 2026].forEach(yy => { if (!nw || yy % 50 === 0 || yy === 2026) g.append('text').attr('class', 'lbl').attr('x', x(yy) + step / 2).attr('y', ih + 14).attr('text-anchor', yy === 2026 ? 'end' : 'middle').text(yy); });
+      note(el, ['constitution/1946/', 'act/1896/089/suppl/', 'laws.csv'], `${fmt(allSup)}${L('件の改正法令の附則', ' supplementary provisions of amending laws')}`,
+        L('点は、法典の本文に残る改正法令の附則（suppl/ のファイル）を、改正法令の年に置いたもの。短い縦線は法典自身の番号の年。e-Gov の本文が古い改正の附則を持たない法典もある。「削除」は本文が「第○条　削除」だけの条（範囲のファイルを含む）。',
+          'each dot is an amending law’s supplementary provisions kept in the code’s text (a file in suppl/), on the year of the amending law; the short tick is the year of the code’s own number. Some codes’ text in e-Gov does not keep the provisions of old amendments. "Deleted" counts articles whose text is only "第○条　削除" (range files included).'));
+      table(el, [L('法典', 'Code'), L('番号', 'Number'), L('条', 'Articles'), L('削除', 'Deleted'), L('改正法令の附則', 'Amending laws'), L('最初', 'First'), L('e-Gov の版', 'Versions in e-Gov'), L('最後の改正', 'Last changed')],
+        CODES.map(fo => { const r = K(fo); return [nmOf(fo), lawNum(r.num), r.art, r.del, r.sup.length, r.sup.length ? String(r.sup[0][0]) : '–', r.versions, dateTxt(r.last)]; }));
+    }
+  };
+});
+
+const C19K = ['base', 'p1', 'p2', 'p3', 'del'];
+chart('c19', el => {
+  const c = D.c19, per = (a, base) => a[3] ? 'del' : a[1] <= base ? 'base' : a[1] < '2020-01-01' ? 'p1' : a[1] < '2023-01-01' ? 'p2' : 'p3';
+  const stat = fo => { const r = c[fo], n = r.arts.filter(a => !a[0].includes('-to-')).length, ch = r.arts.filter(a => !a[3] && a[1] > r.base).length, del = r.arts.filter(a => a[3]).length; return { n, ch, del }; };
+  const civ = stat('act/1896/089'), pen = stat('act/1907/045'), con = stat('constitution/1946');
+  const pen200 = (c['act/1907/045'].arts.find(a => a[0] === '200') || [])[3];
+  return {
+    title: L(`条ごとに見た憲法と六法：e-Gov の記録の始まり以降、民法は${fmt(civ.ch)}条、刑法は${fmt(pen.ch)}条が書き換えられ、憲法の${fmt(con.n)}条は1947年のまま`,
+      `The Constitution and the codes article by article: since e-Gov’s record began, ${fmt(civ.ch)} articles of the Civil Code and ${fmt(pen.ch)} of the Penal Code have been rewritten; the Constitution’s ${fmt(con.n)} are as in 1947`),
+    dek: L(`各マスが一つの条で、法典の順に並べ、最後に改められた時期で色を分けました。灰色は e-Gov の最初の本文（多くは2016年）から変わっていない条、斜線は本文が「削除」だけの条です。刑法の第二百条${pen200 ? 'も、' : '、'}民法の第七百三十三条も「削除」だけの条です。民法は2020〜2022年（${fmt(c['act/1896/089'].arts.filter(a => per(a, c['act/1896/089'].base) === 'p2').length)}条）、刑法は2023〜2026年（${fmt(c['act/1907/045'].arts.filter(a => per(a, c['act/1907/045'].base) === 'p3').length)}条）に最も多くの条が改められています。`,
+      `Each square is an article, in the code’s order, coloured by when it was last changed. Grey: unchanged since e-Gov’s first text (2016 for most); hatched: articles whose text is only "削除" (deleted). Article 200 of the Penal Code is one of them, and so is Article 733 of the Civil Code. Most of the Civil Code’s changes fall in 2020–2022 (${fmt(c['act/1896/089'].arts.filter(a => per(a, c['act/1896/089'].base) === 'p2').length)} articles), most of the Penal Code’s in 2023–2026 (${fmt(c['act/1907/045'].arts.filter(a => per(a, c['act/1907/045'].base) === 'p3').length)}).`),
+    draw(el) {
+      const rmp = seqRamp(), colors = { base: css('--surface-2'), p1: rmp(.4), p2: rmp(.68), p3: rmp(1), con: css('--s6') };
+      const names = { base: L('e-Gov の最初の本文から変わっていない', 'unchanged since e-Gov’s first text'), p1: L('2016〜2019年に改正', 'changed 2016–2019'), p2: L('2020〜2022年に改正', 'changed 2020–2022'), p3: L('2023〜2026年に改正', 'changed 2023–2026'), del: L('削除', 'deleted'), con: L('1947年5月3日の本文', 'the text of 3 May 1947') };
+      legend(el, [{ c: colors.con, l: names.con }, { c: css('--line'), l: names.base, shape: 'outline' }, { c: colors.p1, l: names.p1 }, { c: colors.p2, l: names.p2 }, { c: colors.p3, l: names.p3 }, { c: css('--muted-mark'), l: names.del, shape: 'hatch' }]);
+      const nw = narrow(W(el)), box = el.append('div').attr('class', 'multi').style('grid-template-columns', nw ? 'repeat(1, minmax(0, 1fr))' : 'repeat(2, minmax(0, 1fr))');
+      CODES.forEach((fo, pi) => {
+        const r = c[fo], s = stat(fo), p = box.append('div'), isC = fo.startsWith('constitution');
+        p.append('h4').text(nmOf(fo));
+        p.append('p').text(isC ? L(`${fmt(s.n)}条 · 改正なし`, `${fmt(s.n)} articles · never amended`) : L(`${fmt(s.n)}条 · ${dateShort(r.base)}以降に改正${fmt(s.ch)}条（${pct(s.ch, s.n)}）· 削除${fmt(s.del)}`, `${fmt(s.n)} articles · ${fmt(s.ch)} changed since ${dateShort(r.base)} (${pct(s.ch, s.n)}) · ${fmt(s.del)} deleted`));
+        const w = WR(p), pitch = 8, cols = Math.max(10, Math.floor(w / pitch)), rows_ = Math.ceil(r.arts.length / cols), svg = svgIn(p, w, rows_ * pitch + 2), g = svg.append('g'), hp = hatch(svg);
+        bindTip(g.selectAll('rect').data(r.arts).join('rect').attr('x', (a, i) => (i % cols) * pitch).attr('y', (a, i) => Math.floor(i / cols) * pitch).attr('width', pitch - 1.2).attr('height', pitch - 1.2).attr('rx', 1.6)
+          .attr('fill', a => isC ? colors.con : per(a, r.base) === 'del' ? hp : colors[per(a, r.base)]).attr('stroke', a => !isC && per(a, r.base) === 'base' ? css('--line') : 'none').attr('stroke-width', .6),
+          a => `<b>${esc(nmOf(fo))} ${kanjiArt(a[0])}</b>` + (a[3] ? trow(null, L('本文', 'Text'), L('削除', 'deleted (削除)')) : '') + trow(null, L('最後の改正', 'Last changed'), a[1] <= r.base && !isC ? L(`${dateTxt(r.base)}以前`, `on or before ${dateTxt(r.base)}`) : dateTxt(a[1])) + (a[1] > r.base ? trow(null, L('改正法令', 'Amending law'), lawNum(a[2])) : ''));
+      });
+      note(el, ['<CODE>/art-*.md', 'git log --name-status (A, M) -- <CODE>/', 'In-force:'], `${fmt(sum(CODES, fo => stat(fo).n))}${L('条', ' articles')}`,
+        L('最後の改正は、その条のファイルを書いたコミットの施行日（In-force）のうち最も新しいもの。e-Gov の最初の本文の日は法典ごとに異なる（民事訴訟法2012年10月1日、会社法2017年4月1日、ほかは2016年）。その日より前の改正は、この記録ではわからない。章や節の見出しが変わると、その最初の条も改正と数える。',
+          'the last change is the newest In-force day among the commits that wrote the article’s file. e-Gov’s first text differs by code (Code of Civil Procedure 1 October 2012, Companies Act 1 April 2017, the others 2016); changes before it are not in this record. When a chapter or section heading changes, the first article under it counts as changed.'));
+      table(el, [L('法典', 'Code'), L('条', 'Articles'), names.base, names.p1, names.p2, names.p3, names.del],
+        CODES.map(fo => { const r = c[fo], k = q => r.arts.filter(a => per(a, r.base) === q).length; return [nmOf(fo), stat(fo).n, fo.startsWith('constitution') ? stat(fo).n : k('base'), k('p1'), k('p2'), k('p3'), k('del')]; }));
+    }
+  };
+});
+
+const BOOK = { 'act/1896/089': [['第一編 総則', 'Book I, General'], ['第二編 物権', 'Book II, Real rights'], ['第三編 債権', 'Book III, Obligations'], ['第四編 親族', 'Book IV, Relatives'], ['第五編 相続', 'Book V, Succession']],
+  'act/1907/045': [['第一編 総則', 'Book I, General'], ['第二編 罪', 'Book II, Crimes']] };
+chart('c20', el => {
+  const S = D.c20, F = ['act/1896/089', 'act/1907/045'];
+  const cum = fo => { let a = 0; return S[fo].filter(s => !s[7]).map(s => { const n = s[2] + s[3]; a += n; return { d: s[0], au: s[1], n, cum: a, books: s[6] }; }); };
+  const C = { 'act/1896/089': cum('act/1896/089'), 'act/1907/045': cum('act/1907/045') }, tot = fo => C[fo].length ? C[fo][C[fo].length - 1].cum : 0;
+  const big = fo => C[fo].slice().sort((a, b) => b.n - a.n), b1 = big(F[0])[0], p1 = big(F[1])[0];
+  const mainBook = (fo, s) => { const i = s.books.indexOf(d3.max(s.books)); return LA(BOOK[fo][i]); };
+  return {
+    title: L(`民法と刑法の10年：民法の条は延べ${fmt(tot(F[0]))}回、刑法は${fmt(tot(F[1]))}回改められ、最大は${dateTxt(b1.d)}の${lawNum(b1.au)}（${fmt(b1.n)}条）`,
+      `A decade of the Civil and Penal Codes: Civil Code articles were changed ${fmt(tot(F[0]))} times and Penal Code articles ${fmt(tot(F[1]))} times; the largest single change, ${lawNum(b1.au)} on ${dateTxt(b1.d)} (${fmt(b1.n)} articles)`),
+    dek: L(`e-Gov の記録が始まった日から、民法と刑法の条が改められた回数を積み上げました（条のファイルが加えられたか書き換えられた回数。点が一つの版）。民法の最大の段は${dateTxt(b1.d)}の${lawNum(b1.au)}で${fmt(b1.n)}条、その${pct(d3.max(b1.books), b1.n)}は${mainBook(F[0], b1)}。刑法は${dateTxt(p1.d)}の${lawNum(p1.au)}で${fmt(p1.n)}条が改められ、これは刑法の条の${pct(p1.n, D.c18['act/1907/045'].art)}にあたります。`,
+      `From the day e-Gov’s record begins, the number of times articles of the Civil Code and the Penal Code were added or rewritten, cumulated; each dot is a version. The Civil Code’s largest step is ${lawNum(b1.au)} on ${dateTxt(b1.d)}: ${fmt(b1.n)} articles, ${pct(d3.max(b1.books), b1.n)} of them in ${mainBook(F[0], b1)}. In the Penal Code, ${lawNum(p1.au)} changed ${fmt(p1.n)} articles on ${dateTxt(p1.d)}, ${pct(p1.n, D.c18['act/1907/045'].art)} of its articles.`),
+    draw(el) {
+      const cA = css('--s1'), cB = css('--s2');
+      legend(el, [{ c: cA, l: nmOf(F[0]), shape: 'line' }, { c: cB, l: nmOf(F[1]), shape: 'dash' }]);
+      const w = W(el), nw = narrow(w), h = nw ? 260 : 320, m = { t: 20, r: nw ? 40 : 60, b: 24, l: 44 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleTime().domain([PD('2016-06-01'), PD('2026-12-31')]).range([0, iw]), y = d3.scaleLinear().domain([0, tot(F[0]) * 1.08]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 5);
+      d3.range(2017, 2027).forEach(yy => { if (!nw || yy % 2 === 0) g.append('text').attr('class', 'lbl').attr('x', x(PD(`${yy}-01-01`))).attr('y', ih + 15).attr('text-anchor', 'middle').text(yy); });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const series = fo => { const base = S[fo].find(s => s[7]), pts = [[PD(base[0]), 0]]; C[fo].forEach(s => pts.push([PD(s.d), s.cum])); pts.push([PD('2026-11-02'), tot(fo)]); return pts; };
+      const sA = series(F[0]), sB = series(F[1]);
+      // the gap between the two codes, shaded
+      const both = d3.range(0, 1.0001, 1 / 600).map(f => { const d = new Date(x.domain()[0].getTime() + f * (x.domain()[1] - x.domain()[0])); const v = s => { let r = 0; s.forEach(p => { if (p[0] <= d) r = p[1]; }); return r; }; return [d, v(sA), v(sB)]; });
+      g.append('path').attr('d', d3.area().curve(d3.curveStepAfter).x(q => x(q[0])).y0(q => y(q[2])).y1(q => y(q[1]))(both.filter(q => q[0] >= sA[0][0]))).attr('fill', grad(svg, 'c20g', cA, .22));
+      g.append('path').attr('d', d3.line().curve(d3.curveStepAfter).x(q => x(q[0])).y(q => y(q[1]))(sA)).attr('fill', 'none').attr('stroke', cA).attr('stroke-width', 2.2);
+      g.append('path').attr('d', d3.line().curve(d3.curveStepAfter).x(q => x(q[0])).y(q => y(q[1]))(sB)).attr('fill', 'none').attr('stroke', cB).attr('stroke-width', 2).attr('stroke-dasharray', '5 3');
+      [[F[0], cA], [F[1], cB]].forEach(([fo, col]) => bindTip(g.append('g').selectAll('circle').data(C[fo].filter(s => s.n)).join('circle').attr('cx', s => x(PD(s.d))).attr('cy', s => y(s.cum)).attr('r', s => s.n >= 40 ? 4 : 2.8).attr('fill', css('--surface')).attr('stroke', col).attr('stroke-width', 1.6),
+        s => `<b>${esc(nmOf(fo))} · ${dateTxt(s.d)}</b>` + trow(col, lawNum(s.au), `${fmt(s.n)}${L('条', ' articles')}`) + s.books.map((v, i) => v ? trow(null, LA(BOOK[fo][i]), fmt(v)) : '').join('') + trow(null, L('累計', 'Cumulated'), fmt(s.cum))));
+      // labels for the largest steps: left of the step, level with its top (the line was lower before the step, so the
+      // space there is empty); a big step of the Penal Code is labelled at mid-height. Overlapping labels move up.
+      const labs = [...big(F[0]).filter(s => s.n >= 40).slice(0, nw ? 1 : 3).map(s => [F[0], s, cA]), ...big(F[1]).filter(s => s.n >= 40).slice(0, 2).map(s => [F[1], s, cB])];
+      const boxes = [], hit = (a, b) => !(a.x + a.width < b.x || b.x + b.width < a.x || a.y + a.height < b.y || b.y + b.height < a.y);
+      labs.sort((a, b) => b[1].n - a[1].n).forEach(([fo, s, col]) => {
+        const cx = x(PD(s.d)), cy = y(s.cum), c0 = y(s.cum - s.n), txt = `${nw ? '' : dateShort(s.d) + ' '}${lawNum(s.au)} · ${fmt(s.n)}${L('条', '')}`;
+        let ty = c0 - cy > 40 ? (cy + c0) / 2 + 4 : cy + 4;
+        const tl = halo(g, cx - 8, ty, txt, 'end', 'lbl strong', col);
+        let bb = tl.node().getBBox(), k = 0;
+        if (bb.x < -m.l + 2) { ty = cy - 8; tl.attr('x', cx + 8).attr('y', ty).attr('text-anchor', 'start'); bb = tl.node().getBBox(); }
+        if (bb.x < -m.l + 2 || bb.x + bb.width > iw + m.r - 2) { tl.remove(); return; }
+        while (boxes.some(b => hit(bb, b)) && k++ < 8) { ty -= 13; tl.attr('y', ty); bb = tl.node().getBBox(); }
+        boxes.push(bb);
+      });
+      halo(g, iw + 4, y(tot(F[0])) + 4, fmt(tot(F[0])), 'start', 'lbl strong', cA);
+      halo(g, iw + 4, y(tot(F[1])) + 4, fmt(tot(F[1])), 'start', 'lbl strong', cB);
+      note(el, ['git log --name-status -- act/1896/089 act/1907/045', 'In-force:'], `${fmt(S[F[0]].length + S[F[1]].length)}${L('のコミット', ' commits')}`,
+        L(`条のファイルが加えられたか書き換えられた回数（附則のファイル、削除された条の範囲のファイルは数えない）。起点は e-Gov の最初の本文（民法${dateTxt(S[F[0]].find(s => s[7])[0])}、刑法${dateTxt(S[F[1]].find(s => s[7])[0])}）。2026年11月2日まで。`,
+          `the times an article’s file was added or rewritten (files of supplementary provisions and of ranges of deleted articles do not count). The start is e-Gov’s first text (Civil Code ${dateTxt(S[F[0]].find(s => s[7])[0])}, Penal Code ${dateTxt(S[F[1]].find(s => s[7])[0])}). To 2 November 2026.`));
+      table(el, [L('法典', 'Code'), L('施行日', 'In force'), L('改正法令', 'Amending law'), L('条', 'Articles'), L('累計', 'Cumulated')], F.flatMap(fo => C[fo].filter(s => s.n).map(s => [nmOf(fo), dateTxt(s.d), lawNum(s.au), s.n, s.cum])));
+    }
+  };
+});
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'c17', 'p2', 'c05', 'c06', 'c07', 'c08', 'p3', 'c09', 'c10', 'c11', 'c12', 'p4', 'c13', 'c14', 'c15', 'c16', 'p5', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('現行法令とその条', 'The laws in force and their articles'), '<KIND>/<YEAR>/<NUMBER>/', fmt(P.laws), L(`${dateTxt(P.record_to)}時点の e-Gov の現行法令（憲法、法律、政令、府省令、規則など）。条ごとに一つのファイルで計${fmt(P.articles)}`, `the laws e-Gov held to be in force on ${dateTxt(P.record_to)} (the Constitution, Acts, Cabinet Orders, ministerial ordinances, rules and more); one file per article, ${fmt(P.articles)} in all`), L('廃止された法令は含まれない', 'repealed laws are not included')],
+    [L('改正履歴', 'Revisions'), 'laws.csv', fmt(P.revisions), L(`施行済みの版${fmt(P.versions)}と未施行の版${fmt(P.future)}。改正法令、公布日、施行日つき`, `${fmt(P.versions)} versions in force and ${fmt(P.future)} not yet in force, each with the amending law, its promulgation day and the day it took effect`), L(`e-Gov の改正履歴は多くの法令で2016〜2017年から。${fmt(P.current_only)}件は現行の本文のみ`, `e-Gov’s revision record starts in 2016–2017 for most laws; ${fmt(P.current_only)} laws hold only their text in force`)],
+    [L('git の履歴', 'Git history'), 'git log origin/main', fmt(P.law_commits), L('一つの版が一つのコミット。施行日（In-force:）と公布日（Promulgated:）つき', 'one commit per version, with the day it took effect (In-force:) and its promulgation (Promulgated:)'), L('過去の版を後から訂正コミットとして追加した法令は、git log が日付順にならない（ここでは In-force で並べた）', 'for laws whose earlier versions were appended as corrections, git log is not in date order (sorted here by In-force)')],
+    [L('附則の索引', 'Supplementary provisions'), '<LAW>/suppl/<ACT>.md', fmt(P.pairs), L(`改正法令が各法令に残した附則のファイル。改正した法律${fmt(P.amending_acts)}件、${D.c05.first}年から`, `the supplementary provisions each amending law left in each law it amended; ${fmt(P.amending_acts)} amending Acts, back to ${D.c05.first}`), L('現行法令に残るものだけ。e-Gov の本文に附則がない改正は数えられない', 'only those kept in laws in force; an amendment whose provisions e-Gov does not keep is not counted')],
+    [L('附則と本文の読み取り', 'Texts read'), 'suppl/ · art-*.md', fmt(P.amending_acts), L('改正法律ごとに附則一つ（公布日と施行期日の定め）、1947年より前の法令のすべての条、憲法と六法のすべての条', 'one supplementary-provisions file per amending Act (its promulgation day and start rule), every article of the laws numbered before 1947, every article of the Constitution and the six codes'), L('分類の規則は src/prep.py にある', 'the rules that classify are in src/prep.py')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  const tr = s => Object.entries(PH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(tr(v))}</code>` : esc(v));
+}
+function fitLeftLabels(fig) {
+  fig.selectAll('svg text').each(function () {
+    let room = null;
+    if (this.getAttribute('data-fit')) room = +this.getAttribute('data-fit');
+    else if (this.getAttribute('text-anchor') === 'end' && +this.getAttribute('x') < 0) { const ctm = this.getScreenCTM(); room = (ctm.e + ctm.a * +this.getAttribute('x') - this.ownerSVGElement.getBoundingClientRect().left - 2) / ctm.a; }
+    if (room == null || this.getComputedTextLength() <= room) return;
+    const full = this.textContent;
+    d3.select(this).append('title').text(full);
+    let lo = 0, hi = full.length;
+    while (lo < hi) { const mid = (lo + hi + 1) >> 1; this.firstChild.nodeValue = full.slice(0, mid) + '…'; if (this.getComputedTextLength() <= room) lo = mid; else hi = mid - 1; }
+    this.firstChild.nodeValue = full.slice(0, lo) + '…';
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i).replace('{laws}', fmt(PF.laws)); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tv = [[PF.laws, L('現行法令', 'laws in force')], [PF.articles, L('条（条ごとのファイル）', 'articles (one file each)')], [PF.versions, L('e-Gov の改正履歴の版', 'versions in e-Gov’s revision record')],
+    [PF.future, L('公布済み・未施行の版', 'versions promulgated, not yet in force')], [PF.pairs, L('現行法令に残る改正法令の附則', 'supplementary provisions of amending laws kept in laws in force')], [1872, L('最も古い現行法令の年', 'year of the oldest law in force')]];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html(d => `<b>${d[0] === 1872 ? '1872' : fmt(d[0])}</b><span>${d[1]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.ja, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dja, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.ja, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    fitLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.title.split(/：|:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? (LANG === 'ja' ? '、' : ', ') + PF.head.slice(0, 10) : '')).replace('{record}', dateTxt(PF.record_to)));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('jp-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('jp-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded (the Japanese fonts arrive in slices,
+// so also after each later batch), so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>

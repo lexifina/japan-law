@@ -87,7 +87,13 @@ No AI model wrote or changed legal text, and none is called when the history is 
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): Japanese law in 20 charts, drawn from this repository.
+
+Including:
+
+- The kinds and eras of the laws in force, laws still in the katakana style, and branch-numbered articles
+- The history of amendment kept in supplementary provisions, omnibus Acts, and how Acts set their start
+- Cabinet and members' bills, the ministries behind the ordinances, and the Constitution and the codes article by article
 
 ## More
 
